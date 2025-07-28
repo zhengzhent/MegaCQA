@@ -1,7 +1,0 @@
-﻿Healthcare and Health,Patient Care Metrics In Different Hostpital
-Pattern,Strong Correlation,Strong Correlation,No Correlation,Clustering,No Correlation,Clustering
-labels,Medication error rate (per 1000),Patient satisfaction (1-10),Readmission rate (%),Staff-to-patient ratio (per shift),Preventive care rate (%),Wait time (minutes),Average length of stay (days)
-Turner-Riley  Clinic,5.22,4.55,7.88,1.0,90.0,5.0,7.93
-"Dean, Maddox and Smith  Clinic",0.0,3.0,1.0,20.0,28.44,240.0,14.0
-Campbell LLC  Hospital,2.09,3.45,3.65,7.42,10.0,103.09,1.0
-Dunn Ltd  Medical Center,20.0,10.0,25.0,10.1,14.12,153.66,6.73

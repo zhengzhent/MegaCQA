@@ -1,9 +1,0 @@
-﻿Food and Beverage Industry,Product Quality of Different Company
-Pattern,Weak Correlation,Clustering,Strong Correlation
-labels,Organic content (%),Shelf life (days),Nutritional value (1-10),Freshness score (1-10)
-Clements-Johnson  Brasserie,100.0,365.0,7.59,8.98
-"Bryant, White and Martinez  Grill",89.72,316.5,1.41,6.92
-Young PLC  Restaurant,45.91,308.84,2.85,7.33
-Williams and Sons  Bistro,13.07,146.95,10.0,10.0
-Palmer-Bautista  Grill,9.3,1.0,3.72,8.37
-Romero-Sutton  Grill,0.0,24.9,1.0,5.0

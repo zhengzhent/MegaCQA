@@ -1,6 +1,0 @@
-﻿Real Estate and Housing Market,Property Characteristics of Different House
-Pattern,Strong Correlation,No Correlation,Strong Correlation,No Correlation,No Correlation,Weak Correlation
-labels,Energy efficiency rating (1-10),Year built (year),Bedroom count (units),Walk score (0-100),Square footage (sq ft),Days on market (days),Bathroom count (units)
-authority Villa,10.0,2023.0,1.0,75.55,7085.09,114.98,5.0
-citizen Cottage,1.22,1883.74,6.0,100.0,10000.0,1.0,1.0
-important Villa,1.0,1800.0,4.98,0.0,500.0,365.0,1.83

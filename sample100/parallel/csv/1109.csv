@@ -1,7 +1,0 @@
-﻿Human Resources and Employee Management,Compensation Analysis
-Pattern,Strong Correlation,Strong Correlation,No Correlation,Weak Correlation,Strong Correlation,Strong Correlation
-labels,Bonus percentage (%),Salary range (USD thousands),Overtime hours/month(hours),Stock options (%),Benefits cost (USD/year),Remote work allowance (days/week),Pay equity ratio (ratio)
-Mcgrath-Ramos,29.81,181.48,18.42,6.32,20000.0,5.0,1.2
-Skinner-Russell,20.53,104.83,11.67,5.34,16992.14,3.99,1.11
-"Barker, Calderon and Campbell",0.0,20.0,0.0,0.0,8556.7,1.82,0.94
-Mccormick-Collins,50.0,500.0,40.0,20.0,1000.0,0.0,0.8

@@ -1,8 +1,0 @@
-﻿Real Estate and Housing Market,Property Characteristics of Different House
-Pattern,Weak Correlation,Weak Correlation,Weak Correlation,Clustering,No Correlation
-labels,Year built (year),Bedroom count (units),Energy efficiency rating (1-10),Walk score (0-100),Bathroom count (units),Square footage (sq ft)
-sell Villa,1898.05,2.25,4.92,91.28,1.0,10000.0
-court Villa,2023.0,6.0,10.0,100.0,3.36,500.0
-worker Villa,1855.35,2.16,1.0,0.0,3.19,8001.05
-become Villa,1843.48,1.0,3.49,21.66,2.13,7552.69
-ten Mansion,1800.0,3.44,4.21,29.34,5.0,3307.57

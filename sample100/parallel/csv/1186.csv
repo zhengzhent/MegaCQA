@@ -1,6 +1,0 @@
-﻿Human Resources and Employee Management,Compensation Analysis
-Pattern,Strong Correlation,No Correlation,Strong Correlation,No Correlation,Weak Correlation
-labels,Overtime hours/month(hours),Bonus percentage (%),Salary range (USD thousands),Benefits cost (USD/year),Remote work allowance (days/week),Stock options (%)
-Jones PLC,7.64,31.85,20.0,2354.86,5.0,20.0
-Pierce PLC,0.0,0.0,500.0,20000.0,4.25,17.09
-"Snow, Hodges and Osborne",40.0,50.0,70.13,1000.0,0.0,0.0

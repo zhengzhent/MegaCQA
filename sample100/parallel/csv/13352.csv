@@ -1,8 +1,0 @@
-﻿Transportation and Logistics,Transportation Efficiency Metrics
-Pattern,Clustering,Strong Correlation,Clustering,Strong Correlation
-labels,Route deviation rate (%),Average speed (km/h),Max speed (km/h),Loading/unloading time (hours),Moving time (hours)
-bit ship,0.0,100.0,120.0,3.26,17.63
-chance Tram,4.13,45.6,65.38,2.02,11.57
-gas plane,20.0,30.0,60.0,0.5,1.0
-open ship,7.38,66.25,88.53,8.0,48.0
-material plane,2.1,69.56,80.22,3.99,26.72

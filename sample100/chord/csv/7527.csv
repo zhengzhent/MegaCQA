@@ -1,8 +1,0 @@
-Human Resources and Employee Management, HR Department Flow, Employees, linear
-Source,Target,Value
-Legal Department,Finance Department,921
-Finance Department,Legal Department,823
-IT Department,Finance Department,685
-Finance Department,IT Department,539
-Legal Department,IT Department,412
-IT Department,Legal Department,275

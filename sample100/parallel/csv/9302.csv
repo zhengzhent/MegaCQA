@@ -1,9 +1,0 @@
-﻿Energy and Utilities,Production Metrics of Different Energy
-Pattern,Strong Correlation,Strong Correlation,Weak Correlation,Clustering,No Correlation
-labels,Downtime (%),Maintenance cost (USD/MWh),Renewable percentage (%),Carbon intensity (kgCO2/MWh),Fuel efficiency (%),Capacity factor (%)
-"Woodard, Paul and Ortiz  Energy Facility",17.72,67.16,64.25,792.96,40.93,95.0
-Mata-Hamilton  Power Plant,11.9,38.89,14.2,0.0,55.79,45.38
-"Barker, Briggs and Ferguson  Power Plant",20.0,77.09,70.51,1000.0,20.0,69.49
-Sanchez-Kim  Energy Facility,17.32,100.0,100.0,517.02,86.7,35.5
-Williams-Wolfe  Generation Station,2.38,44.2,31.35,612.06,90.0,10.85
-Lane Group  Generation Station,0.1,1.0,0.0,279.02,30.85,10.0

@@ -1,6 +1,0 @@
-﻿Transportation and Logistics,Transportation Efficiency Metrics
-Pattern,Weak Correlation,Clustering,No Correlation,No Correlation,Strong Correlation
-labels,Route deviation rate (%),Moving time (hours),Total transit time (hours),Max speed (km/h),Idling time (minutes),Loading/unloading time (hours)
-happy train,0.0,1.0,72.0,95.66,44.06,7.36
-people ship,20.0,48.0,2.0,60.0,5.0,0.5
-get Cargo ship,16.25,24.22,5.03,120.0,60.0,8.0

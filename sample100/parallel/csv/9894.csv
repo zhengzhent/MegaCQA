@@ -1,9 +1,0 @@
-﻿Energy and Utilities,Production Metrics of Different Energy
-Pattern,Clustering,Weak Correlation,Clustering,Weak Correlation,Clustering,No Correlation
-labels,Downtime (%),Maintenance cost (USD/MWh),Capacity factor (%),Fuel efficiency (%),Renewable percentage (%),Output (MWh),Carbon intensity (kgCO2/MWh)
-Melton-Martin  Generation Station,18.28,45.25,33.39,20.0,20.01,771.29,54.85
-"Taylor, Carlson and Combs  Power Plant",0.1,1.0,54.18,28.24,100.0,1.0,0.0
-Hamilton-Beasley  Energy Facility,16.7,100.0,72.98,39.54,64.68,2516.92,1000.0
-Ford LLC  Power Plant,12.58,35.64,90.32,90.0,95.59,7597.09,226.16
-Miles Group  Generation Station,20.0,8.69,10.0,36.95,0.0,2188.42,180.22
-Evans LLC  Energy Facility,16.52,45.35,95.0,65.36,87.05,10000.0,55.11

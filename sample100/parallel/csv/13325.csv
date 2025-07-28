@@ -1,9 +1,0 @@
-﻿Transportation and Logistics,Transportation Efficiency Metrics
-Pattern,Clustering,Strong Correlation,Clustering
-labels,Loading/unloading time (hours),Average speed (km/h),Moving time (hours),Route deviation rate (%)
-also ship,1.18,44.07,10.19,20.0
-another Tram,0.6,30.0,1.0,18.92
-where plane,0.5,35.88,4.56,6.16
-without Cargo ship,6.19,67.42,24.68,13.35
-street Tram,8.0,99.98,48.0,18.06
-seek Ferry,6.06,100.0,47.23,0.0

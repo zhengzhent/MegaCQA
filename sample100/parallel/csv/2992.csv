@@ -1,8 +1,0 @@
-﻿Social Media and Digital Media and Streaming,Engagement Metrics
-Pattern,Weak Correlation,Clustering,Strong Correlation
-labels,Click-through rate (%),Sentiment score (-1 to 1),Follower growth rate (%),Virality coefficient (shares/view)
-ClipVibe,0.1,0.59,-5.0,0.11
-SnapFrame,6.63,1.0,29.36,5.0
-FaceLink,10.0,0.22,30.52,4.98
-ClipVibe,0.22,0.9,-4.45,0.1
-Chirper,6.0,-1.0,50.0,3.11

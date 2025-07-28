@@ -1,6 +1,0 @@
-﻿Tourism and Hospitality,Travel Experience Metrics In Different City
-Pattern,No Correlation,Strong Correlation,Weak Correlation,Weak Correlation,Strong Correlation,Clustering
-labels,Repeat visitor rate (%),Accessibility score (1-5),Customer satisfaction (1-10),Booking lead time (days),Average stay duration (nights),Attraction visit rate (per day),Cultural immersion index (1-10)
-Perryview,50.86,1.0,4.0,0.0,9.8,4.29,1.0
-New Jasmineshire,5.0,5.0,8.38,101.74,14.0,5.0,10.0
-South Davidfurt,60.0,4.25,10.0,365.0,1.0,1.0,5.49

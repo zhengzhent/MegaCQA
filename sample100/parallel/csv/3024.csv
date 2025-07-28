@@ -1,9 +1,0 @@
-﻿Agriculture and Food Production,Farm Productivity
-Pattern,Weak Correlation,Weak Correlation,No Correlation,Clustering
-labels,Soil health index (1-10),Labor efficiency (acres/worker),Harvest frequency (per year),Equipment utilization (%),Water usage (liters/kg)
-response  Wheat,10.0,686.28,3.41,78.12,317.57
-figure  Potato,5.78,271.09,1.0,100.0,181.75
-face  Oats,5.4,890.67,1.83,35.28,1000.0
-energy  Potato,6.51,1000.0,2.67,46.23,1.0
-continue  Apple,5.52,682.24,2.01,51.3,347.94
-none  Soybean,1.0,1.0,4.0,30.0,898.86

@@ -1,9 +1,0 @@
-﻿Transportation and Logistics,Transportation Efficiency Metrics
-Pattern,Strong Correlation,No Correlation,No Correlation
-labels,Loading/unloading time (hours),Average speed (km/h),Total transit time (hours),Max speed (km/h)
-whatever train,2.25,44.74,72.0,120.0
-not Tram,2.4,48.44,31.04,102.86
-accept Cargo ship,7.4,93.78,2.0,66.14
-south Cargo ship,2.9,53.22,69.88,60.0
-head train,8.0,100.0,44.47,84.61
-often Ferry,0.5,30.0,51.73,118.98
