@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Workplace Wellbeing positioned outside, inside or on the same side as Performance Management?",
+            "A": "Workplace Wellbeing is positioned {inside} Performance Management."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Employee Development}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Employee Lifecycle segment in this sunburst chart?",
+            "A": "The value of the Employee Lifecycle segment is {22.33}."
+        },
+        {
+            "Q": "What is the value of the Health & Safety segment in this sunburst chart?",
+            "A": "The value of the Health & Safety segment is {20.5}."
+        },
+        {
+            "Q": "What is the value of the Workstation Setup segment in this sunburst chart?",
+            "A": "The value of the Workstation Setup segment is {5.03}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {51.4}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {22.33}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {8.83}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.03}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Employee Development exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Employee Development are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Performance Management, Workplace Wellbeing, or Employee Lifecycle?",
+            "A": "The value of {Employee Lifecycle} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Employee Development, Performance Management, or Workplace Wellbeing?",
+            "A": "The value of {Employee Development} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Employee Development or Performance Management?",
+            "A": "The value of {Employee Development} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Workplace Wellbeing to Health & Safety to Ergonomics to Eye Care}."
+        }
+    ],
+    "VA": []
+}

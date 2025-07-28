@@ -1,0 +1,160 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Zenith Care Hospital, what is the spatial relationship of the data point in 1958 relative to that in 1970 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Zenith Care Hospital, the data point in 1958 is {above} and to the {left} of the data point in 1970."
+        },
+        {
+            "Q": "In 1967, what is the vertical (above/below) relationship of the line representing Aethelgard General Hospital relative to Zenith Care Hospital?",
+            "A": "In 1967, Aethelgard General Hospital is {above} Zenith Care Hospital in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Azure Coast Hospital's Hospital Bed Occupancy levels?",
+            "A": "Azure Coast Hospital's hospital bed occupancy levels show a {single valley} trend."
+        },
+        {
+            "Q": "What is the trend of Stellar Memorial Hospital's Hospital Bed Occupancy levels?",
+            "A": "Stellar Memorial Hospital's hospital bed occupancy levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "What is the trend of Zenith Care Hospital's Hospital Bed Occupancy levels?",
+            "A": "Zenith Care Hospital's hospital bed occupancy levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "What is the trend of Aethelgard General Hospital's Hospital Bed Occupancy levels?",
+            "A": "Aethelgard General Hospital's hospital bed occupancy levels show a {single valley} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Stellar Memorial Hospital's Hospital Bed Occupancy in 1973?",
+            "A": "Stellar Memorial Hospital's hospital bed occupancy in 1973 is {5.34} %."
+        },
+        {
+            "Q": "What is Stellar Memorial Hospital's Hospital Bed Occupancy in 1971?",
+            "A": "Stellar Memorial Hospital's hospital bed occupancy in 1971 is {10.18} %."
+        },
+        {
+            "Q": "What is Zenith Care Hospital's Hospital Bed Occupancy in 1969?",
+            "A": "Zenith Care Hospital's hospital bed occupancy in 1969 is {0.98} %."
+        },
+        {
+            "Q": "What are the hospital bed occupancy of Azure Coast Hospital, Stellar Memorial Hospital, and Aethelgard General Hospital in 1974?",
+            "A": "Azure Coast Hospital's hospital bed occupancy is {65.39} %, Stellar Memorial Hospital's hospital bed occupancy is {1.63} %, Aethelgard General Hospital's hospital bed occupancy is {76.20} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Hospital Bed Occupancy in the line chart?",
+            "A": "The global minimum hospital bed occupancy is {0.98} %."
+        },
+        {
+            "Q": "What is the global maximum Hospital Bed Occupancy in the line chart?",
+            "A": "The global maximum hospital bed occupancy is {76.20} %."
+        },
+        {
+            "Q": "What is the highest Hospital Bed Occupancy level recorded for Aethelgard General Hospital?",
+            "A": "Aethelgard General Hospital reached approximately {76.20} % in {1974}."
+        },
+        {
+            "Q": "What is the lowest Hospital Bed Occupancy level recorded for Aethelgard General Hospital?",
+            "A": "Aethelgard General Hospital's lowest recorded level is approximately {24.26} % in {1966}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Aethelgard General Hospital's Hospital Bed Occupancy from the starting year to the final year?",
+            "A": "The rate of growth in Aethelgard General Hospital's hospital bed occupancy is {0.42}%."
+        },
+        {
+            "Q": "What is the average value of Azure Coast Hospital's Hospital Bed Occupancy?",
+            "A": "The average value of Azure Coast Hospital's hospital bed occupancy is {40.36} %."
+        },
+        {
+            "Q": "What is the rate of change in Azure Coast Hospital's Hospital Bed Occupancy from the starting year to the final year?",
+            "A": "The rate of growth in Azure Coast Hospital's hospital bed occupancy is {1.52}%."
+        },
+        {
+            "Q": "What is the average value of Stellar Memorial Hospital's Hospital Bed Occupancy?",
+            "A": "The average value of Stellar Memorial Hospital's hospital bed occupancy is {24.43} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1965, which lines had Hospital Bed Occupancy between 17 and 25 %? Please list the lines and corresponding values.",
+            "A": "{Azure Coast Hospital} had {22} %."
+        },
+        {
+            "Q": "In the year 1962, which lines had Hospital Bed Occupancy between 29 and 37 %? Please list the lines and corresponding values.",
+            "A": "{Stellar Memorial Hospital} had {36} %, {Azure Coast Hospital} had {37} %."
+        },
+        {
+            "Q": "In the year 1964, which lines had Hospital Bed Occupancy below 19 %? Please list the lines and corresponding values.",
+            "A": "{Zenith Care Hospital} had {1} %."
+        },
+        {
+            "Q": "Which years did Zenith Care Hospital's Hospital Bed Occupancy exceed 20 %? Please list the years and corresponding values.",
+            "A": "{30.30} % in {1959} year, {40.39} % in {1958} year, {40.29} % in {1974} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1959 and 1965, which line had the highest average Hospital Bed Occupancy, Aethelgard General Hospital, Zenith Care Hospital, Azure Coast Hospital, or Stellar Memorial Hospital?",
+            "A": "{Aethelgard General Hospital} had the highest average hospital bed occupancy."
+        },
+        {
+            "Q": "In 1973, which line had a higher Hospital Bed Occupancy, {Stellar Memorial Hospital} or {Aethelgard General Hospital}?",
+            "A": "In 1973, {Aethelgard General Hospital} had a higher hospital bed occupancy."
+        },
+        {
+            "Q": "Was Zenith Care Hospital's Hospital Bed Occupancy in 1969 higher or lower than in 1971?",
+            "A": "The hospital bed occupancy in 1969 was {lower} than in 1971."
+        },
+        {
+            "Q": "Between 1958 and 1963, which line experienced the largest change in Hospital Bed Occupancy, Aethelgard General Hospital, Zenith Care Hospital, or Stellar Memorial Hospital?",
+            "A": "{Aethelgard General Hospital} experienced the largest change in hospital bed occupancy."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Aethelgard General Hospital}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1959 and 1964?",
+            "A": "{Stellar Memorial Hospital} has the fastest average growth rate between 1959 and 1964."
+        },
+        {
+            "Q": "In which year did Aethelgard General Hospital first surpass Stellar Memorial Hospital?",
+            "A": "Aethelgard General Hospital first surpassed Stellar Memorial Hospital in the year {1967}."
+        },
+        {
+            "Q": "In which year did Stellar Memorial Hospital first surpass Aethelgard General Hospital?",
+            "A": "Stellar Memorial Hospital first surpassed Aethelgard General Hospital in the year {1964}."
+        },
+        {
+            "Q": "Which label had the leading hospital bed occupancy since 1971?",
+            "A": "Since 1971, {Aethelgard General Hospital} had the leading hospital bed occupancy."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Azure Coast Hospital. List the x-coordinates of data points to be preserved.(4 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1958, 1966, 1969, 1974}."
+        }
+    ]
+}

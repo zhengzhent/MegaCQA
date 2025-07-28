@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {14} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {SkyBound}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {CoreLogic}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar CoreLogic relative to the bar SmartHub in terms of horizontal (left/right) direction?",
+            "A": "Bar CoreLogic is to the {right} of the bar SmartHub."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {PureSync}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {SkyBound}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar SwiftLink?",
+            "A": "The value of SwiftLink is {17084.9} million USD."
+        },
+        {
+            "Q": "What is the value of bar QuantumX?",
+            "A": "The value of QuantumX is {10355.2} million USD."
+        },
+        {
+            "Q": "What is the value of bar BluePeak?",
+            "A": "The value of BluePeak is {9717.5} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {30000.0} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {6266.9} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of PrimeVue and MarketZen?",
+            "A": "The total value of PrimeVue and MarketZen is {25696.0} million USD."
+        },
+        {
+            "Q": "What is the average value of CoreLogic and SkyBound?",
+            "A": "The average value of CoreLogic and SkyBound is {14253.05} million USD."
+        },
+        {
+            "Q": "What is the difference between AlphaNet and QuantumX?",
+            "A": "The difference between AlphaNet and QuantumX is {8789.7} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 21545.10 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{CoreLogic} has {22239.2} million USD, {PureSync} has {30000.0} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 6688.00 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{SkyBound} has {6266.9} million USD, {MarketZen} has {6324.6} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, TrueNorth or SwiftLink ",
+            "A": "The value of the {SwiftLink} is larger?"
+        },
+        {
+            "Q": "Which is larger, PureSync, SwiftLink or BrightEdge ",
+            "A": "The value of the {PureSync} is larger?"
+        },
+        {
+            "Q": "Which is larger, MarketZen, SmartHub, QuantumX or BluePeak ",
+            "A": "The value of the {QuantumX} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {EcoCore} and {NextGen}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {PureSync}, {CoreLogic}, and {NextGen}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {PureSync}, {CoreLogic}, {NextGen}, {BrightEdge}, {PrimeVue}, {AlphaNet}, {SwiftLink}, {QuantumX}, {BluePeak}, {SmartHub}, {TrueNorth}, {EcoCore}, {MarketZen}, and {SkyBound}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {SkyBound}, {MarketZen}, {EcoCore}, {TrueNorth}, {SmartHub}, {BluePeak}, {QuantumX}, {SwiftLink}, {AlphaNet}, {PrimeVue}, {BrightEdge}, {NextGen}, {CoreLogic}, and {PureSync}."
+        }
+    ]
+}

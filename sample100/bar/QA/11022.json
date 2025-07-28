@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {13} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Dailymotion}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Triller}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Spotlight relative to the bar Triller in terms of horizontal (left/right) direction?",
+            "A": "Bar Spotlight is to the {left} of the bar Triller."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {VK Video}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Facebook}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Twitch?",
+            "A": "The value of Twitch is {772} thousand views."
+        },
+        {
+            "Q": "What is the value of bar Dailymotion?",
+            "A": "The value of Dailymotion is {925} thousand views."
+        },
+        {
+            "Q": "What is the value of bar TikTok?",
+            "A": "The value of TikTok is {1385} thousand views."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand views in the bar chart?",
+            "A": "The maximum thousand views is {2000} thousand views."
+        },
+        {
+            "Q": "What is the minimum thousand views in the bar chart?",
+            "A": "The minimum thousand views is {151} thousand views."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Bilibili and Youku?",
+            "A": "The total value of Bilibili and Youku is {2816} thousand views."
+        },
+        {
+            "Q": "What is the average value of Kuaishou and Youku?",
+            "A": "The average value of Kuaishou and Youku is {1459.0} thousand views."
+        },
+        {
+            "Q": "What is the difference between TikTok and LINE TV?",
+            "A": "The difference between TikTok and LINE TV is {315} thousand views."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand views values exceed 1632.50 thousand views? Please list the bars and corresponding thousand views values?",
+            "A": "{LINE TV} has {1700} thousand views, {VK Video} has {2000} thousand views."
+        },
+        {
+            "Q": "Which bars have {thousand views} values below 280.50 thousand views? Please list the bars and corresponding thousand views values?",
+            "A": "{Facebook} has {151} thousand views."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, LINE TV or Spotlight ",
+            "A": "The value of the {LINE TV} is larger?"
+        },
+        {
+            "Q": "Which is larger, TikTok, Bilibili or YouTube ",
+            "A": "The value of the {TikTok} is larger?"
+        },
+        {
+            "Q": "Which is larger, VK Video, Facebook, Twitch or YouTube ",
+            "A": "The value of the {VK Video} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {LINE TV} and {Facebook}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {VK Video}, {LINE TV}, and {Triller}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand views values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand views value descending: {VK Video}, {LINE TV}, {Triller}, {Youku}, {Kuaishou}, {TikTok}, {Bilibili}, {Spotlight}, {Dailymotion}, {YouTube}, {Twitch}, {Vimeo}, and {Facebook}."
+        },
+        {
+            "Q": "Sort the bars by thousand views values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand views value ascending: {Facebook}, {Vimeo}, {Twitch}, {YouTube}, {Dailymotion}, {Spotlight}, {Bilibili}, {TikTok}, {Kuaishou}, {Youku}, {Triller}, {LINE TV}, and {VK Video}."
+        }
+    ]
+}

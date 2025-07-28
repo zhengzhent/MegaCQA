@@ -1,0 +1,17 @@
+Real Estate and Housing Market,Real Estate Transaction Ecosystem,Properties,random,Property Types,Buyer Types,Financing Options
+Source,Target,Value
+Commercial Property,Investor,386
+Commercial Property,First-time Buyer,403
+Commercial Property,Retiree,331
+Single Family Home,Investor,391
+Single Family Home,First-time Buyer,253
+Single Family Home,Retiree,179
+Investor,Lease-to-Own,215
+Investor,Cash Purchase,179
+Investor,Mortgage,383
+First-time Buyer,Lease-to-Own,96
+First-time Buyer,Cash Purchase,249
+First-time Buyer,Mortgage,311
+Retiree,Lease-to-Own,189
+Retiree,Cash Purchase,52
+Retiree,Mortgage,269

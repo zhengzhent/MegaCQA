@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {11} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {PureSync}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {UrbanFlow}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar CoreLogic relative to the bar PureSync in terms of vetical (above/below) direction??",
+            "A": "Bar CoreLogic is {above} the bar PureSync."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {NextGen}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {BrightEdge}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar UrbanFlow?",
+            "A": "The value of UrbanFlow is {103048} number of employees."
+        },
+        {
+            "Q": "What is the value of bar SmartHub?",
+            "A": "The value of SmartHub is {108545} number of employees."
+        },
+        {
+            "Q": "What is the value of bar NextGen?",
+            "A": "The value of NextGen is {173617} number of employees."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum number of employees in the bar chart?",
+            "A": "The maximum number of employees is {173617} number of employees."
+        },
+        {
+            "Q": "What is the minimum number of employees in the bar chart?",
+            "A": "The minimum number of employees is {95963} number of employees."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of UrbanFlow and CoreLogic?",
+            "A": "The total value of UrbanFlow and CoreLogic is {257114} number of employees."
+        },
+        {
+            "Q": "What is the average value of MarketZen and SkyBound?",
+            "A": "The average value of MarketZen and SkyBound is {146782.5} number of employees."
+        },
+        {
+            "Q": "What is the difference between SmartHub and SkyBound?",
+            "A": "The difference between SmartHub and SkyBound is {13958} number of employees."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have number of employees values exceed 172339.50 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{NextGen} has {173617} number of employees."
+        },
+        {
+            "Q": "Which bars have {number of employees} values below 99505.50 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{BrightEdge} has {95963} number of employees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, SkyBound or PureSync ",
+            "A": "The value of the {PureSync} is larger?"
+        },
+        {
+            "Q": "Which is larger, SwiftLink, NextGen or UrbanFlow ",
+            "A": "The value of the {NextGen} is larger?"
+        },
+        {
+            "Q": "Which is larger, SkyBound, SmartHub, BluePeak or SwiftLink ",
+            "A": "The value of the {SwiftLink} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {5} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {SkyBound} and {NextGen}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {NextGen}, {MarketZen}, and {PureSync}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by number of employees values in descending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value descending: {NextGen}, {MarketZen}, {PureSync}, {CoreLogic}, {SwiftLink}, {SkyBound}, {QuantumX}, {BluePeak}, {SmartHub}, {UrbanFlow}, and {BrightEdge}."
+        },
+        {
+            "Q": "Sort the bars by number of employees values in ascending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value ascending: {BrightEdge}, {UrbanFlow}, {SmartHub}, {BluePeak}, {QuantumX}, {SkyBound}, {SwiftLink}, {CoreLogic}, {PureSync}, {MarketZen}, and {NextGen}."
+        }
+    ]
+}

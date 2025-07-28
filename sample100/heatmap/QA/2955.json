@@ -1,0 +1,101 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {56} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {7} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {radial gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Transmission and Prices in the heatmap?",
+            "A": "The heat value is {0.28}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Coal and Storage in the heatmap?",
+            "A": "The heat value is {0.82}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Nuclear and Infrastructure in the heatmap?",
+            "A": "The heat value is {0.22}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Gas and Prices in the heatmap?",
+            "A": "The heat value is {0.57}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.84}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.11}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Renewables on the x-axis?",
+            "A": "The maximum heat value of Renewables on the x-axis is {0.78}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Transmission on the x-axis?",
+            "A": "The maximum heat value of Transmission on the x-axis is {0.80}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Nuclear on the x-axis?",
+            "A": "The average heat value for Nuclear on the x-axis is {0.46}."
+        },
+        {
+            "Q": "What is the average heat value for label Distribution on the x-axis?",
+            "A": "The average heat value for Distribution on the x-axis is {0.69}."
+        },
+        {
+            "Q": "What is the average heat value for label Production on the y-axis?",
+            "A": "The average heat value for Production on the y-axis is {0.62}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Distribution and Infrastructure or the cell corresponding to Gas and Storage?",
+            "A": "The cell corresponding to {Gas} and {Storage} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Water and Consumption or the cell corresponding to Renewables and Policy?",
+            "A": "The cell corresponding to {Renewables} and {Policy} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Water and Policy or the cell corresponding to Nuclear and Production?",
+            "A": "The cell corresponding to {Nuclear} and {Production} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.12 to 0.22?",
+            "A": "The cells are: {(Renewables, Consumption), (Transmission, Consumption), (Water, Consumption), (Renewables, Emissions), (Transmission, Emissions), (Renewables, Infrastructure), (Water, Infrastructure), (Transmission, Policy)}."
+        }
+    ],
+    "VA": []
+}

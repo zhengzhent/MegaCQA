@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Bonus percentage (%) dimension, what is the spatial relationship of James, Payne and Lewis relative to Kirby Ltd in terms of vertical (above/below) direction?",
+            "A": "{James, Payne and Lewis} is {below} {Kirby Ltd} on the Bonus percentage (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Salary range (USD thousands)?",
+            "A": "The second position to the left of Salary range (USD thousands) is {Remote work allowance (days/week)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Salary range (USD thousands)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Bonus percentage (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Salary range (USD thousands)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Stock options (%) and dimension Remote work allowance (days/week)",
+            "A": "There is {Weak Correlation} between Stock options (%) and Remote work allowance (days/week)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Kirby Ltd on the Overtime hours/month(hours) dimension in the parallel-coordinates chart?",
+            "A": "The value of Kirby Ltd on the Overtime hours/month(hours) dimension is {0.0}"
+        },
+        {
+            "Q": "What is the value of Kirby Ltd on the Salary range (USD thousands) dimension in the parallel-coordinates chart?",
+            "A": "The value of Kirby Ltd on the Salary range (USD thousands) dimension is {500.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Kirby Ltd across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Kirby Ltd across all dimensions is {500.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Palmer Group across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Palmer Group across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Overtime hours/month(hours)?",
+            "A": "The average value of Overtime hours/month(hours) is {23.73}"
+        },
+        {
+            "Q": "What is the difference in coding Salary range (USD thousands) between label Palmer Group and label Watkins, King and Sharp",
+            "A": "The difference in coding Salary range (USD thousands) between Palmer Group and Watkins, King and Sharp is {116.17}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Salary range (USD thousands) dimension in the parallel coordinates?",
+            "A": "{[500.0, 442.29, 136.17]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Bonus percentage (%) dimension in the parallel coordinates?",
+            "A": "{[0.0, 11.14, 43.15]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Remote work allowance (days/week), which label has a higher score: Watkins, King and Sharp or Palmer Group?",
+            "A": "{Watkins, King and Sharp} has a higher score on Remote work allowance (days/week)."
+        },
+        {
+            "Q": "On Overtime hours/month(hours), which label has a higher score: James, Payne and Lewis or Kirby Ltd?",
+            "A": "{James, Payne and Lewis} has a higher score on Overtime hours/month(hours)."
+        },
+        {
+            "Q": "On Remote work allowance (days/week), which label has a higher score: Watkins, King and Sharp or James, Payne and Lewis?",
+            "A": "{James, Payne and Lewis} has a higher score on Remote work allowance (days/week)."
+        },
+        {
+            "Q": "On Overtime hours/month(hours), which label has a higher score: Kirby Ltd or Palmer Group?",
+            "A": "{Palmer Group} has a higher score on Overtime hours/month(hours)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Salary range (USD thousands)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Bonus percentage (%) being greater than 15.77 and Salary range (USD thousands) being less than 321.94?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

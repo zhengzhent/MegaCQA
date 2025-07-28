@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {81} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {9} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {uniform} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Pet Supplies and Inventory in the heatmap?",
+            "A": "The heat value is {0.55}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Toys and Inventory in the heatmap?",
+            "A": "The heat value is {0.56}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.56}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.51}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Electronics on the x-axis?",
+            "A": "The maximum heat value of Electronics on the x-axis is {0.54}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Apparel on the x-axis?",
+            "A": "The maximum heat value of Apparel on the x-axis is {0.55}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Inventory on the y-axis?",
+            "A": "The average heat value for Inventory on the y-axis is {0.54}."
+        },
+        {
+            "Q": "What is the average heat value for label Books on the x-axis?",
+            "A": "The average heat value for Books on the x-axis is {0.53}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Jewelry and Marketing or the cell corresponding to Electronics and Marketplace?",
+            "A": "The cell corresponding to {Electronics} and {Marketplace} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Books and Marketing or the cell corresponding to Furniture and Online?",
+            "A": "The cell corresponding to {Books} and {Marketing} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.52 to 0.56?",
+            "A": "The cells are: {(Electronics, Brick&Mortar), (Furniture, Brick&Mortar), (Groceries, Brick&Mortar), (Jewelry, Brick&Mortar), (Sports, Brick&Mortar), (Toys, Brick&Mortar), (Apparel, Customer Service), (Books, Customer Service), (Electronics, Customer Service), (Furniture, Customer Service), (Groceries, Customer Service), (Jewelry, Customer Service), (Pet Supplies, Customer Service), (Sports, Customer Service), (Toys, Customer Service), (Apparel, DTC), (Books, DTC), (Electronics, DTC), (Furniture, DTC), (Groceries, DTC), (Jewelry, DTC), (Pet Supplies, DTC), (Sports, DTC), (Toys, DTC), (Apparel, Inventory), (Books, Inventory), (Electronics, Inventory), (Furniture, Inventory), (Groceries, Inventory), (Jewelry, Inventory), (Pet Supplies, Inventory), (Sports, Inventory), (Apparel, Marketing), (Books, Marketing), (Electronics, Marketing), (Furniture, Marketing), (Groceries, Marketing), (Jewelry, Marketing), (Pet Supplies, Marketing), (Sports, Marketing), (Toys, Marketing), (Apparel, Marketplace), (Books, Marketplace), (Electronics, Marketplace), (Furniture, Marketplace), (Jewelry, Marketplace), (Pet Supplies, Marketplace), (Sports, Marketplace), (Toys, Marketplace), (Apparel, Omnichannel), (Books, Omnichannel), (Electronics, Omnichannel), (Furniture, Omnichannel), (Groceries, Omnichannel), (Jewelry, Omnichannel), (Pet Supplies, Omnichannel), (Sports, Omnichannel), (Toys, Omnichannel), (Apparel, Online), (Books, Online), (Groceries, Online), (Pet Supplies, Online), (Sports, Online), (Toys, Online), (Apparel, Subscription), (Books, Subscription), (Electronics, Subscription), (Furniture, Subscription), (Groceries, Subscription), (Jewelry, Subscription), (Pet Supplies, Subscription), (Sports, Subscription), (Toys, Subscription)}."
+        }
+    ],
+    "VA": []
+}

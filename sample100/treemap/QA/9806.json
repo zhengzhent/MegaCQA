@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Machine Learning in this treemap?",
+            "A": "There are {1} child rectangles under the category Machine Learning."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Traffic Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Gaussian}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Traffic Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Particle Swarm rectangle in this treemap?",
+            "A": "The value of the Particle Swarm rectangle is {55.81}."
+        },
+        {
+            "Q": "What is the value of the Crossover Operators rectangle in this treemap?",
+            "A": "The value of the Crossover Operators rectangle is {7.09}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.94}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Scheduling and Constriction Factor?",
+            "A": "The difference between Scheduling and Constriction Factor is {25.04}."
+        },
+        {
+            "Q": "What is the sum of the regions of Signal Control and Crossover Operators?",
+            "A": "The sum of Signal Control and Crossover Operators is {44.19}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Machine Learning category in the treemap, which rectangular labels have a value exceeded 23.18? Please list the labels and values.",
+            "A": "{Q-Learning} has {23.19}"
+        },
+        {
+            "Q": "Under the Machine Learning category in the treemap, which rectangular labels have a value below 23.20? Please list the labels and values.",
+            "A": "{Q-Learning} has {23.19}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Public Transit, Scheduling, or Particle Swarm?",
+            "A": "The value of {Particle Swarm} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Traffic Systems or Public Transit?",
+            "A": "The value of {Traffic Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Traffic Systems, Public Transit, or Scheduling?",
+            "A": "The value of {Traffic Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Scheduling or Velocity Update?",
+            "A": "The value of {Scheduling} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {6} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

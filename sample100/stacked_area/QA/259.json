@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {5} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Whispering Willows Estate relative to Misty Meadow Acres?",
+            "A": "Whispering Willows Estate is {below} Misty Meadow Acres in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total crop yield?",
+            "A": "The series with the largest contribution is {Ironwood Ranch}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total crop yield?",
+            "A": "The series with the smallest contribution is {Sunstone Farms}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Sunstone Farms's Crop Yield in 2004?",
+            "A": "Sunstone Farms's crop yield in 2004 is {72989.83} tons/hectare."
+        },
+        {
+            "Q": "What is Ironwood Ranch's Crop Yield in 2003?",
+            "A": "Ironwood Ranch's crop yield in 2003 is {124479.90} tons/hectare."
+        },
+        {
+            "Q": "What is Starfall Organics's Crop Yield in 2005?",
+            "A": "Starfall Organics's crop yield in 2005 is {67765.97} tons/hectare."
+        },
+        {
+            "Q": "What are the crop yield of Misty Meadow Acres, Ironwood Ranch, and Sunstone Farms in 2001?",
+            "A": "Misty Meadow Acres's crop yield is {99466.82} tons/hectare, Ironwood Ranch's crop yield is {103524.25} tons/hectare, Sunstone Farms's crop yield is {98686.39} tons/hectare."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Crop Yield in the area chart?",
+            "A": "The global minimum crop yield is {63462.00} tons/hectare."
+        },
+        {
+            "Q": "What is the global maximum Crop Yield in the area chart?",
+            "A": "The global maximum crop yield is {129318.63} tons/hectare."
+        },
+        {
+            "Q": "What is the highest Crop Yield level recorded for Ironwood Ranch?",
+            "A": "Ironwood Ranch reached approximately {129318.63} tons/hectare in {2004}."
+        },
+        {
+            "Q": "What is the lowest Crop Yield level recorded for Ironwood Ranch?",
+            "A": "Ironwood Ranch's lowest recorded level is approximately {103524.25} tons/hectare in {2001}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Crop Yield?",
+            "A": "The average total crop yield is {459806.48} tons/hectare."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Crop Yield fall between 437181.55 and 483200.66 tons/hectare? Please list the years and corresponding total values.",
+            "A": "{463693.14} tons/hectare in {2003}, {481800.78} tons/hectare in {2002}."
+        },
+        {
+            "Q": "Which years did the total Crop Yield go below 442202.96 tons/hectare? Please list the years and corresponding total values.",
+            "A": "{436830.42} tons/hectare in {2004}, {413452.24} tons/hectare in {2005}."
+        },
+        {
+            "Q": "Which years did the total Crop Yield exceed 478179.25 tons/hectare? Please list the years and corresponding total values.",
+            "A": "{481800.78} tons/hectare in {2002}, {503255.82} tons/hectare in {2001}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2002 and 2005, was the average total Crop Yield higher or lower than between 2001 and 2002?",
+            "A": "The average total crop yield between 2002 and 2005 was {lower} than between 2001 and 2002."
+        },
+        {
+            "Q": "Between 2003 and 2004, was the average total Crop Yield higher or lower than between 2004 and 2005?",
+            "A": "The average total crop yield between 2003 and 2004 was {higher} than between 2004 and 2005."
+        },
+        {
+            "Q": "Between 2001 and 2004, was the average total Crop Yield higher or lower than between 2002 and 2003?",
+            "A": "The average total crop yield between 2001 and 2004 was {lower} than between 2002 and 2003."
+        },
+        {
+            "Q": "Between 2002 and 2003, was the average total Crop Yield higher or lower than between 2004 and 2005?",
+            "A": "The average total crop yield between 2002 and 2003 was {higher} than between 2004 and 2005."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Ironwood Ranch} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Sunstone Farms, Starfall Organics, Misty Meadow Acres, Whispering Willows Estate, Ironwood Ranch}."
+        }
+    ]
+}

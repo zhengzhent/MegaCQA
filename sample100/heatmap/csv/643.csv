@@ -1,0 +1,73 @@
+Agriculture and Food Production,the Distribution of Agriculture and Food Production,9x8,random
+Crops,Cost,0.89
+Dairy,Cost,0.13
+Farming Techniques,Cost,0.21
+Fisheries,Cost,0.29
+Forestry,Cost,0.93
+Livestock,Cost,0.07
+Poultry,Cost,0.61
+Soil Health,Cost,0.4
+Water Usage,Cost,0.23
+Crops,Export,0.72
+Dairy,Export,0.34
+Farming Techniques,Export,0.51
+Fisheries,Export,0.81
+Forestry,Export,0.15
+Livestock,Export,0.15
+Poultry,Export,0.07
+Soil Health,Export,0.13
+Water Usage,Export,0.01
+Crops,Labor,0.97
+Dairy,Labor,0.52
+Farming Techniques,Labor,0.08
+Fisheries,Labor,0.31
+Forestry,Labor,0.46
+Livestock,Labor,0.31
+Poultry,Labor,0.88
+Soil Health,Labor,0.51
+Water Usage,Labor,0.18
+Crops,Market Price,0.44
+Dairy,Market Price,0.07
+Farming Techniques,Market Price,0.0
+Fisheries,Market Price,0.62
+Forestry,Market Price,0.43
+Livestock,Market Price,0.76
+Poultry,Market Price,0.48
+Soil Health,Market Price,0.61
+Water Usage,Market Price,0.61
+Crops,Quality,0.06
+Dairy,Quality,0.26
+Farming Techniques,Quality,0.6
+Fisheries,Quality,0.92
+Forestry,Quality,0.87
+Livestock,Quality,0.41
+Poultry,Quality,0.25
+Soil Health,Quality,0.98
+Water Usage,Quality,0.82
+Crops,Sustainability,0.97
+Dairy,Sustainability,0.98
+Farming Techniques,Sustainability,0.96
+Fisheries,Sustainability,0.55
+Forestry,Sustainability,0.25
+Livestock,Sustainability,0.18
+Poultry,Sustainability,0.19
+Soil Health,Sustainability,0.91
+Water Usage,Sustainability,0.96
+Crops,Technology Adoption,0.59
+Dairy,Technology Adoption,0.79
+Farming Techniques,Technology Adoption,0.85
+Fisheries,Technology Adoption,0.75
+Forestry,Technology Adoption,0.07
+Livestock,Technology Adoption,0.42
+Poultry,Technology Adoption,0.59
+Soil Health,Technology Adoption,0.85
+Water Usage,Technology Adoption,0.95
+Crops,Yield,0.65
+Dairy,Yield,0.89
+Farming Techniques,Yield,0.44
+Fisheries,Yield,0.19
+Forestry,Yield,0.6
+Livestock,Yield,0.06
+Poultry,Yield,0.08
+Soil Health,Yield,0.52
+Water Usage,Yield,0.1

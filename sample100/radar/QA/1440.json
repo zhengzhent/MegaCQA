@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Operating Cost Ratio?",
+            "A": "The next dimension clockwise from Operating Cost Ratio is Current Ratio"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Operating Cost Ratio?",
+            "A": "The next dimension counterclockwise from Operating Cost Ratio is ROI."
+        },
+        {
+            "Q": "On the Market Share Rate, is the point for Davis, Perry and Stephens inside or outside the point for Hampton, Simmons and Savage?",
+            "A": "On the Market Share Rate, the point for Davis, Perry and Stephens is inside the point for Hampton, Simmons and Savage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Net Profit Margin} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Hampton, Simmons and Savage?",
+            "A": "The strongest aspect is {Net Profit Margin}, while the weakest aspect is{ Capacity Utilization Rate}."
+        },
+        {
+            "Q": "On dimension Market Share Rate, which label scores the highest?",
+            "A": "On Market Share Rate, label {Davis, Perry and Stephens} scores the highest."
+        },
+        {
+            "Q": "On dimension Capacity Utilization Rate, which label scores the highest?",
+            "A": "On Capacity Utilization Rate, label {Davis, Perry and Stephens} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Davis, Perry and Stephens on the Current Ratio in the radar chart?",
+            "A": "The value of Davis, Perry and Stephens on the Safety dimension is {77}."
+        },
+        {
+            "Q": "What is the value of Hampton, Simmons and Savage on the Current Ratio in the radar chart?",
+            "A": "The value of Hampton, Simmons and Savage on the Safety dimension is {79}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Hampton, Simmons and Savage across all dimensions in the radar chart?",
+            "A": "The maximum value of Hampton, Simmons and Savage across all dimensions is {70}."
+        },
+        {
+            "Q": "What is the minimum value of label Hampton, Simmons and Savage across all dimensions in the radar chart?",
+            "A": "The minimum value of Hampton, Simmons and Savage across all dimensions is {66}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Net Profit Margin",
+            "A": "The average value of Net Profit Margin is {84.0}."
+        },
+        {
+            "Q": "What is the average value of Davis, Perry and Stephens",
+            "A": "The average value of Davis, Perry and Stephens is {69.14}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Hampton, Simmons and Savage in the radar chart, which dimensions have scores below 51? Please list the dimensions and corresponding scores.",
+            "A": "{Capacity Utilization Rate} is {40}, {Operating Cost Ratio} is {42}"
+        },
+        {
+            "Q": "Which labels have scores above 92 for the Net Profit Margin dimension? Please list the labels and corresponding scores.",
+            "A": "{Hampton, Simmons and Savage} is {98}"
+        },
+        {
+            "Q": "For Davis, Perry and Stephens in the radar chart, which dimensions have scores between 51 and 92? Please list the dimensions and corresponding scores.",
+            "A": "{Net Profit Margin} is {70}, {ROI} is {89}, {Current Ratio} is {77}, {Customer Retention Rate} is {73}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Hampton, Simmons and Savage, which dimension has a higher score: Customer Retention Rate or Current Ratio?",
+            "A": "{Current Ratio} has a higher score than Customer Retention Rate for Hampton, Simmons and Savage."
+        },
+        {
+            "Q": "On Net Profit Margin, which label has a higher score: Davis, Perry and Stephens or the Hampton, Simmons and Savage?",
+            "A": "{Hampton, Simmons and Savage} has a higher score on Net Profit Margin compared to Davis, Perry and Stephens."
+        },
+        {
+            "Q": "For Hampton, Simmons and Savage, which dimension has a higher score: Customer Retention Rate or Operating Cost Ratio or Capacity Utilization Rate?",
+            "A": "{Operating Cost Ratio} has a higher score for Hampton, Simmons and Savage."
+        },
+        {
+            "Q": "For Hampton, Simmons and Savage, which dimension has a higher score: Market Share Rate or Net Profit Margin or Capacity Utilization Rate?",
+            "A": "{Net Profit Margin} has a higher score for Hampton, Simmons and Savage."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Davis, Perry and Stephens, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Davis, Perry and Stephens most needs to improve its {Capacity Utilization Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Hampton, Simmons and Savage}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Davis, Perry and Stephens}."
+        }
+    ],
+    "VA": []
+}

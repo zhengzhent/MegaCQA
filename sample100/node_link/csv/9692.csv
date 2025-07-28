@@ -1,0 +1,12 @@
+Transportation and Logistics,Company-wise Transport Routes and Flow
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Chicago Logistics Hub,2,Shanghai Freight Station,highway_connection
+0,Chicago Logistics Hub,1,Rotterdam Port,shipping_lane
+0,Chicago Logistics Hub,3,Dubai Transport Center,railway_line
+0,Chicago Logistics Hub,4,Singapore Distribution Node,highway_connection
+1,Rotterdam Port,3,Dubai Transport Center,air_route
+1,Rotterdam Port,2,Shanghai Freight Station,air_route
+1,Rotterdam Port,4,Singapore Distribution Node,shipping_lane
+2,Shanghai Freight Station,4,Singapore Distribution Node,intercity_bus_route
+2,Shanghai Freight Station,3,Dubai Transport Center,air_route
+3,Dubai Transport Center,4,Singapore Distribution Node,railway_line

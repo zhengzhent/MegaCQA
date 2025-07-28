@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {52} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Checkout time in the scatter plot?",
+            "A": "The maximum observed value in the Checkout time dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Checkout time in the scatter plot?",
+            "A": "The minimum observed value in the Checkout time dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Foot traffic in the scatter plot?",
+            "A": "The maximum observed value in the Foot traffic dimension is {100000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Foot traffic in the scatter plot?",
+            "A": "The minimum observed value in the Foot traffic dimension is {100.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Checkout time for all points?",
+            "A": "The average value of Checkout time for all points is {5.00}."
+        },
+        {
+            "Q": "What is the average value of the Foot traffic for all points?",
+            "A": "The average value of Foot traffic for all points is {43494.65}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Foot traffic values corresponding to the top 3 Checkout time values in the scatter plot?",
+            "A": "{13346.23, 17977.40, 100.00}."
+        },
+        {
+            "Q": "What are the Foot traffic values corresponding to the bottom 3 Checkout time values in the scatter plot?",
+            "A": "{51216.00, 79383.89, 100000.00}."
+        },
+        {
+            "Q": "What are the Checkout time values corresponding to the top 3 Foot traffic values in the scatter plot?",
+            "A": "{0.39, 2.35, 1.57}."
+        },
+        {
+            "Q": "What are the Checkout time values corresponding to the bottom 3 Foot traffic values in the scatter plot?",
+            "A": "{9.61, 7.84, 9.41}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 6.74 and 7.79 and Y coordinates between 33234.43 and 48020.15?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(0.39, 100000.00) and (9.61, 100.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(3.14, 51339.13) and (4.90, 51333.90)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [2.26, 46338.90, 5.78, 56334.13] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (3.14, 51339.13)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [2.64, 40874.12, 5.40, 61798.91]; Region B: [0.28, 65472.72, 3.03, 86397.51]; Region C: [4.89, 9518.18, 7.64, 30442.98]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

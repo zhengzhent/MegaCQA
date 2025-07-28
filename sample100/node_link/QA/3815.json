@@ -1,0 +1,67 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {5} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {10} links."
+        },
+        {
+            "Q": "How many nodes link with node Bluefin Sushi Bar?",
+            "A": "There are {4} nodes link with node Bluefin Sushi Bar."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Sunset Bistro and node Bluefin Sushi Bar in this node-link chart?",
+            "A": "The relationship between node Sunset Bistro and node Bluefin Sushi Bar is {ingredient_supply}."
+        },
+        {
+            "Q": "What is the relationship between node The Golden Fork and node Sunset Bistro in this node-link chart?",
+            "A": "The relationship between node The Golden Fork and node Sunset Bistro is {brand_franchise}."
+        },
+        {
+            "Q": "What is the relationship between node The Golden Fork and node Bluefin Sushi Bar in this node-link chart?",
+            "A": "The relationship between node The Golden Fork and node Bluefin Sushi Bar is {brand_franchise}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type menu_cross_listing?",
+            "A": "There are {2} links with the relation type menu_cross_listing."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node The Golden Fork, how many links are of type menu_cross_listing?",
+            "A": "Node The Golden Fork has {2} links of type menu_cross_listing."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {The Golden Fork}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node The Golden Fork with a degree of 4}, {node Crimson Table with a degree of 4}, {node Sunset Bistro with a degree of 4}."
+        },
+        {
+            "Q": "What is the shortest path from node Olive & Thyme to node Sunset Bistro in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Olive & Thyme to node Sunset Bistro is: {Olive & Thyme to Sunset Bistro}."
+        }
+    ],
+    "VA": []
+}

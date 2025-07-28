@@ -1,0 +1,139 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Sustainable Packaging Adoption Rate?",
+            "A": "The next dimension clockwise from Sustainable Packaging Adoption Rate is Waste-to-Energy Conversion Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Waste-to-Energy Conversion Rate?",
+            "A": "The next dimension counterclockwise from Sustainable Packaging Adoption Rate is Recycling Material Utilization Rate."
+        },
+        {
+            "Q": "On the Water Conservation Efficiency Rate, is the point for Ellis, Lopez and Mendez Sustainability Initiative inside or outside the point for Smith, White and Smith Sustainability Initiative?",
+            "A": "On the Water Conservation Efficiency Rate, the point for Ellis, Lopez and Mendez Sustainability Initiative is outside the point for Smith, White and Smith Sustainability Initiative."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Waste-to-Energy Conversion Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Jordan, Patrick and Hobbs Sustainability Initiative?",
+            "A": "The strongest aspect is {Waste-to-Energy Conversion Rate}, while the weakest aspect is{ Recycling Material Utilization Rate}."
+        },
+        {
+            "Q": "On dimension Sustainable Packaging Adoption Rate, which label scores the highest?",
+            "A": "On Sustainable Packaging Adoption Rate, label {Smith, White and Smith Sustainability Initiative} scores the highest."
+        },
+        {
+            "Q": "On dimension Water Conservation Efficiency Rate, which label scores the highest?",
+            "A": "On Water Conservation Efficiency Rate, label {Smith, White and Smith Sustainability Initiative} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Ellis, Lopez and Mendez Sustainability Initiative on the Waste-to-Energy Conversion Rate in the radar chart?",
+            "A": "The value of Ellis, Lopez and Mendez Sustainability Initiative on the Safety dimension is {83}."
+        },
+        {
+            "Q": "What is the value of Ellis, Lopez and Mendez Sustainability Initiative on the Sustainable Packaging Adoption Rate in the radar chart?",
+            "A": "The value of Ellis, Lopez and Mendez Sustainability Initiative on the Safety dimension is {55}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Ellis, Lopez and Mendez Sustainability Initiative across all dimensions in the radar chart?",
+            "A": "The maximum value of Ellis, Lopez and Mendez Sustainability Initiative across all dimensions is {50}."
+        },
+        {
+            "Q": "What is the minimum value of label Ellis, Lopez and Mendez Sustainability Initiative across all dimensions in the radar chart?",
+            "A": "The minimum value of Ellis, Lopez and Mendez Sustainability Initiative across all dimensions is {45}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Recycling Material Utilization Rate",
+            "A": "The average value of Recycling Material Utilization Rate is {35.33}."
+        },
+        {
+            "Q": "What is the average value of Ellis, Lopez and Mendez Sustainability Initiative",
+            "A": "The average value of Ellis, Lopez and Mendez Sustainability Initiative is {55.0}."
+        },
+        {
+            "Q": "What is the difference in Sustainable Packaging Adoption Rate between Smith, White and Smith Sustainability Initiative and Ellis, Lopez and Mendez Sustainability Initiative?",
+            "A": "The difference in Sustainable Packaging Adoption Rate between Smith, White and Smith Sustainability Initiative and Ellis, Lopez and Mendez Sustainability Initiative is {10}."
+        },
+        {
+            "Q": "What is the difference in Recycling Material Utilization Rate between Ellis, Lopez and Mendez Sustainability Initiative and Jordan, Patrick and Hobbs Sustainability Initiative?",
+            "A": "The difference in Recycling Material Utilization Rate between Ellis, Lopez and Mendez Sustainability Initiative and Jordan, Patrick and Hobbs Sustainability Initiative is {9}."
+        },
+        {
+            "Q": "What is the difference in Carbon Footprint Reduction Rate between Smith, White and Smith Sustainability Initiative and Ellis, Lopez and Mendez Sustainability Initiative?",
+            "A": "The difference in Carbon Footprint Reduction Rate between Smith, White and Smith Sustainability Initiative and Ellis, Lopez and Mendez Sustainability Initiative is {32}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Ellis, Lopez and Mendez Sustainability Initiative in the radar chart, which dimensions have scores below 36? Please list the dimensions and corresponding scores.",
+            "A": "{Water Conservation Efficiency Rate} is {22}, {Recycling Material Utilization Rate} is {31}"
+        },
+        {
+            "Q": "Which labels have scores above 71 for the Carbon Footprint Reduction Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Smith, White and Smith Sustainability Initiative} is {77}"
+        },
+        {
+            "Q": "For Jordan, Patrick and Hobbs Sustainability Initiative in the radar chart, which dimensions have scores between 36 and 73? Please list the dimensions and corresponding scores.",
+            "A": "{Carbon Footprint Reduction Rate} is {60}, {Water Conservation Efficiency Rate} is {49}, {Recycling Material Utilization Rate} is {42}, {Sustainable Packaging Adoption Rate} is {51}, {Renewable Energy Adoption Rate} is {55}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Smith, White and Smith Sustainability Initiative, which dimension has a higher score: Carbon Footprint Reduction Rate or Renewable Energy Adoption Rate?",
+            "A": "{Renewable Energy Adoption Rate} has a higher score than Carbon Footprint Reduction Rate for Smith, White and Smith Sustainability Initiative."
+        },
+        {
+            "Q": "For Ellis, Lopez and Mendez Sustainability Initiative, which dimension has a higher score: Sustainable Packaging Adoption Rate or Water Conservation Efficiency Rate?",
+            "A": "{Sustainable Packaging Adoption Rate} has a higher score than Water Conservation Efficiency Rate for Ellis, Lopez and Mendez Sustainability Initiative."
+        },
+        {
+            "Q": "On Waste-to-Energy Conversion Rate, which label has a higher score: Smith, White and Smith Sustainability Initiative or the Ellis, Lopez and Mendez Sustainability Initiative?",
+            "A": "{Ellis, Lopez and Mendez Sustainability Initiative} has a higher score on Waste-to-Energy Conversion Rate compared to Smith, White and Smith Sustainability Initiative."
+        },
+        {
+            "Q": "For Ellis, Lopez and Mendez Sustainability Initiative, which dimension has a higher score: Water Conservation Efficiency Rate or Recycling Material Utilization Rate or Sustainable Packaging Adoption Rate?",
+            "A": "{Sustainable Packaging Adoption Rate} has a higher score for Ellis, Lopez and Mendez Sustainability Initiative."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Smith, White and Smith Sustainability Initiative, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Smith, White and Smith Sustainability Initiative most needs to improve its {Water Conservation Efficiency Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Jordan, Patrick and Hobbs Sustainability Initiative}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Smith, White and Smith Sustainability Initiative}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Market Share?",
+            "A": "The next dimension clockwise from Market Share is Renewable Energy Investment Ratio"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Energy Conversion Efficiency?",
+            "A": "The next dimension counterclockwise from Market Share is Patent Growth Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Power Transmission and Distribution Loss Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Carter, Simmons and Wu?",
+            "A": "The strongest aspect is {Power Transmission and Distribution Loss Rate}, while the weakest aspect is{ Market Share}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Carter, Simmons and Wu on the Market Share in the radar chart?",
+            "A": "The value of Carter, Simmons and Wu on the Safety dimension is {30}."
+        },
+        {
+            "Q": "What is the value of Carter, Simmons and Wu on the Energy Conversion Efficiency in the radar chart?",
+            "A": "The value of Carter, Simmons and Wu on the Safety dimension is {50}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Carter, Simmons and Wu across all dimensions in the radar chart?",
+            "A": "The maximum value of Carter, Simmons and Wu across all dimensions is {56}."
+        },
+        {
+            "Q": "What is the minimum value of label Carter, Simmons and Wu across all dimensions in the radar chart?",
+            "A": "The minimum value of Carter, Simmons and Wu across all dimensions is {56}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Power Transmission and Distribution Loss Rate",
+            "A": "The average value of Power Transmission and Distribution Loss Rate is {94.0}."
+        },
+        {
+            "Q": "What is the average value of Carter, Simmons and Wu",
+            "A": "The average value of Carter, Simmons and Wu is {56.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Carter, Simmons and Wu in the radar chart, which dimensions have scores above 81? Please list the dimensions and corresponding scores.",
+            "A": "{Power Transmission and Distribution Loss Rate} is {94}"
+        },
+        {
+            "Q": "Which labels have scores above 56 for the R&D Investment Ratio dimension? Please list the labels and corresponding scores.",
+            "A": "{Carter, Simmons and Wu} is {56}"
+        },
+        {
+            "Q": "For Carter, Simmons and Wu in the radar chart, which dimensions have scores below 43? Please list the dimensions and corresponding scores.",
+            "A": "{Patent Growth Rate} is {32}, {Market Share} is {30}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Carter, Simmons and Wu, which dimension has a higher score: Energy Conversion Efficiency or R&D Investment Ratio?",
+            "A": "{R&D Investment Ratio} has a higher score than Energy Conversion Efficiency for Carter, Simmons and Wu."
+        },
+        {
+            "Q": "For Carter, Simmons and Wu, which dimension has a higher score: Power Transmission and Distribution Loss Rate or Energy Conversion Efficiency?",
+            "A": "{Power Transmission and Distribution Loss Rate} has a higher score than Energy Conversion Efficiency for Carter, Simmons and Wu."
+        },
+        {
+            "Q": "For Carter, Simmons and Wu, which dimension has a higher score: R&D Investment Ratio or Energy Conversion Efficiency or Patent Growth Rate?",
+            "A": "{R&D Investment Ratio} has a higher score for Carter, Simmons and Wu."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Carter, Simmons and Wu, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Carter, Simmons and Wu most needs to improve its {Market Share}."
+        }
+    ],
+    "VA": []
+}

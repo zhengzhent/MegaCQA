@@ -1,0 +1,17 @@
+Energy and Utilities,Energy Firms Collaboration Map 
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Central Transit Station,8,Hilltop Tram Station,renewable_integration
+0,Central Transit Station,5,Silverline Monorail Station,energy_transfer
+0,Central Transit Station,3,Eastside Metro Station,supply_contract
+0,Central Transit Station,10,Skyport Air Station,power_station_link
+0,Central Transit Station,4,Summit Cable Car Station,energy_transfer
+1,Oceanview Ferry Terminal,10,Skyport Air Station,grid_connection
+1,Oceanview Ferry Terminal,0,Central Transit Station,supply_contract
+1,Oceanview Ferry Terminal,3,Eastside Metro Station,supply_contract
+1,Oceanview Ferry Terminal,6,Rivertown Bus Depot,supply_contract
+1,Oceanview Ferry Terminal,5,Silverline Monorail Station,renewable_integration
+2,Northgate Railway Hub,10,Skyport Air Station,supply_contract
+2,Northgate Railway Hub,5,Silverline Monorail Station,grid_connection
+2,Northgate Railway Hub,7,Golden Bridge Port,supply_contract
+2,Northgate Railway Hub,0,Central Transit Station,power_station_link
+2,Northgate Railway Hub,9,Downtown Transfer Terminal,supply_contract

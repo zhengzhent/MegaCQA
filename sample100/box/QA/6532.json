@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {6} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Rosewood}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Creston}."
+        },
+        {
+            "Q": "Which box is the second position to the right of the box Dunvale?",
+            "A": "The second position to the right of the box Dunvale is {Zephyr}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Lakeview relative to the box Rosewood in terms of horizontal (left/right) direction?",
+            "A": "Box Lakeview is to the {right} of the box Rosewood."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Creston}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Creston}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Lakeview}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Creston in the box plot?",
+            "A": "The median of Creston is {1234.5} Number."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Yorkton in the box plot?",
+            "A": "The lower quartile (Q1) of Yorkton is {1037.25} Number."
+        },
+        {
+            "Q": "What is the lower whisker limit of Creston in the box plot?",
+            "A": "The lower whisker limit of Creston is {935} Number."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Creston in the box plot?",
+            "A": "The largest upper outlier value in Creston is {2067} Number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number value in the box plot?",
+            "A": "The global maximum Number value in the box plot is {2067.00} Number."
+        },
+        {
+            "Q": "What is the global minimum Number value in the box plot?",
+            "A": "The global minimum Number value in the box plot is {751.00} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Dunvale and Lakeview?",
+            "A": "The Q3 difference between box Dunvale and Lakeview is {82.25} Number."
+        },
+        {
+            "Q": "What is the toal Q3 value of box Zephyr and Rosewood?",
+            "A": "The total Q3 value of box Zephyr and Rosewood is {2663.0} Number."
+        },
+        {
+            "Q": "What is the average Q1 value of box Rosewood and Zephyr?",
+            "A": "The average Q1 value of box Rosewood and Zephyr is {1010.25} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 1726.2 Number?",
+            "A": "Box{Rosewood},{Lakeview},{Yorkton},{Zephyr},{Creston} have the outliers exceed 1726.2 Number."
+        },
+        {
+            "Q": "Which boxes have median values exceed 1185.75 Number? Please list the boxes and corresponding values.",
+            "A": "{Rosewood} has {1222.0} Number , {Yorkton} has {1207.0} Number , {Creston} has {1234.5} Number "
+        },
+        {
+            "Q": "Which boxes have median values below 1185.75 Number? Please list the boxes and corresponding values.",
+            "A": "{Lakeview} has {1132.5} Number , {Dunvale} has {1164.5} Number , {Zephyr} has {1045.0} Number "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Lakeview or Dunvale ",
+            "A": "The median value of the {Dunvale} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Rosewood, Yorkton or Lakeview ",
+            "A": "The median value of the {Rosewood} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Rosewood, Zephyr, Lakeview or Yorkton ",
+            "A": "The median value of the {Rosewood} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Creston}."
+        }
+    ],
+    "VA": []
+}

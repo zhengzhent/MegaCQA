@@ -1,0 +1,10 @@
+Image Name: 10739.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\10739.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with a clear title and axis labels. The use of a gradient color scheme helps in visually distinguishing the values, and the numerical values are directly placed at the end of each bar, making it easy to read the exact figures. The spacing between the bars is adequate, and there is no clutter.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization effectively uses a horizontal bar chart to display R&D investment across different cities. The color gradient is visually appealing and helps to differentiate the bars, while the labels are clear and easy to read. The numerical values are placed at the end of each bar, making it straightforward to compare the investments. Overall, the chart is well-structured and conveys the information clearly.

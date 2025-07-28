@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On New Users, what is the spatial relationship of the data point in 2001 relative to that in 2010 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On New Users, the data point in 2001 is {below} and to the {left} of the data point in 2010."
+        },
+        {
+            "Q": "In 2004, what is the vertical (above/below) relationship of the line representing New Users relative to Casual Users?",
+            "A": "In 2004, New Users is {below} Casual Users in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Mobile Users's Average Watch Time levels?",
+            "A": "Mobile Users's average watch time levels show a {single valley} trend."
+        },
+        {
+            "Q": "What is the trend of Free Users's Average Watch Time levels?",
+            "A": "Free Users's average watch time levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "What is the trend of Casual Users's Average Watch Time levels?",
+            "A": "Casual Users's average watch time levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "What is the trend of New Users's Average Watch Time levels?",
+            "A": "New Users's average watch time levels show a {stable rising} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Free Users's Average Watch Time in 2004?",
+            "A": "Free Users's average watch time in 2004 is {0.17} minutes."
+        },
+        {
+            "Q": "What is Free Users's Average Watch Time in 2002?",
+            "A": "Free Users's average watch time in 2002 is {0.17} minutes."
+        },
+        {
+            "Q": "What is Casual Users's Average Watch Time in 1999?",
+            "A": "Casual Users's average watch time in 1999 is {27.31} minutes."
+        },
+        {
+            "Q": "What are the average watch time of Mobile Users, Free Users, and New Users in 2008?",
+            "A": "Mobile Users's average watch time is {10.09} minutes, Free Users's average watch time is {1.82} minutes, New Users's average watch time is {47.95} minutes."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Average Watch Time in the line chart?",
+            "A": "The global minimum average watch time is {0.17} minutes."
+        },
+        {
+            "Q": "What is the global maximum Average Watch Time in the line chart?",
+            "A": "The global maximum average watch time is {78.37} minutes."
+        },
+        {
+            "Q": "What is the highest Average Watch Time level recorded for Casual Users?",
+            "A": "Casual Users reached approximately {78.37} minutes in {2010}."
+        },
+        {
+            "Q": "What is the lowest Average Watch Time level recorded for Casual Users?",
+            "A": "Casual Users's lowest recorded level is approximately {20.49} minutes in {1996}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Mobile Users's Average Watch Time from the starting year to the final year?",
+            "A": "The rate of decline in Mobile Users's average watch time is {-2.35}%."
+        },
+        {
+            "Q": "What is the rate of change in New Users's Average Watch Time from the starting year to the final year?",
+            "A": "The rate of growth in New Users's average watch time is {68.14}%."
+        },
+        {
+            "Q": "What is the rate of change in Free Users's Average Watch Time from the starting year to the final year?",
+            "A": "The rate of decline in Free Users's average watch time is {-7.51}%."
+        },
+        {
+            "Q": "What is the average value of Mobile Users's Average Watch Time?",
+            "A": "The average value of Mobile Users's average watch time is {8.21} minutes."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2010, which line had Average Watch Time exceed 57 minutes? Please list the lines and corresponding values.",
+            "A": "{Casual Users} had {78} minutes."
+        },
+        {
+            "Q": "Which years did Casual Users's Average Watch Time between 32 and 53 minutes? Please list the years and corresponding values.",
+            "A": "{48.58} minutes in {2005} year, {39.90} minutes in {2003} year, {44.50} minutes in {2004} year."
+        },
+        {
+            "Q": "Which years did Mobile Users's Average Watch Time exceed 11 minutes? Please list the years and corresponding values.",
+            "A": "{11.17} minutes in {2009} year, {11.57} minutes in {1997} year, {13.19} minutes in {1996} year."
+        },
+        {
+            "Q": "Which years did Casual Users's Average Watch Time below 29 minutes? Please list the years and corresponding values.",
+            "A": "{27.31} minutes in {1999} year, {22.59} minutes in {1997} year, {25.14} minutes in {1998} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2002, which line had the highest Average Watch Time, Casual Users, New Users, Free Users, or Mobile Users?",
+            "A": "In 2002, {New Users} had the highest average watch time."
+        },
+        {
+            "Q": "Between 1998 and 2006, which line had a higher average Average Watch Time, New Users or Casual Users?",
+            "A": "{New Users} had a higher average average watch time."
+        },
+        {
+            "Q": "Between 1997 and 2010, which line had the highest average Average Watch Time, Casual Users, Free Users, or New Users?",
+            "A": "{Casual Users} had the highest average average watch time."
+        },
+        {
+            "Q": "In 2008, which line had a higher Average Watch Time, {Mobile Users} or {Free Users}?",
+            "A": "In 2008, {Mobile Users} had a higher average watch time."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Casual Users}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2009 and 2010?",
+            "A": "{Casual Users} has the fastest average growth rate between 2009 and 2010."
+        },
+        {
+            "Q": "In which year did Casual Users first surpass New Users?",
+            "A": "Casual Users first surpassed New Users in the year {2003}."
+        },
+        {
+            "Q": "Which label had the leading average watch time since 1999?",
+            "A": "Since 1999, {Casual Users} had the leading average watch time."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Casual Users. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1996, 2003, 2010}."
+        }
+    ]
+}

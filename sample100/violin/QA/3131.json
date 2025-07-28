@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {6} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Eastwood Prep}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Meadowbrook High}."
+        },
+        {
+            "Q": "Which violin is the second position to the left of the violin Sunnyvale Prep?",
+            "A": "The second position to the left of the violin Sunnyvale Prep is {Glenhaven Academy}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Eastwood Prep relative to the violin Glenhaven Academy in terms of horizontal (left/right) direction?",
+            "A": "violin Eastwood Prep is to the {left} of the violin Glenhaven Academy."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Brookfield Academy}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Brookfield Academy}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Brookfield Academy?",
+            "A": "The density distribution pattern of the Brookfield Academy shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Meadowbrook High in the violin plot?",
+            "A": "The median of Meadowbrook High is {84.89} %."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Meadowbrook High in the violin plot?",
+            "A": "The lower quartile (Q1) of Meadowbrook High is {83.10} %."
+        },
+        {
+            "Q": "What is the upper whisker limit of Meadowbrook High in the violin plot?",
+            "A": "The upper whisker limit of Meadowbrook High is {90.27} %."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Eastwood Prep in the violin plot?",
+            "A": "The lowest upper outlier value in Eastwood Prep is {73.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum % value in the violin plot?",
+            "A": "The global maximum % value in the violin plot is {100.20} %."
+        },
+        {
+            "Q": "What is the global minimum % value in the violin plot?",
+            "A": "The global minimum % value in the violin plot is {71.79} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Eastwood Prep and Glenhaven Academy?",
+            "A": "The Median difference between violin Eastwood Prep and Glenhaven Academy is {4.66} %."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Brookfield Academy and Meadowbrook High?",
+            "A": "The total Q1 value of violin Brookfield Academy and Meadowbrook High is {170.74} %."
+        },
+        {
+            "Q": "What is the average Q1 value of violin Eastwood Prep and Glenhaven Academy?",
+            "A": "The average Q1 value of violin Eastwood Prep and Glenhaven Academy is {83.45} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 88.99 %? Please list the violins and corresponding values.",
+            "A": "{Brookfield Academy} has {89.83} % "
+        },
+        {
+            "Q": "Which violins have median values below 83.76 %? Please list the violins and corresponding values.",
+            "A": "{Eastwood Prep} has {82.63} % "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 85.35 % and the upper quartile (Q3) below 89.06 %?",
+            "A": "Violin {Glenhaven Academy} has the Q1 above 85.35 % and the Q3 below 89.06375 %."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 87.72 %?",
+            "A": "Violin {Riverdale High} has {88.24} % ,{Brookfield Academy} has {89.90} % ,{Sunnyvale Prep} has {88.04} % have their highest density peak exceed 87.72 %."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 83.83 %?",
+            "A": "Violin {Eastwood Prep} has {82.35} % have their highest density peak below 83.83 %."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Brookfield Academy or Meadowbrook High ",
+            "A": "The median value of the {Brookfield Academy} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Eastwood Prep, Glenhaven Academy or Riverdale High ",
+            "A": "The median value of the {Riverdale High} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Sunnyvale Prep, Glenhaven Academy, Brookfield Academy or Riverdale High ",
+            "A": "The median value of the {Brookfield Academy} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Meadowbrook High}."
+        }
+    ],
+    "VA": []
+}

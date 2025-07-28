@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {4} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Search Transport Options stage positioned above or below the Book Transport Service stage?",
+            "A": "The Search Transport Options stage is positioned {above} the Book Transport Service stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {logarithmic} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Prepare for Pickup?",
+            "A": "The value of stage Prepare for Pickup is {756}."
+        },
+        {
+            "Q": "What is the value of stage Book Transport Service?",
+            "A": "The value of stage Book Transport Service is {875}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Search Transport Options, with a value of {4218}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Prepare for Pickup, with a value of {756}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Book Transport Service to stage Prepare for Pickup?",
+            "A": "Decreased by {119} Thousand Shipments from stage Book Transport Service to stage Prepare for Pickup."
+        },
+        {
+            "Q": "How much did it decrease from stage Search Transport Options to stage Select Carrier or Service?",
+            "A": "Decreased by {2109} Thousand Shipments from stage Search Transport Options to stage Select Carrier or Service."
+        },
+        {
+            "Q": "How much did it decrease from stage Select Carrier or Service to stage Book Transport Service?",
+            "A": "Decreased by {1234} Thousand Shipments from stage Select Carrier or Service to stage Book Transport Service."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 3163? Please list the stage labels and corresponding values.",
+            "A": "The {Search Transport Options} stage has {4218}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 1492? Please list the stage labels and corresponding values.",
+            "A": "The {Book Transport Service} stage has {875}, the {Prepare for Pickup} stage has {756}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 378 and 3163? Please list the stage labels and corresponding values.",
+            "A": "The {Select Carrier or Service} stage has {2109}, the {Book Transport Service} stage has {875}, the {Prepare for Pickup} stage has {756}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Search Transport Options to Select Carrier or Service, or from stage Select Carrier or Service to Book Transport Service?",
+            "A": "The reduction from stage {Search Transport Options} to {Select Carrier or Service} is greater."
+        },
+        {
+            "Q": "Which reduction is greater: from stage Search Transport Options to Select Carrier or Service, or from stage Book Transport Service to Prepare for Pickup?",
+            "A": "The reduction from stage {Search Transport Options} to {Select Carrier or Service} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Select Carrier or Service to Book Transport Service, from stage Search Transport Options to Select Carrier or Service, or from stage Book Transport Service to Prepare for Pickup?",
+            "A": "The reduction from stage {Search Transport Options} to stage {Select Carrier or Service} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Search Transport Options} and {Select Carrier or Service} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Book Transport Service} and {Prepare for Pickup} stages."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,132 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {fill bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this fill bubble chart?",
+            "A": "There are {5} bubbles."
+        },
+        {
+            "Q": "How many bubbles are in layer 2 of this fill bubble chart?",
+            "A": "There are {1} bubbles in layer 2."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Bubble Medical Procedures positioned deeper, shallower or on the same depth as Bubble Preventive Care?",
+            "A": "Bubble Medical Procedures is positioned {shallower than} Bubble Preventive Care."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the maximum depth in this fill bubble chart?",
+            "A": "The maximum depth is {3}."
+        },
+        {
+            "Q": "Which bubble contains bubble Diagnosis in the fill bubble chart?",
+            "A": "Bubble Diagnosis is contained by bubble {Medical Procedures}."
+        },
+        {
+            "Q": "Which bubbles are contained within bubble Healthcare and Medicine in the fill bubble chart?",
+            "A": "Bubble Healthcare and Medicine contains bubbles {Medical Procedures}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the size value of bubble Healthcare and Medicine?",
+            "A": "The size value of bubble Healthcare and Medicine is {63.40}."
+        },
+        {
+            "Q": "What is the size value of bubble Medical Procedures?",
+            "A": "The size value of bubble Medical Procedures is {28.32}."
+        },
+        {
+            "Q": "What is the size value of bubble Diagnosis?",
+            "A": "The size value of bubble Diagnosis is {14.13}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum size value in the fill bubble chart?",
+            "A": "The global maximum size value is {63.40}."
+        },
+        {
+            "Q": "What is the global minimum size value in the fill bubble chart?",
+            "A": "The global minimum size value is {6.55}."
+        },
+        {
+            "Q": "What is the maximum value under category Medical Procedures?",
+            "A": "The maximum value under category Medical Procedures is {14.50}."
+        },
+        {
+            "Q": "What is the minimum value under category Medical Procedures?",
+            "A": "The minimum value under category Medical Procedures is {6.55}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of layer 3 of bubbles?",
+            "A": "The total value of layer 3 of bubbles is {35.18}."
+        },
+        {
+            "Q": "What is the total value of layer 2 of bubbles?",
+            "A": "The total value of layer 2 of bubbles is {28.32}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 size values in the fill bubble chart?",
+            "A": "{63.40, 28.32, 14.50}."
+        },
+        {
+            "Q": "What are the bottom 3 size values in the fill bubble chart?",
+            "A": "{6.55, 14.13, 14.50}."
+        },
+        {
+            "Q": "Which bubbles have size values exceed 46.68? Please list the bubbles and corresponding values.",
+            "A": "Healthcare and Medicine has {63.40}."
+        },
+        {
+            "Q": "Which bubbles have size values between 24.77 and 50.03? Please list the bubbles and corresponding values.",
+            "A": "Medical Procedures has {28.32}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the size value of Diagnosis or Preventive Care in the fill bubble chart?",
+            "A": "The size value of {Preventive Care} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Healthcare and Medicine or Rehabilitation in the fill bubble chart?",
+            "A": "The size value of {Healthcare and Medicine} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 2 has the largest bubble area?",
+            "A": "The subcategory with the largest bubble area in the level 2 is {Medical Procedures}."
+        },
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 2 has the smallest bubble area?",
+            "A": "The subcategory with the smallest bubble area in the level 2 is {Medical Procedures}."
+        },
+        {
+            "Q": "How many bubbles have values above the average size across all categories?",
+            "A": "There are {2} bubbles with values above the average size."
+        },
+        {
+            "Q": "How many bubbles have values below the average oil storage across all categories?",
+            "A": "There are {3} bubbles with values below the average size."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual clutter caused by overlapping labels in the bubble chart, sample the labels and list the top 2 labels recommended for removal.",
+            "A": "The top 2 labels recommended for removal to reduce label overlap are: {Medical Procedures}, {Preventive Care}."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+Education and Academics,Education Distribution by Category (2021),%
+parent,child,value
+,Learning Systems,100.0
+Learning Systems,Pedagogy,29.97
+Pedagogy,Active Learning,9.52
+Pedagogy,Competency-Based,20.45
+Competency-Based,Micro-Credentials,20.45
+Micro-Credentials,Blockchain Issuance,20.45
+Blockchain Issuance,Smart Contracts,11.02
+Blockchain Issuance,Decentralized IDs,9.43
+Learning Systems,Experiential,70.03
+Experiential,Lab Simulations,43.87
+Lab Simulations,VR Environments,35.89
+VR Environments,Haptic Feedback,35.89
+Haptic Feedback,Force Gloves,25.55
+Haptic Feedback,Motion Capture,10.34
+Lab Simulations,AR Labs,7.98
+AR Labs,Spatial Anchors,7.98
+Experiential,Fieldwork Tech,26.16
+Fieldwork Tech,Mobile Sensing,26.16
+Mobile Sensing,IoT Kits,26.16
+IoT Kits,LoRa Modules,18.79
+IoT Kits,Edge Computing,7.37

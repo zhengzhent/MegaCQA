@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Fashion Depots, what is the spatial relationship of the data point in 1975 relative to that in 1969 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Fashion Depots, the data point in 1975 is {below} and to the {right} of the data point in 1969."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Fashion Depots's Inventory Turnover levels?",
+            "A": "Fashion Depots's inventory turnover levels show a {single peak} trend."
+        },
+        {
+            "Q": "Which line shows a single peak trend in Inventory Turnover levels?",
+            "A": "{Fashion Depots}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Fashion Depots's Inventory Turnover in 1979?",
+            "A": "Fashion Depots's inventory turnover in 1979 is {3.54} times/year."
+        },
+        {
+            "Q": "What is Fashion Depots's Inventory Turnover in 1976?",
+            "A": "Fashion Depots's inventory turnover in 1976 is {3.99} times/year."
+        },
+        {
+            "Q": "What is Fashion Depots's Inventory Turnover in 1962?",
+            "A": "Fashion Depots's inventory turnover in 1962 is {4.46} times/year."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Inventory Turnover in the line chart?",
+            "A": "The global minimum inventory turnover is {3.54} times/year."
+        },
+        {
+            "Q": "What is the global maximum Inventory Turnover in the line chart?",
+            "A": "The global maximum inventory turnover is {5.77} times/year."
+        },
+        {
+            "Q": "What is the highest Inventory Turnover level recorded for Fashion Depots?",
+            "A": "Fashion Depots reached approximately {5.77} times/year in {1968}."
+        },
+        {
+            "Q": "What is the lowest Inventory Turnover level recorded for Fashion Depots?",
+            "A": "Fashion Depots's lowest recorded level is approximately {3.54} times/year in {1979}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Fashion Depots's Inventory Turnover?",
+            "A": "The average value of Fashion Depots's inventory turnover is {4.65} times/year."
+        },
+        {
+            "Q": "What is the rate of change in Fashion Depots's Inventory Turnover from the starting year to the final year?",
+            "A": "The rate of decline in Fashion Depots's inventory turnover is {-2.75}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Fashion Depots's Inventory Turnover exceed 5 times/year? Please list the years and corresponding values.",
+            "A": "{5.77} times/year in {1968} year, {5.37} times/year in {1971} year, {5.74} times/year in {1967} year."
+        },
+        {
+            "Q": "Which years did Fashion Depots's Inventory Turnover below 4 times/year? Please list the years and corresponding values.",
+            "A": "{3.54} times/year in {1979} year, {3.93} times/year in {1960} year, {3.73} times/year in {1977} year."
+        },
+        {
+            "Q": "Which years did Fashion Depots's Inventory Turnover between 4 and 5 times/year? Please list the years and corresponding values.",
+            "A": "{5.07} times/year in {1964} year, {4.81} times/year in {1973} year, {4.17} times/year in {1961} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Fashion Depots's Inventory Turnover in 1962 higher or lower than in 1973?",
+            "A": "The inventory turnover in 1962 was {lower} than in 1973."
+        },
+        {
+            "Q": "Was Fashion Depots's Inventory Turnover in 1965 higher or lower than in 1973?",
+            "A": "The inventory turnover in 1965 was {higher} than in 1973."
+        },
+        {
+            "Q": "Was Fashion Depots's Inventory Turnover in 1963 higher or lower than in 1972?",
+            "A": "The inventory turnover in 1963 was {lower} than in 1972."
+        },
+        {
+            "Q": "Was Fashion Depots's Inventory Turnover in 1970 higher or lower than in 1977?",
+            "A": "The inventory turnover in 1970 was {higher} than in 1977."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Fashion Depots. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1958, 1968, 1979}."
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Injury frequency (per year) dimension, what is the spatial relationship of Trevor Carr relative to Kelly Johnson in terms of vertical (above/below) direction?",
+            "A": "{Trevor Carr} is {above} {Kelly Johnson} on the Injury frequency (per year) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Training hours/week (hours)?",
+            "A": "The second position to the left of Training hours/week (hours) is {Recovery time (hours)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Training hours/week (hours)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Endurance (minutes)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Endurance (minutes)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Endurance (minutes) and dimension Speed (km/h)",
+            "A": "There is {Clustering} between Endurance (minutes) and Speed (km/h)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Kelly Johnson on the Speed (km/h) dimension in the parallel-coordinates chart?",
+            "A": "The value of Kelly Johnson on the Speed (km/h) dimension is {18.36}"
+        },
+        {
+            "Q": "What is the value of Kelly Johnson on the Injury frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of Kelly Johnson on the Injury frequency (per year) dimension is {0.37}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Gary Moreno across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Gary Moreno across all dimensions is {120.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Kelsey Campbell across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Kelsey Campbell across all dimensions is {5.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Training hours/week (hours)?",
+            "A": "The average value of Training hours/week (hours) is {18.91}"
+        },
+        {
+            "Q": "What is the difference in coding Training hours/week (hours) between label Kelsey Campbell and label Gary Moreno",
+            "A": "The difference in coding Training hours/week (hours) between Kelsey Campbell and Gary Moreno is {30.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Training hours/week (hours) dimension in the parallel coordinates?",
+            "A": "{[40.0, 18.53, 13.73]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Speed (km/h) dimension in the parallel coordinates?",
+            "A": "{[15.0, 17.38, 18.08]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Recovery time (hours), which label has a higher score: Trevor Carr or Kelsey Campbell?",
+            "A": "{Kelsey Campbell} has a higher score on Recovery time (hours)."
+        },
+        {
+            "Q": "On Endurance (minutes), which label has a higher score: Trevor Carr or Amanda Taylor?",
+            "A": "{Trevor Carr} has a higher score on Endurance (minutes)."
+        },
+        {
+            "Q": "On Speed (km/h), which label has a higher score: Kelly Johnson or Gary Moreno?",
+            "A": "{Kelly Johnson} has a higher score on Speed (km/h)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Endurance (minutes)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Speed (km/h) being greater than 23.81 and Training hours/week (hours) being less than 19.26?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

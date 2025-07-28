@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in the column Attractions of this sankey chart?",
+            "A": "There are {5} nodes in the column Attractions."
+        },
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {23} nodes."
+        },
+        {
+            "Q": "How many links flow into the node Historical Site in this sankey chart?",
+            "A": "There are {5} links flowing into the node Historical Site."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Spending Types}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Attractions}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Boutique Hotel} and {Religious Pilgrimage}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Shopping} and {Oceania}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Luxury Hotel to the node Religious Pilgrimage?",
+            "A": "The flow value from the node Luxury Hotel to the node Religious Pilgrimage is {6501}."
+        },
+        {
+            "Q": "What is the flow value from the node Shopping to the node South America?",
+            "A": "The flow value from the node Shopping to the node South America is {366}."
+        },
+        {
+            "Q": "What is the flow value from the node Tours to the node Europe?",
+            "A": "The flow value from the node Tours to the node Europe is {431}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Entertainment to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Entertainment to the next stage is {3779}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node North America to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node North America to the next stage is {906}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Boutique Hotel?",
+            "A": "The total flow output from node Boutique Hotel is {30688}."
+        },
+        {
+            "Q": "What is the total flow input by node Business?",
+            "A": "The total flow input by node Business is {2788}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Travel Purposes of the sankey chart, which nodes have an outflow exceeded 5312? Please list the node labels and their corresponding outflow values.",
+            "A": "{Education} has an outflow of {5444}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Hotels and column Travel Purposes is the flow between 5838 and 7078? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {6501} from node {Luxury Hotel} to {Religious Pilgrimage}, a flow of {5935} from node {Boutique Hotel} to {Education}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 2312 and 2754? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {2374} from node {Transportation} to {North America}, a flow of {2524} from node {Tours} to {Africa}, a flow of {2323} from node {Accommodation} to {Europe}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Medical to node Cultural Festival and from node North America to node Luxury Hotel, which path has a larger flow?",
+            "A": "The flow from node {Medical} to node {Cultural Festival} is larger."
+        },
+        {
+            "Q": "Between the flows from node Medical to node Cultural Festival and from node Medical to node Museum, which path has a larger flow?",
+            "A": "The flow from node {Medical} to node {Cultural Festival} is larger."
+        },
+        {
+            "Q": "Among the flows from node Transportation to node Asia, from node Business to node Beach, and from node Adventure to node Hiking Trail, which path has the largest flow?",
+            "A": "The flow from node {Adventure} to node {Hiking Trail} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Luxury Hotel to node Education, from node Business to node Hiking Trail, and from node Shopping to node North America, which path has the largest flow?",
+            "A": "The flow from node {Luxury Hotel} to node {Education} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Spending Types of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Spending Types is {Transportation}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Tours to target node Cultural Festival? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Tours to node Cultural Festival is: {Tours, North America, Boutique Hotel, Religious Pilgrimage, Cultural Festival}."
+        }
+    ],
+    "VA": []
+}

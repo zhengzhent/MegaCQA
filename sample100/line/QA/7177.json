@@ -1,0 +1,148 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Crimson Foundation, what is the spatial relationship of the data point in 1970 relative to that in 1965 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Crimson Foundation, the data point in 1970 is {above} and to the {right} of the data point in 1965."
+        },
+        {
+            "Q": "In 1968, what is the vertical (above/below) relationship of the line representing Echo Research relative to Crimson Foundation?",
+            "A": "In 1968, Echo Research is {above} Crimson Foundation in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Crimson Foundation's Engineering Graduates levels?",
+            "A": "Crimson Foundation's engineering graduates levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Echo Research's Engineering Graduates levels?",
+            "A": "Echo Research's engineering graduates levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "Which line shows a stable falling trend in Engineering Graduates levels?",
+            "A": "{Crimson Foundation}."
+        },
+        {
+            "Q": "Which line shows a volatile rising trend in Engineering Graduates levels?",
+            "A": "{Echo Research}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Echo Research's Engineering Graduates in 1963?",
+            "A": "Echo Research's engineering graduates in 1963 is {2486.01} students."
+        },
+        {
+            "Q": "What is Crimson Foundation's Engineering Graduates in 1960?",
+            "A": "Crimson Foundation's engineering graduates in 1960 is {1377.05} students."
+        },
+        {
+            "Q": "What is Echo Research's Engineering Graduates in 1966?",
+            "A": "Echo Research's engineering graduates in 1966 is {2833.79} students."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Engineering Graduates in the line chart?",
+            "A": "The global minimum engineering graduates is {1166.75} students."
+        },
+        {
+            "Q": "What is the global maximum Engineering Graduates in the line chart?",
+            "A": "The global maximum engineering graduates is {3537.18} students."
+        },
+        {
+            "Q": "What is the highest Engineering Graduates level recorded for Crimson Foundation?",
+            "A": "Crimson Foundation reached approximately {1798.12} students in {1972}."
+        },
+        {
+            "Q": "What is the lowest Engineering Graduates level recorded for Crimson Foundation?",
+            "A": "Crimson Foundation's lowest recorded level is approximately {1166.75} students in {1954}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Crimson Foundation's Engineering Graduates from the starting year to the final year?",
+            "A": "The rate of growth in Crimson Foundation's engineering graduates is {54.11}%."
+        },
+        {
+            "Q": "What is the average value of Crimson Foundation's Engineering Graduates?",
+            "A": "The average value of Crimson Foundation's engineering graduates is {1481.72} students."
+        },
+        {
+            "Q": "What is the average value of Echo Research's Engineering Graduates?",
+            "A": "The average value of Echo Research's engineering graduates is {2499.36} students."
+        },
+        {
+            "Q": "What is the rate of change in Echo Research's Engineering Graduates from the starting year to the final year?",
+            "A": "The rate of growth in Echo Research's engineering graduates is {142.78}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1955, which line had Engineering Graduates exceed 1418 students? Please list the lines and corresponding values.",
+            "A": "{Echo Research} had {1576} students."
+        },
+        {
+            "Q": "Which years did Echo Research's Engineering Graduates exceed 3026 students? Please list the years and corresponding values.",
+            "A": "{3435.18} students in {1971} year, {3194.19} students in {1969} year, {3311.11} students in {1970} year."
+        },
+        {
+            "Q": "In the year 1966, which lines had Engineering Graduates below 1902 students? Please list the lines and corresponding values.",
+            "A": "{Crimson Foundation} had {1592} students."
+        },
+        {
+            "Q": "Which years did Crimson Foundation's Engineering Graduates between 1357 and 1606 students? Please list the years and corresponding values.",
+            "A": "{1377.05} students in {1960} year, {1591.69} students in {1966} year, {1406.75} students in {1961} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1954 and 1958, which line had a higher average Engineering Graduates, Crimson Foundation or Echo Research?",
+            "A": "{Echo Research} had a higher average engineering graduates."
+        },
+        {
+            "Q": "Between 1957 and 1965, which line had a higher average Engineering Graduates, Echo Research or Crimson Foundation?",
+            "A": "{Echo Research} had a higher average engineering graduates."
+        },
+        {
+            "Q": "Was Echo Research's Engineering Graduates in 1957 higher or lower than in 1960?",
+            "A": "The engineering graduates in 1957 was {lower} than in 1960."
+        },
+        {
+            "Q": "Between 1958 and 1963, which line experienced a larger change in Engineering Graduates, Crimson Foundation or Echo Research?",
+            "A": "{Echo Research} experienced a larger change in engineering graduates."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Echo Research}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1961 and 1967?",
+            "A": "{Echo Research} has the fastest average growth rate between 1961 and 1967."
+        },
+        {
+            "Q": "Which label had the leading engineering graduates since 1970?",
+            "A": "Since 1970, {Echo Research} had the leading engineering graduates."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Crimson Foundation. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1954, 1972}."
+        }
+    ]
+}

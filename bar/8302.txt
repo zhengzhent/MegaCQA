@@ -1,0 +1,10 @@
+Image Name: 8302.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\8302.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and well-organized, with each bar representing a different type of house and its corresponding sales value. The use of a consistent pattern (stars) across all bars maintains visual uniformity, and the values are clearly labeled on top of each bar. The x-axis labels are legible, and the y-axis is appropriately scaled, making it easy to compare the sales values at a glance.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 2/5
+Score Reason: The visualization uses a patterned fill for the bars, which can make it difficult to discern the exact values represented. Additionally, the font size of the labels is relatively small, and the use of stars as a fill pattern may distract from the actual data. The overall layout is somewhat cluttered, making it harder for viewers to quickly interpret the information.

@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Casual Users, what is the spatial relationship of the data point in 1978 relative to that in 1989 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Casual Users, the data point in 1978 is {below} and to the {left} of the data point in 1989."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Casual Users's Average Watch Time levels?",
+            "A": "Casual Users's average watch time levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "Which line shows a exponential rising trend in Average Watch Time levels?",
+            "A": "{Casual Users}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Casual Users's Average Watch Time in 1978?",
+            "A": "Casual Users's average watch time in 1978 is {39.20} minutes."
+        },
+        {
+            "Q": "What is Casual Users's Average Watch Time in 1987?",
+            "A": "Casual Users's average watch time in 1987 is {92.88} minutes."
+        },
+        {
+            "Q": "What is Casual Users's Average Watch Time in 1990?",
+            "A": "Casual Users's average watch time in 1990 is {124.22} minutes."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Average Watch Time in the line chart?",
+            "A": "The global minimum average watch time is {27.37} minutes."
+        },
+        {
+            "Q": "What is the global maximum Average Watch Time in the line chart?",
+            "A": "The global maximum average watch time is {150.06} minutes."
+        },
+        {
+            "Q": "What is the highest Average Watch Time level recorded for Casual Users?",
+            "A": "Casual Users reached approximately {150.06} minutes in {1992}."
+        },
+        {
+            "Q": "What is the lowest Average Watch Time level recorded for Casual Users?",
+            "A": "Casual Users's lowest recorded level is approximately {27.37} minutes in {1974}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Casual Users's Average Watch Time from the starting year to the final year?",
+            "A": "The rate of growth in Casual Users's average watch time is {448.26}%."
+        },
+        {
+            "Q": "What is the average value of Casual Users's Average Watch Time?",
+            "A": "The average value of Casual Users's average watch time is {72.76} minutes."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Casual Users's Average Watch Time below 41 minutes? Please list the years and corresponding values.",
+            "A": "{29.69} minutes in {1975} year, {27.37} minutes in {1974} year, {36.07} minutes in {1977} year."
+        },
+        {
+            "Q": "Which years did Casual Users's Average Watch Time between 47 and 92 minutes? Please list the years and corresponding values.",
+            "A": "{70.23} minutes in {1984} year, {58.04} minutes in {1982} year, {85.05} minutes in {1986} year."
+        },
+        {
+            "Q": "Which years did Casual Users's Average Watch Time exceed 98 minutes? Please list the years and corresponding values.",
+            "A": "{124.22} minutes in {1990} year, {150.06} minutes in {1992} year, {112.87} minutes in {1989} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Casual Users's Average Watch Time in 1975 higher or lower than in 1982?",
+            "A": "The average watch time in 1975 was {lower} than in 1982."
+        },
+        {
+            "Q": "Was Casual Users's Average Watch Time in 1988 higher or lower than in 1989?",
+            "A": "The average watch time in 1988 was {lower} than in 1989."
+        },
+        {
+            "Q": "Was Casual Users's Average Watch Time in 1974 higher or lower than in 1977?",
+            "A": "The average watch time in 1974 was {lower} than in 1977."
+        },
+        {
+            "Q": "Was Casual Users's Average Watch Time in 1990 higher or lower than in 1991?",
+            "A": "The average watch time in 1990 was {lower} than in 1991."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Casual Users. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1974, 1985, 1992}."
+        }
+    ]
+}

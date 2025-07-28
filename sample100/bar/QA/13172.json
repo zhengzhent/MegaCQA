@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {11} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Lotus Temple}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Sunset Cliff}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Hidden Valley relative to the bar Golden Dunes in terms of horizontal (left/right) direction?",
+            "A": "Bar Hidden Valley is to the {right} of the bar Golden Dunes."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Whisper Reef}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Moon Cavern}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Moon Cavern?",
+            "A": "The value of Moon Cavern is {454.0} thousand visitors."
+        },
+        {
+            "Q": "What is the value of bar Whisper Reef?",
+            "A": "The value of Whisper Reef is {3000.0} thousand visitors."
+        },
+        {
+            "Q": "What is the value of bar Hidden Valley?",
+            "A": "The value of Hidden Valley is {476.2} thousand visitors."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand visitors in the bar chart?",
+            "A": "The maximum thousand visitors is {3000.0} thousand visitors."
+        },
+        {
+            "Q": "What is the minimum thousand visitors in the bar chart?",
+            "A": "The minimum thousand visitors is {454.0} thousand visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Sunset Cliff and Willow Grove?",
+            "A": "The total value of Sunset Cliff and Willow Grove is {966.6} thousand visitors."
+        },
+        {
+            "Q": "What is the average value of Dragon Ruins and Moon Cavern?",
+            "A": "The average value of Dragon Ruins and Moon Cavern is {463.3} thousand visitors."
+        },
+        {
+            "Q": "What is the difference between Whisper Reef and Star Plateau?",
+            "A": "The difference between Whisper Reef and Star Plateau is {2487.6} thousand visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand visitors values exceed 750.75 thousand visitors? Please list the bars and corresponding thousand visitors values?",
+            "A": "{Thunder Canyon} has {751.9} thousand visitors, {Whisper Reef} has {3000.0} thousand visitors."
+        },
+        {
+            "Q": "Which bars have {thousand visitors} values below 468.80 thousand visitors? Please list the bars and corresponding thousand visitors values?",
+            "A": "{Moon Cavern} has {454.0} thousand visitors, {Sunset Cliff} has {465.0} thousand visitors."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Thunder Canyon or Whisper Reef ",
+            "A": "The value of the {Whisper Reef} is larger?"
+        },
+        {
+            "Q": "Which is larger, Star Plateau, Whisper Reef or Golden Dunes ",
+            "A": "The value of the {Whisper Reef} is larger?"
+        },
+        {
+            "Q": "Which is larger, Moon Cavern, Star Plateau, Whisper Reef or Hidden Valley ",
+            "A": "The value of the {Whisper Reef} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {1} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Moon Cavern} and {Whisper Reef}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Whisper Reef}, {Thunder Canyon}, and {Golden Dunes}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand visitors values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand visitors value descending: {Whisper Reef}, {Thunder Canyon}, {Golden Dunes}, {Misty Trail}, {Lotus Temple}, {Star Plateau}, {Willow Grove}, {Hidden Valley}, {Dragon Ruins}, {Sunset Cliff}, and {Moon Cavern}."
+        },
+        {
+            "Q": "Sort the bars by thousand visitors values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand visitors value ascending: {Moon Cavern}, {Sunset Cliff}, {Dragon Ruins}, {Hidden Valley}, {Willow Grove}, {Star Plateau}, {Lotus Temple}, {Misty Trail}, {Golden Dunes}, {Thunder Canyon}, and {Whisper Reef}."
+        }
+    ]
+}

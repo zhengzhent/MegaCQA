@@ -1,0 +1,73 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {7} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Compensation relative to the peak of Company Culture in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Compensation is to the {right} of the peak of Company Culture."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Workplace Benefits show?",
+            "A": "The ridgeline representing Workplace Benefits shows a {Single Peak Distribution}."
+        },
+        {
+            "Q": "At what value do  Job Security reach its peaks?",
+            "A": "At {11.61}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Company Culture} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =74.0?",
+            "A": "At X =74.0,the label with the highest density is {Compensation}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 64? Please list the countries and corresponding peak values.",
+            "A": "{Compensation}'s peak at {83},{Work-Life Balance}'s peak at {81}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 56? Please list the countries and corresponding peak values.",
+            "A": "{Career Growth}'s peak at {23},{Company Culture}'s peak at {13},{Job Security}'s peak at {12},{Remote Work Options}'s peak at {12},{Workplace Benefits}'s peak at {10}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Company Culture or Work-Life Balance?",
+            "A": "{Work-Life Balance} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Job Security or Remote Work Options?",
+            "A": "{Remote Work Options} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {2} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Company Culture}"
+        }
+    ],
+    "VA": []
+}

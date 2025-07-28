@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Non-Profit Programs positioned outside, inside or on the same side as Skill Platforms?",
+            "A": "Non-Profit Programs is positioned {on the same side} Skill Platforms."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Informal Learning}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Informal Learning segment in this sunburst chart?",
+            "A": "The value of the Informal Learning segment is {42.68}."
+        },
+        {
+            "Q": "What is the value of the Higher Education segment in this sunburst chart?",
+            "A": "The value of the Higher Education segment is {32.95}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {42.68}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {24.37}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {11.85}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.52}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Informal Learning exceed 60%? Please list the category names and corresponding percentages.",
+            "A": "{Community Learning} accounts for {69.24}%"
+        },
+        {
+            "Q": "Which categories in the segment Informal Learning are below 40%? Please list the category names and corresponding percentages.",
+            "A": "{Online Education} accounts for {30.76}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Higher Education, Undergraduate, or Community Learning?",
+            "A": "The value of {Community Learning} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Informal Learning, Higher Education, Undergraduate, or Formal Education?",
+            "A": "The value of {Informal Learning} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Informal Learning, Higher Education, or Undergraduate?",
+            "A": "The value of {Informal Learning} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Informal Learning to Community Learning to Public Libraries to Digital Literacy}."
+        }
+    ],
+    "VA": []
+}

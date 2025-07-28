@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing EchoWave relative to CrimsonLink?",
+            "A": "EchoWave is {above} CrimsonLink in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total daily active users?",
+            "A": "The series with the largest contribution is {Luminara}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total daily active users?",
+            "A": "The series with the smallest contribution is {Starburst Online}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is CrimsonLink's Daily Active Users in 2014?",
+            "A": "CrimsonLink's daily active users in 2014 is {1285320707.79} users."
+        },
+        {
+            "Q": "What is EchoWave's Daily Active Users in 2023?",
+            "A": "EchoWave's daily active users in 2023 is {696056757.92} users."
+        },
+        {
+            "Q": "What is Starburst Online's Daily Active Users in 2015?",
+            "A": "Starburst Online's daily active users in 2015 is {735347718.33} users."
+        },
+        {
+            "Q": "What are the daily active users of CrimsonLink, Starburst Online, and EchoWave in 2019?",
+            "A": "CrimsonLink's daily active users is {1411039633.56} users, Starburst Online's daily active users is {724376005.06} users, EchoWave's daily active users is {686619796.44} users."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Daily Active Users in the area chart?",
+            "A": "The global minimum daily active users is {113017648.42} users."
+        },
+        {
+            "Q": "What is the global maximum Daily Active Users in the area chart?",
+            "A": "The global maximum daily active users is {2147628921.97} users."
+        },
+        {
+            "Q": "What is the highest Daily Active Users level recorded for CrimsonLink?",
+            "A": "CrimsonLink reached approximately {1672045127.53} users in {2023}."
+        },
+        {
+            "Q": "What is the lowest Daily Active Users level recorded for CrimsonLink?",
+            "A": "CrimsonLink's lowest recorded level is approximately {1003008666.07} users in {2010}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Daily Active Users?",
+            "A": "The average total daily active users is {4260128879.55} users."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Daily Active Users fall between 4062722132.73 and 4490377094.07 users? Please list the years and corresponding total values.",
+            "A": "{4355070059.82} users in {2014}, {4167830996.07} users in {2011}, {4204554448.30} users in {2024}."
+        },
+        {
+            "Q": "Which years did the total Daily Active Users exceed 4377923540.29 users? Please list the years and corresponding total values.",
+            "A": "{4529344480.58} users in {2019}, {4379548365.03} users in {2017}, {4690748428} users in {2018}."
+        },
+        {
+            "Q": "Which years did the total Daily Active Users go below 4175175686.52 users? Please list the years and corresponding total values.",
+            "A": "{3849760686.30} users in {2015}, {3576065151.08} users in {2012}, {3961173261} users in {2010}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2014 and 2023, was the average total Daily Active Users higher or lower than between 2010 and 2022?",
+            "A": "The average total daily active users between 2014 and 2023 was {higher} than between 2010 and 2022."
+        },
+        {
+            "Q": "Between 2011 and 2013, was the average total Daily Active Users higher or lower than between 2016 and 2023?",
+            "A": "The average total daily active users between 2011 and 2013 was {lower} than between 2016 and 2023."
+        },
+        {
+            "Q": "Between 2013 and 2020, was the average total Daily Active Users higher or lower than between 2017 and 2022?",
+            "A": "The average total daily active users between 2013 and 2020 was {lower} than between 2017 and 2022."
+        },
+        {
+            "Q": "Was the total Daily Active Users in 2013 higher or lower than in 2016?",
+            "A": "The total daily active users in 2013 was {higher} than in 2016."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Luminara} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Starburst Online, EchoWave, CrimsonLink, Luminara}."
+        }
+    ]
+}

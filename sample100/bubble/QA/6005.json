@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {12} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of sales transactions of 422.78 relative to the bubble with a Number of sales transactions of 9340.08 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of sales transactions of 422.78 is {below} and to the {right} of the bubble with a Number of sales transactions of 9340.08."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Product price and Conversion rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {604.50} $ and {4.32} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of sales transactions of the largest bubble?",
+            "A": "The Number of sales transactions of the largest bubble is {10000.00} count."
+        },
+        {
+            "Q": "What is the Number of sales transactions of the smallest bubble?",
+            "A": "The Number of sales transactions of the smallest bubble is {100.00} count."
+        },
+        {
+            "Q": "What are the Product price and Conversion rate values of the largest bubble?",
+            "A": "The Product price of the largest bubble is {275.51} $, and {Conversion rate} is {2.16} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of sales transactions in the bubble chart?",
+            "A": "The global maximum Number of sales transactions is {10000.00} count."
+        },
+        {
+            "Q": "What is the global minimum Number of sales transactions in the bubble chart?",
+            "A": "The global minimum Number of sales transactions is {100.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Product price in the bubble chart?",
+            "A": "The maximum observed value in the Product price dimension is {1010.13} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Product price in the bubble chart?",
+            "A": "The minimum observed value in the Product price dimension is {1.00} $."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Conversion rate in the bubble chart?",
+            "A": "The maximum observed value in the Conversion rate dimension is {8.90} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Conversion rate in the bubble chart?",
+            "A": "The minimum observed value in the Conversion rate dimension is {1.64} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of sales transactions for all bubbles?",
+            "A": "The average value of the Number of sales transactions for all bubbles is {4042.91} count."
+        },
+        {
+            "Q": "What is the average value of the Product price for all bubbles?",
+            "A": "The average value of Product price for all bubbles is {529.46} $."
+        },
+        {
+            "Q": "What is the average value of the Conversion rate for all bubbles?",
+            "A": "The average value of Conversion rate for all bubbles is {4.60} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of sales transactions values in the bubble chart?",
+            "A": "{10000.00, 9340.08, 7719.17} count."
+        },
+        {
+            "Q": "What are the bottom 3 Number of sales transactions values in the bubble chart?",
+            "A": "{100.00, 251.92, 304.02} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of sales transactions value, the bubble with a Product price of 741.8 $ and a Conversion rate of 4.1 %, or the bubble with a Product price of 604.5 $ and a Conversion rate of 4.3 %?",
+            "A": "The bubble with a Product price of {604.5} and a Conversion rate of {4.3} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of sales transactions value of the bubble with the largest Conversion rate value?",
+            "A": "The Number of sales transactions value of the bubble with the largest Conversion rate is {7530.53}."
+        },
+        {
+            "Q": "What is the Number of sales transactions value of the bubble with the largest Product price value?",
+            "A": "The Number of sales transactions value of the bubble with the largest Product price is {422.78}."
+        },
+        {
+            "Q": "Classify bubbles with a Conversion rate-coordinate greater than 5 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of sales transactions for the high value group and the low value group?",
+            "A": "The difference between the total Number of sales transactions of the high-value and low-value groups is {5142.63}."
+        }
+    ],
+    "VA": []
+}

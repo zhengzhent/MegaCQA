@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {6} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Sep of this stacked bar chart?",
+            "A": "There are {5} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Dec}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {May}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Apr relative to the bar Sep in terms of horizontal (left/right) direction?",
+            "A": "Bar Apr is to the {left} of the bar Sep."
+        },
+        {
+            "Q": "In the stacked bar of Sep, What is the spatial relationship of segment Paper relative to the segment Machinery in terms of vertical (above/below) direction?",
+            "A": "Paper segment is positioned {below} the Machinery segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Month has the highest bar in this stacked bar chart?",
+            "A": "The Month with the highest bar is {Sep}."
+        },
+        {
+            "Q": "Which Month has the lowest bar in this stacked bar chart?",
+            "A": "The Month with the lowest bar is {Mar}."
+        },
+        {
+            "Q": "In the stacked bar representing Sep, which segment has the highest value?",
+            "A": "The segment with the highest value is {Paper}."
+        },
+        {
+            "Q": "In the stacked bar representing Apr, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Paper}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Plastics segment within the Mar bar in the stacked bar chart?",
+            "A": "The value of the Plastics segment is {150.00} tonnes."
+        },
+        {
+            "Q": "What is the value of the Plastics segment within the May bar in the stacked bar chart?",
+            "A": "The value of the Plastics segment is {635.00} tonnes."
+        },
+        {
+            "Q": "What is the value of the Oil segment within the Dec bar in the stacked bar chart?",
+            "A": "The value of the Oil segment is {150.00} tonnes."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum tonnes among the stacked segments of bar May?",
+            "A": "The maximum tonnes among the stacked segments of bar May is {656} tonnes."
+        },
+        {
+            "Q": "What is the minimum tonnes among the stacked segments of bar Apr?",
+            "A": "The minimum tonnes among the stacked segments of bar Apr is {150} tonnes."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum tonnes of the segment Plastics among the bars?",
+            "A": "The maximum tonnes among the bars of segment Plastics is {635} tonnes."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum tonnes of the segment Oil among the bars?",
+            "A": "The minimum tonnes among the bars of segment Oil is {150} tonnes."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Apr?",
+            "A": "The total value of bar Apr is {1416.00} tonnes."
+        },
+        {
+            "Q": "What is the total value of the bar Jul?",
+            "A": "The total value of bar Jul is {1431.00} tonnes."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {10131} tonnes."
+        },
+        {
+            "Q": "What is the difference between total value of bar May and Dec?",
+            "A": "The difference between between total value of bar May and Dec is {1243} tonnes."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total tonnes values exceed 1905.50 tonnes? Please list the bar and corresponding values.",
+            "A": "{May} has {2380} tonnes, {Sep} has {2762} tonnes"
+        },
+        {
+            "Q": "Which bars have total tonnes values below 1071.00 tonnes? Please list the bar and corresponding values.",
+            "A": "{Mar} has {1005} tonnes"
+        },
+        {
+            "Q": "For bar Sep in the stacked bar chart, which segment have tonnes value between 75.0 and 175.5? Please list the segment and corresponding values.",
+            "A": "{Automotive Parts} has {150} tonnes."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total tonnes of Apr or Mar?",
+            "A": "The total tonnes of the {Apr} is larger."
+        },
+        {
+            "Q": "Which is larger, the total tonnes of Jul, Sep or May?",
+            "A": "The total tonnes of the {Sep} is larger."
+        },
+        {
+            "Q": "In the bar Jul, which has a larger tonnes value: Paper or Plastics?",
+            "A": "{Paper} has the larger tonnes value."
+        },
+        {
+            "Q": "In the bar Dec, which has a larger tonnes value: Plastics, Automotive Parts or Machinery?",
+            "A": "{Machinery} has the larger tonnes value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Oil in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Oil are: {May}, {Jul}, {Apr}."
+        }
+    ],
+    "VA": []
+}

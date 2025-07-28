@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Luminara Solutions, what is the spatial relationship of the data point in 2006 relative to that in 2007 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Luminara Solutions, the data point in 2006 is {above} and to the {left} of the data point in 2007."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Luminara Solutions's R&D Investment levels?",
+            "A": "Luminara Solutions's r&d investment levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "Which line shows a periodic stable trend in R&D Investment levels?",
+            "A": "{Luminara Solutions}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Luminara Solutions's R&D Investment in 2005?",
+            "A": "Luminara Solutions's r&d investment in 2005 is {10571661.93} $."
+        },
+        {
+            "Q": "What is Luminara Solutions's R&D Investment in 2010?",
+            "A": "Luminara Solutions's r&d investment in 2010 is {10526354.32} $."
+        },
+        {
+            "Q": "What is Luminara Solutions's R&D Investment in 2003?",
+            "A": "Luminara Solutions's r&d investment in 2003 is {9203539.93} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum R&D Investment in the line chart?",
+            "A": "The global minimum r&d investment is {6519215.60} $."
+        },
+        {
+            "Q": "What is the global maximum R&D Investment in the line chart?",
+            "A": "The global maximum r&d investment is {11633523.36} $."
+        },
+        {
+            "Q": "What is the highest R&D Investment level recorded for Luminara Solutions?",
+            "A": "Luminara Solutions reached approximately {11633523.36} $ in {2004}."
+        },
+        {
+            "Q": "What is the lowest R&D Investment level recorded for Luminara Solutions?",
+            "A": "Luminara Solutions's lowest recorded level is approximately {6519215.60} $ in {1997}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Luminara Solutions's R&D Investment?",
+            "A": "The average value of Luminara Solutions's r&d investment is {9390658.26} $."
+        },
+        {
+            "Q": "What is the rate of change in Luminara Solutions's R&D Investment from the starting year to the final year?",
+            "A": "The rate of growth in Luminara Solutions's r&d investment is {22.96}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Luminara Solutions's R&D Investment below 7956872 $? Please list the years and corresponding values.",
+            "A": "{7395465.75} $ in {2002} year, {7855051.22} $ in {2006} year, {7914639.40} $ in {2011} year."
+        },
+        {
+            "Q": "Which years did Luminara Solutions's R&D Investment between 8263653 and 10717900 $? Please list the years and corresponding values.",
+            "A": "{10526354.32} $ in {2010} year, {10571661.93} $ in {2005} year, {9281552.12} $ in {1993} year."
+        },
+        {
+            "Q": "Which years did Luminara Solutions's R&D Investment exceed 10470171 $? Please list the years and corresponding values.",
+            "A": "{10739476.84} $ in {2000} year, {11412243.71} $ in {2014} year, {11119749.17} $ in {1995} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Luminara Solutions's R&D Investment in 1997 higher or lower than in 2003?",
+            "A": "The r&d investment in 1997 was {lower} than in 2003."
+        },
+        {
+            "Q": "Was Luminara Solutions's R&D Investment in 2008 higher or lower than in 2009?",
+            "A": "The r&d investment in 2008 was {lower} than in 2009."
+        },
+        {
+            "Q": "Was Luminara Solutions's R&D Investment in 2000 higher or lower than in 2011?",
+            "A": "The r&d investment in 2000 was {higher} than in 2011."
+        },
+        {
+            "Q": "Was Luminara Solutions's R&D Investment in 1994 higher or lower than in 1998?",
+            "A": "The r&d investment in 1994 was {higher} than in 1998."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Luminara Solutions. List the x-coordinates of data points to be preserved.(6 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1993, 1994, 1997, 2004, 2012, 2014}."
+        }
+    ]
+}

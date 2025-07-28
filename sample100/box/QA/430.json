@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {4} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Tobacco}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Corn}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Corn?",
+            "A": "The first position to the left of the box Corn is {Sugarcane}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Sugarcane relative to the box Tobacco in terms of horizontal (left/right) direction?",
+            "A": "Box Sugarcane is to the {right} of the box Tobacco."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Sugarcane}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Sugarcane}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Corn}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Rubber in the box plot?",
+            "A": "The median of Rubber is {5516.0} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Sugarcane in the box plot?",
+            "A": "The upper quartile (Q3) of Sugarcane is {8169.0} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper whisker limit of Rubber in the box plot?",
+            "A": "The upper whisker limit of Rubber is {6892} kilograms per hectare."
+        },
+        {
+            "Q": "What is the lowest upper outlier value in Sugarcane in the box plot?",
+            "A": "The lowest upper outlier value in Sugarcane is {5056}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum kilograms per hectare value in the box plot?",
+            "A": "The global maximum kilograms per hectare value in the box plot is {9150.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the global minimum kilograms per hectare value in the box plot?",
+            "A": "The global minimum kilograms per hectare value in the box plot is {3709.00} kilograms per hectare."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box Corn and Tobacco?",
+            "A": "The Q1 difference between box Corn and Tobacco is {2233.5} kilograms per hectare."
+        },
+        {
+            "Q": "What is the toal Q3 value of box Sugarcane and Corn?",
+            "A": "The total Q3 value of box Sugarcane and Corn is {12922.75} kilograms per hectare."
+        },
+        {
+            "Q": "What is the average Q1 value of box Rubber and Sugarcane?",
+            "A": "The average Q1 value of box Rubber and Sugarcane is {6181.0} kilograms per hectare."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 8227.800000000001 kilograms per hectare?",
+            "A": "Box{Tobacco} have the outliers exceed 8227.800000000001 kilograms per hectare."
+        },
+        {
+            "Q": "Which boxes have median values exceed 7312.00 kilograms per hectare? Please list the boxes and corresponding values.",
+            "A": "{Sugarcane} has {7666.0} kilograms per hectare "
+        },
+        {
+            "Q": "Which boxes have median values below 7312.00 kilograms per hectare? Please list the boxes and corresponding values.",
+            "A": "{Tobacco} has {6958.0} kilograms per hectare , {Rubber} has {5516.0} kilograms per hectare , {Corn} has {4561.5} kilograms per hectare "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Sugarcane or Rubber ",
+            "A": "The median value of the {Sugarcane} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Sugarcane, Rubber or Corn ",
+            "A": "The median value of the {Sugarcane} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Tobacco, Rubber, Corn or Sugarcane ",
+            "A": "The median value of the {Sugarcane} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Sugarcane}."
+        }
+    ],
+    "VA": []
+}

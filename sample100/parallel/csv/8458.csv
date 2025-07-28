@@ -1,0 +1,8 @@
+﻿Food and Beverage Industry,Product Quality of Different Company
+Pattern,Weak Correlation,Strong Correlation,Strong Correlation,Clustering,No Correlation
+labels,Packaging efficiency (%),Organic content (%),Taste rating (1-10),Freshness score (1-10),Nutritional value (1-10),Allergen-free options (%)
+Oliver Inc  Restaurant,100.0,39.22,9.03,6.07,6.96,0.0
+Scott LLC  Diner,50.0,56.82,8.49,10.0,4.18,17.63
+"Montoya, Joseph and Perkins  Brasserie",97.5,47.12,9.33,6.12,9.1,13.84
+"Lee, Wallace and Moore  Diner",60.46,0.0,5.0,5.0,10.0,43.48
+"Brown, Rose and Ramirez  Bistro",60.96,100.0,10.0,7.99,1.0,50.0

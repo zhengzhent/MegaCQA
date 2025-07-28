@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Carbon Footprint Reduction Rate?",
+            "A": "The next dimension clockwise from Carbon Footprint Reduction Rate is Waste-to-Energy Conversion Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Carbon Footprint Reduction Rate?",
+            "A": "The next dimension counterclockwise from Carbon Footprint Reduction Rate is Water Conservation Efficiency Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Waste-to-Energy Conversion Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Williams-Gonzalez Sustainability Initiative?",
+            "A": "The strongest aspect is {Waste-to-Energy Conversion Rate}, while the weakest aspect is{ Renewable Energy Adoption Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Williams-Gonzalez Sustainability Initiative on the Carbon Footprint Reduction Rate in the radar chart?",
+            "A": "The value of Williams-Gonzalez Sustainability Initiative on the Safety dimension is {30}."
+        },
+        {
+            "Q": "What is the value of Williams-Gonzalez Sustainability Initiative on the Renewable Energy Adoption Rate in the radar chart?",
+            "A": "The value of Williams-Gonzalez Sustainability Initiative on the Safety dimension is {30}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Williams-Gonzalez Sustainability Initiative across all dimensions in the radar chart?",
+            "A": "The maximum value of Williams-Gonzalez Sustainability Initiative across all dimensions is {30}."
+        },
+        {
+            "Q": "What is the minimum value of label Williams-Gonzalez Sustainability Initiative across all dimensions in the radar chart?",
+            "A": "The minimum value of Williams-Gonzalez Sustainability Initiative across all dimensions is {30}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Waste-to-Energy Conversion Rate",
+            "A": "The average value of Waste-to-Energy Conversion Rate is {95.0}."
+        },
+        {
+            "Q": "What is the average value of Williams-Gonzalez Sustainability Initiative",
+            "A": "The average value of Williams-Gonzalez Sustainability Initiative is {58.5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Williams-Gonzalez Sustainability Initiative in the radar chart, which dimensions have scores between 43 and 82? Please list the dimensions and corresponding scores.",
+            "A": "{Water Conservation Efficiency Rate} is {79}"
+        },
+        {
+            "Q": "Which labels have scores above 30 for the Carbon Footprint Reduction Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Williams-Gonzalez Sustainability Initiative} is {30}"
+        },
+        {
+            "Q": "For Williams-Gonzalez Sustainability Initiative in the radar chart, which dimensions have scores above 82? Please list the dimensions and corresponding scores.",
+            "A": "{Waste-to-Energy Conversion Rate} is {95}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Williams-Gonzalez Sustainability Initiative, which dimension has a higher score: Waste-to-Energy Conversion Rate or Renewable Energy Adoption Rate?",
+            "A": "{Waste-to-Energy Conversion Rate} has a higher score than Renewable Energy Adoption Rate for Williams-Gonzalez Sustainability Initiative."
+        },
+        {
+            "Q": "For Williams-Gonzalez Sustainability Initiative, which dimension has a higher score: Waste-to-Energy Conversion Rate or Water Conservation Efficiency Rate?",
+            "A": "{Waste-to-Energy Conversion Rate} has a higher score than Water Conservation Efficiency Rate for Williams-Gonzalez Sustainability Initiative."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Williams-Gonzalez Sustainability Initiative, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Williams-Gonzalez Sustainability Initiative most needs to improve its {Renewable Energy Adoption Rate}."
+        }
+    ],
+    "VA": []
+}

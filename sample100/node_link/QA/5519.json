@@ -1,0 +1,63 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {12} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {16} links."
+        },
+        {
+            "Q": "How many nodes link with node Hilltop Luxury Condos?",
+            "A": "There are {3} nodes link with node Hilltop Luxury Condos."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Willow Creek Estate and node Lakeside Heights in this node-link chart?",
+            "A": "The relationship between node Willow Creek Estate and node Lakeside Heights is {lease_chain}."
+        },
+        {
+            "Q": "What is the relationship between node Sunset Villas Complex and node Hilltop Luxury Condos in this node-link chart?",
+            "A": "The relationship between node Sunset Villas Complex and node Hilltop Luxury Condos is {lease_chain}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type broker_affiliation?",
+            "A": "There are {1} links with the relation type broker_affiliation."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Willow Creek Estate, how many links are of type lease_chain?",
+            "A": "Node Willow Creek Estate has {2} links of type lease_chain."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Willow Creek Estate}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Willow Creek Estate with a degree of 6}, {node Riverstone Residences with a degree of 6}, {node Sunset Villas Complex with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Harborview Condominiums to node Maplewood Park Homes in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Harborview Condominiums to node Maplewood Park Homes is: {Harborview Condominiums to Willow Creek Estate to Maplewood Park Homes}."
+        }
+    ],
+    "VA": []
+}

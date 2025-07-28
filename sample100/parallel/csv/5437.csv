@@ -1,0 +1,8 @@
+﻿Cultural Trends and Influences,Influence Metrics of Different Cultural
+Pattern,Strong Correlation,Weak Correlation,Clustering,Clustering,Weak Correlation,Weak Correlation
+labels,Media coverage (articles/month),Opinion leader count(verified accounts),Behavior change rate (%),Historical significance (1-10),Language adoption (new words),Artistic references (cultural citations),Policy influence index (1-10)
+teach  Civilization,603.19,542.05,44.43,5.62,82.61,337.54,2.4
+season  Civilization,1.0,1.0,10.05,2.44,0.0,0.0,3.01
+or  Culture,69.72,179.84,31.66,1.0,100.0,930.81,3.44
+receive  Culture,675.88,432.02,1.0,10.0,54.87,1000.0,10.0
+life  Civilization,1000.0,1000.0,50.0,5.33,72.3,293.27,1.0

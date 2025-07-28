@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Crimson Vision relative to AetherSports Channel?",
+            "A": "Crimson Vision is {above} AetherSports Channel in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Echo Sports Network relative to Crimson Vision?",
+            "A": "Echo Sports Network is {below} Crimson Vision in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Crimson Vision relative to Nova Broadcast?",
+            "A": "Crimson Vision is {above} Nova Broadcast in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total tv ratings?",
+            "A": "The series with the largest contribution is {Echo Sports Network}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total tv ratings?",
+            "A": "The series with the smallest contribution is {Nova Broadcast}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is AetherSports Channel's maximum TV Ratings in the streamgraph?",
+            "A": "AetherSports Channel's maximum TV Ratings is in {2015}."
+        },
+        {
+            "Q": "Which year is AetherSports Channel's minimum TV Ratings in the streamgraph?",
+            "A": "AetherSports Channel's minimum TV Ratings is in {2018}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Between 2013 and 2018, did the total TV Ratings experience a larger or smaller change than between 2012 and 2019?",
+            "A": "The change in total tv ratings between 2013 and 2018 was {smaller} than between 2012 and 2019."
+        },
+        {
+            "Q": "Was the total TV Ratings in 2014 higher or lower than in 2017?",
+            "A": "The total tv ratings in 2014 was {lower} than in 2017."
+        },
+        {
+            "Q": "Between 2012 and 2014, did the total TV Ratings experience a larger or smaller change than between 2010 and 2019?",
+            "A": "The change in total tv ratings between 2012 and 2014 was {smaller} than between 2010 and 2019."
+        },
+        {
+            "Q": "Was the total TV Ratings in 2013 higher or lower than in 2016?",
+            "A": "The total tv ratings in 2013 was {lower} than in 2016."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Echo Sports Network} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did Crimson Vision and AetherSports Channel first exchange dominant positions?",
+            "A": "Crimson Vision and AetherSports Channel first exchanged leading positions in {2015}."
+        }
+    ],
+    "VA": []
+}

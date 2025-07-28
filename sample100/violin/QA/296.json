@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {4} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Rice}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Tea}."
+        },
+        {
+            "Q": "Which violin is the second position to the right of the violin Rice?",
+            "A": "The second position to the right of the violin Rice is {Corn}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Tea relative to the violin Corn in terms of horizontal (left/right) direction?",
+            "A": "violin Tea is to the {right} of the violin Corn."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Sorghum}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Sorghum}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Rice?",
+            "A": "The density distribution pattern of the Rice shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Corn in the violin plot?",
+            "A": "The median of Corn is {5742.50} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Sorghum in the violin plot?",
+            "A": "The upper quartile (Q3) of Sorghum is {7533.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper whisker limit of Tea in the violin plot?",
+            "A": "The upper whisker limit of Tea is {10488.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Rice in the violin plot?",
+            "A": "The lowest upper outlier value in Rice is {1016.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum kilograms per hectare value in the violin plot?",
+            "A": "The global maximum kilograms per hectare value in the violin plot is {10488.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the global minimum kilograms per hectare value in the violin plot?",
+            "A": "The global minimum kilograms per hectare value in the violin plot is {1016.00} kilograms per hectare."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Sorghum and Tea?",
+            "A": "The Median difference between violin Sorghum and Tea is {206.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the toal Median value of violin Sorghum and Corn?",
+            "A": "The total Median value of violin Sorghum and Tea is {11948.50} kilograms per hectare."
+        },
+        {
+            "Q": "What is the average Median value of violin Tea and Sorghum?",
+            "A": "The average Median value of violin Tea and Sorghum is {6103.00} kilograms per hectare."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 5871.25 kilograms per hectare? Please list the violins and corresponding values.",
+            "A": "{Sorghum} has {6206.00} kilograms per hectare , {Tea} has {6000.00} kilograms per hectare "
+        },
+        {
+            "Q": "Which violins have median values below 5391.50 kilograms per hectare? Please list the violins and corresponding values.",
+            "A": "{Rice} has {5040.50} kilograms per hectare "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 4443.50 kilograms per hectare and the upper quartile (Q3) below 7287.38 kilograms per hectare?",
+            "A": "Violin {Corn},{Tea} has the Q1 above 4443.50 kilograms per hectare and the Q3 below 7287.375 kilograms per hectare."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 5999.04 kilograms per hectare?",
+            "A": "Violin {Tea} has {6346.30} kilograms per hectare have their highest density peak exceed 5999.04 kilograms per hectare."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 5999.04 kilograms per hectare?",
+            "A": "Violin {Rice} has {5111.03} kilograms per hectare ,{Sorghum} has {5651.78} kilograms per hectare ,{Corn} has {5642.92} kilograms per hectare have their highest density peak below 5999.04 kilograms per hectare."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Tea or Rice ",
+            "A": "The median value of the {Tea} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Tea, Rice or Sorghum ",
+            "A": "The median value of the {Sorghum} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Sorghum, Corn, Tea or Rice ",
+            "A": "The median value of the {Sorghum} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Tea}."
+        }
+    ],
+    "VA": []
+}

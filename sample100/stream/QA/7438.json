@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {5} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Aether Tech relative to Crimson Analytics?",
+            "A": "Aether Tech is {above} Crimson Analytics in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Crimson Analytics relative to Oracle Solutions?",
+            "A": "Crimson Analytics is {below} Oracle Solutions in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Oracle Solutions relative to Luminara R&D?",
+            "A": "Oracle Solutions is {above} Luminara R&D in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total innovation index?",
+            "A": "The series with the largest contribution is {Aether Tech}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total innovation index?",
+            "A": "The series with the smallest contribution is {Luminara R&D}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is Echo Labs's maximum Innovation Index in the streamgraph?",
+            "A": "Echo Labs's maximum Innovation Index is in {2012}."
+        },
+        {
+            "Q": "Which year is Oracle Solutions's minimum Innovation Index in the streamgraph?",
+            "A": "Oracle Solutions's minimum Innovation Index is in {2016}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Between 2018 and 2019, did the total Innovation Index experience a larger or smaller change than between 2017 and 2021?",
+            "A": "The change in total innovation index between 2018 and 2019 was {larger} than between 2017 and 2021."
+        },
+        {
+            "Q": "Between 2016 and 2020, was the average total Innovation Index higher or lower than between 2013 and 2019?",
+            "A": "The average total innovation index between 2016 and 2020 was {lower} than between 2013 and 2019."
+        },
+        {
+            "Q": "Was the total Innovation Index in 2012 higher or lower than in 2014?",
+            "A": "The total innovation index in 2012 was {higher} than in 2014."
+        },
+        {
+            "Q": "Was the total Innovation Index in 2015 higher or lower than in 2020?",
+            "A": "The total innovation index in 2015 was {higher} than in 2020."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Aether Tech} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did Luminara R&D and Echo Labs first exchange dominant positions?",
+            "A": "Luminara R&D and Echo Labs first exchanged leading positions in {2013}."
+        }
+    ],
+    "VA": []
+}

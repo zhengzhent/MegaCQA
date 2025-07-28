@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {5} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Starburst College, what is the spatial relationship of the data point in 1992 relative to that in 1993 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Starburst College, the data point in 1992 is {above} and to the {left} of the data point in 1993."
+        },
+        {
+            "Q": "In 1977, what is the vertical (above/below) relationship of the line representing Aether University relative to Luminara Academy?",
+            "A": "In 1977, Aether University is {below} Luminara Academy in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Luminara Academy's Publication Count levels?",
+            "A": "Luminara Academy's publication count levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Starburst College's Publication Count levels?",
+            "A": "Starburst College's publication count levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Aether University's Publication Count levels?",
+            "A": "Aether University's publication count levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "What is the trend of Echo Research's Publication Count levels?",
+            "A": "Echo Research's publication count levels show a {volatile falling} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Starburst College's Publication Count in 1971?",
+            "A": "Starburst College's publication count in 1971 is {66.37} papers."
+        },
+        {
+            "Q": "What is Luminara Academy's Publication Count in 1982?",
+            "A": "Luminara Academy's publication count in 1982 is {188.01} papers."
+        },
+        {
+            "Q": "What is Crimson Foundation's Publication Count in 1987?",
+            "A": "Crimson Foundation's publication count in 1987 is {221.69} papers."
+        },
+        {
+            "Q": "What are the publication count of Luminara Academy, Starburst College, and Crimson Foundation in 1969?",
+            "A": "Luminara Academy's publication count is {137.14} papers, Starburst College's publication count is {82.49} papers, Crimson Foundation's publication count is {95.74} papers."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Publication Count in the line chart?",
+            "A": "The global minimum publication count is {0.57} papers."
+        },
+        {
+            "Q": "What is the global maximum Publication Count in the line chart?",
+            "A": "The global maximum publication count is {772.89} papers."
+        },
+        {
+            "Q": "What is the highest Publication Count level recorded for Aether University?",
+            "A": "Aether University reached approximately {772.89} papers in {1996}."
+        },
+        {
+            "Q": "What is the lowest Publication Count level recorded for Aether University?",
+            "A": "Aether University's lowest recorded level is approximately {54.07} papers in {1968}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Crimson Foundation's Publication Count?",
+            "A": "The average value of Crimson Foundation's publication count is {186.35} papers."
+        },
+        {
+            "Q": "What is the rate of change in Aether University's Publication Count from the starting year to the final year?",
+            "A": "The rate of growth in Aether University's publication count is {1329.42}%."
+        },
+        {
+            "Q": "What is the rate of change in Echo Research's Publication Count from the starting year to the final year?",
+            "A": "The rate of decline in Echo Research's publication count is {-98.98}%."
+        },
+        {
+            "Q": "What is the rate of change in Starburst College's Publication Count from the starting year to the final year?",
+            "A": "The rate of decline in Starburst College's publication count is {-92.62}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1994, which line had Publication Count exceed 270 papers? Please list the lines and corresponding values.",
+            "A": "{Aether University} had {639} papers."
+        },
+        {
+            "Q": "Which years did Aether University's Publication Count below 104 papers? Please list the years and corresponding values.",
+            "A": "{71.18} papers in {1971} year, {95.02} papers in {1974} year, {86.40} papers in {1973} year."
+        },
+        {
+            "Q": "In the year 1973, which lines had Publication Count below 54 papers? Please list the lines and corresponding values.",
+            "A": "{Echo Research} had {39} papers."
+        },
+        {
+            "Q": "In the year 1972, which lines had Publication Count below 61 papers? Please list the lines and corresponding values.",
+            "A": "{Echo Research} had {43} papers."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 1968, which line had the highest Publication Count, Echo Research, Luminara Academy, or Aether University?",
+            "A": "In 1968, {Luminara Academy} had the highest publication count."
+        },
+        {
+            "Q": "In 1984, which line had the highest Publication Count, Crimson Foundation, Echo Research, or Aether University?",
+            "A": "In 1984, {Aether University} had the highest publication count."
+        },
+        {
+            "Q": "In 1983, which line had the highest Publication Count, Starburst College, Crimson Foundation, Echo Research, or Luminara Academy?",
+            "A": "In 1983, {Crimson Foundation} had the highest publication count."
+        },
+        {
+            "Q": "Was Starburst College's Publication Count in 1971 higher or lower than in 1996?",
+            "A": "The publication count in 1971 was {higher} than in 1996."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Aether University}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1970 and 1984?",
+            "A": "{Aether University} has the fastest average growth rate between 1970 and 1984."
+        },
+        {
+            "Q": "In which year did Crimson Foundation first surpass Luminara Academy?",
+            "A": "Crimson Foundation first surpassed Luminara Academy in the year {1983}."
+        },
+        {
+            "Q": "Which label had the leading publication count since 1988?",
+            "A": "Since 1988, {Aether University} had the leading publication count."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Crimson Foundation. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1968, 1996}."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {68} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Farm size in the scatter plot?",
+            "A": "The maximum observed value in the Farm size dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Farm size in the scatter plot?",
+            "A": "The minimum observed value in the Farm size dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Soil quality in the scatter plot?",
+            "A": "The maximum observed value in the Soil quality dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Soil quality in the scatter plot?",
+            "A": "The minimum observed value in the Soil quality dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Farm size for all points?",
+            "A": "The average value of Farm size for all points is {500.50}."
+        },
+        {
+            "Q": "What is the average value of the Soil quality for all points?",
+            "A": "The average value of Soil quality for all points is {52.11}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Soil quality values corresponding to the top 3 Farm size values in the scatter plot?",
+            "A": "{17.84, 55.80, 23.61}."
+        },
+        {
+            "Q": "What are the Soil quality values corresponding to the bottom 3 Farm size values in the scatter plot?",
+            "A": "{72.63, 75.42, 100.00}."
+        },
+        {
+            "Q": "What are the Farm size values corresponding to the top 3 Soil quality values in the scatter plot?",
+            "A": "{30.82, 269.39, 686.88}."
+        },
+        {
+            "Q": "What are the Farm size values corresponding to the bottom 3 Soil quality values in the scatter plot?",
+            "A": "{746.52, 493.04, 776.34}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 690.92 and 959.99 and Y coordinates between 58.58 and 81.94?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1.00, 72.63) and (1000.00, 17.84)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(388.67, 43.53) and (403.58, 44.00)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [338.72, 38.53, 453.53, 49.00] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (388.67, 43.53)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [657.20, 49.01, 895.13, 72.21]; Region B: [239.28, 76.50, 477.20, 99.69]; Region C: [277.16, 32.17, 515.09, 55.36]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

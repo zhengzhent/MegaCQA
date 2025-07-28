@@ -1,0 +1,7 @@
+﻿Science and Engineering,Research Metrics of Different Lab
+Pattern,Strong Correlation,Strong Correlation,Strong Correlation,Weak Correlation,No Correlation,No Correlation
+labels,Publication count (papers),Patent applications (patents),Experiment success rate (%),Research funding (USD millions),Citation index (citations/paper),Lab efficiency (%),Collaboration index (1-10)
+"Baker, Gray and Taylor  Lab",9.26,12.12,26.82,26.27,394.14,37.02,1.11
+Higgins Ltd  Research Institute,100.0,50.0,100.0,100.0,425.38,30.0,1.0
+Hunt and Sons  Research Center,0.0,0.0,10.0,0.1,0.0,100.0,3.22
+"Park, Allison and Jones  Research Institute",22.44,15.93,36.15,49.31,1000.0,47.33,10.0

@@ -1,0 +1,87 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {4} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Share Content stage positioned above or below the Content Creation or Upload stage?",
+            "A": "The Share Content stage is positioned {above} the Content Creation or Upload stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {exponential} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Join Group or Community?",
+            "A": "The value of stage Join Group or Community is {56}."
+        },
+        {
+            "Q": "What is the value of stage Share Content?",
+            "A": "The value of stage Share Content is {283}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Share Content, with a value of {283}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Content Creation or Upload, with a value of {49}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Follow Account to stage Join Group or Community?",
+            "A": "Decreased by {67} Million Users from stage Follow Account to stage Join Group or Community."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 52? Please list the stage labels and corresponding values.",
+            "A": "The {Share Content} stage has {283}, the {Follow Account} stage has {123}, the {Join Group or Community} stage has {56}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 89? Please list the stage labels and corresponding values.",
+            "A": "The {Join Group or Community} stage has {56}, the {Content Creation or Upload} stage has {49}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 52 and 203? Please list the stage labels and corresponding values.",
+            "A": "The {Follow Account} stage has {123}, the {Join Group or Community} stage has {56}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Follow Account to Join Group or Community, or from stage Share Content to Follow Account?",
+            "A": "The reduction from stage {Share Content} to {Follow Account} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Share Content to Follow Account, from stage Follow Account to Join Group or Community, or from stage Join Group or Community to Content Creation or Upload?",
+            "A": "The reduction from stage {Share Content} to stage {Follow Account} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Share Content} and {Follow Account} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Join Group or Community} and {Content Creation or Upload} stages."
+        }
+    ],
+    "VA": []
+}

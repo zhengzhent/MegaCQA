@@ -1,0 +1,12 @@
+Retail and E-commerce, E-commerce Platform User Migration, Million Users, long_tail
+Source,Target,Value
+GillespieShop,DuffyLLCOnline,452
+DuffyLLCOnline,GillespieShop,218
+Potter.com,DuffyLLCOnline,145
+DuffyLLCOnline,Potter.com,110
+Potter.com,LambandTodd.com,87
+LambandTodd.com,Potter.com,77
+LambandTodd.com,DuffyLLCOnline,64
+DuffyLLCOnline,LambandTodd.com,55
+Potter.com,GillespieShop,50
+GillespieShop,Potter.com,45

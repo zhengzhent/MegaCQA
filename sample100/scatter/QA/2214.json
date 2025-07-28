@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {92} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Average temperature in the scatter plot?",
+            "A": "The maximum observed value in the Average temperature dimension is {30.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Average temperature in the scatter plot?",
+            "A": "The minimum observed value in the Average temperature dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Water quality in the scatter plot?",
+            "A": "The maximum observed value in the Water quality dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Water quality in the scatter plot?",
+            "A": "The minimum observed value in the Water quality dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Average temperature for all points?",
+            "A": "The average value of Average temperature for all points is {15.00}."
+        },
+        {
+            "Q": "What is the average value of the Water quality for all points?",
+            "A": "The average value of Water quality for all points is {61.49}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Water quality values corresponding to the top 3 Average temperature values in the scatter plot?",
+            "A": "{6.47, 0.00, 9.54}."
+        },
+        {
+            "Q": "What are the Water quality values corresponding to the bottom 3 Average temperature values in the scatter plot?",
+            "A": "{4.48, 13.78, 9.41}."
+        },
+        {
+            "Q": "What are the Average temperature values corresponding to the top 3 Water quality values in the scatter plot?",
+            "A": "{14.84, 13.19, 14.51}."
+        },
+        {
+            "Q": "What are the Average temperature values corresponding to the bottom 3 Water quality values in the scatter plot?",
+            "A": "{29.67, 0.00, 30.00}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 3.83 and 12.79 and Y coordinates between 26.28 and 43.98?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(14.84, 100.00) and (29.67, 0.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(22.09, 71.52) and (22.42, 71.63)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [20.59, 66.52, 23.92, 76.63] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (22.09, 71.52)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [3.12, 41.63, 11.06, 67.59]; Region B: [21.89, 2.72, 29.83, 28.68]; Region C: [18.28, 58.60, 26.23, 84.55]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

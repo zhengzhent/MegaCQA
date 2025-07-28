@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Cruise Ships, what is the spatial relationship of the data point in 1971 relative to that in 1975 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Cruise Ships, the data point in 1971 is {below} and to the {left} of the data point in 1975."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Cruise Ships's Average Room Price levels?",
+            "A": "Cruise Ships's average room price levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "Which line shows a bimodal valley trend in Average Room Price levels?",
+            "A": "{Cruise Ships}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Cruise Ships's Average Room Price in 1965?",
+            "A": "Cruise Ships's average room price in 1965 is {26.14} $."
+        },
+        {
+            "Q": "What is Cruise Ships's Average Room Price in 1964?",
+            "A": "Cruise Ships's average room price in 1964 is {34.72} $."
+        },
+        {
+            "Q": "What is Cruise Ships's Average Room Price in 1972?",
+            "A": "Cruise Ships's average room price in 1972 is {17.04} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Average Room Price in the line chart?",
+            "A": "The global minimum average room price is {14.62} $."
+        },
+        {
+            "Q": "What is the global maximum Average Room Price in the line chart?",
+            "A": "The global maximum average room price is {78.65} $."
+        },
+        {
+            "Q": "What is the highest Average Room Price level recorded for Cruise Ships?",
+            "A": "Cruise Ships reached approximately {78.65} $ in {1961}."
+        },
+        {
+            "Q": "What is the lowest Average Room Price level recorded for Cruise Ships?",
+            "A": "Cruise Ships's lowest recorded level is approximately {14.62} $ in {1971}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Cruise Ships's Average Room Price?",
+            "A": "The average value of Cruise Ships's average room price is {33.83} $."
+        },
+        {
+            "Q": "What is the rate of change in Cruise Ships's Average Room Price from the starting year to the final year?",
+            "A": "The rate of decline in Cruise Ships's average room price is {-2.89}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Cruise Ships's Average Room Price below 17 $? Please list the years and corresponding values.",
+            "A": "{16.65} $ in {1970} year, {14.62} $ in {1971} year, {15.71} $ in {1969} year."
+        },
+        {
+            "Q": "Which years did Cruise Ships's Average Room Price between 20 and 43 $? Please list the years and corresponding values.",
+            "A": "{34.72} $ in {1964} year, {25.74} $ in {1975} year, {26.14} $ in {1965} year."
+        },
+        {
+            "Q": "Which years did Cruise Ships's Average Room Price exceed 46 $? Please list the years and corresponding values.",
+            "A": "{46.38} $ in {1977} year, {61.26} $ in {1962} year, {78.65} $ in {1961} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Cruise Ships's Average Room Price in 1964 higher or lower than in 1967?",
+            "A": "The average room price in 1964 was {higher} than in 1967."
+        },
+        {
+            "Q": "Was Cruise Ships's Average Room Price in 1962 higher or lower than in 1967?",
+            "A": "The average room price in 1962 was {higher} than in 1967."
+        },
+        {
+            "Q": "Was Cruise Ships's Average Room Price in 1972 higher or lower than in 1979?",
+            "A": "The average room price in 1972 was {lower} than in 1979."
+        },
+        {
+            "Q": "Was Cruise Ships's Average Room Price in 1962 higher or lower than in 1976?",
+            "A": "The average room price in 1962 was {higher} than in 1976."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Cruise Ships. List the x-coordinates of data points to be preserved.(5 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1961, 1966, 1971, 1975, 1979}."
+        }
+    ]
+}

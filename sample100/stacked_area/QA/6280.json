@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {3} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Family Plans relative to Student Discounts?",
+            "A": "Family Plans is {below} Student Discounts in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total loyalty program growth?",
+            "A": "The series with the largest contribution is {Student Discounts}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total loyalty program growth?",
+            "A": "The series with the smallest contribution is {Flash Sale Subscribers}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Family Plans's Loyalty Program Growth in 1968?",
+            "A": "Family Plans's loyalty program growth in 1968 is {282148.92} users."
+        },
+        {
+            "Q": "What is Student Discounts's Loyalty Program Growth in 1957?",
+            "A": "Student Discounts's loyalty program growth in 1957 is {620514.30} users."
+        },
+        {
+            "Q": "What is Student Discounts's Loyalty Program Growth in 1953?",
+            "A": "Student Discounts's loyalty program growth in 1953 is {560365.94} users."
+        },
+        {
+            "Q": "What are the loyalty program growth of Student Discounts, Flash Sale Subscribers, and Family Plans in 1977?",
+            "A": "Student Discounts's loyalty program growth is {1144909.24} users, Flash Sale Subscribers's loyalty program growth is {5000} users, Family Plans's loyalty program growth is {194756.85} users."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Loyalty Program Growth in the area chart?",
+            "A": "The global minimum loyalty program growth is {5000.00} users."
+        },
+        {
+            "Q": "What is the global maximum Loyalty Program Growth in the area chart?",
+            "A": "The global maximum loyalty program growth is {1144909.24} users."
+        },
+        {
+            "Q": "What is the highest Loyalty Program Growth level recorded for Family Plans?",
+            "A": "Family Plans reached approximately {479176.95} users in {1952}."
+        },
+        {
+            "Q": "What is the lowest Loyalty Program Growth level recorded for Family Plans?",
+            "A": "Family Plans's lowest recorded level is approximately {98801.67} users in {1976}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Loyalty Program Growth?",
+            "A": "The average total loyalty program growth is {1289461.17} users."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Loyalty Program Growth go below 1237673.46 users? Please list the years and corresponding total values.",
+            "A": "{1210643} users in {1972}, {1191984.46} users in {1964}, {1236941.44} users in {1965}."
+        },
+        {
+            "Q": "Which years did the total Loyalty Program Growth exceed 1315414.00 users? Please list the years and corresponding total values.",
+            "A": "{1472244.47} users in {1952}, {1324229.14} users in {1963}, {1362412.73} users in {1957}."
+        },
+        {
+            "Q": "Which years did the total Loyalty Program Growth fall between 1212716.54 and 1340370.92 users? Please list the years and corresponding total values.",
+            "A": "{1283722.98} users in {1969}, {1324229.14} users in {1963}, {1228723.73} users in {1961}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was the total Loyalty Program Growth in 1969 higher or lower than in 1972?",
+            "A": "The total loyalty program growth in 1969 was {higher} than in 1972."
+        },
+        {
+            "Q": "Between 1956 and 1967, did the total Loyalty Program Growth experience a larger or smaller change than between 1972 and 1976?",
+            "A": "The change in total loyalty program growth between 1956 and 1967 was {larger} than between 1972 and 1976."
+        },
+        {
+            "Q": "Was the total Loyalty Program Growth in 1952 higher or lower than in 1975?",
+            "A": "The total loyalty program growth in 1952 was {higher} than in 1975."
+        },
+        {
+            "Q": "Between 1969 and 1972, did the total Loyalty Program Growth experience a larger or smaller change than between 1960 and 1962?",
+            "A": "The change in total loyalty program growth between 1969 and 1972 was {smaller} than between 1960 and 1962."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Student Discounts} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Flash Sale Subscribers, Family Plans, Student Discounts}."
+        }
+    ]
+}

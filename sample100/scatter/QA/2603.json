@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {31} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Forest cover in the scatter plot?",
+            "A": "The maximum observed value in the Forest cover dimension is {90.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Forest cover in the scatter plot?",
+            "A": "The minimum observed value in the Forest cover dimension is {10.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Air quality in the scatter plot?",
+            "A": "The maximum observed value in the Air quality dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Air quality in the scatter plot?",
+            "A": "The minimum observed value in the Air quality dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Forest cover for all points?",
+            "A": "The average value of Forest cover for all points is {50.00}."
+        },
+        {
+            "Q": "What is the average value of the Air quality for all points?",
+            "A": "The average value of Air quality for all points is {41.83}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Air quality values corresponding to the top 3 Forest cover values in the scatter plot?",
+            "A": "{2.47, 29.14, 57.95}."
+        },
+        {
+            "Q": "What are the Air quality values corresponding to the bottom 3 Forest cover values in the scatter plot?",
+            "A": "{25.35, 61.17, 25.85}."
+        },
+        {
+            "Q": "What are the Forest cover values corresponding to the top 3 Air quality values in the scatter plot?",
+            "A": "{58.00, 44.67, 66.00}."
+        },
+        {
+            "Q": "What are the Forest cover values corresponding to the bottom 3 Air quality values in the scatter plot?",
+            "A": "{55.33, 36.67, 90.00}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 34.81 and 44.67 and Y coordinates between 70.14 and 81.73?",
+            "A": "There are {1} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(58.00, 100.00) and (90.00, 2.47)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(39.33, 47.53) and (42.00, 45.59)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [35.33, 40.59, 46.00, 52.53] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (39.33, 47.53)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [30.52, 36.41, 50.81, 56.71]; Region B: [63.21, 6.22, 83.50, 26.51]; Region C: [61.64, 50.95, 81.93, 71.24]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

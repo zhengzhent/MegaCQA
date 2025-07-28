@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Graph Databases in this treemap?",
+            "A": "There are {1} child rectangles under the category Graph Databases."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Talent Development}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {FACS Coding}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Talent Development}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Talent Development rectangle in this treemap?",
+            "A": "The value of the Talent Development rectangle is {100.0}."
+        },
+        {
+            "Q": "What is the value of the NLP Analysis rectangle in this treemap?",
+            "A": "The value of the NLP Analysis rectangle is {7.32}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.08}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Talent Development and FACS Coding?",
+            "A": "The difference between Talent Development and FACS Coding is {94.92}."
+        },
+        {
+            "Q": "What is the sum of the regions of k-Anonymity and Peer Evaluation?",
+            "A": "The sum of k-Anonymity and Peer Evaluation is {105.21}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Graph Databases category in the treemap, which rectangular labels have a value exceeded 8.14? Please list the labels and values.",
+            "A": "{Neo4j Queries} has {8.15}"
+        },
+        {
+            "Q": "Under the Graph Databases category in the treemap, which rectangular labels have a value below 8.16? Please list the labels and values.",
+            "A": "{Neo4j Queries} has {8.15}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Competency Models, 360 Feedback, or Peer Evaluation?",
+            "A": "The value of {Peer Evaluation} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Talent Development, Competency Models, or 360 Feedback?",
+            "A": "The value of {Talent Development} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Talent Development or Competency Models?",
+            "A": "The value of {Talent Development} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {5} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

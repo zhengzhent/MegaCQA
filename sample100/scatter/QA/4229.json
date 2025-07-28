@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {76} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Salary in the scatter plot?",
+            "A": "The maximum observed value in the Salary dimension is {200000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Salary in the scatter plot?",
+            "A": "The minimum observed value in the Salary dimension is {30000.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Productivity in the scatter plot?",
+            "A": "The maximum observed value in the Productivity dimension is {150.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Productivity in the scatter plot?",
+            "A": "The minimum observed value in the Productivity dimension is {50.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Salary for all points?",
+            "A": "The average value of Salary for all points is {115000.00}."
+        },
+        {
+            "Q": "What is the average value of the Productivity for all points?",
+            "A": "The average value of Productivity for all points is {100.90}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Productivity values corresponding to the top 3 Salary values in the scatter plot?",
+            "A": "{107.15, 70.65, 99.84}."
+        },
+        {
+            "Q": "What are the Productivity values corresponding to the bottom 3 Salary values in the scatter plot?",
+            "A": "{125.09, 112.85, 134.89}."
+        },
+        {
+            "Q": "What are the Salary values corresponding to the top 3 Productivity values in the scatter plot?",
+            "A": "{79866.67, 127466.67, 34533.33}."
+        },
+        {
+            "Q": "What are the Salary values corresponding to the bottom 3 Productivity values in the scatter plot?",
+            "A": "{161466.67, 163733.33, 175066.67}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 148926.31 and 199577.01 and Y coordinates between 117.20 and 145.02?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(30000.00, 125.09) and (200000.00, 107.15)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(39066.67, 95.34) and (41333.33, 93.16)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [30566.67, 88.16, 49833.33, 100.34] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (39066.67, 95.34)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [30000.00, 80.54, 62986.96, 107.96]; Region B: [63863.43, 54.82, 96850.38, 82.24]; Region C: [152196.67, 56.04, 185183.63, 83.46]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

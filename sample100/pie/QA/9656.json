@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {7} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Public Transport?",
+            "A": "The next slice clockwise from slice Public Transport is {Road Transportation}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Public Transport?",
+            "A": "The next slice counterclockwise from slice Public Transport is {Freight Services}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which urban has the largest proportion in this pie chart?",
+            "A": "The urban with the largest proportion is {Road Transportation}."
+        },
+        {
+            "Q": "Which urban has the smallest proportion in this pie chart?",
+            "A": "The urban with the smallest proportion is {Air Transportation}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Air Transportation slice in this pie chart?",
+            "A": "The value of the Air Transportation slice is {5}%."
+        },
+        {
+            "Q": "What is the value of the Logistics slice in this pie chart?",
+            "A": "The value of the Logistics slice is {16}%."
+        },
+        {
+            "Q": "What is the value of the Maritime Transportation slice in this pie chart?",
+            "A": "The value of the Maritime Transportation slice is {16}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {18}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {5}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Railway Transportation and Road Transportation in this pie chart?",
+            "A": "The difference between Railway Transportation and Road Transportation is {6}%."
+        },
+        {
+            "Q": "What is the sum of the values of Freight Services and Public Transport in this pie chart?",
+            "A": "The sum of Freight Services and Public Transport is {33}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 17.0%? Please list the category names and corresponding percentages.",
+            "A": "{Road Transportation} accounts for {18}% and {Public Transport} accounts for {18}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 13.5%? Please list the category names and corresponding percentages.",
+            "A": "{Railway Transportation} accounts for {12}% and {Air Transportation} accounts for {5}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Road Transportation, Public Transport, Logistics, or Freight Services?",
+            "A": "The value of {Road Transportation} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Road Transportation, Public Transport, or Logistics?",
+            "A": "The value of {Road Transportation} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 3% and 20%?",
+            "A": "There are {7} sectors that have a percentage between 3% and 20%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 45%? List all possible combinations.",
+            "A": "The possible combinations are: {(Road Transportation, Public Transport, Air Transportation), (Road Transportation, Logistics, Air Transportation), (Road Transportation, Maritime Transportation, Air Transportation), (Road Transportation, Freight Services, Air Transportation), (Road Transportation, Railway Transportation, Air Transportation), (Public Transport, Logistics, Air Transportation), (Public Transport, Maritime Transportation, Air Transportation), (Public Transport, Freight Services, Air Transportation), (Public Transport, Railway Transportation, Air Transportation), (Logistics, Maritime Transportation, Railway Transportation), (Logistics, Maritime Transportation, Air Transportation), (Logistics, Freight Services, Railway Transportation), (Logistics, Freight Services, Air Transportation), (Logistics, Railway Transportation, Air Transportation), (Maritime Transportation, Freight Services, Railway Transportation), (Maritime Transportation, Freight Services, Air Transportation), (Maritime Transportation, Railway Transportation, Air Transportation), (Freight Services, Railway Transportation, Air Transportation)}."
+        }
+    ],
+    "VA": []
+}

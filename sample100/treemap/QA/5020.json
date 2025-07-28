@@ -1,0 +1,98 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Force Feedback in this treemap?",
+            "A": "There are {1} child rectangles under the category Force Feedback."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Medical Tech}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Gradient Echo}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Medical Tech}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Bilateral Teleoperation rectangle in this treemap?",
+            "A": "The value of the Bilateral Teleoperation rectangle is {80.41}."
+        },
+        {
+            "Q": "What is the value of the CT Scanners rectangle in this treemap?",
+            "A": "The value of the CT Scanners rectangle is {8.23}."
+        },
+        {
+            "Q": "What is the value of the Pulse Sequences rectangle in this treemap?",
+            "A": "The value of the Pulse Sequences rectangle is {11.36}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.36}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Spin Echo and Wave Variables?",
+            "A": "The difference between Spin Echo and Wave Variables is {37.68}."
+        },
+        {
+            "Q": "What is the sum of the regions of CT Scanners and Haptic Control?",
+            "A": "The sum of CT Scanners and Haptic Control is {88.64}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Force Feedback category in the treemap, which rectangular labels have a value exceeded 80.40? Please list the labels and values.",
+            "A": "{Bilateral Teleoperation} has {80.41}"
+        },
+        {
+            "Q": "Under the Force Feedback category in the treemap, which rectangular labels have a value below 80.42? Please list the labels and values.",
+            "A": "{Bilateral Teleoperation} has {80.41}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Haptic Control or Bilateral Teleoperation?",
+            "A": "The value of {Haptic Control} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Medical Tech, Robotic Surgery, or Haptic Control?",
+            "A": "The value of {Medical Tech} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Robotic Surgery, Haptic Control, or Force Feedback?",
+            "A": "The value of {Force Feedback} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Medical Tech or Robotic Surgery?",
+            "A": "The value of {Medical Tech} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {4} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

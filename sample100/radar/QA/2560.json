@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Cultural Industry Employment Growth Rate?",
+            "A": "The next dimension clockwise from Cultural Industry Employment Growth Rate is Streaming Media Cultural Content Consumption Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Cultural Industry Employment Growth Rate?",
+            "A": "The next dimension counterclockwise from Cultural Industry Employment Growth Rate is Cultural Event Participation Rate."
+        },
+        {
+            "Q": "On the Cultural Event Participation Rate, is the point for North Christina Cultural Center inside or outside the point for Edwardsmouth Cultural Center?",
+            "A": "On the Cultural Event Participation Rate, the point for North Christina Cultural Center is inside the point for Edwardsmouth Cultural Center."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Streaming Media Cultural Content Consumption Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Clarktown Cultural Center?",
+            "A": "The strongest aspect is {Streaming Media Cultural Content Consumption Rate}, while the weakest aspect is{ Local Heritage Awareness Rate}."
+        },
+        {
+            "Q": "On dimension Cultural Event Participation Rate, which label scores the highest?",
+            "A": "On Cultural Event Participation Rate, label {North Christina Cultural Center} scores the highest."
+        },
+        {
+            "Q": "On dimension Local Heritage Awareness Rate, which label scores the highest?",
+            "A": "On Local Heritage Awareness Rate, label {Clarktown Cultural Center} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Clarktown Cultural Center on the Cultural Event Participation Rate in the radar chart?",
+            "A": "The value of Clarktown Cultural Center on the Safety dimension is {61}."
+        },
+        {
+            "Q": "What is the value of North Christina Cultural Center on the Local Heritage Awareness Rate in the radar chart?",
+            "A": "The value of North Christina Cultural Center on the Safety dimension is {45}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Edwardsmouth Cultural Center across all dimensions in the radar chart?",
+            "A": "The maximum value of Edwardsmouth Cultural Center across all dimensions is {51}."
+        },
+        {
+            "Q": "What is the minimum value of label Clarktown Cultural Center across all dimensions in the radar chart?",
+            "A": "The minimum value of Clarktown Cultural Center across all dimensions is {86}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Local Heritage Awareness Rate",
+            "A": "The average value of Local Heritage Awareness Rate is {34.67}."
+        },
+        {
+            "Q": "What is the average value of Clarktown Cultural Center",
+            "A": "The average value of Clarktown Cultural Center is {52.25}."
+        },
+        {
+            "Q": "What is the difference in Cultural Industry Employment Growth Rate between North Christina Cultural Center and Edwardsmouth Cultural Center?",
+            "A": "The difference in Cultural Industry Employment Growth Rate between North Christina Cultural Center and Edwardsmouth Cultural Center is {6}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 53 for the Cultural Event Participation Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Clarktown Cultural Center} is {61}"
+        },
+        {
+            "Q": "For North Christina Cultural Center in the radar chart, which dimensions have scores above 61? Please list the dimensions and corresponding scores.",
+            "A": "{Streaming Media Cultural Content Consumption Rate} is {70}"
+        },
+        {
+            "Q": "For North Christina Cultural Center in the radar chart, which dimensions have scores between 35 and 61? Please list the dimensions and corresponding scores.",
+            "A": "{Local Heritage Awareness Rate} is {45}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For North Christina Cultural Center, which dimension has a higher score: Streaming Media Cultural Content Consumption Rate or Cultural Event Participation Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score than Cultural Event Participation Rate for North Christina Cultural Center."
+        },
+        {
+            "Q": "For Edwardsmouth Cultural Center, which dimension has a higher score: Cultural Industry Employment Growth Rate or Local Heritage Awareness Rate?",
+            "A": "{Cultural Industry Employment Growth Rate} has a higher score than Local Heritage Awareness Rate for Edwardsmouth Cultural Center."
+        },
+        {
+            "Q": "On Cultural Event Participation Rate, which label has a higher score: Edwardsmouth Cultural Center or the North Christina Cultural Center?",
+            "A": "{Edwardsmouth Cultural Center} has a higher score on Cultural Event Participation Rate compared to North Christina Cultural Center."
+        },
+        {
+            "Q": "For North Christina Cultural Center, which dimension has a higher score: Local Heritage Awareness Rate or Streaming Media Cultural Content Consumption Rate or Cultural Event Participation Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score for North Christina Cultural Center."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Clarktown Cultural Center, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Clarktown Cultural Center most needs to improve its {Local Heritage Awareness Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Edwardsmouth Cultural Center}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Clarktown Cultural Center}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {17} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {4} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Beef positioned outside, inside or on the same side as Wholesale?",
+            "A": "Beef is positioned {outside} Wholesale."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Food Processing}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Slaughtering segment in this sunburst chart?",
+            "A": "The value of the Slaughtering segment is {23.81}."
+        },
+        {
+            "Q": "What is the value of the Food Processing segment in this sunburst chart?",
+            "A": "The value of the Food Processing segment is {49.18}."
+        },
+        {
+            "Q": "What is the value of the Food Distribution segment in this sunburst chart?",
+            "A": "The value of the Food Distribution segment is {20.63}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {49.18}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {20.63}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {13.67}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.04}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Food Processing exceed 51%? Please list the category names and corresponding percentages.",
+            "A": "{Dairy Processing} accounts for {51.59}%"
+        },
+        {
+            "Q": "Which categories in the segment Food Processing are below 49%? Please list the category names and corresponding percentages.",
+            "A": "{Meat Processing} accounts for {48.41}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Food Production, Dairy Processing, or Meat Processing?",
+            "A": "The value of {Meat Processing} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Food Processing, Food Production, Dairy Processing, or Slaughtering?",
+            "A": "The value of {Food Processing} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Food Processing or Food Production?",
+            "A": "The value of {Food Processing} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Food Processing to Meat Processing to Slaughtering to Beef}."
+        }
+    ],
+    "VA": []
+}

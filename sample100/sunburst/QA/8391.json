@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {15} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {2} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Sharing and Virality positioned outside, inside or on the same side as Pinned Comments?",
+            "A": "Sharing and Virality is positioned {inside} Pinned Comments."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Platforms}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Content Creation segment in this sunburst chart?",
+            "A": "The value of the Content Creation segment is {21.14}."
+        },
+        {
+            "Q": "What is the value of the Reposts segment in this sunburst chart?",
+            "A": "The value of the Reposts segment is {5.76}."
+        },
+        {
+            "Q": "What is the value of the Platforms segment in this sunburst chart?",
+            "A": "The value of the Platforms segment is {50.23}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {50.23}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {21.14}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {12.17}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.61}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Platforms exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Platforms are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Messaging Apps, User Engagement, or Content Creation?",
+            "A": "The value of {Content Creation} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Platforms, Messaging Apps, User Engagement, or Reactions and Comments?",
+            "A": "The value of {Platforms} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {User Engagement to Reactions and Comments to Comments to Pinned Comments}."
+        }
+    ],
+    "VA": []
+}

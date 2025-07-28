@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {6} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Jun of this stacked bar chart?",
+            "A": "There are {4} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Mar}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Feb}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Jun relative to the bar Mar in terms of horizontal (left/right) direction?",
+            "A": "Bar Jun is to the {right} of the bar Mar."
+        },
+        {
+            "Q": "In the stacked bar of Jun, What is the spatial relationship of segment SkyBound relative to the segment BrightEdge in terms of vertical (above/below) direction?",
+            "A": "SkyBound segment is positioned {below} the BrightEdge segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Month has the highest bar in this stacked bar chart?",
+            "A": "The Month with the highest bar is {Mar}."
+        },
+        {
+            "Q": "Which Month has the lowest bar in this stacked bar chart?",
+            "A": "The Month with the lowest bar is {Jul}."
+        },
+        {
+            "Q": "In the stacked bar representing Jul, which segment has the highest value?",
+            "A": "The segment with the highest value is {EcoCore}."
+        },
+        {
+            "Q": "In the stacked bar representing Feb, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {EcoCore}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the NovaEdge segment within the Feb bar in the stacked bar chart?",
+            "A": "The value of the NovaEdge segment is {469.00} million USD."
+        },
+        {
+            "Q": "What is the value of the NovaEdge segment within the Mar bar in the stacked bar chart?",
+            "A": "The value of the NovaEdge segment is {82.00} million USD."
+        },
+        {
+            "Q": "What is the value of the BrightEdge segment within the May bar in the stacked bar chart?",
+            "A": "The value of the BrightEdge segment is {96.00} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD among the stacked segments of bar May?",
+            "A": "The maximum million USD among the stacked segments of bar May is {178} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD among the stacked segments of bar Mar?",
+            "A": "The minimum million USD among the stacked segments of bar Mar is {82} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum million USD of the segment NovaEdge among the bars?",
+            "A": "The maximum million USD among the bars of segment NovaEdge is {469} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum million USD of the segment NovaEdge among the bars?",
+            "A": "The minimum million USD among the bars of segment NovaEdge is {65} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Apr?",
+            "A": "The total value of bar Apr is {927.00} million USD."
+        },
+        {
+            "Q": "What is the total value of the bar Mar?",
+            "A": "The total value of bar Mar is {1162.00} million USD."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {4848} million USD."
+        },
+        {
+            "Q": "What is the difference between total value of bar Feb and Apr?",
+            "A": "The difference between between total value of bar Feb and Apr is {26} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total million USD values exceed 948.50 million USD? Please list the bar and corresponding values.",
+            "A": "{Jun} has {970} million USD, {Mar} has {1162} million USD"
+        },
+        {
+            "Q": "Which bars have total million USD values below 914.00 million USD? Please list the bar and corresponding values.",
+            "A": "{Jul} has {417} million USD, {May} has {471} million USD, {Feb} has {901} million USD"
+        },
+        {
+            "Q": "For bar May in the stacked bar chart, which segment have million USD value between 42.0 and 90.0? Please list the segment and corresponding values.",
+            "A": "{NovaEdge} has {84} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total million USD of Apr or May?",
+            "A": "The total million USD of the {Apr} is larger."
+        },
+        {
+            "Q": "Which is larger, the total million USD of Apr, Feb or Jun?",
+            "A": "The total million USD of the {Jun} is larger."
+        },
+        {
+            "Q": "In the bar May, which has a larger million USD value: NovaEdge or BrightEdge?",
+            "A": "{BrightEdge} has the larger million USD value."
+        },
+        {
+            "Q": "In the bar Jul, which has a larger million USD value: EcoCore, NovaEdge or BrightEdge?",
+            "A": "{EcoCore} has the larger million USD value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment BrightEdge in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment BrightEdge are: {Apr}, {Jun}, {Mar}."
+        }
+    ],
+    "VA": []
+}

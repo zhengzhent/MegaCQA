@@ -1,0 +1,79 @@
+Healthcare and Health,Healthcare Service Ecosystem,Patients,random,Outcomes,Treatment Types,Medical Specialties,Patient Demographics,Healthcare Providers
+Source,Target,Value
+Deceased,Therapy,1176
+Deceased,Preventive Care,905
+Deceased,Medication,5106
+Deceased,Surgery,2771
+Deceased,Emergency Care,1631
+Worsened Condition,Therapy,2408
+Worsened Condition,Preventive Care,885
+Worsened Condition,Medication,1676
+Worsened Condition,Surgery,1159
+Worsened Condition,Emergency Care,2122
+Stable Condition,Therapy,714
+Stable Condition,Preventive Care,688
+Stable Condition,Medication,615
+Stable Condition,Surgery,871
+Stable Condition,Emergency Care,373
+Full Recovery,Therapy,1271
+Full Recovery,Preventive Care,418
+Full Recovery,Medication,1639
+Full Recovery,Surgery,307
+Full Recovery,Emergency Care,255
+Improved Condition,Therapy,4994
+Improved Condition,Preventive Care,538
+Improved Condition,Medication,4388
+Improved Condition,Surgery,3296
+Improved Condition,Emergency Care,2854
+Therapy,Neurology,565
+Therapy,Cardiology,5485
+Therapy,Orthopedics,1251
+Therapy,Dermatology,3262
+Preventive Care,Neurology,1227
+Preventive Care,Cardiology,1124
+Preventive Care,Orthopedics,402
+Preventive Care,Dermatology,681
+Medication,Neurology,3900
+Medication,Cardiology,1768
+Medication,Orthopedics,958
+Medication,Dermatology,6798
+Surgery,Neurology,2201
+Surgery,Cardiology,2184
+Surgery,Orthopedics,3452
+Surgery,Dermatology,567
+Emergency Care,Neurology,2377
+Emergency Care,Cardiology,1519
+Emergency Care,Orthopedics,2574
+Emergency Care,Dermatology,765
+Neurology,Adults,859
+Neurology,Chronic Patients,1510
+Neurology,Pregnant Women,2118
+Neurology,Seniors,5783
+Cardiology,Adults,3455
+Cardiology,Chronic Patients,2618
+Cardiology,Pregnant Women,3249
+Cardiology,Seniors,2758
+Orthopedics,Adults,2989
+Orthopedics,Chronic Patients,2813
+Orthopedics,Pregnant Women,2075
+Orthopedics,Seniors,760
+Dermatology,Adults,2270
+Dermatology,Chronic Patients,5159
+Dermatology,Pregnant Women,3057
+Dermatology,Seniors,1587
+Adults,Clinics,3526
+Adults,Pharmacies,1682
+Adults,Nursing Homes,489
+Adults,Hospitals,3876
+Chronic Patients,Clinics,5825
+Chronic Patients,Pharmacies,1231
+Chronic Patients,Nursing Homes,1645
+Chronic Patients,Hospitals,3399
+Pregnant Women,Clinics,3966
+Pregnant Women,Pharmacies,4821
+Pregnant Women,Nursing Homes,856
+Pregnant Women,Hospitals,856
+Seniors,Clinics,2098
+Seniors,Pharmacies,5529
+Seniors,Nursing Homes,572
+Seniors,Hospitals,2689

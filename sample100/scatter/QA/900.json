@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {53} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Study hours in the scatter plot?",
+            "A": "The maximum observed value in the Study hours dimension is {40.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Study hours in the scatter plot?",
+            "A": "The minimum observed value in the Study hours dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Graduation rate in the scatter plot?",
+            "A": "The maximum observed value in the Graduation rate dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Graduation rate in the scatter plot?",
+            "A": "The minimum observed value in the Graduation rate dimension is {50.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Study hours for all points?",
+            "A": "The average value of Study hours for all points is {20.50}."
+        },
+        {
+            "Q": "What is the average value of the Graduation rate for all points?",
+            "A": "The average value of Graduation rate for all points is {60.74}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Graduation rate values corresponding to the top 3 Study hours values in the scatter plot?",
+            "A": "{53.31, 52.98, 52.90}."
+        },
+        {
+            "Q": "What are the Graduation rate values corresponding to the bottom 3 Study hours values in the scatter plot?",
+            "A": "{100.00, 93.62, 90.62}."
+        },
+        {
+            "Q": "What are the Study hours values corresponding to the top 3 Graduation rate values in the scatter plot?",
+            "A": "{1.00, 1.75, 2.50}."
+        },
+        {
+            "Q": "What are the Study hours values corresponding to the bottom 3 Graduation rate values in the scatter plot?",
+            "A": "{25.00, 22.00, 26.50}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 26.50 and 35.87 and Y coordinates between 85.44 and 97.56?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1.00, 100.00) and (40.00, 53.31)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(38.50, 52.90) and (39.25, 52.98)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [36.55, 50.40, 41.20, 55.48] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (38.50, 52.90)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [12.70, 58.39, 20.66, 72.77]; Region B: [4.42, 74.55, 12.38, 88.93]; Region C: [32.04, 50.00, 40.00, 64.38]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

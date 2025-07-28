@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {10} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Final Reckoning}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Frozen Time}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Nightfall relative to the bar Shadow Line in terms of horizontal (left/right) direction?",
+            "A": "Bar Nightfall is to the {right} of the bar Shadow Line."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Lost Signal}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Shadow Line}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Echoes?",
+            "A": "The value of Echoes is {2478} million USD."
+        },
+        {
+            "Q": "What is the value of bar Frozen Time?",
+            "A": "The value of Frozen Time is {1144} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {5256} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {1133} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of True Edge and Lost Signal?",
+            "A": "The total value of True Edge and Lost Signal is {6825} million USD."
+        },
+        {
+            "Q": "What is the average value of Frozen Time and Lost Signal?",
+            "A": "The average value of Frozen Time and Lost Signal is {3200.0} million USD."
+        },
+        {
+            "Q": "What is the difference between Dark Horizon and Last Ember?",
+            "A": "The difference between Dark Horizon and Last Ember is {451} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 2599.00 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Final Reckoning} has {2720} million USD, {Lost Signal} has {5256} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 1138.50 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Shadow Line} has {1133} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Fading Light or Echoes ",
+            "A": "The value of the {Echoes} is larger?"
+        },
+        {
+            "Q": "Which is larger, Nightfall, Lost Signal or Final Reckoning ",
+            "A": "The value of the {Lost Signal} is larger?"
+        },
+        {
+            "Q": "Which is larger, Echoes, Lost Signal, Dark Horizon or True Edge ",
+            "A": "The value of the {Lost Signal} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {3} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Lost Signal} and {Frozen Time}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Lost Signal}, {Final Reckoning}, and {Echoes}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {Lost Signal}, {Final Reckoning}, {Echoes}, {Last Ember}, {True Edge}, {Dark Horizon}, {Fading Light}, {Nightfall}, {Frozen Time}, and {Shadow Line}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {Shadow Line}, {Frozen Time}, {Nightfall}, {Fading Light}, {Dark Horizon}, {True Edge}, {Last Ember}, {Echoes}, {Final Reckoning}, and {Lost Signal}."
+        }
+    ]
+}

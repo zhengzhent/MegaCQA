@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {10} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of employees of 426.64 relative to the bubble with a Number of employees of 796.30 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of employees of 426.64 is {below} and to the {right} of the bubble with a Number of employees of 796.30."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Training hours and Productivity index?",
+            "A": "The highest concentration of bubbles corresponds to approximately {18.81} hours/year and {126.49} index."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of employees of the largest bubble?",
+            "A": "The Number of employees of the largest bubble is {10000.00} count."
+        },
+        {
+            "Q": "What is the Number of employees of the smallest bubble?",
+            "A": "The Number of employees of the smallest bubble is {10.00} count."
+        },
+        {
+            "Q": "What are the Training hours and Productivity index values of the largest bubble?",
+            "A": "The Training hours of the largest bubble is {56.83} hours/year, and {Productivity index} is {101.58} index."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of employees in the bubble chart?",
+            "A": "The global maximum Number of employees is {10000.00} count."
+        },
+        {
+            "Q": "What is the global minimum Number of employees in the bubble chart?",
+            "A": "The global minimum Number of employees is {10.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Training hours in the bubble chart?",
+            "A": "The maximum observed value in the Training hours dimension is {94.65} hours/year."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Training hours in the bubble chart?",
+            "A": "The minimum observed value in the Training hours dimension is {4.80} hours/year."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Productivity index in the bubble chart?",
+            "A": "The maximum observed value in the Productivity index dimension is {142.99} index."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Productivity index in the bubble chart?",
+            "A": "The minimum observed value in the Productivity index dimension is {59.60} index."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of employees for all bubbles?",
+            "A": "The average value of the Number of employees for all bubbles is {3850.59} count."
+        },
+        {
+            "Q": "What is the average value of the Training hours for all bubbles?",
+            "A": "The average value of Training hours for all bubbles is {40.07} hours/year."
+        },
+        {
+            "Q": "What is the average value of the Productivity index for all bubbles?",
+            "A": "The average value of Productivity index for all bubbles is {109.32} index."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of employees values in the bubble chart?",
+            "A": "{10000.00, 9317.82, 7068.14} count."
+        },
+        {
+            "Q": "What are the bottom 3 Number of employees values in the bubble chart?",
+            "A": "{10.00, 96.01, 426.64} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of employees value, the bubble with a Training hours of 30.0 hours/year and a Productivity index of 59.6 index, or the bubble with a Training hours of 45.9 hours/year and a Productivity index of 140.1 index?",
+            "A": "The bubble with a Training hours of {45.9} and a Productivity index of {140.1} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of employees value of the bubble with the largest Productivity index value?",
+            "A": "The Number of employees value of the bubble with the largest Productivity index is {96.01}."
+        },
+        {
+            "Q": "What is the Number of employees value of the bubble with the largest Training hours value?",
+            "A": "The Number of employees value of the bubble with the largest Training hours is {9317.82}."
+        },
+        {
+            "Q": "Classify bubbles with a Productivity index-coordinate greater than 82 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of employees for the high value group and the low value group?",
+            "A": "The difference between the total Number of employees of the high-value and low-value groups is {20379.98}."
+        }
+    ],
+    "VA": []
+}

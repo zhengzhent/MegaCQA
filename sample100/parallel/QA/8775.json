@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Freshness score (1-10) dimension, what is the spatial relationship of Clements-Johnson  Brasserie relative to Bryant, White and Martinez  Grill in terms of vertical (above/below) direction?",
+            "A": "{Clements-Johnson  Brasserie} is {above} {Bryant, White and Martinez  Grill} on the Freshness score (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Nutritional value (1-10)?",
+            "A": "The second position to the left of Nutritional value (1-10) is {Organic content (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Freshness score (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Organic content (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Shelf life (days)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Organic content (%) and dimension Shelf life (days)",
+            "A": "There is {Weak Correlation} between Organic content (%) and Shelf life (days)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Bryant, White and Martinez  Grill on the Shelf life (days) dimension in the parallel-coordinates chart?",
+            "A": "The value of Bryant, White and Martinez  Grill on the Shelf life (days) dimension is {316.5}"
+        },
+        {
+            "Q": "What is the value of Clements-Johnson  Brasserie on the Freshness score (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Clements-Johnson  Brasserie on the Freshness score (1-10) dimension is {8.98}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Romero-Sutton  Grill across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Romero-Sutton  Grill across all dimensions is {24.9}"
+        },
+        {
+            "Q": "What is the minimum value of label Palmer-Bautista  Grill across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Palmer-Bautista  Grill across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Organic content (%)?",
+            "A": "The average value of Organic content (%) is {43.0}"
+        },
+        {
+            "Q": "What is the difference in coding Nutritional value (1-10) between label Clements-Johnson  Brasserie and label Williams and Sons  Bistro",
+            "A": "The difference in coding Nutritional value (1-10) between Clements-Johnson  Brasserie and Williams and Sons  Bistro is {2.41}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Organic content (%) dimension in the parallel coordinates?",
+            "A": "{[100.0, 89.72, 45.91]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Shelf life (days) dimension in the parallel coordinates?",
+            "A": "{[1.0, 24.9, 146.95]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Shelf life (days), which label has a higher score: Romero-Sutton  Grill or Palmer-Bautista  Grill?",
+            "A": "{Romero-Sutton  Grill} has a higher score on Shelf life (days)."
+        },
+        {
+            "Q": "On Shelf life (days), which label has a higher score: Romero-Sutton  Grill or Williams and Sons  Bistro?",
+            "A": "{Williams and Sons  Bistro} has a higher score on Shelf life (days)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Shelf life (days)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Shelf life (days) being greater than 117.9 and Organic content (%) being less than 60.99?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

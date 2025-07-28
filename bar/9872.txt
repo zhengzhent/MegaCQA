@@ -1,0 +1,10 @@
+Image Name: 9872.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\9872.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and well-organized, with each bar representing a month's sales figures. The use of a gradient color scheme adds visual interest without detracting from the data. The values are directly labeled on top of each bar, making it easy to read the exact figures. The axis labels and title are clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart effectively presents monthly online sales figures with clear labels for each month and corresponding values. The use of a gradient color scheme is visually appealing, but it may slightly detract from the clarity of the data representation. However, the overall organization and readability of the chart are good, allowing for easy interpretation of the sales trends.

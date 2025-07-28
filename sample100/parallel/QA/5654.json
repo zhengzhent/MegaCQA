@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Language adoption (new words) dimension, what is the spatial relationship of shake  Culture relative to along  Civilization in terms of vertical (above/below) direction?",
+            "A": "{shake  Culture} is {below} {along  Civilization} on the Language adoption (new words) dimension."
+        },
+        {
+            "Q": "Which dimension is the fourth position to the left of dimension Artistic references (cultural citations)?",
+            "A": "The fourth position to the left of Artistic references (cultural citations) is {Behavior change rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Media coverage (articles/month)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Behavior change rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Artistic references (cultural citations)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Historical significance (1-10) and dimension Artistic references (cultural citations)",
+            "A": "There is {Strong Correlation} between Historical significance (1-10) and Artistic references (cultural citations)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of student  Culture on the Behavior change rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of student  Culture on the Behavior change rate (%) dimension is {36.56}"
+        },
+        {
+            "Q": "What is the value of management  Civilization on the Historical significance (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of management  Civilization on the Historical significance (1-10) dimension is {2.63}"
+        },
+        {
+            "Q": "What is the value of along  Civilization on the Historical significance (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of along  Civilization on the Historical significance (1-10) dimension is {8.99}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label along  Civilization across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of along  Civilization across all dimensions is {750.78}"
+        },
+        {
+            "Q": "What is the minimum value of label none  Culture across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of none  Culture across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Historical significance (1-10)?",
+            "A": "The average value of Historical significance (1-10) is {5.4}"
+        },
+        {
+            "Q": "What is the difference in coding Policy influence index (1-10) between label student  Culture and label management  Civilization",
+            "A": "The difference in coding Policy influence index (1-10) between student  Culture and management  Civilization is {7.39}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Artistic references (cultural citations) dimension in the parallel coordinates?",
+            "A": "{[1000.0, 750.78, 607.35]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Historical significance (1-10) dimension in the parallel coordinates?",
+            "A": "{[1.0, 2.63, 2.75]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Behavior change rate (%), which label has a higher score: student  Culture or provide  Culture?",
+            "A": "{student  Culture} has a higher score on Behavior change rate (%)."
+        },
+        {
+            "Q": "On Policy influence index (1-10), which label has a higher score: along  Civilization or student  Culture?",
+            "A": "{along  Civilization} has a higher score on Policy influence index (1-10)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Artistic references (cultural citations)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Artistic references (cultural citations) being greater than 314.02 and Behavior change rate (%) being less than 31.96?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

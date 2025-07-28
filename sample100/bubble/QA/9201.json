@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {11} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of rooms in the hotel of 382.75 relative to the bubble with a Number of rooms in the hotel of 27.12 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of rooms in the hotel of 382.75 is {below} and to the {left} of the bubble with a Number of rooms in the hotel of 27.12."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Price per night and Occupancy rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {407.85} $ and {70.36} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of rooms in the hotel of the largest bubble?",
+            "A": "The Number of rooms in the hotel of the largest bubble is {500.00} rooms."
+        },
+        {
+            "Q": "What is the Number of rooms in the hotel of the smallest bubble?",
+            "A": "The Number of rooms in the hotel of the smallest bubble is {10.00} rooms."
+        },
+        {
+            "Q": "What are the Price per night and Occupancy rate values of the largest bubble?",
+            "A": "The Price per night of the largest bubble is {72.33} $, and {Occupancy rate} is {69.96} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of rooms in the hotel in the bubble chart?",
+            "A": "The global maximum Number of rooms in the hotel is {500.00} rooms."
+        },
+        {
+            "Q": "What is the global minimum Number of rooms in the hotel in the bubble chart?",
+            "A": "The global minimum Number of rooms in the hotel is {10.00} rooms."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Price per night in the bubble chart?",
+            "A": "The maximum observed value in the Price per night dimension is {464.73} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Price per night in the bubble chart?",
+            "A": "The minimum observed value in the Price per night dimension is {72.33} $."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Occupancy rate in the bubble chart?",
+            "A": "The maximum observed value in the Occupancy rate dimension is {97.86} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Occupancy rate in the bubble chart?",
+            "A": "The minimum observed value in the Occupancy rate dimension is {36.71} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of rooms in the hotel for all bubbles?",
+            "A": "The average value of the Number of rooms in the hotel for all bubbles is {219.48} rooms."
+        },
+        {
+            "Q": "What is the average value of the Price per night for all bubbles?",
+            "A": "The average value of Price per night for all bubbles is {330.95} $."
+        },
+        {
+            "Q": "What is the average value of the Occupancy rate for all bubbles?",
+            "A": "The average value of Occupancy rate for all bubbles is {69.01} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of rooms in the hotel values in the bubble chart?",
+            "A": "{500.00, 389.59, 382.75} rooms."
+        },
+        {
+            "Q": "What are the bottom 3 Number of rooms in the hotel values in the bubble chart?",
+            "A": "{10.00, 27.12, 63.63} rooms."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of rooms in the hotel value, the bubble with a Price per night of 156.2 $ and a Occupancy rate of 71.4 %, or the bubble with a Price per night of 288.9 $ and a Occupancy rate of 94.1 %?",
+            "A": "The bubble with a Price per night of {156.2} and a Occupancy rate of {71.4} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of rooms in the hotel value of the bubble with the largest Occupancy rate value?",
+            "A": "The Number of rooms in the hotel value of the bubble with the largest Occupancy rate is {224.37}."
+        },
+        {
+            "Q": "What is the Number of rooms in the hotel value of the bubble with the largest Price per night value?",
+            "A": "The Number of rooms in the hotel value of the bubble with the largest Price per night is {224.37}."
+        },
+        {
+            "Q": "Classify bubbles with a Occupancy rate-coordinate greater than 72 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of rooms in the hotel for the high value group and the low value group?",
+            "A": "The difference between the total Number of rooms in the hotel of the high-value and low-value groups is {1428.80}."
+        }
+    ],
+    "VA": []
+}

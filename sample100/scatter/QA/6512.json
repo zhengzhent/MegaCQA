@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {50} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Checkout time in the scatter plot?",
+            "A": "The maximum observed value in the Checkout time dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Checkout time in the scatter plot?",
+            "A": "The minimum observed value in the Checkout time dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Customer satisfaction in the scatter plot?",
+            "A": "The maximum observed value in the Customer satisfaction dimension is {5.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Customer satisfaction in the scatter plot?",
+            "A": "The minimum observed value in the Customer satisfaction dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Checkout time for all points?",
+            "A": "The average value of Checkout time for all points is {5.00}."
+        },
+        {
+            "Q": "What is the average value of the Customer satisfaction for all points?",
+            "A": "The average value of Customer satisfaction for all points is {2.92}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Customer satisfaction values corresponding to the top 3 Checkout time values in the scatter plot?",
+            "A": "{2.71, 2.50, 1.55}."
+        },
+        {
+            "Q": "What are the Customer satisfaction values corresponding to the bottom 3 Checkout time values in the scatter plot?",
+            "A": "{2.38, 2.58, 3.64}."
+        },
+        {
+            "Q": "What are the Checkout time values corresponding to the top 3 Customer satisfaction values in the scatter plot?",
+            "A": "{2.24, 7.76, 4.90}."
+        },
+        {
+            "Q": "What are the Checkout time values corresponding to the bottom 3 Customer satisfaction values in the scatter plot?",
+            "A": "{3.06, 8.16, 9.59}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 0.09 and 1.64 and Y coordinates between 3.70 and 4.79?",
+            "A": "There are {1} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(0.00, 2.38) and (10.00, 2.71)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(8.37, 3.00) and (8.57, 2.99)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [7.87, 2.79, 9.07, 3.20] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (8.37, 3.00)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [1.47, 3.88, 3.71, 4.95]; Region B: [7.35, 2.46, 9.59, 3.53]; Region C: [3.28, 1.01, 5.52, 2.08]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

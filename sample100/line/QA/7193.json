@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Starburst College, what is the spatial relationship of the data point in 1984 relative to that in 1971 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Starburst College, the data point in 1984 is {above} and to the {right} of the data point in 1971."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Starburst College's Engineering Graduates levels?",
+            "A": "Starburst College's engineering graduates levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "Which line shows a volatile rising trend in Engineering Graduates levels?",
+            "A": "{Starburst College}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Starburst College's Engineering Graduates in 1989?",
+            "A": "Starburst College's engineering graduates in 1989 is {1461.99} students."
+        },
+        {
+            "Q": "What is Starburst College's Engineering Graduates in 1986?",
+            "A": "Starburst College's engineering graduates in 1986 is {1331.59} students."
+        },
+        {
+            "Q": "What is Starburst College's Engineering Graduates in 1979?",
+            "A": "Starburst College's engineering graduates in 1979 is {1000.16} students."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Engineering Graduates in the line chart?",
+            "A": "The global minimum engineering graduates is {578.54} students."
+        },
+        {
+            "Q": "What is the global maximum Engineering Graduates in the line chart?",
+            "A": "The global maximum engineering graduates is {1559.04} students."
+        },
+        {
+            "Q": "What is the highest Engineering Graduates level recorded for Starburst College?",
+            "A": "Starburst College reached approximately {1559.04} students in {1991}."
+        },
+        {
+            "Q": "What is the lowest Engineering Graduates level recorded for Starburst College?",
+            "A": "Starburst College's lowest recorded level is approximately {578.54} students in {1970}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Starburst College's Engineering Graduates?",
+            "A": "The average value of Starburst College's engineering graduates is {1069.69} students."
+        },
+        {
+            "Q": "What is the rate of change in Starburst College's Engineering Graduates from the starting year to the final year?",
+            "A": "The rate of growth in Starburst College's engineering graduates is {169.48}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Starburst College's Engineering Graduates between 878 and 1269 students? Please list the years and corresponding values.",
+            "A": "{1182.66} students in {1983} year, {953.69} students in {1978} year, {1097.65} students in {1981} year."
+        },
+        {
+            "Q": "Which years did Starburst College's Engineering Graduates exceed 1318 students? Please list the years and corresponding values.",
+            "A": "{1559.04} students in {1991} year, {1331.59} students in {1986} year, {1461.99} students in {1989} year."
+        },
+        {
+            "Q": "Which years did Starburst College's Engineering Graduates below 829 students? Please list the years and corresponding values.",
+            "A": "{578.54} students in {1970} year, {673.95} students in {1972} year, {629.37} students in {1971} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Starburst College's Engineering Graduates in 1971 higher or lower than in 1972?",
+            "A": "The engineering graduates in 1971 was {lower} than in 1972."
+        },
+        {
+            "Q": "Was Starburst College's Engineering Graduates in 1974 higher or lower than in 1988?",
+            "A": "The engineering graduates in 1974 was {lower} than in 1988."
+        },
+        {
+            "Q": "Was Starburst College's Engineering Graduates in 1980 higher or lower than in 1989?",
+            "A": "The engineering graduates in 1980 was {lower} than in 1989."
+        },
+        {
+            "Q": "Was Starburst College's Engineering Graduates in 1971 higher or lower than in 1990?",
+            "A": "The engineering graduates in 1971 was {lower} than in 1990."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Starburst College. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1970, 1991}."
+        }
+    ]
+}

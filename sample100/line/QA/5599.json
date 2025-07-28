@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1993, what is the vertical (above/below) relationship of the line representing Silverwood Forest relative to Golden Delta?",
+            "A": "In 1993, Silverwood Forest is {above} Golden Delta in the vertical direction."
+        },
+        {
+            "Q": "On Golden Delta, what is the spatial relationship of the data point in 1990 relative to that in 2000 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Golden Delta, the data point in 1990 is {above} and to the {left} of the data point in 2000."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Silverwood Forest's Construction Starts levels?",
+            "A": "Silverwood Forest's construction starts levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Golden Delta's Construction Starts levels?",
+            "A": "Golden Delta's construction starts levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "Which line shows a stable falling trend in Construction Starts levels?",
+            "A": "{Silverwood Forest}."
+        },
+        {
+            "Q": "Which line shows a volatile falling trend in Construction Starts levels?",
+            "A": "{Golden Delta}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Silverwood Forest's Construction Starts in 1996?",
+            "A": "Silverwood Forest's construction starts in 1996 is {654.56} units/year."
+        },
+        {
+            "Q": "What is Silverwood Forest's Construction Starts in 2005?",
+            "A": "Silverwood Forest's construction starts in 2005 is {778.25} units/year."
+        },
+        {
+            "Q": "What is Golden Delta's Construction Starts in 2000?",
+            "A": "Golden Delta's construction starts in 2000 is {24.69} units/year."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Construction Starts in the line chart?",
+            "A": "The global minimum construction starts is {5.45} units/year."
+        },
+        {
+            "Q": "What is the global maximum Construction Starts in the line chart?",
+            "A": "The global maximum construction starts is {778.25} units/year."
+        },
+        {
+            "Q": "What is the highest Construction Starts level recorded for Golden Delta?",
+            "A": "Golden Delta reached approximately {546.56} units/year in {1984}."
+        },
+        {
+            "Q": "What is the lowest Construction Starts level recorded for Golden Delta?",
+            "A": "Golden Delta's lowest recorded level is approximately {5.45} units/year in {2001}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Golden Delta's Construction Starts?",
+            "A": "The average value of Golden Delta's construction starts is {220.62} units/year."
+        },
+        {
+            "Q": "What is the average value of Silverwood Forest's Construction Starts?",
+            "A": "The average value of Silverwood Forest's construction starts is {631.04} units/year."
+        },
+        {
+            "Q": "What is the rate of change in Golden Delta's Construction Starts from the starting year to the final year?",
+            "A": "The rate of decline in Golden Delta's construction starts is {-99.00}%."
+        },
+        {
+            "Q": "What is the rate of change in Silverwood Forest's Construction Starts from the starting year to the final year?",
+            "A": "The rate of growth in Silverwood Forest's construction starts is {64.22}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Golden Delta's Construction Starts below 32 units/year? Please list the years and corresponding values.",
+            "A": "{5.45} units/year in {2003} year, {5.45} units/year in {2005} year, {5.45} units/year in {2002} year."
+        },
+        {
+            "Q": "In the year 1992, which lines had Construction Starts below 358 units/year? Please list the lines and corresponding values.",
+            "A": "{Golden Delta} had {280} units/year."
+        },
+        {
+            "Q": "Which years did Silverwood Forest's Construction Starts exceed 700 units/year? Please list the years and corresponding values.",
+            "A": "{778.25} units/year in {2005} year, {752.12} units/year in {2003} year, {711.73} units/year in {2000} year."
+        },
+        {
+            "Q": "In the year 1989, which line had Construction Starts exceed 491 units/year? Please list the lines and corresponding values.",
+            "A": "{Silverwood Forest} had {545} units/year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1992 and 2001, which line had a higher average Construction Starts, Golden Delta or Silverwood Forest?",
+            "A": "{Silverwood Forest} had a higher average construction starts."
+        },
+        {
+            "Q": "Between 1993 and 1997, which line had a higher average Construction Starts, Golden Delta or Silverwood Forest?",
+            "A": "{Silverwood Forest} had a higher average construction starts."
+        },
+        {
+            "Q": "Between 1989 and 1995, which line experienced a larger change in Construction Starts, Silverwood Forest or Golden Delta?",
+            "A": "{Golden Delta} experienced a larger change in construction starts."
+        },
+        {
+            "Q": "Between 2002 and 2003, which line had a higher average Construction Starts, Golden Delta or Silverwood Forest?",
+            "A": "{Silverwood Forest} had a higher average construction starts."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Golden Delta}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2001 and 2004?",
+            "A": "{Silverwood Forest} has the fastest average growth rate between 2001 and 2004."
+        },
+        {
+            "Q": "In which year did Silverwood Forest first surpass Golden Delta?",
+            "A": "Silverwood Forest first surpassed Golden Delta in the year {1986}."
+        },
+        {
+            "Q": "Which label had the leading construction starts since 1989?",
+            "A": "Since 1989, {Silverwood Forest} had the leading construction starts."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Golden Delta. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1984, 2005}."
+        }
+    ]
+}

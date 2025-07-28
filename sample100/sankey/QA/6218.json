@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {7} nodes."
+        },
+        {
+            "Q": "How many links flow out of column Patient Demographics of this sankey chart?",
+            "A": "There are {12} links flow out of column Patient Demographics."
+        },
+        {
+            "Q": "How many links flow into the node Preventive Care in this sankey chart?",
+            "A": "There are {3} links flowing into the node Preventive Care."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Patient Demographics}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Treatment Types}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Chronic Patients} and {Therapy}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Adults} and {Emergency Care}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Chronic Patients to the node Emergency Care?",
+            "A": "The flow value from the node Chronic Patients to the node Emergency Care is {1487}."
+        },
+        {
+            "Q": "What is the flow value from the node Pregnant Women to the node Therapy?",
+            "A": "The flow value from the node Pregnant Women to the node Therapy is {1125}."
+        },
+        {
+            "Q": "What is the flow value from the node Chronic Patients to the node Therapy?",
+            "A": "The flow value from the node Chronic Patients to the node Therapy is {3066}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Adults to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Adults to the next stage is {1202}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Pregnant Women to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Pregnant Women to the next stage is {1125}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Chronic Patients?",
+            "A": "The total flow output from node Chronic Patients is {8774}."
+        },
+        {
+            "Q": "What is the total flow input by node Preventive Care?",
+            "A": "The total flow input by node Preventive Care is {5758}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Patient Demographics of the sankey chart, which nodes have an outflow exceeded 1930? Please list the node labels and their corresponding outflow values.",
+            "A": "{Chronic Patients} has an outflow of {2966}, {Chronic Patients} has an outflow of {3066}, {Pregnant Women} has an outflow of {1992}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Patient Demographics and column Treatment Types is the flow between 1163 and 1526? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {1487} from node {Chronic Patients} to {Emergency Care}, a flow of {1255} from node {Chronic Patients} to {Medication}, a flow of {1202} from node {Adults} to {Medication}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 1228 and 1526? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {1487} from node {Chronic Patients} to {Emergency Care}, a flow of {1255} from node {Chronic Patients} to {Medication}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Pregnant Women to node Medication and from node Pregnant Women to node Preventive Care, which path has a larger flow?",
+            "A": "The flow from node {Pregnant Women} to node {Preventive Care} is larger."
+        },
+        {
+            "Q": "Between the flows from node Adults to node Preventive Care and from node Pregnant Women to node Preventive Care, which path has a larger flow?",
+            "A": "The flow from node {Pregnant Women} to node {Preventive Care} is larger."
+        },
+        {
+            "Q": "Among the flows from node Chronic Patients to node Emergency Care, from node Adults to node Emergency Care, and from node Pregnant Women to node Therapy, which path has the largest flow?",
+            "A": "The flow from node {Chronic Patients} to node {Emergency Care} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Patient Demographics of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Patient Demographics is {Chronic Patients}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Adults to target node Emergency Care? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Adults to node Emergency Care is: {Adults, Emergency Care}."
+        }
+    ],
+    "VA": []
+}

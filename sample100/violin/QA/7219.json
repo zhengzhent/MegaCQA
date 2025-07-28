@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {6} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Oakridge}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Springfield}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin Oakridge?",
+            "A": "The first position to the right of the violin Oakridge is {Dunvale}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Dunvale relative to the violin Zephyr in terms of horizontal (left/right) direction?",
+            "A": "violin Dunvale is to the {left} of the violin Zephyr."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Zephyr}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Zephyr}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Zephyr?",
+            "A": "The density distribution pattern of the Zephyr shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Springfield in the violin plot?",
+            "A": "The median of Springfield is {53773.00} USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Zephyr in the violin plot?",
+            "A": "The upper quartile (Q3) of Zephyr is {74428.00} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Dunvale in the violin plot?",
+            "A": "The upper whisker limit of Dunvale is {116753.00} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Zephyr in the violin plot?",
+            "A": "The largest upper outlier value in Zephyr is {125246.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {145268.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {21645.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Zephyr and Springfield?",
+            "A": "The Q3 difference between violin Zephyr and Springfield is {5837.00} USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Dunvale and Oakridge?",
+            "A": "The total Q1 value of violin Dunvale and Springfield is {70056.50} USD."
+        },
+        {
+            "Q": "What is the average Median value of violin Zephyr and Springfield?",
+            "A": "The average Median value of violin Zephyr and Springfield is {54013.50} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 54013.50 USD? Please list the violins and corresponding values.",
+            "A": "{Zephyr} has {54254.00} USD "
+        },
+        {
+            "Q": "Which violins have median values below 51311.50 USD? Please list the violins and corresponding values.",
+            "A": "{Oakridge} has {42242.00} USD , {Quarryville} has {51311.00} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 39713.75 USD and the upper quartile (Q3) below 70831.25 USD?",
+            "A": "Violin {Springfield} has the Q1 above 39713.75 USD and the Q3 below 70831.25 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 48199.07 USD?",
+            "A": "Violin {Springfield} has {49615.92} USD have their highest density peak exceed 48199.07 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 42741.72 USD?",
+            "A": "Violin {Oakridge} has {36605.88} USD ,{Dunvale} has {41408.52} USD ,{Quarryville} has {42459.94} USD have their highest density peak below 42741.72 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Zephyr or Quarryville ",
+            "A": "The median value of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Zephyr, Highvale or Springfield ",
+            "A": "The median value of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Springfield, Zephyr, Oakridge or Quarryville ",
+            "A": "The median value of the {Zephyr} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Dunvale}."
+        }
+    ],
+    "VA": []
+}

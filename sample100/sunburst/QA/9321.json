@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Shopping Districts positioned outside, inside or on the same side as Luxury Malls?",
+            "A": "Shopping Districts is positioned {inside} Luxury Malls."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Destination Types}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Dining Experiences segment in this sunburst chart?",
+            "A": "The value of the Dining Experiences segment is {12.0}."
+        },
+        {
+            "Q": "What is the value of the Nature Tourism segment in this sunburst chart?",
+            "A": "The value of the Nature Tourism segment is {12.9}."
+        },
+        {
+            "Q": "What is the value of the Souvenir Streets segment in this sunburst chart?",
+            "A": "The value of the Souvenir Streets segment is {6.32}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {44.79}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {22.7}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {7.54}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.75}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Destination Types exceed 61%? Please list the category names and corresponding percentages.",
+            "A": "{Urban Tourism} accounts for {71.2}%"
+        },
+        {
+            "Q": "Which categories in the segment Destination Types are below 39%? Please list the category names and corresponding percentages.",
+            "A": "{Nature Tourism} accounts for {28.8}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Destination Types, Hospitality Services, or Urban Tourism?",
+            "A": "The value of {Destination Types} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Destination Types or Hospitality Services?",
+            "A": "The value of {Destination Types} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Destination Types, Hospitality Services, Urban Tourism, or Transportation?",
+            "A": "The value of {Destination Types} is the largest."
+        },
+        {
+            "Q": "Which is smaller, the value of Hospitality Services, Urban Tourism, or Travel Services?",
+            "A": "The value of {Travel Services} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Destination Types to Urban Tourism to City Landmarks to Museums}."
+        }
+    ],
+    "VA": []
+}

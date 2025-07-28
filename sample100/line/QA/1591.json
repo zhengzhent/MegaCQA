@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {7} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Aura Fine Arts, what is the spatial relationship of the data point in 1983 relative to that in 1990 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Aura Fine Arts, the data point in 1983 is {below} and to the {left} of the data point in 1990."
+        },
+        {
+            "Q": "In 1979, what is the vertical (above/below) relationship of the line representing Stellar Exhibit Hall relative to Zenith Sculpture Garden?",
+            "A": "In 1979, Stellar Exhibit Hall is {below} Zenith Sculpture Garden in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Meridian Art Collective's Art Gallery Visitors levels?",
+            "A": "Meridian Art Collective's art gallery visitors levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "What is the trend of The Gilded Frame's Art Gallery Visitors levels?",
+            "A": "The Gilded Frame's art gallery visitors levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of Zenith Sculpture Garden's Art Gallery Visitors levels?",
+            "A": "Zenith Sculpture Garden's art gallery visitors levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "What is the trend of Aura Fine Arts's Art Gallery Visitors levels?",
+            "A": "Aura Fine Arts's art gallery visitors levels show a {periodic stable} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Aura Fine Arts's Art Gallery Visitors in 1992?",
+            "A": "Aura Fine Arts's art gallery visitors in 1992 is {324368.44} visitors."
+        },
+        {
+            "Q": "What is Aura Fine Arts's Art Gallery Visitors in 1989?",
+            "A": "Aura Fine Arts's art gallery visitors in 1989 is {213050.48} visitors."
+        },
+        {
+            "Q": "What is Whispering Canvas's Art Gallery Visitors in 1982?",
+            "A": "Whispering Canvas's art gallery visitors in 1982 is {702218.50} visitors."
+        },
+        {
+            "Q": "What are the art gallery visitors of The Gilded Frame, Zenith Sculpture Garden, and Aura Fine Arts in 1976?",
+            "A": "The Gilded Frame's art gallery visitors is {438103.51} visitors, Zenith Sculpture Garden's art gallery visitors is {667442.88} visitors, Aura Fine Arts's art gallery visitors is {346163.68} visitors."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Art Gallery Visitors in the line chart?",
+            "A": "The global minimum art gallery visitors is {21242.72} visitors."
+        },
+        {
+            "Q": "What is the global maximum Art Gallery Visitors in the line chart?",
+            "A": "The global maximum art gallery visitors is {1018774.85} visitors."
+        },
+        {
+            "Q": "What is the highest Art Gallery Visitors level recorded for Aura Fine Arts?",
+            "A": "Aura Fine Arts reached approximately {350416.80} visitors in {1981}."
+        },
+        {
+            "Q": "What is the lowest Art Gallery Visitors level recorded for Aura Fine Arts?",
+            "A": "Aura Fine Arts's lowest recorded level is approximately {213050.48} visitors in {1989}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Aura Fine Arts's Art Gallery Visitors?",
+            "A": "The average value of Aura Fine Arts's art gallery visitors is {281574.56} visitors."
+        },
+        {
+            "Q": "What is the average value of Zenith Sculpture Garden's Art Gallery Visitors?",
+            "A": "The average value of Zenith Sculpture Garden's art gallery visitors is {761438.57} visitors."
+        },
+        {
+            "Q": "What is the average value of Meridian Art Collective's Art Gallery Visitors?",
+            "A": "The average value of Meridian Art Collective's art gallery visitors is {65598.67} visitors."
+        },
+        {
+            "Q": "What is the rate of change in Aura Fine Arts's Art Gallery Visitors from the starting year to the final year?",
+            "A": "The rate of decline in Aura Fine Arts's art gallery visitors is {-23.99}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Whispering Canvas's Art Gallery Visitors below 524843 visitors? Please list the years and corresponding values.",
+            "A": "{492763.47} visitors in {1992} year, {454574.22} visitors in {1994} year, {473483.99} visitors in {1975} year."
+        },
+        {
+            "Q": "Which years did The Gilded Frame's Art Gallery Visitors below 561566 visitors? Please list the years and corresponding values.",
+            "A": "{471200.08} visitors in {1977} year, {503924.29} visitors in {1978} year, {539013.87} visitors in {1979} year."
+        },
+        {
+            "Q": "In the year 1994, which line had Art Gallery Visitors exceed 558858 visitors? Please list the lines and corresponding values.",
+            "A": "{The Gilded Frame} had {1018775} visitors, {Zenith Sculpture Garden} had {663142} visitors."
+        },
+        {
+            "Q": "In the year 1985, which lines had Art Gallery Visitors between 232425 and 666052 visitors? Please list the lines and corresponding values.",
+            "A": "{Aura Fine Arts} had {283055} visitors."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 1980, which line had a higher Art Gallery Visitors, {Stellar Exhibit Hall} or {Whispering Canvas}?",
+            "A": "In 1980, {Whispering Canvas} had a higher art gallery visitors."
+        },
+        {
+            "Q": "In 1975, which line had the highest Art Gallery Visitors, The Gilded Frame, Whispering Canvas, or Stellar Exhibit Hall?",
+            "A": "In 1975, {Whispering Canvas} had the highest art gallery visitors."
+        },
+        {
+            "Q": "In 1979, which line had the highest Art Gallery Visitors, Aura Fine Arts, Whispering Canvas, Stellar Exhibit Hall, or Meridian Art Collective?",
+            "A": "In 1979, {Whispering Canvas} had the highest art gallery visitors."
+        },
+        {
+            "Q": "Between 1976 and 1985, which line experienced a larger change in Art Gallery Visitors, Stellar Exhibit Hall or Zenith Sculpture Garden?",
+            "A": "{Zenith Sculpture Garden} experienced a larger change in art gallery visitors."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {The Gilded Frame}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1976 and 1982?",
+            "A": "{Whispering Canvas} has the fastest average growth rate between 1976 and 1982."
+        },
+        {
+            "Q": "In which year did The Gilded Frame first surpass Zenith Sculpture Garden?",
+            "A": "The Gilded Frame first surpassed Zenith Sculpture Garden in the year {1988}."
+        },
+        {
+            "Q": "Which label had the leading art gallery visitors since 1978?",
+            "A": "Since 1978, {Zenith Sculpture Garden} had the leading art gallery visitors."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Ironwood Gallery. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1975, 1985, 1994}."
+        }
+    ]
+}

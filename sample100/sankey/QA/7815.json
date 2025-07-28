@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in the column Interview Stages of this sankey chart?",
+            "A": "There are {4} nodes in the column Interview Stages."
+        },
+        {
+            "Q": "How many links flow out of column Performance Ratings of this sankey chart?",
+            "A": "There are {6} links flow out of column Performance Ratings."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Interview Stages}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Employee Types}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Phone Screen} and {Excellent}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {HR Interview} and {Excellent}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Excellent to the node Intern?",
+            "A": "The flow value from the node Excellent to the node Intern is {612}."
+        },
+        {
+            "Q": "What is the flow value from the node HR Interview to the node Good?",
+            "A": "The flow value from the node HR Interview to the node Good is {59}."
+        },
+        {
+            "Q": "What is the flow value from the node Phone Screen to the node Good?",
+            "A": "The flow value from the node Phone Screen to the node Good is {175}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Good to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Good to the next stage is {474}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Good to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Good to the next stage is {55}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Final Interview?",
+            "A": "The total flow output from node Final Interview is {783}."
+        },
+        {
+            "Q": "What is the total flow input by node Good?",
+            "A": "The total flow input by node Good is {956}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Performance Ratings of the sankey chart, which nodes have an outflow exceeded 348? Please list the node labels and their corresponding outflow values.",
+            "A": "{Excellent} has an outflow of {612}, {Good} has an outflow of {474}, {Good} has an outflow of {427}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Interview Stages and column Performance Ratings is the flow between 126 and 158? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {141} from node {Technical Interview} to {Good}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 158 and 236? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {202} from node {Final Interview} to {Excellent}, a flow of {175} from node {Phone Screen} to {Good}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Technical Interview to node Good and from node HR Interview to node Good, which path has a larger flow?",
+            "A": "The flow from node {Technical Interview} to node {Good} is larger."
+        },
+        {
+            "Q": "Between the flows from node Excellent to node Intern and from node HR Interview to node Good, which path has a larger flow?",
+            "A": "The flow from node {Excellent} to node {Intern} is larger."
+        },
+        {
+            "Q": "Among the flows from node HR Interview to node Good, from node Excellent to node Intern, and from node Good to node Intern, which path has the largest flow?",
+            "A": "The flow from node {Excellent} to node {Intern} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Employee Types of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Employee Types is {Intern}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Phone Screen to target node Intern? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Phone Screen to node Intern is: {Phone Screen, Excellent, Intern}."
+        }
+    ],
+    "VA": []
+}

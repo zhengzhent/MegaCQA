@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {86} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Forest cover in the scatter plot?",
+            "A": "The maximum observed value in the Forest cover dimension is {90.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Forest cover in the scatter plot?",
+            "A": "The minimum observed value in the Forest cover dimension is {10.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Crop yield in the scatter plot?",
+            "A": "The maximum observed value in the Crop yield dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Crop yield in the scatter plot?",
+            "A": "The minimum observed value in the Crop yield dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Forest cover for all points?",
+            "A": "The average value of Forest cover for all points is {50.00}."
+        },
+        {
+            "Q": "What is the average value of the Crop yield for all points?",
+            "A": "The average value of Crop yield for all points is {4.44}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Crop yield values corresponding to the top 3 Forest cover values in the scatter plot?",
+            "A": "{9.72, 9.02, 8.94}."
+        },
+        {
+            "Q": "What are the Crop yield values corresponding to the bottom 3 Forest cover values in the scatter plot?",
+            "A": "{10.00, 8.96, 8.69}."
+        },
+        {
+            "Q": "What are the Forest cover values corresponding to the top 3 Crop yield values in the scatter plot?",
+            "A": "{10.00, 90.00, 89.06}."
+        },
+        {
+            "Q": "What are the Forest cover values corresponding to the bottom 3 Crop yield values in the scatter plot?",
+            "A": "{49.53, 53.29, 44.82}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 71.80 and 80.89 and Y coordinates between 1.48 and 4.12?",
+            "A": "There are {1} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(10.00, 10.00) and (90.00, 9.72)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(15.65, 7.58) and (16.59, 7.57)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [11.65, 7.12, 20.59, 8.03] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (15.65, 7.58)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [16.71, 2.40, 34.28, 4.88]; Region B: [10.00, 6.33, 27.57, 8.82]; Region C: [53.53, 1.22, 71.10, 3.70]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+Human Resources and Employee Management,Employee Management System,Employees,random,Employee Types,Performance Ratings
+Source,Target,Value
+Full-time,Average,705
+Full-time,Good,714
+Full-time,Below Average,97
+Full-time,Excellent,892
+Part-time,Average,914
+Part-time,Good,925
+Part-time,Below Average,356
+Part-time,Excellent,638
+Contractor,Average,1170
+Contractor,Good,124
+Contractor,Below Average,592
+Contractor,Excellent,788
+Intern,Average,413
+Intern,Good,333
+Intern,Below Average,512
+Intern,Excellent,105

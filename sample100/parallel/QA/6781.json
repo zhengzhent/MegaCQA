@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {3} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {3} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Market growth rate (%) dimension, what is the spatial relationship of Lang-Santiago relative to Massey LLC in terms of vertical (above/below) direction?",
+            "A": "{Lang-Santiago} is {below} {Massey LLC} on the Market growth rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Market growth rate (%)?",
+            "A": "The first position to the left of Market growth rate (%) is {Competitor count (number)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Market growth rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Product differentiation score (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Market growth rate (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Competitor count (number) and dimension Market growth rate (%)",
+            "A": "There is {Clustering} between Competitor count (number) and Market growth rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Lang-Santiago on the Product differentiation score (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Lang-Santiago on the Product differentiation score (1-10) dimension is {1.0}"
+        },
+        {
+            "Q": "What is the value of Massey LLC on the Competitor count (number) dimension in the parallel-coordinates chart?",
+            "A": "The value of Massey LLC on the Competitor count (number) dimension is {7.27}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Wagner Inc across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Wagner Inc across all dimensions is {8.73}"
+        },
+        {
+            "Q": "What is the minimum value of label Massey LLC across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Massey LLC across all dimensions is {7.27}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Market growth rate (%)?",
+            "A": "The average value of Market growth rate (%) is {15.22}"
+        },
+        {
+            "Q": "What is the difference in coding Competitor count (number) between label Lang-Santiago and label Massey LLC",
+            "A": "The difference in coding Competitor count (number) between Lang-Santiago and Massey LLC is {12.73}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Product differentiation score (1-10) dimension in the parallel coordinates?",
+            "A": "{[10.0, 8.73, 1.0]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Market growth rate (%) dimension in the parallel coordinates?",
+            "A": "{[-5.0, 20.66, 30.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Product differentiation score (1-10), which label has a higher score: Lang-Santiago or Massey LLC?",
+            "A": "{Massey LLC} has a higher score on Product differentiation score (1-10)."
+        },
+        {
+            "Q": "On Market growth rate (%), which label has a higher score: Wagner Inc or Massey LLC?",
+            "A": "{Massey LLC} has a higher score on Market growth rate (%)."
+        },
+        {
+            "Q": "On Product differentiation score (1-10), which label has a higher score: Wagner Inc or Lang-Santiago?",
+            "A": "{Wagner Inc} has a higher score on Product differentiation score (1-10)."
+        },
+        {
+            "Q": "On Product differentiation score (1-10), which label has a higher score: Massey LLC or Lang-Santiago?",
+            "A": "{Massey LLC} has a higher score on Product differentiation score (1-10)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Market growth rate (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Competitor count (number) being greater than 9.5 and Competitor count (number) being less than 11.92?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

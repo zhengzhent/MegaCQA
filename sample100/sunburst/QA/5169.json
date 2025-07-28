@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Feedback positioned outside, inside or on the same side as Shadowing Programs?",
+            "A": "Feedback is positioned {inside} Shadowing Programs."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Employee Lifecycle}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Shadowing Programs segment in this sunburst chart?",
+            "A": "The value of the Shadowing Programs segment is {5.67}."
+        },
+        {
+            "Q": "What is the value of the Mentorship segment in this sunburst chart?",
+            "A": "The value of the Mentorship segment is {26.16}."
+        },
+        {
+            "Q": "What is the value of the Online Learning segment in this sunburst chart?",
+            "A": "The value of the Online Learning segment is {5.38}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {39.93}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {28.53}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {14.16}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.67}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Employee Lifecycle exceed 57%? Please list the category names and corresponding percentages.",
+            "A": "{Onboarding} accounts for {65.51}%"
+        },
+        {
+            "Q": "Which categories in the segment Employee Lifecycle are below 42%? Please list the category names and corresponding percentages.",
+            "A": "{Recruitment} accounts for {34.49}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Employee Lifecycle, Workplace Wellbeing, Health & Safety, or Onboarding?",
+            "A": "The value of {Employee Lifecycle} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Employee Lifecycle, Workplace Wellbeing, or Health & Safety?",
+            "A": "The value of {Employee Lifecycle} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Workplace Wellbeing, Health & Safety, or Employee Development?",
+            "A": "The value of {Employee Development} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Employee Lifecycle to Onboarding to Mentorship to Learning Modules}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Renewable Energy Investment Ratio?",
+            "A": "The next dimension clockwise from Renewable Energy Investment Ratio is Net Profit Margin "
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Renewable Energy Investment Ratio?",
+            "A": "The next dimension counterclockwise from Renewable Energy Investment Ratio is Energy Conversion Efficiency."
+        },
+        {
+            "Q": "On the Net Profit Margin , is the point for White-Robinson inside or outside the point for Sullivan LLC?",
+            "A": "On the Net Profit Margin , the point for White-Robinson is inside the point for Sullivan LLC."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Energy Conversion Efficiency} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of White-Robinson?",
+            "A": "The strongest aspect is {Energy Conversion Efficiency}, while the weakest aspect is{ R&D Investment Ratio}."
+        },
+        {
+            "Q": "On dimension Patent Growth Rate, which label scores the highest?",
+            "A": "On Patent Growth Rate, label {White-Robinson} scores the highest."
+        },
+        {
+            "Q": "On dimension Net Profit Margin , which label scores the highest?",
+            "A": "On Net Profit Margin , label {White-Robinson} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Sullivan LLC on the Patent Growth Rate in the radar chart?",
+            "A": "The value of Sullivan LLC on the Safety dimension is {75}."
+        },
+        {
+            "Q": "What is the value of White-Robinson on the Energy Conversion Efficiency in the radar chart?",
+            "A": "The value of White-Robinson on the Safety dimension is {73}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Sullivan LLC across all dimensions in the radar chart?",
+            "A": "The maximum value of Sullivan LLC across all dimensions is {75}."
+        },
+        {
+            "Q": "What is the minimum value of label White-Robinson across all dimensions in the radar chart?",
+            "A": "The minimum value of White-Robinson across all dimensions is {71}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Patent Growth Rate",
+            "A": "The average value of Patent Growth Rate is {73.0}."
+        },
+        {
+            "Q": "What is the average value of White-Robinson",
+            "A": "The average value of White-Robinson is {65.6}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For White-Robinson in the radar chart, which dimensions have scores between 56 and 69? Please list the dimensions and corresponding scores.",
+            "A": "{Renewable Energy Investment Ratio} is {64}, {Net Profit Margin } is {68}"
+        },
+        {
+            "Q": "For White-Robinson in the radar chart, which dimensions have scores above 69? Please list the dimensions and corresponding scores.",
+            "A": "{Patent Growth Rate} is {71}, {Energy Conversion Efficiency} is {73}"
+        },
+        {
+            "Q": "Which labels have scores above 72 for the Energy Conversion Efficiency dimension? Please list the labels and corresponding scores.",
+            "A": "{White-Robinson} is {73}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Sullivan LLC, which dimension has a higher score: R&D Investment Ratio or Energy Conversion Efficiency?",
+            "A": "{Energy Conversion Efficiency} has a higher score than R&D Investment Ratio for Sullivan LLC."
+        },
+        {
+            "Q": "For White-Robinson, which dimension has a higher score: Patent Growth Rate or Renewable Energy Investment Ratio?",
+            "A": "{Patent Growth Rate} has a higher score than Renewable Energy Investment Ratio for White-Robinson."
+        },
+        {
+            "Q": "On R&D Investment Ratio, which label has a higher score: Sullivan LLC or the White-Robinson?",
+            "A": "{White-Robinson} has a higher score on R&D Investment Ratio compared to Sullivan LLC."
+        },
+        {
+            "Q": "On Net Profit Margin , which label has a higher score: Sullivan LLC or the White-Robinson?",
+            "A": "{Sullivan LLC} has a higher score on Net Profit Margin  compared to White-Robinson."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Sullivan LLC, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Sullivan LLC most needs to improve its {Renewable Energy Investment Ratio}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {White-Robinson}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Sullivan LLC}."
+        }
+    ],
+    "VA": []
+}

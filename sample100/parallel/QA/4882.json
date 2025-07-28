@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Graduation rate (%) dimension, what is the spatial relationship of Brown Ltd  College relative to Reid Ltd  School in terms of vertical (above/below) direction?",
+            "A": "{Brown Ltd  College} is {above} {Reid Ltd  School} on the Graduation rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Alumni donation rate (%)?",
+            "A": "The first position to the left of Alumni donation rate (%) is {Research funding (USD millions)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Graduation rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Research funding (USD millions)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Research funding (USD millions)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Alumni donation rate (%) and dimension Student-teacher ratio (ratio)",
+            "A": "There is {No Correlation} between Alumni donation rate (%) and Student-teacher ratio (ratio)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Owens-Mcintosh  University on the Alumni donation rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Owens-Mcintosh  University on the Alumni donation rate (%) dimension is {1.0}"
+        },
+        {
+            "Q": "What is the value of Baird, Carpenter and Martin  School on the Alumni donation rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Baird, Carpenter and Martin  School on the Alumni donation rate (%) dimension is {25.55}"
+        },
+        {
+            "Q": "What is the value of Baird, Carpenter and Martin  School on the Research funding (USD millions) dimension in the parallel-coordinates chart?",
+            "A": "The value of Baird, Carpenter and Martin  School on the Research funding (USD millions) dimension is {251.11}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Stewart-Turner  Institute across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Stewart-Turner  Institute across all dimensions is {197.62}"
+        },
+        {
+            "Q": "What is the minimum value of label Baird, Carpenter and Martin  School across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Baird, Carpenter and Martin  School across all dimensions is {5.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Student-teacher ratio (ratio)?",
+            "A": "The average value of Student-teacher ratio (ratio) is {18.82}"
+        },
+        {
+            "Q": "What is the difference in coding Research funding (USD millions) between label Baird, Carpenter and Martin  School and label Owens-Mcintosh  University",
+            "A": "The difference in coding Research funding (USD millions) between Baird, Carpenter and Martin  School and Owens-Mcintosh  University is {251.01}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Student-teacher ratio (ratio) dimension in the parallel coordinates?",
+            "A": "{[30.0, 25.62, 24.75]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Alumni donation rate (%) dimension in the parallel coordinates?",
+            "A": "{[1.0, 2.33, 25.01]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Graduation rate (%), which label has a higher score: Baird, Carpenter and Martin  School or Stewart-Turner  Institute?",
+            "A": "{Stewart-Turner  Institute} has a higher score on Graduation rate (%)."
+        },
+        {
+            "Q": "On Research funding (USD millions), which label has a higher score: Stewart-Turner  Institute or Walker, Beard and Davis  Institute?",
+            "A": "{Walker, Beard and Davis  Institute} has a higher score on Research funding (USD millions)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Research funding (USD millions)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Student-teacher ratio (ratio) being greater than 13.15 and Alumni donation rate (%) being less than 20.06?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {5} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Container Ship relative to the peak of Barge in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Container Ship is to the {left} of the peak of Barge."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Container Ship show?",
+            "A": "The ridgeline representing Container Ship shows a {Single Peak Distribution}."
+        },
+        {
+            "Q": "At what value do  Air Cargo reach its peaks?",
+            "A": "At {5505.51}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Air Cargo} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =18165.1?",
+            "A": "At X =18165.1,the label with the highest density is {Cargo Truck}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 33646? Please list the countries and corresponding peak values.",
+            "A": "{Pipeline}'s peak at {40040}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 26151? Please list the countries and corresponding peak values.",
+            "A": "{Cargo Truck}'s peak at {25526},{Barge}'s peak at {4905},{Container Ship}'s peak at {4691},{Air Cargo}'s peak at {5506}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Barge or Air Cargo?",
+            "A": "{Air Cargo} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Cargo Truck or Pipeline?",
+            "A": "{Pipeline} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Pipeline or Cargo Truck?",
+            "A": "{Pipeline} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {2} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Air Cargo}"
+        }
+    ],
+    "VA": []
+}

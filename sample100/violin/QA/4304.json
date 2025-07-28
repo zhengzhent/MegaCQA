@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {7} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Brookfield}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Highvale}."
+        },
+        {
+            "Q": "Which violin is the second position to the left of the violin Highvale?",
+            "A": "The second position to the left of the violin Highvale is {Oakridge}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Highvale relative to the violin Brookfield in terms of horizontal (left/right) direction?",
+            "A": "violin Highvale is to the {right} of the violin Brookfield."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Oakridge}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Highvale}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Brookfield?",
+            "A": "The density distribution pattern of the Brookfield shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Creston in the violin plot?",
+            "A": "The median of Creston is {1939.00} MWh."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Mapleton in the violin plot?",
+            "A": "The lower quartile (Q1) of Mapleton is {2158.75} MWh."
+        },
+        {
+            "Q": "What is the upper whisker limit of Creston in the violin plot?",
+            "A": "The upper whisker limit of Creston is {3810.00} MWh."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Brookfield in the violin plot?",
+            "A": "The largest upper outlier value in Brookfield is {4669.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum MWh value in the violin plot?",
+            "A": "The global maximum MWh value in the violin plot is {4669.00} MWh."
+        },
+        {
+            "Q": "What is the global minimum MWh value in the violin plot?",
+            "A": "The global minimum MWh value in the violin plot is {732.00} MWh."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Highvale and Creston?",
+            "A": "The Q3 difference between violin Highvale and Creston is {703.50} MWh."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin Oakridge and Highvale?",
+            "A": "The total Q3 value of violin Oakridge and Highvale is {5992.50} MWh."
+        },
+        {
+            "Q": "What is the average Q1 value of violin Mapleton and Oakridge?",
+            "A": "The average Q1 value of violin Mapleton and Oakridge is {2183.12} MWh."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 2507.75 MWh? Please list the violins and corresponding values.",
+            "A": "{Oakridge} has {2514.00} MWh "
+        },
+        {
+            "Q": "Which violins have median values below 1611.50 MWh? Please list the violins and corresponding values.",
+            "A": "{Zephyr} has {1446.00} MWh "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 2132.03 MWh?",
+            "A": "Violin {Mapleton} has {2246.37} MWh ,{Oakridge} has {2462.32} MWh ,{Highvale} has {2252.64} MWh have their highest density peak exceed 2132.03 MWh."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 1526.94 MWh?",
+            "A": "Violin {Brookfield} has {1493.96} MWh ,{Zephyr} has {1333.75} MWh have their highest density peak below 1526.94 MWh."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Creston or Brookfield ",
+            "A": "The median value of the {Creston} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Oakridge, Highvale or Mapleton ",
+            "A": "The median value of the {Oakridge} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Mapleton, Zephyr, Creston or Highvale ",
+            "A": "The median value of the {Highvale} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Brookfield}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,73 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {4} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Hydroelectric relative to the peak of Biomass in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Hydroelectric is to the {right} of the peak of Biomass."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Tidal show?",
+            "A": "The ridgeline representing Tidal shows a {Periodic fluctuation}."
+        },
+        {
+            "Q": "At what value do  Wind reach its peaks?",
+            "A": "At {9.81}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Hydroelectric} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =42.1?",
+            "A": "At X =42.1,the label with the highest density is {Hydroelectric}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 73? Please list the countries and corresponding peak values.",
+            "A": "{Tidal}'s peak at {81}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 62? Please list the countries and corresponding peak values.",
+            "A": "{Biomass}'s peak at {45},{Hydroelectric}'s peak at {46},{Wind}'s peak at {10}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Biomass or Wind?",
+            "A": "{Biomass} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Tidal or Wind?",
+            "A": "{Tidal} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Hydroelectric}"
+        }
+    ],
+    "VA": []
+}

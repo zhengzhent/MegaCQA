@@ -1,0 +1,10 @@
+Image Name: 3011.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\3011.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels and distinct colors for each city, making it easy to differentiate between them. The values are directly written on the bars, which helps in quickly understanding the number of students in each city. The title and axis labels are clear and provide context for the data being presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively uses horizontal bars to compare the number of students across different cities. The color differentiation is helpful, and the labels are legible. The scale is appropriately marked, making it easy to interpret the data at a glance.

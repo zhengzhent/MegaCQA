@@ -1,0 +1,12 @@
+Cultural Trends and Influences,Global Cultural Institutions and Their Interactions
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Global Culture Pavilion,1,Heritage Art Museum,festival_participation
+0,Global Culture Pavilion,3,Modern Music Studio,cross_cultural_event
+0,Global Culture Pavilion,4,Urban Theater House,cross_cultural_event
+0,Global Culture Pavilion,2,Folklore Exhibition Hall,artist_collaboration
+1,Heritage Art Museum,3,Modern Music Studio,cross_cultural_event
+1,Heritage Art Museum,4,Urban Theater House,artist_collaboration
+1,Heritage Art Museum,2,Folklore Exhibition Hall,cross_cultural_event
+2,Folklore Exhibition Hall,3,Modern Music Studio,festival_participation
+2,Folklore Exhibition Hall,4,Urban Theater House,artist_collaboration
+3,Modern Music Studio,4,Urban Theater House,festival_participation

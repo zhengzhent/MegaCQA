@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {3} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Last Ember}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Nightfall}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin Echoes?",
+            "A": "The first position to the left of the violin Echoes is {Last Ember}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Nightfall relative to the violin Last Ember in terms of horizontal (left/right) direction?",
+            "A": "violin Nightfall is to the {right} of the violin Last Ember."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Nightfall}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Nightfall}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Nightfall?",
+            "A": "The density distribution pattern of the Nightfall shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Nightfall in the violin plot?",
+            "A": "The median of Nightfall is {581.00} million USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Echoes in the violin plot?",
+            "A": "The lower quartile (Q1) of Echoes is {311.75} million USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Last Ember in the violin plot?",
+            "A": "The upper whisker limit of Last Ember is {1350.00} million USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Last Ember in the violin plot?",
+            "A": "The largest upper outlier value in Last Ember is {1476.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the violin plot?",
+            "A": "The global maximum million USD value in the violin plot is {1523.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the violin plot?",
+            "A": "The global minimum million USD value in the violin plot is {120.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Nightfall and Last Ember?",
+            "A": "The Q3 difference between violin Nightfall and Last Ember is {60.25} million USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Nightfall and Last Ember?",
+            "A": "The total Q1 value of violin Nightfall and Nightfall is {802.00} million USD."
+        },
+        {
+            "Q": "What is the average Q1 value of violin Echoes and Nightfall?",
+            "A": "The average Q1 value of violin Echoes and Nightfall is {373.75} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 569.75 million USD? Please list the violins and corresponding values.",
+            "A": "{Nightfall} has {581.00} million USD "
+        },
+        {
+            "Q": "Which violins have median values below 569.75 million USD? Please list the violins and corresponding values.",
+            "A": "{Last Ember} has {558.50} million USD , {Echoes} has {422.00} million USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 339.00 million USD and the upper quartile (Q3) below 813.62 million USD?",
+            "A": "Violin {Last Ember} has the Q1 above 339.00 million USD and the Q3 below 813.625 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 390.85 million USD?",
+            "A": "Violin {Last Ember} has {421.33} million USD ,{Nightfall} has {500.98} million USD have their highest density peak exceed 390.85 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 390.85 million USD?",
+            "A": "Violin {Echoes} has {360.36} million USD have their highest density peak below 390.85 million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Nightfall or Last Ember ",
+            "A": "The median value of the {Nightfall} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Nightfall, Last Ember or Echoes ",
+            "A": "The median value of the {Nightfall} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Nightfall}."
+        }
+    ],
+    "VA": []
+}

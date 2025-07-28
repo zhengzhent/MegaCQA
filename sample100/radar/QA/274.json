@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Profit MarginSustainable Farming Adoption Rate?",
+            "A": "The next dimension clockwise from Profit MarginSustainable Farming Adoption Rate is Irrigation Water Use Efficiency"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Profit MarginSustainable Farming Adoption Rate?",
+            "A": "The next dimension counterclockwise from Profit MarginSustainable Farming Adoption Rate is High-value Crop Cultivation Ratio."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Profit MarginSustainable Farming Adoption Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Murphy-WilsonFarm?",
+            "A": "The strongest aspect is {Profit MarginSustainable Farming Adoption Rate}, while the weakest aspect is{ Yield Growth Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Murphy-WilsonFarm on the Profit MarginSustainable Farming Adoption Rate in the radar chart?",
+            "A": "The value of Murphy-WilsonFarm on the Safety dimension is {83}."
+        },
+        {
+            "Q": "What is the value of Murphy-WilsonFarm on the Yield Growth Rate in the radar chart?",
+            "A": "The value of Murphy-WilsonFarm on the Safety dimension is {40}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Murphy-WilsonFarm across all dimensions in the radar chart?",
+            "A": "The maximum value of Murphy-WilsonFarm across all dimensions is {40}."
+        },
+        {
+            "Q": "What is the minimum value of label Murphy-WilsonFarm across all dimensions in the radar chart?",
+            "A": "The minimum value of Murphy-WilsonFarm across all dimensions is {40}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Agricultural Product Market Share",
+            "A": "The average value of Agricultural Product Market Share is {55.0}."
+        },
+        {
+            "Q": "What is the average value of Murphy-WilsonFarm",
+            "A": "The average value of Murphy-WilsonFarm is {57.14}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Murphy-WilsonFarm in the radar chart, which dimensions have scores between 49 and 74? Please list the dimensions and corresponding scores.",
+            "A": "{High-value Crop Cultivation Ratio} is {59}, {Agricultural Product Market Share} is {55}"
+        },
+        {
+            "Q": "Which labels have scores below 45 for the Land Utilization Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Murphy-WilsonFarm} is {45}"
+        },
+        {
+            "Q": "For Murphy-WilsonFarm in the radar chart, which dimensions have scores above 74? Please list the dimensions and corresponding scores.",
+            "A": "{Profit MarginSustainable Farming Adoption Rate} is {83}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Murphy-WilsonFarm, which dimension has a higher score: Irrigation Water Use Efficiency or Land Utilization Rate?",
+            "A": "{Land Utilization Rate} has a higher score than Irrigation Water Use Efficiency for Murphy-WilsonFarm."
+        },
+        {
+            "Q": "For Murphy-WilsonFarm, which dimension has a higher score: Irrigation Water Use Efficiency or Yield Growth Rate or Profit MarginSustainable Farming Adoption Rate?",
+            "A": "{Profit MarginSustainable Farming Adoption Rate} has a higher score for Murphy-WilsonFarm."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Murphy-WilsonFarm, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Murphy-WilsonFarm most needs to improve its {Yield Growth Rate}."
+        }
+    ],
+    "VA": []
+}

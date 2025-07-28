@@ -1,0 +1,71 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node Velocity Pro Account?",
+            "A": "There are {3} nodes link with node Velocity Pro Account."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Sunrise Savings Account and node Evergreen Business Account in this node-link chart?",
+            "A": "The relationship between node Sunrise Savings Account and node Evergreen Business Account is {tag_mention}."
+        },
+        {
+            "Q": "What is the relationship between node Sunrise Savings Account and node Harmony Subscription Profile in this node-link chart?",
+            "A": "The relationship between node Sunrise Savings Account and node Harmony Subscription Profile is {content_stream}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type collab_post?",
+            "A": "There are {3} links with the relation type collab_post."
+        },
+        {
+            "Q": "How many links have the relation type follower_link?",
+            "A": "There are {2} links with the relation type follower_link."
+        },
+        {
+            "Q": "How many links have the relation type content_stream?",
+            "A": "There are {3} links with the relation type content_stream."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Anderson Premium Account, how many links are of type tag_mention?",
+            "A": "Node Anderson Premium Account has {1} links of type tag_mention."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Sunrise Savings Account}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Sunrise Savings Account with a degree of 6}, {node Anderson Premium Account with a degree of 5}, {node Quantum Trading Profile with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Crystal Loyalty Account to node Falcon Investment Profile in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Crystal Loyalty Account to node Falcon Investment Profile is: {Crystal Loyalty Account to Quantum Trading Profile to Falcon Investment Profile}."
+        }
+    ],
+    "VA": []
+}

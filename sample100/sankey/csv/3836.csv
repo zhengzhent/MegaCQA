@@ -1,0 +1,30 @@
+Education and Academics,Education System Framework,Students,random,Institution Types,Student Backgrounds,Enrollment Channels,Support Services
+Source,Target,Value
+Online Institution,International,1937
+Online Institution,Urban,17391
+University,International,2116
+University,Urban,5602
+Private School,International,5448
+Private School,Urban,6678
+Community College,International,4590
+Community College,Urban,3277
+International,Online Applications,3199
+International,Direct Admission,2713
+International,Entrance Exams,3436
+International,Exchange Programs,4743
+Urban,Online Applications,4059
+Urban,Direct Admission,7919
+Urban,Entrance Exams,18549
+Urban,Exchange Programs,2421
+Online Applications,Academic Advising,1791
+Online Applications,Financial Aid,3204
+Online Applications,Counseling,2263
+Direct Admission,Academic Advising,1503
+Direct Admission,Financial Aid,6102
+Direct Admission,Counseling,3027
+Entrance Exams,Academic Advising,3470
+Entrance Exams,Financial Aid,9284
+Entrance Exams,Counseling,9231
+Exchange Programs,Academic Advising,2566
+Exchange Programs,Financial Aid,3310
+Exchange Programs,Counseling,1288

@@ -1,0 +1,23 @@
+Education and Academics,Education Distribution by Category (2021),%
+parent,child,value
+Root,Higher Education,33.81
+Higher Education,Undergraduate,10.17
+Undergraduate,Liberal Arts Colleges,5.05
+Undergraduate,Research Universities,5.12
+Higher Education,Postgraduate,23.63
+Postgraduate,Masters Programs,10.99
+Postgraduate,Doctoral Programs,12.64
+Root,Informal Learning,38.42
+Informal Learning,Community Learning,21.49
+Community Learning,Non-Profit Programs,9.28
+Community Learning,Public Libraries,12.21
+Informal Learning,Online Education,16.93
+Online Education,MOOCs,8.14
+Online Education,Skill Platforms,8.79
+Root,Formal Education,27.77
+Formal Education,Secondary Education,14.42
+Secondary Education,High Schools,6.75
+Secondary Education,Vocational Schools,7.68
+Formal Education,Primary Education,13.35
+Primary Education,Private Primary,7.51
+Primary Education,Public Primary,5.84

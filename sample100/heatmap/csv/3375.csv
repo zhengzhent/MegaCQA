@@ -1,0 +1,65 @@
+Energy and Utilities,the Trends of Energy and Utilities,8x8,radial_gradient
+Distribution,Consumption,0.6
+Electricity,Consumption,0.61
+Exploration,Consumption,0.65
+Gas,Consumption,0.53
+Nuclear,Consumption,0.49
+Renewables,Consumption,0.41
+Transmission,Consumption,0.29
+Waste Management,Consumption,0.16
+Distribution,Infrastructure,0.73
+Electricity,Infrastructure,0.69
+Exploration,Infrastructure,0.67
+Gas,Infrastructure,0.64
+Nuclear,Infrastructure,0.6
+Renewables,Infrastructure,0.51
+Transmission,Infrastructure,0.38
+Waste Management,Infrastructure,0.27
+Distribution,Investment,0.75
+Electricity,Investment,0.72
+Exploration,Investment,0.79
+Gas,Investment,0.7
+Nuclear,Investment,0.65
+Renewables,Investment,0.58
+Transmission,Investment,0.48
+Waste Management,Investment,0.37
+Distribution,Policy,0.84
+Electricity,Policy,0.85
+Exploration,Policy,0.82
+Gas,Policy,0.77
+Nuclear,Policy,0.74
+Renewables,Policy,0.63
+Transmission,Policy,0.55
+Waste Management,Policy,0.42
+Distribution,Prices,0.89
+Electricity,Prices,0.84
+Exploration,Prices,0.88
+Gas,Prices,0.81
+Nuclear,Prices,0.77
+Renewables,Prices,0.67
+Transmission,Prices,0.55
+Waste Management,Prices,0.47
+Distribution,Production,0.89
+Electricity,Production,0.92
+Exploration,Production,0.87
+Gas,Production,0.82
+Nuclear,Production,0.79
+Renewables,Production,0.72
+Transmission,Production,0.55
+Waste Management,Production,0.48
+Distribution,Reliability,0.88
+Electricity,Reliability,0.88
+Exploration,Reliability,0.88
+Gas,Reliability,0.81
+Nuclear,Reliability,0.8
+Renewables,Reliability,0.69
+Transmission,Reliability,0.61
+Waste Management,Reliability,0.46
+Distribution,Technology,0.84
+Electricity,Technology,0.88
+Exploration,Technology,0.85
+Gas,Technology,0.81
+Nuclear,Technology,0.75
+Renewables,Technology,0.66
+Transmission,Technology,0.53
+Waste Management,Technology,0.45

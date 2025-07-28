@@ -1,0 +1,10 @@
+Image Name: 13860.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\13860.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and well-organized, with each bar representing a different attraction and its corresponding number of visitors. The use of a consistent pattern within the bars helps in distinguishing them from the background. The labels are legible, and the numerical values are placed at the end of each bar, making it easy to understand the data at a glance. The title and axis labels are clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 2/5
+Score Reason: The visualization uses a horizontal bar chart format, which is generally effective for comparing values. However, the use of empty boxes to represent data visually is unconventional and may confuse readers. Additionally, the scale on the x-axis is not clearly marked, making it difficult to interpret the exact values represented by the bars. The labels for the attractions are clear, but the overall presentation lacks clarity due to the unusual representation of data.

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {54} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Nutrition intake in the scatter plot?",
+            "A": "The maximum observed value in the Nutrition intake dimension is {5000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Nutrition intake in the scatter plot?",
+            "A": "The minimum observed value in the Nutrition intake dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Recovery time_Sports in the scatter plot?",
+            "A": "The maximum observed value in the Recovery time_Sports dimension is {7.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Recovery time_Sports in the scatter plot?",
+            "A": "The minimum observed value in the Recovery time_Sports dimension is {0.50}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Nutrition intake for all points?",
+            "A": "The average value of Nutrition intake for all points is {3000.00}."
+        },
+        {
+            "Q": "What is the average value of the Recovery time_Sports for all points?",
+            "A": "The average value of Recovery time_Sports for all points is {4.02}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Recovery time_Sports values corresponding to the top 3 Nutrition intake values in the scatter plot?",
+            "A": "{3.37, 2.72, 5.82}."
+        },
+        {
+            "Q": "What are the Recovery time_Sports values corresponding to the bottom 3 Nutrition intake values in the scatter plot?",
+            "A": "{3.64, 2.74, 5.93}."
+        },
+        {
+            "Q": "What are the Nutrition intake values corresponding to the top 3 Recovery time_Sports values in the scatter plot?",
+            "A": "{1603.77, 4396.23, 1754.72}."
+        },
+        {
+            "Q": "What are the Nutrition intake values corresponding to the bottom 3 Recovery time_Sports values in the scatter plot?",
+            "A": "{2509.43, 3641.51, 1905.66}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 2540.10 and 3726.72 and Y coordinates between 4.25 and 5.30?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1000.00, 3.64) and (5000.00, 3.37)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(4547.17, 3.24) and (4622.64, 3.25)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [4347.17, 2.92, 4822.64, 3.58] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (4547.17, 3.24)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [1752.85, 4.34, 2940.00, 5.69]; Region B: [3812.84, 2.57, 5000.00, 3.92]; Region C: [3654.97, 4.76, 4842.12, 6.11]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

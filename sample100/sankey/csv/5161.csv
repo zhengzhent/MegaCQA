@@ -1,0 +1,27 @@
+Food and Beverage Industry,Food Production and Consumption Chain,Products,random,Waste Management,Distribution Channels
+Source,Target,Value
+Animal Feed,Wholesalers,7069
+Animal Feed,Online Platforms,4506
+Animal Feed,Farmers' Markets,8966
+Animal Feed,Retailers,4790
+Animal Feed,Exporters,2606
+Landfills,Wholesalers,5497
+Landfills,Online Platforms,16426
+Landfills,Farmers' Markets,1852
+Landfills,Retailers,7722
+Landfills,Exporters,2898
+Composting,Wholesalers,14962
+Composting,Online Platforms,3346
+Composting,Farmers' Markets,5959
+Composting,Retailers,5029
+Composting,Exporters,18893
+Food Banks,Wholesalers,423
+Food Banks,Online Platforms,1341
+Food Banks,Farmers' Markets,1750
+Food Banks,Retailers,1602
+Food Banks,Exporters,824
+Recycling,Wholesalers,5720
+Recycling,Online Platforms,22441
+Recycling,Farmers' Markets,5232
+Recycling,Retailers,19345
+Recycling,Exporters,2831

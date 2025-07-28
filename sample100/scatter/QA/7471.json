@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {32} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Follower count in the scatter plot?",
+            "A": "The maximum observed value in the Follower count dimension is {10000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Follower count in the scatter plot?",
+            "A": "The minimum observed value in the Follower count dimension is {100.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Shares in the scatter plot?",
+            "A": "The maximum observed value in the Shares dimension is {100000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Shares in the scatter plot?",
+            "A": "The minimum observed value in the Shares dimension is {10.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Follower count for all points?",
+            "A": "The average value of Follower count for all points is {5000050.00}."
+        },
+        {
+            "Q": "What is the average value of the Shares for all points?",
+            "A": "The average value of Shares for all points is {55039.06}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Shares values corresponding to the top 3 Follower count values in the scatter plot?",
+            "A": "{10.00, 23557.11, 19554.97}."
+        },
+        {
+            "Q": "What are the Shares values corresponding to the bottom 3 Follower count values in the scatter plot?",
+            "A": "{16304.61, 9799.65, 23479.15}."
+        },
+        {
+            "Q": "What are the Follower count values corresponding to the top 3 Shares values in the scatter plot?",
+            "A": "{6451648.39, 3225874.19, 5483916.13}."
+        },
+        {
+            "Q": "What are the Follower count values corresponding to the bottom 3 Shares values in the scatter plot?",
+            "A": "{10000000.00, 322677.42, 100.00}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 4181134.72 and 6467552.11 and Y coordinates between 48055.87 and 76037.42?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(100.00, 16304.61) and (10000000.00, 10.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(8064535.48, 51191.59) and (8387112.90, 49680.42)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [7564540.48, 44680.92, 8887107.90, 56191.09] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (8064535.48, 51191.59)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [6977320.19, 39373.20, 9474328.19, 61498.81]; Region B: [114220.94, 27944.98, 2611228.94, 50070.59]; Region C: [1805274.19, 71350.66, 4302282.19, 93476.27]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

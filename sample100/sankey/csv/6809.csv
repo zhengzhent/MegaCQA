@@ -1,0 +1,11 @@
+Healthcare and Health,Healthcare Service Ecosystem,Patients,random,Outcomes,Healthcare Providers
+Source,Target,Value
+Full Recovery,Hospitals,221
+Full Recovery,Clinics,483
+Full Recovery,Nursing Homes,308
+Worsened Condition,Hospitals,302
+Worsened Condition,Clinics,194
+Worsened Condition,Nursing Homes,72
+Deceased,Hospitals,1357
+Deceased,Clinics,706
+Deceased,Nursing Homes,411

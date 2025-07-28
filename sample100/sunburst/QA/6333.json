@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Residential Property positioned outside, inside or on the same side as Airbnb Listings?",
+            "A": "Residential Property is positioned {inside} Airbnb Listings."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Rental Market}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Beachfront segment in this sunburst chart?",
+            "A": "The value of the Beachfront segment is {5.1}."
+        },
+        {
+            "Q": "What is the value of the Multi-Family Homes segment in this sunburst chart?",
+            "A": "The value of the Multi-Family Homes segment is {8.4}."
+        },
+        {
+            "Q": "What is the value of the Mountain Cabins segment in this sunburst chart?",
+            "A": "The value of the Mountain Cabins segment is {5.25}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {40.44}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {27.67}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {5.26}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.01}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Rental Market exceed 56%? Please list the category names and corresponding percentages.",
+            "A": "{Short-Term Rentals} accounts for {63.38}%"
+        },
+        {
+            "Q": "Which categories in the segment Rental Market are below 43%? Please list the category names and corresponding percentages.",
+            "A": "{Long-Term Rentals} accounts for {36.62}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Rental Market or Residential Property?",
+            "A": "The value of {Rental Market} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Residential Property, Commercial Real Estate, or Office Buildings?",
+            "A": "The value of {Office Buildings} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Rental Market, Residential Property, Commercial Real Estate, or Short-Term Rentals?",
+            "A": "The value of {Rental Market} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Rental Market to Short-Term Rentals to Platforms to Airbnb Listings}."
+        }
+    ],
+    "VA": []
+}

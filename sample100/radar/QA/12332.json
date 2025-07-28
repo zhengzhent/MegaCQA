@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Social Commerce Conversion Rate?",
+            "A": "The next dimension clockwise from Social Commerce Conversion Rate is Influencer Collaboration ROI Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Ad Click-Through Rate (CTR)?",
+            "A": "The next dimension counterclockwise from Social Commerce Conversion Rate is Live Stream Viewer Retention Rate."
+        },
+        {
+            "Q": "On the Follower Growth Rate, is the point for Maxwell, Jackson and Gibbs Media inside or outside the point for Robles, Davenport and Nichols Media?",
+            "A": "On the Follower Growth Rate, the point for Maxwell, Jackson and Gibbs Media is inside the point for Robles, Davenport and Nichols Media."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Social Commerce Conversion Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Maxwell, Jackson and Gibbs Media?",
+            "A": "The strongest aspect is {Social Commerce Conversion Rate}, while the weakest aspect is{ Follower Growth Rate}."
+        },
+        {
+            "Q": "On dimension Social Commerce Conversion Rate, which label scores the highest?",
+            "A": "On Social Commerce Conversion Rate, label {Maxwell, Jackson and Gibbs Media} scores the highest."
+        },
+        {
+            "Q": "On dimension Live Stream Viewer Retention Rate, which label scores the highest?",
+            "A": "On Live Stream Viewer Retention Rate, label {Maxwell, Jackson and Gibbs Media} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Maxwell, Jackson and Gibbs Media on the Ad Click-Through Rate (CTR) in the radar chart?",
+            "A": "The value of Maxwell, Jackson and Gibbs Media on the Safety dimension is {49}."
+        },
+        {
+            "Q": "What is the value of Maxwell, Jackson and Gibbs Media on the Live Stream Viewer Retention Rate in the radar chart?",
+            "A": "The value of Maxwell, Jackson and Gibbs Media on the Safety dimension is {73}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Robles, Davenport and Nichols Media across all dimensions in the radar chart?",
+            "A": "The maximum value of Robles, Davenport and Nichols Media across all dimensions is {27}."
+        },
+        {
+            "Q": "What is the minimum value of label Maxwell, Jackson and Gibbs Media across all dimensions in the radar chart?",
+            "A": "The minimum value of Maxwell, Jackson and Gibbs Media across all dimensions is {27}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Influencer Collaboration ROI Rate",
+            "A": "The average value of Influencer Collaboration ROI Rate is {57.5}."
+        },
+        {
+            "Q": "What is the average value of Maxwell, Jackson and Gibbs Media",
+            "A": "The average value of Maxwell, Jackson and Gibbs Media is {57.71}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 74 for the Live Stream Viewer Retention Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Robles, Davenport and Nichols Media} is {74}"
+        },
+        {
+            "Q": "Which labels have scores below 28 for the Follower Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Maxwell, Jackson and Gibbs Media} is {27}"
+        },
+        {
+            "Q": "For Robles, Davenport and Nichols Media in the radar chart, which dimensions have scores below 40? Please list the dimensions and corresponding scores.",
+            "A": "{Follower Growth Rate} is {27}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Maxwell, Jackson and Gibbs Media, which dimension has a higher score: Influencer Collaboration ROI Rate or Content Sharing Rate?",
+            "A": "{Content Sharing Rate} has a higher score than Influencer Collaboration ROI Rate for Maxwell, Jackson and Gibbs Media."
+        },
+        {
+            "Q": "For Robles, Davenport and Nichols Media, which dimension has a higher score: Follower Growth Rate or Live Stream Viewer Retention Rate?",
+            "A": "{Live Stream Viewer Retention Rate} has a higher score than Follower Growth Rate for Robles, Davenport and Nichols Media."
+        },
+        {
+            "Q": "On Ad Click-Through Rate (CTR), which label has a higher score: Maxwell, Jackson and Gibbs Media or the Robles, Davenport and Nichols Media?",
+            "A": "{Robles, Davenport and Nichols Media} has a higher score on Ad Click-Through Rate (CTR) compared to Maxwell, Jackson and Gibbs Media."
+        },
+        {
+            "Q": "For Maxwell, Jackson and Gibbs Media, which dimension has a higher score: Live Stream Viewer Retention Rate or Video Completion Rate or Content Sharing Rate?",
+            "A": "{Live Stream Viewer Retention Rate} has a higher score for Maxwell, Jackson and Gibbs Media."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Robles, Davenport and Nichols Media, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Robles, Davenport and Nichols Media most needs to improve its {Follower Growth Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Robles, Davenport and Nichols Media}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Maxwell, Jackson and Gibbs Media}."
+        }
+    ],
+    "VA": []
+}

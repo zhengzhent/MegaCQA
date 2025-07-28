@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {8} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {NovaEdge}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {PeakPoint}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar EcoCore relative to the bar PeakPoint in terms of horizontal (left/right) direction?",
+            "A": "Bar EcoCore is to the {left} of the bar PeakPoint."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {EcoCore}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {PeakPoint}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar NovaEdge?",
+            "A": "The value of NovaEdge is {27544.1} million USD."
+        },
+        {
+            "Q": "What is the value of bar EcoCore?",
+            "A": "The value of EcoCore is {30000.0} million USD."
+        },
+        {
+            "Q": "What is the value of bar TechNova?",
+            "A": "The value of TechNova is {20989.9} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {30000.0} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {5000.0} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of MarketZen and EcoCore?",
+            "A": "The total value of MarketZen and EcoCore is {55293.1} million USD."
+        },
+        {
+            "Q": "What is the average value of DataPulse and EcoCore?",
+            "A": "The average value of DataPulse and EcoCore is {25028.6} million USD."
+        },
+        {
+            "Q": "What is the difference between EcoCore and SmartHub?",
+            "A": "The difference between EcoCore and SmartHub is {4449.0999999999985} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 27656.00 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{SkyBound} has {27767.9} million USD, {EcoCore} has {30000.0} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 23141.50 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{PeakPoint} has {5000.0} million USD, {DataPulse} has {20057.2} million USD, {TechNova} has {20989.9} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, MarketZen or SmartHub ",
+            "A": "The value of the {SmartHub} is larger?"
+        },
+        {
+            "Q": "Which is larger, EcoCore, SkyBound or MarketZen ",
+            "A": "The value of the {EcoCore} is larger?"
+        },
+        {
+            "Q": "Which is larger, PeakPoint, DataPulse, MarketZen or SkyBound ",
+            "A": "The value of the {SkyBound} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {5} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {EcoCore} and {PeakPoint}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {EcoCore}, {SkyBound}, and {NovaEdge}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {EcoCore}, {SkyBound}, {NovaEdge}, {SmartHub}, {MarketZen}, {TechNova}, {DataPulse}, and {PeakPoint}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {PeakPoint}, {DataPulse}, {TechNova}, {MarketZen}, {SmartHub}, {NovaEdge}, {SkyBound}, and {EcoCore}."
+        }
+    ]
+}

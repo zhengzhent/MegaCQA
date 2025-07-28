@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Citation index (citations/paper) dimension, what is the spatial relationship of Poole Inc  Research Institute relative to Thompson, Aguirre and Cook  Research Institute in terms of vertical (above/below) direction?",
+            "A": "{Poole Inc  Research Institute} is {above} {Thompson, Aguirre and Cook  Research Institute} on the Citation index (citations/paper) dimension."
+        },
+        {
+            "Q": "Which dimension is the third position to the left of dimension Citation index (citations/paper)?",
+            "A": "The third position to the left of Citation index (citations/paper) is {Patent applications (patents)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Collaboration index (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Patent applications (patents)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Citation index (citations/paper)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Lab efficiency (%) and dimension Citation index (citations/paper)",
+            "A": "There is {Weak Correlation} between Lab efficiency (%) and Citation index (citations/paper)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Weeks, Baker and Miller  Research Center on the Patent applications (patents) dimension in the parallel-coordinates chart?",
+            "A": "The value of Weeks, Baker and Miller  Research Center on the Patent applications (patents) dimension is {0.0}"
+        },
+        {
+            "Q": "What is the value of Holt, Watson and Hood  Research Center on the Collaboration index (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Holt, Watson and Hood  Research Center on the Collaboration index (1-10) dimension is {7.62}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Edwards, Johnson and Williams  Research Center across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Edwards, Johnson and Williams  Research Center across all dimensions is {1000.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Edwards, Johnson and Williams  Research Center across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Edwards, Johnson and Williams  Research Center across all dimensions is {1.31}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Research funding (USD millions)?",
+            "A": "The average value of Research funding (USD millions) is {57.84}"
+        },
+        {
+            "Q": "What is the difference in coding Lab efficiency (%) between label Poole Inc  Research Institute and label Thompson, Aguirre and Cook  Research Institute",
+            "A": "The difference in coding Lab efficiency (%) between Poole Inc  Research Institute and Thompson, Aguirre and Cook  Research Institute is {53.21}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Collaboration index (1-10) dimension in the parallel coordinates?",
+            "A": "{[10.0, 7.62, 7.39]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Patent applications (patents) dimension in the parallel coordinates?",
+            "A": "{[0.0, 20.68, 26.4]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Research funding (USD millions), which label has a higher score: Edwards, Johnson and Williams  Research Center or Weeks, Baker and Miller  Research Center?",
+            "A": "{Edwards, Johnson and Williams  Research Center} has a higher score on Research funding (USD millions)."
+        },
+        {
+            "Q": "On Lab efficiency (%), which label has a higher score: Carr, Rojas and Hinton  Research Center or Edwards, Johnson and Williams  Research Center?",
+            "A": "{Carr, Rojas and Hinton  Research Center} has a higher score on Lab efficiency (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Citation index (citations/paper)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Collaboration index (1-10) being greater than 7.19 and Citation index (citations/paper) being less than 402.82?",
+            "A": "There are {3} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

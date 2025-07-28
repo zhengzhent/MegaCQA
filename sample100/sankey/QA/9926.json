@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow out of the node Mobile App in this sankey chart?",
+            "A": "There are {4} links flowing out of the node Mobile App."
+        },
+        {
+            "Q": "How many links flow into the node Flash Sale in this sankey chart?",
+            "A": "There are {4} links flowing into the node Flash Sale."
+        },
+        {
+            "Q": "How many links are in this sankey chart?",
+            "A": "There are {66} links."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Product Categories}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Marketing Campaigns}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Groceries} and {South America}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Toys} and {Asia}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Students to the node Third-Party Marketplace?",
+            "A": "The flow value from the node Students to the node Third-Party Marketplace is {3027}."
+        },
+        {
+            "Q": "What is the flow value from the node Seniors to the node Mobile App?",
+            "A": "The flow value from the node Seniors to the node Mobile App is {2325}."
+        },
+        {
+            "Q": "What is the flow value from the node Toys to the node Asia?",
+            "A": "The flow value from the node Toys to the node Asia is {909}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Young Adults to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Young Adults to the next stage is {10084}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Teens to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Teens to the next stage is {5754}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Seniors?",
+            "A": "The total flow output from node Seniors is {13364}."
+        },
+        {
+            "Q": "What is the total flow input by node Students?",
+            "A": "The total flow input by node Students is {18536}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Channels of the sankey chart, which nodes have an outflow exceeded 14640? Please list the node labels and their corresponding outflow values.",
+            "A": "{Mobile App} has an outflow of {19015}, {Physical Store} has an outflow of {17593}, {Third-Party Marketplace} has an outflow of {15003}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Product Categories and column Regions is the flow between 4056 and 5456? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {4893} from node {Toys} to {South America}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 7058 and 7624? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {7425} from node {Parents} to {Third-Party Marketplace}, a flow of {7391} from node {Young Adults} to {Mobile App}, a flow of {7381} from node {Third-Party Marketplace} to {Email Newsletter}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Seniors to node Physical Store and from node South America to node Teens, which path has a larger flow?",
+            "A": "The flow from node {South America} to node {Teens} is larger."
+        },
+        {
+            "Q": "Among the flows from node South America to node Young Adults, from node South America to node Teens, and from node Physical Store to node Email Newsletter, which path has the largest flow?",
+            "A": "The flow from node {Physical Store} to node {Email Newsletter} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Students to node Physical Store, from node South America to node Students, and from node Physical Store to node Referral Program, which path has the largest flow?",
+            "A": "The flow from node {South America} to node {Students} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Channels of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Channels is {Third-Party Marketplace}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Home Appliances to target node Flash Sale? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Home Appliances to node Flash Sale is: {Home Appliances, Asia, Teens, Mobile App, Flash Sale}."
+        }
+    ],
+    "VA": []
+}

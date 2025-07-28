@@ -1,0 +1,20 @@
+Agriculture and Food Production,Agriculture Production Distribution by Category (2024),%
+parent,child,value
+Root,Livestock,32.26
+Livestock,Cattle,10.6
+Cattle,Beef,5.53
+Cattle,Dairy,5.07
+Livestock,Poultry,21.66
+Poultry,Broilers,10.03
+Broilers,Intensive,5.03
+Broilers,Free-Range,5.0
+Poultry,Egg Layers,11.63
+Egg Layers,Cage-Free,6.37
+Egg Layers,Caged,5.26
+Root,Crop Production,37.92
+Crop Production,Oilseeds,29.56
+Oilseeds,Soybean,29.56
+Soybean,Conventional,29.56
+Crop Production,Grains,8.36
+Root,Agricultural Inputs,29.82
+Agricultural Inputs,Seeds,29.82

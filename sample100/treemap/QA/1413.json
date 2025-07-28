@@ -1,0 +1,98 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Demand Sensing in this treemap?",
+            "A": "There are {1} child rectangles under the category Demand Sensing."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Supply Chain}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Logistics}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Supply Chain}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Logistics rectangle in this treemap?",
+            "A": "The value of the Logistics rectangle is {8.85}."
+        },
+        {
+            "Q": "What is the value of the Sentiment Analysis rectangle in this treemap?",
+            "A": "The value of the Sentiment Analysis rectangle is {61.15}."
+        },
+        {
+            "Q": "What is the value of the BERT Models rectangle in this treemap?",
+            "A": "The value of the BERT Models rectangle is {26.94}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {8.85}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of BERT Models and RSSI Mapping?",
+            "A": "The difference between BERT Models and RSSI Mapping is {16.36}."
+        },
+        {
+            "Q": "What is the sum of the regions of Logistics and Real-Time Locating?",
+            "A": "The sum of Logistics and Real-Time Locating is {38.85}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Demand Sensing category in the treemap, which rectangular labels have a value exceeded 61.14? Please list the labels and values.",
+            "A": "{Social Listening} has {61.15}"
+        },
+        {
+            "Q": "Under the Demand Sensing category in the treemap, which rectangular labels have a value below 61.16? Please list the labels and values.",
+            "A": "{Social Listening} has {61.15}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Supply Chain, Inventory Control, or Demand Sensing?",
+            "A": "The value of {Supply Chain} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Supply Chain or Inventory Control?",
+            "A": "The value of {Supply Chain} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Demand Sensing or Sentiment Analysis?",
+            "A": "The value of {Demand Sensing} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Inventory Control, Demand Sensing, or Social Listening?",
+            "A": "The value of {Social Listening} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {5} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

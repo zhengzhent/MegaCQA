@@ -1,0 +1,67 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {14} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {17} links."
+        },
+        {
+            "Q": "How many nodes link with node Omega Testing Division?",
+            "A": "There are {3} nodes link with node Omega Testing Division."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Epsilon Design Team and node Omega Testing Division in this node-link chart?",
+            "A": "The relationship between node Epsilon Design Team and node Omega Testing Division is {venue_booking}."
+        },
+        {
+            "Q": "What is the relationship between node Alpha Research Team and node Beta Operations Group in this node-link chart?",
+            "A": "The relationship between node Alpha Research Team and node Beta Operations Group is {league_affiliation}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type match_schedule?",
+            "A": "There are {1} links with the relation type match_schedule."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Gamma Security Unit, how many links are of type venue_booking?",
+            "A": "Node Gamma Security Unit has {1} links of type venue_booking."
+        },
+        {
+            "Q": "Under node Epsilon Design Team, how many links are of type venue_booking?",
+            "A": "Node Epsilon Design Team has {1} links of type venue_booking."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Beta Operations Group}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Beta Operations Group with a degree of 7}, {node Gamma Security Unit with a degree of 6}, {node Alpha Research Team with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Epsilon Design Team to node Phoenix Rescue Squad in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Epsilon Design Team to node Phoenix Rescue Squad is: {Epsilon Design Team to Omega Testing Division to Gamma Security Unit to Alpha Research Team to Phoenix Rescue Squad}."
+        }
+    ],
+    "VA": []
+}

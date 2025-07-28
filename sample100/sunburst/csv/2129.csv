@@ -1,0 +1,20 @@
+Education and Academics,Education Distribution by Category (2024),%
+parent,child,value
+Root,Higher Education,41.99
+Higher Education,Undergraduate,23.18
+Undergraduate,Research Universities,15.47
+Research Universities,Medical Schools,5.01
+Research Universities,Engineering Schools,5.42
+Research Universities,Business Schools,5.05
+Undergraduate,Liberal Arts Colleges,7.71
+Higher Education,Postgraduate,18.81
+Postgraduate,Masters Programs,11.14
+Masters Programs,MBA,5.86
+Masters Programs,MA,5.28
+Postgraduate,Doctoral Programs,7.67
+Root,Informal Learning,34.93
+Informal Learning,Community Learning,11.89
+Community Learning,Public Libraries,11.89
+Informal Learning,Online Education,23.04
+Root,Formal Education,23.08
+Formal Education,Primary Education,23.08

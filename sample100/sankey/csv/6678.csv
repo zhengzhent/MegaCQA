@@ -1,0 +1,52 @@
+Healthcare and Health,Healthcare Service Ecosystem,Patients,random,Medical Specialties,Healthcare Providers,Outcomes,Treatment Types
+Source,Target,Value
+Oncology,Nursing Homes,10001
+Oncology,Hospitals,1016
+Oncology,Clinics,9969
+Oncology,Pharmacies,1374
+Oncology,Rehabilitation Centers,5368
+Pediatrics,Nursing Homes,1214
+Pediatrics,Hospitals,965
+Pediatrics,Clinics,1438
+Pediatrics,Pharmacies,419
+Pediatrics,Rehabilitation Centers,1446
+Nursing Homes,Improved Condition,1511
+Nursing Homes,Worsened Condition,4352
+Nursing Homes,Stable Condition,1511
+Nursing Homes,Deceased,3841
+Hospitals,Improved Condition,707
+Hospitals,Worsened Condition,766
+Hospitals,Stable Condition,230
+Hospitals,Deceased,278
+Clinics,Improved Condition,1984
+Clinics,Worsened Condition,4690
+Clinics,Stable Condition,2465
+Clinics,Deceased,2268
+Pharmacies,Improved Condition,522
+Pharmacies,Worsened Condition,789
+Pharmacies,Stable Condition,402
+Pharmacies,Deceased,80
+Rehabilitation Centers,Improved Condition,2595
+Rehabilitation Centers,Worsened Condition,844
+Rehabilitation Centers,Stable Condition,2028
+Rehabilitation Centers,Deceased,1347
+Improved Condition,Therapy,2272
+Improved Condition,Surgery,1693
+Improved Condition,Preventive Care,1590
+Improved Condition,Emergency Care,1077
+Improved Condition,Medication,687
+Worsened Condition,Therapy,1182
+Worsened Condition,Surgery,479
+Worsened Condition,Preventive Care,4185
+Worsened Condition,Emergency Care,2529
+Worsened Condition,Medication,3066
+Stable Condition,Therapy,1518
+Stable Condition,Surgery,2268
+Stable Condition,Preventive Care,1252
+Stable Condition,Emergency Care,1158
+Stable Condition,Medication,440
+Deceased,Therapy,2132
+Deceased,Surgery,3298
+Deceased,Preventive Care,369
+Deceased,Emergency Care,1646
+Deceased,Medication,369

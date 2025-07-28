@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {14} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of students in class of 5.00 relative to the bubble with a Number of students in class of 8.23 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of students in class of 5.00 is {above} and to the {left} of the bubble with a Number of students in class of 8.23."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Study hours and Academic performance?",
+            "A": "The highest concentration of bubbles corresponds to approximately {30.44} hours/week and {72.26} score."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of students in class of the largest bubble?",
+            "A": "The Number of students in class of the largest bubble is {50.00} students."
+        },
+        {
+            "Q": "What is the Number of students in class of the smallest bubble?",
+            "A": "The Number of students in class of the smallest bubble is {5.00} students."
+        },
+        {
+            "Q": "What are the Study hours and Academic performance values of the largest bubble?",
+            "A": "The Study hours of the largest bubble is {24.14} hours/week, and {Academic performance} is {30.91} score."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of students in class in the bubble chart?",
+            "A": "The global maximum Number of students in class is {50.00} students."
+        },
+        {
+            "Q": "What is the global minimum Number of students in class in the bubble chart?",
+            "A": "The global minimum Number of students in class is {5.00} students."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Study hours in the bubble chart?",
+            "A": "The maximum observed value in the Study hours dimension is {37.11} hours/week."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Study hours in the bubble chart?",
+            "A": "The minimum observed value in the Study hours dimension is {3.11} hours/week."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Academic performance in the bubble chart?",
+            "A": "The maximum observed value in the Academic performance dimension is {100.57} score."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Academic performance in the bubble chart?",
+            "A": "The minimum observed value in the Academic performance dimension is {30.91} score."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of students in class for all bubbles?",
+            "A": "The average value of the Number of students in class for all bubbles is {17.15} students."
+        },
+        {
+            "Q": "What is the average value of the Study hours for all bubbles?",
+            "A": "The average value of Study hours for all bubbles is {25.57} hours/week."
+        },
+        {
+            "Q": "What is the average value of the Academic performance for all bubbles?",
+            "A": "The average value of Academic performance for all bubbles is {63.11} score."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of students in class values in the bubble chart?",
+            "A": "{50.00, 45.86, 37.89} students."
+        },
+        {
+            "Q": "What are the bottom 3 Number of students in class values in the bubble chart?",
+            "A": "{5.00, 5.40, 5.40} students."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of students in class value, the bubble with a Study hours of 32.1 hours/week and a Academic performance of 40.2 score, or the bubble with a Study hours of 36.0 hours/week and a Academic performance of 85.1 score?",
+            "A": "The bubble with a Study hours of {32.1} and a Academic performance of {40.2} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of students in class value of the bubble with the largest Academic performance value?",
+            "A": "The Number of students in class value of the bubble with the largest Academic performance is {5.00}."
+        },
+        {
+            "Q": "What is the Number of students in class value of the bubble with the largest Study hours value?",
+            "A": "The Number of students in class value of the bubble with the largest Study hours is {8.63}."
+        },
+        {
+            "Q": "Classify bubbles with a Academic performance-coordinate greater than 67 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of students in class for the high value group and the low value group?",
+            "A": "The difference between the total Number of students in class of the high-value and low-value groups is {169.40}."
+        }
+    ],
+    "VA": []
+}

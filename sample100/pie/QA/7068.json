@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which discipline-wise has the largest proportion in this pie chart?",
+            "A": "The discipline-wise with the largest proportion is {Conference Paper}."
+        },
+        {
+            "Q": "Which discipline-wise has the smallest proportion in this pie chart?",
+            "A": "The discipline-wise with the smallest proportion is {Research Grant}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Research Grant slice in this pie chart?",
+            "A": "The value of the Research Grant slice is {28}%."
+        },
+        {
+            "Q": "What is the value of the Conference Paper slice in this pie chart?",
+            "A": "The value of the Conference Paper slice is {72}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {72}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {28}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 61.0%? Please list the category names and corresponding percentages.",
+            "A": "{Conference Paper} accounts for {72}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 39.0%? Please list the category names and corresponding percentages.",
+            "A": "{Research Grant} accounts for {28}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Conference Paper or Research Grant?",
+            "A": "The value of {Conference Paper} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

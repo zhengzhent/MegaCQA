@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Ironclad Ventures relative to Vanguard Dynamics?",
+            "A": "Ironclad Ventures is {below} Vanguard Dynamics in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total customer acquisition cost?",
+            "A": "The series with the largest contribution is {Vanguard Dynamics}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total customer acquisition cost?",
+            "A": "The series with the smallest contribution is {Apex Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Vanguard Dynamics's Customer Acquisition Cost in 1975?",
+            "A": "Vanguard Dynamics's customer acquisition cost in 1975 is {213.87} $."
+        },
+        {
+            "Q": "What is Vanguard Dynamics's Customer Acquisition Cost in 1969?",
+            "A": "Vanguard Dynamics's customer acquisition cost in 1969 is {120.72} $."
+        },
+        {
+            "Q": "What is Apex Systems's Customer Acquisition Cost in 1976?",
+            "A": "Apex Systems's customer acquisition cost in 1976 is {47.12} $."
+        },
+        {
+            "Q": "What are the customer acquisition cost of Vanguard Dynamics, Apex Systems, and Ironclad Ventures in 1968?",
+            "A": "Vanguard Dynamics's customer acquisition cost is {112.43} $, Apex Systems's customer acquisition cost is {75.40} $, Ironclad Ventures's customer acquisition cost is {87.45} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Customer Acquisition Cost in the area chart?",
+            "A": "The global minimum customer acquisition cost is {36.52} $."
+        },
+        {
+            "Q": "What is the global maximum Customer Acquisition Cost in the area chart?",
+            "A": "The global maximum customer acquisition cost is {255.29} $."
+        },
+        {
+            "Q": "What is the highest Customer Acquisition Cost level recorded for Apex Systems?",
+            "A": "Apex Systems reached approximately {95.56} $ in {1967}."
+        },
+        {
+            "Q": "What is the lowest Customer Acquisition Cost level recorded for Apex Systems?",
+            "A": "Apex Systems's lowest recorded level is approximately {36.52} $ in {1977}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Customer Acquisition Cost?",
+            "A": "The average total customer acquisition cost is {448.64} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Customer Acquisition Cost go below 419.83 $? Please list the years and corresponding total values.",
+            "A": "{412.39} $ in {1969}, {385.21} $ in {1968}, {409.17} $ in {1967}."
+        },
+        {
+            "Q": "Which years did the total Customer Acquisition Cost exceed 475.09 $? Please list the years and corresponding total values.",
+            "A": "{485.32} $ in {1975}, {499.35} $ in {1976}, {522.03} $ in {1977}."
+        },
+        {
+            "Q": "Which years did the total Customer Acquisition Cost fall between 425.09 and 469.83 $? Please list the years and corresponding total values.",
+            "A": "{431.17} $ in {1970}, {444.37} $ in {1973}, {451.16} $ in {1972}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was the total Customer Acquisition Cost in 1970 higher or lower than in 1973?",
+            "A": "The total customer acquisition cost in 1970 was {lower} than in 1973."
+        },
+        {
+            "Q": "Was the total Customer Acquisition Cost in 1971 higher or lower than in 1973?",
+            "A": "The total customer acquisition cost in 1971 was {lower} than in 1973."
+        },
+        {
+            "Q": "Between 1970 and 1974, did the total Customer Acquisition Cost experience a larger or smaller change than between 1974 and 1976?",
+            "A": "The change in total customer acquisition cost between 1970 and 1974 was {larger} than between 1974 and 1976."
+        },
+        {
+            "Q": "Between 1970 and 1972, was the average total Customer Acquisition Cost higher or lower than between 1976 and 1977?",
+            "A": "The average total customer acquisition cost between 1970 and 1972 was {lower} than between 1976 and 1977."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Vanguard Dynamics} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Apex Systems, Ironclad Ventures, Horizon Enterprises, Vanguard Dynamics}."
+        }
+    ]
+}

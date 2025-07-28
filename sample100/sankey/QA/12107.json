@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links flow into column Audience Segments of this sankey chart?",
+            "A": "There are {12} links flow into column Audience Segments."
+        },
+        {
+            "Q": "How many links flow into the node Finals in this sankey chart?",
+            "A": "There are {3} links flowing into the node Finals."
+        },
+        {
+            "Q": "How many links are in this sankey chart?",
+            "A": "There are {21} links."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Engagement Channels}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Event Types}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Families} and {Exhibition}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Social Media} and {Local Fans}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Fan Meetups to the node Local Fans?",
+            "A": "The flow value from the node Fan Meetups to the node Local Fans is {2192}."
+        },
+        {
+            "Q": "What is the flow value from the node Local Fans to the node Exhibition?",
+            "A": "The flow value from the node Local Fans to the node Exhibition is {775}."
+        },
+        {
+            "Q": "What is the flow value from the node Mobile Apps to the node Corporate Groups?",
+            "A": "The flow value from the node Mobile Apps to the node Corporate Groups is {5872}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Corporate Groups to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Corporate Groups to the next stage is {5789}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Social Media to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Social Media to the next stage is {441}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Mobile Apps?",
+            "A": "The total flow output from node Mobile Apps is {13473}."
+        },
+        {
+            "Q": "What is the total flow input by node Exhibition?",
+            "A": "The total flow input by node Exhibition is {15089}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Audience Segments of the sankey chart, which nodes have an outflow exceeded 8820? Please list the node labels and their corresponding outflow values.",
+            "A": "{Families} has an outflow of {11852}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Engagement Channels and column Audience Segments is the flow between 2361 and 3046? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {2449} from node {Fan Meetups} to {Corporate Groups}, a flow of {2973} from node {Fantasy Leagues} to {Corporate Groups}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 3103 and 3374? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {3119} from node {Social Media} to {Families}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Mobile Apps to node Corporate Groups and from node Local Fans to node Finals, which path has a larger flow?",
+            "A": "The flow from node {Mobile Apps} to node {Corporate Groups} is larger."
+        },
+        {
+            "Q": "Among the flows from node Mobile Apps to node Corporate Groups, from node Families to node Finals, and from node Local Fans to node Tournament, which path has the largest flow?",
+            "A": "The flow from node {Mobile Apps} to node {Corporate Groups} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Mobile Apps to node Local Fans, from node Social Media to node Families, and from node Fantasy Leagues to node Corporate Groups, which path has the largest flow?",
+            "A": "The flow from node {Social Media} to node {Families} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Engagement Channels of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Engagement Channels is {Fantasy Leagues}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Fan Meetups to target node Finals? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Fan Meetups to node Finals is: {Fan Meetups, Corporate Groups, Finals}."
+        }
+    ],
+    "VA": []
+}

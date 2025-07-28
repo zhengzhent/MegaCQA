@@ -1,0 +1,91 @@
+Transportation and Logistics,the Overview of Transportation and Logistics,10x9,diagonal
+Air,Capacity,0.17
+Customs,Capacity,0.26
+Intermodal,Capacity,0.35
+Last Mile,Capacity,0.44
+Maritime,Capacity,0.54
+Pipeline,Capacity,0.63
+Planning,Capacity,0.71
+Road,Capacity,0.81
+Tracking,Capacity,0.88
+Warehousing,Capacity,0.97
+Air,Compliance,0.25
+Customs,Compliance,0.33
+Intermodal,Compliance,0.43
+Last Mile,Compliance,0.52
+Maritime,Compliance,0.62
+Pipeline,Compliance,0.7
+Planning,Compliance,0.8
+Road,Compliance,0.88
+Tracking,Compliance,0.95
+Warehousing,Compliance,0.88
+Air,Cost,0.35
+Customs,Cost,0.43
+Intermodal,Cost,0.52
+Last Mile,Cost,0.62
+Maritime,Cost,0.71
+Pipeline,Cost,0.8
+Planning,Cost,0.87
+Road,Cost,0.94
+Tracking,Cost,0.87
+Warehousing,Cost,0.82
+Air,Efficiency,0.45
+Customs,Efficiency,0.53
+Intermodal,Efficiency,0.62
+Last Mile,Efficiency,0.71
+Maritime,Efficiency,0.8
+Pipeline,Efficiency,0.88
+Planning,Efficiency,0.95
+Road,Efficiency,0.87
+Tracking,Efficiency,0.8
+Warehousing,Efficiency,0.71
+Air,Labor,0.53
+Customs,Labor,0.62
+Intermodal,Labor,0.7
+Last Mile,Labor,0.8
+Maritime,Labor,0.87
+Pipeline,Labor,0.94
+Planning,Labor,0.87
+Road,Labor,0.8
+Tracking,Labor,0.7
+Warehousing,Labor,0.63
+Air,Reliability,0.63
+Customs,Reliability,0.7
+Intermodal,Reliability,0.8
+Last Mile,Reliability,0.87
+Maritime,Reliability,0.94
+Pipeline,Reliability,0.87
+Planning,Reliability,0.8
+Road,Reliability,0.71
+Tracking,Reliability,0.62
+Warehousing,Reliability,0.53
+Air,Speed,0.71
+Customs,Speed,0.81
+Intermodal,Speed,0.87
+Last Mile,Speed,0.94
+Maritime,Speed,0.88
+Pipeline,Speed,0.8
+Planning,Speed,0.71
+Road,Speed,0.62
+Tracking,Speed,0.52
+Warehousing,Speed,0.44
+Air,Sustainability,0.81
+Customs,Sustainability,0.87
+Intermodal,Sustainability,0.95
+Last Mile,Sustainability,0.88
+Maritime,Sustainability,0.8
+Pipeline,Sustainability,0.71
+Planning,Sustainability,0.62
+Road,Sustainability,0.52
+Tracking,Sustainability,0.43
+Warehousing,Sustainability,0.35
+Air,Technology,0.87
+Customs,Technology,0.95
+Intermodal,Technology,0.88
+Last Mile,Technology,0.81
+Maritime,Technology,0.72
+Pipeline,Technology,0.64
+Planning,Technology,0.53
+Road,Technology,0.44
+Tracking,Technology,0.35
+Warehousing,Technology,0.27

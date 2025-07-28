@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {7} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Ironwood}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Mapleton}."
+        },
+        {
+            "Q": "Which box is the second position to the left of the box Mapleton?",
+            "A": "The second position to the left of the box Mapleton is {Westport}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Westport relative to the box Dunvale in terms of horizontal (left/right) direction?",
+            "A": "Box Westport is to the {left} of the box Dunvale."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Westport}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Westport}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Dunvale}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Ironwood in the box plot?",
+            "A": "The median of Ironwood is {59934.0} tons."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Westport in the box plot?",
+            "A": "The lower quartile (Q1) of Westport is {53971.25} tons."
+        },
+        {
+            "Q": "What is the lower whisker limit of Ironwood in the box plot?",
+            "A": "The lower whisker limit of Ironwood is {31412} tons."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Ironwood in the box plot?",
+            "A": "The largest upper outlier value in Ironwood is {160327}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum tons value in the box plot?",
+            "A": "The global maximum tons value in the box plot is {226712.00} tons."
+        },
+        {
+            "Q": "What is the global minimum tons value in the box plot?",
+            "A": "The global minimum tons value in the box plot is {26726.00} tons."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Ironwood and Mapleton?",
+            "A": "The Q3 difference between box Ironwood and Mapleton is {1706.25} tons."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Dunvale and Ironwood?",
+            "A": "The total Q1 value of box Dunvale and Ironwood is {86454.75} tons."
+        },
+        {
+            "Q": "What is the average Q1 value of box Westport and Rosewood?",
+            "A": "The average Q1 value of box Westport and Rosewood is {46957.125} tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 135794.7 tons?",
+            "A": "Box{Ironwood},{Springfield},{Pinehaven},{Westport},{Dunvale},{Mapleton} have the outliers exceed 135794.7 tons."
+        },
+        {
+            "Q": "Which boxes have median values exceed 57152.75 tons? Please list the boxes and corresponding values.",
+            "A": "{Ironwood} has {59934.0} tons , {Springfield} has {57415.0} tons , {Westport} has {63326.5} tons "
+        },
+        {
+            "Q": "Which boxes have median values below 49555.75 tons? Please list the boxes and corresponding values.",
+            "A": "{Rosewood} has {49297.0} tons "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Springfield or Mapleton ",
+            "A": "The median value of the {Springfield} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Mapleton, Dunvale or Springfield ",
+            "A": "The median value of the {Springfield} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Rosewood, Ironwood, Dunvale or Pinehaven ",
+            "A": "The median value of the {Ironwood} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Ironwood}."
+        }
+    ],
+    "VA": []
+}

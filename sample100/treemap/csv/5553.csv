@@ -1,0 +1,12 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2022),%
+parent,child,value
+,Talent Development,100.0
+Talent Development,Competency Models,90.23
+Competency Models,Skill Mapping,9.75
+Skill Mapping,AI Assessment,9.75
+Competency Models,360 Feedback,80.48
+360 Feedback,Peer Evaluation,80.48
+Peer Evaluation,Anonymization,80.48
+Anonymization,Differential Privacy,75.39
+Anonymization,k-Anonymity,5.09
+Talent Development,Career Pathing,9.77

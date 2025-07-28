@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {3} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Westport Academy}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Pinecrest Institute}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin Westport Academy?",
+            "A": "The first position to the right of the violin Westport Academy is {Crestview High}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Pinecrest Institute relative to the violin Westport Academy in terms of horizontal (left/right) direction?",
+            "A": "violin Pinecrest Institute is to the {right} of the violin Westport Academy."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Westport Academy}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Westport Academy}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Westport Academy?",
+            "A": "The density distribution pattern of the Westport Academy shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Pinecrest Institute in the violin plot?",
+            "A": "The median of Pinecrest Institute is {82.00} %."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Crestview High in the violin plot?",
+            "A": "The lower quartile (Q1) of Crestview High is {78.63} %."
+        },
+        {
+            "Q": "What is the upper whisker limit of Crestview High in the violin plot?",
+            "A": "The upper whisker limit of Crestview High is {89.05} %."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Westport Academy in the violin plot?",
+            "A": "The largest upper outlier value in Westport Academy is {103.95}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum % value in the violin plot?",
+            "A": "The global maximum % value in the violin plot is {103.95} %."
+        },
+        {
+            "Q": "What is the global minimum % value in the violin plot?",
+            "A": "The global minimum % value in the violin plot is {65.87} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Westport Academy and Crestview High?",
+            "A": "The Q3 difference between violin Westport Academy and Crestview High is {7.67} %."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Westport Academy and Pinecrest Institute?",
+            "A": "The total Q1 value of violin Westport Academy and Pinecrest Institute is {167.98} %."
+        },
+        {
+            "Q": "What is the average Median value of violin Pinecrest Institute and Crestview High?",
+            "A": "The average Median value of violin Pinecrest Institute and Crestview High is {81.32} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 81.32 %? Please list the violins and corresponding values.",
+            "A": "{Westport Academy} has {88.91} % , {Pinecrest Institute} has {82.00} % "
+        },
+        {
+            "Q": "Which violins have median values below 85.45 %? Please list the violins and corresponding values.",
+            "A": "{Crestview High} has {80.65} % , {Pinecrest Institute} has {82.00} % "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 79.73 % and the upper quartile (Q3) below 86.97 %?",
+            "A": "Violin {Pinecrest Institute} has the Q1 above 79.73 % and the Q3 below 86.975 %."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 81.19 %?",
+            "A": "Violin {Westport Academy} has {89.00} % ,{Pinecrest Institute} has {82.13} % have their highest density peak exceed 81.19 %."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 85.57 %?",
+            "A": "Violin {Crestview High} has {80.24} % ,{Pinecrest Institute} has {82.13} % have their highest density peak below 85.57 %."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Westport Academy or Crestview High ",
+            "A": "The median value of the {Westport Academy} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Crestview High, Westport Academy or Pinecrest Institute ",
+            "A": "The median value of the {Westport Academy} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Crestview High}."
+        }
+    ],
+    "VA": []
+}

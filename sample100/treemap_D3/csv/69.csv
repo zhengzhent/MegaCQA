@@ -1,0 +1,19 @@
+Retail and E-commerce,E-commerce Distribution by Category (2022),%
+parent,child,value
+Root,Payment & Logistics,33.81
+Payment & Logistics,Fulfillment & Delivery,19.17
+Fulfillment & Delivery,Warehousing,9.97
+Fulfillment & Delivery,Last-mile Delivery,9.21
+Payment & Logistics,Digital Payment Systems,14.63
+Digital Payment Systems,E-Wallets,5.74
+Digital Payment Systems,Buy Now Pay Later,8.9
+Root,Customer Engagement,38.42
+Customer Engagement,Customer Service,6.73
+Customer Engagement,Marketing Strategies,31.7
+Marketing Strategies,Social Media Ads,10.2
+Marketing Strategies,Email Campaigns,21.49
+Root,Marketplace Platforms,27.77
+Marketplace Platforms,B2C Platforms,18.47
+B2C Platforms,Fashion Retailers,8.82
+B2C Platforms,Electronics Retailers,9.65
+Marketplace Platforms,C2C Marketplaces,9.3

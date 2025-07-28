@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Accuracy (%) dimension, what is the spatial relationship of Kimberly Reese relative to Jesus Gibbs in terms of vertical (above/below) direction?",
+            "A": "{Kimberly Reese} is {above} {Jesus Gibbs} on the Accuracy (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Accuracy (%)?",
+            "A": "The second position to the left of Accuracy (%) is {Injury frequency (per year)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Speed (km/h)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Injury frequency (per year)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Recovery time (hours)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Recovery time (hours) and dimension Accuracy (%)",
+            "A": "There is {Weak Correlation} between Recovery time (hours) and Accuracy (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Kimberly Reese on the Training hours/week (hours) dimension in the parallel-coordinates chart?",
+            "A": "The value of Kimberly Reese on the Training hours/week (hours) dimension is {31.99}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Tiffany Johnson across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Tiffany Johnson across all dimensions is {79.49}"
+        },
+        {
+            "Q": "What is the minimum value of label Tiffany Johnson across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Tiffany Johnson across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Recovery time (hours)?",
+            "A": "The average value of Recovery time (hours) is {41.84}"
+        },
+        {
+            "Q": "What is the difference in coding Training hours/week (hours) between label David Patterson and label Tiffany Johnson",
+            "A": "The difference in coding Training hours/week (hours) between David Patterson and Tiffany Johnson is {30.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Speed (km/h) dimension in the parallel coordinates?",
+            "A": "{[40.0, 34.31, 30.11]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Recovery time (hours) dimension in the parallel coordinates?",
+            "A": "{[12.0, 16.39, 66.99]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Injury frequency (per year), which label has a higher score: Tiffany Johnson or Kimberly Reese?",
+            "A": "{Kimberly Reese} has a higher score on Injury frequency (per year)."
+        },
+        {
+            "Q": "On Accuracy (%), which label has a higher score: David Patterson or Tiffany Johnson?",
+            "A": "{Tiffany Johnson} has a higher score on Accuracy (%)."
+        },
+        {
+            "Q": "On Speed (km/h), which label has a higher score: Tiffany Johnson or Kimberly Reese?",
+            "A": "{Kimberly Reese} has a higher score on Speed (km/h)."
+        },
+        {
+            "Q": "On Speed (km/h), which label has a higher score: Jesus Gibbs or Kimberly Reese?",
+            "A": "{Kimberly Reese} has a higher score on Speed (km/h)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Recovery time (hours)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Injury frequency (per year) being greater than 1.89 and Training hours/week (hours) being less than 23.38?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

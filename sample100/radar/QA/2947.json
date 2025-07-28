@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Streaming Media Cultural Content Consumption Rate?",
+            "A": "The next dimension clockwise from Streaming Media Cultural Content Consumption Rate is Local Heritage Awareness Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Streaming Media Cultural Content Consumption Rate?",
+            "A": "The next dimension counterclockwise from Streaming Media Cultural Content Consumption Rate is Museum/Gallery Visitor Growth Rate."
+        },
+        {
+            "Q": "On the Local Heritage Awareness Rate, is the point for Grahamberg Cultural Center inside or outside the point for South Stephen Cultural Center?",
+            "A": "On the Local Heritage Awareness Rate, the point for Grahamberg Cultural Center is outside the point for South Stephen Cultural Center."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Cultural Industry Employment Growth Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of South Stephen Cultural Center?",
+            "A": "The strongest aspect is {Cultural Industry Employment Growth Rate}, while the weakest aspect is{ Local Heritage Awareness Rate}."
+        },
+        {
+            "Q": "On dimension Local Heritage Awareness Rate, which label scores the highest?",
+            "A": "On Local Heritage Awareness Rate, label {South Stephen Cultural Center} scores the highest."
+        },
+        {
+            "Q": "On dimension Streaming Media Cultural Content Consumption Rate, which label scores the highest?",
+            "A": "On Streaming Media Cultural Content Consumption Rate, label {South Stephen Cultural Center} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of South Stephen Cultural Center on the Cultural Industry Employment Growth Rate in the radar chart?",
+            "A": "The value of South Stephen Cultural Center on the Safety dimension is {92}."
+        },
+        {
+            "Q": "What is the value of South Heather Cultural Center on the Museum/Gallery Visitor Growth Rate in the radar chart?",
+            "A": "The value of South Heather Cultural Center on the Safety dimension is {73}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label South Stephen Cultural Center across all dimensions in the radar chart?",
+            "A": "The maximum value of South Stephen Cultural Center across all dimensions is {36}."
+        },
+        {
+            "Q": "What is the minimum value of label South Stephen Cultural Center across all dimensions in the radar chart?",
+            "A": "The minimum value of South Stephen Cultural Center across all dimensions is {48}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Museum/Gallery Visitor Growth Rate",
+            "A": "The average value of Museum/Gallery Visitor Growth Rate is {58.67}."
+        },
+        {
+            "Q": "What is the average value of South Stephen Cultural Center",
+            "A": "The average value of South Stephen Cultural Center is {50.0}."
+        },
+        {
+            "Q": "What is the difference in Local Heritage Awareness Rate between South Heather Cultural Center and South Stephen Cultural Center?",
+            "A": "The difference in Local Heritage Awareness Rate between South Heather Cultural Center and South Stephen Cultural Center is {8}."
+        },
+        {
+            "Q": "What is the difference in Cultural Industry Employment Growth Rate between Grahamberg Cultural Center and South Heather Cultural Center?",
+            "A": "The difference in Cultural Industry Employment Growth Rate between Grahamberg Cultural Center and South Heather Cultural Center is {36}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For South Heather Cultural Center in the radar chart, which dimensions have scores between 45 and 73? Please list the dimensions and corresponding scores.",
+            "A": "{Streaming Media Cultural Content Consumption Rate} is {48}"
+        },
+        {
+            "Q": "Which labels have scores below 53 for the Cultural Industry Employment Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Grahamberg Cultural Center} is {43}"
+        },
+        {
+            "Q": "For Grahamberg Cultural Center in the radar chart, which dimensions have scores above 73? Please list the dimensions and corresponding scores.",
+            "A": "{Streaming Media Cultural Content Consumption Rate} is {82}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For South Heather Cultural Center, which dimension has a higher score: Local Heritage Awareness Rate or Streaming Media Cultural Content Consumption Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score than Local Heritage Awareness Rate for South Heather Cultural Center."
+        },
+        {
+            "Q": "For Grahamberg Cultural Center, which dimension has a higher score: Local Heritage Awareness Rate or Streaming Media Cultural Content Consumption Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score than Local Heritage Awareness Rate for Grahamberg Cultural Center."
+        },
+        {
+            "Q": "On Local Heritage Awareness Rate, which label has a higher score: South Stephen Cultural Center or the Grahamberg Cultural Center?",
+            "A": "{Grahamberg Cultural Center} has a higher score on Local Heritage Awareness Rate compared to South Stephen Cultural Center."
+        },
+        {
+            "Q": "For Grahamberg Cultural Center, which dimension has a higher score: Cultural Industry Employment Growth Rate or Local Heritage Awareness Rate or Streaming Media Cultural Content Consumption Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score for Grahamberg Cultural Center."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For South Heather Cultural Center, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "South Heather Cultural Center most needs to improve its {Local Heritage Awareness Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {South Heather Cultural Center}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {South Stephen Cultural Center}."
+        }
+    ],
+    "VA": []
+}

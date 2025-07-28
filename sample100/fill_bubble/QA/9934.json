@@ -1,0 +1,136 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {fill bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this fill bubble chart?",
+            "A": "There are {6} bubbles."
+        },
+        {
+            "Q": "How many bubbles are in layer 3 of this fill bubble chart?",
+            "A": "There are {3} bubbles in layer 3."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Bubble Electric Vehicles positioned deeper, shallower or on the same depth as Bubble Marine Engineering?",
+            "A": "Bubble Electric Vehicles is positioned {on the same depth as} Bubble Marine Engineering."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the maximum depth in this fill bubble chart?",
+            "A": "The maximum depth is {3}."
+        },
+        {
+            "Q": "Which bubble contains bubble Modes of Transport in the fill bubble chart?",
+            "A": "Bubble Modes of Transport is contained by bubble {Transportation and Logistics}."
+        },
+        {
+            "Q": "Which bubbles are contained within bubble Transportation and Logistics in the fill bubble chart?",
+            "A": "Bubble Transportation and Logistics contains bubbles {Vehicle Technology, Modes of Transport}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the size value of bubble Electric Vehicles?",
+            "A": "The size value of bubble Electric Vehicles is {8.36}."
+        },
+        {
+            "Q": "What is the size value of bubble Transportation and Logistics?",
+            "A": "The size value of bubble Transportation and Logistics is {60.93}."
+        },
+        {
+            "Q": "What is the size value of bubble Vehicle Technology?",
+            "A": "The size value of bubble Vehicle Technology is {33.37}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum size value in the fill bubble chart?",
+            "A": "The global maximum size value is {60.93}."
+        },
+        {
+            "Q": "What is the global minimum size value in the fill bubble chart?",
+            "A": "The global minimum size value is {5.52}."
+        },
+        {
+            "Q": "What is the maximum value under category Vehicle Technology?",
+            "A": "The maximum value under category Vehicle Technology is {8.42}."
+        },
+        {
+            "Q": "What is the minimum value under category Vehicle Technology?",
+            "A": "The minimum value under category Vehicle Technology is {8.36}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of layer 3 of bubbles?",
+            "A": "The total value of layer 3 of bubbles is {22.30}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 size values in the fill bubble chart?",
+            "A": "{60.93, 38.03, 33.37}."
+        },
+        {
+            "Q": "What are the bottom 3 size values in the fill bubble chart?",
+            "A": "{5.52, 8.36, 8.42}."
+        },
+        {
+            "Q": "Which bubbles have size values exceed 43.16? Please list the bubbles and corresponding values.",
+            "A": "Transportation and Logistics has {60.93}."
+        },
+        {
+            "Q": "Which bubbles have size values between 24.19 and 59.84? Please list the bubbles and corresponding values.",
+            "A": "Vehicle Technology has {33.37}, and Modes of Transport has {38.03}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the size value of Modes of Transport or Electric Vehicles in the fill bubble chart?",
+            "A": "The size value of {Modes of Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Vehicle Technology or Modes of Transport in the fill bubble chart?",
+            "A": "The size value of {Modes of Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Transportation and Logistics or Marine Engineering in the fill bubble chart?",
+            "A": "The size value of {Transportation and Logistics} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Road Transport or Marine Engineering in the fill bubble chart?",
+            "A": "The size value of {Marine Engineering} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 3 has the largest bubble area?",
+            "A": "The subcategory with the largest bubble area in the level 3 is {Marine Engineering}."
+        },
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 2 has the smallest bubble area?",
+            "A": "The subcategory with the smallest bubble area in the level 2 is {Vehicle Technology}."
+        },
+        {
+            "Q": "How many bubbles have values above the average size across all categories?",
+            "A": "There are {3} bubbles with values above the average size."
+        },
+        {
+            "Q": "How many bubbles have values below the average oil storage across all categories?",
+            "A": "There are {3} bubbles with values below the average size."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual clutter caused by overlapping labels in the bubble chart, sample the labels and list the top 2 labels recommended for removal.",
+            "A": "The top 2 labels recommended for removal to reduce label overlap are: {Electric Vehicles}, {Modes of Transport}."
+        }
+    ]
+}

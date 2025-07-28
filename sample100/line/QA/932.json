@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Starlight Innovations, what is the spatial relationship of the data point in 2017 relative to that in 2012 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Starlight Innovations, the data point in 2017 is {below} and to the {right} of the data point in 2012."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Starlight Innovations's Debt to Equity Ratio levels?",
+            "A": "Starlight Innovations's debt to equity ratio levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "Which line shows a exponential falling trend in Debt to Equity Ratio levels?",
+            "A": "{Starlight Innovations}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Starlight Innovations's Debt to Equity Ratio in 2013?",
+            "A": "Starlight Innovations's debt to equity ratio in 2013 is {0.14} ratio."
+        },
+        {
+            "Q": "What is Starlight Innovations's Debt to Equity Ratio in 2018?",
+            "A": "Starlight Innovations's debt to equity ratio in 2018 is {0.08} ratio."
+        },
+        {
+            "Q": "What is Starlight Innovations's Debt to Equity Ratio in 2020?",
+            "A": "Starlight Innovations's debt to equity ratio in 2020 is {0.06} ratio."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Debt to Equity Ratio in the line chart?",
+            "A": "The global minimum debt to equity ratio is {0.05} ratio."
+        },
+        {
+            "Q": "What is the global maximum Debt to Equity Ratio in the line chart?",
+            "A": "The global maximum debt to equity ratio is {0.26} ratio."
+        },
+        {
+            "Q": "What is the highest Debt to Equity Ratio level recorded for Starlight Innovations?",
+            "A": "Starlight Innovations reached approximately {0.26} ratio in {2007}."
+        },
+        {
+            "Q": "What is the lowest Debt to Equity Ratio level recorded for Starlight Innovations?",
+            "A": "Starlight Innovations's lowest recorded level is approximately {0.05} ratio in {2022}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Starlight Innovations's Debt to Equity Ratio from the starting year to the final year?",
+            "A": "The rate of decline in Starlight Innovations's debt to equity ratio is {-80.77}%."
+        },
+        {
+            "Q": "What is the average value of Starlight Innovations's Debt to Equity Ratio?",
+            "A": "The average value of Starlight Innovations's debt to equity ratio is {0.13} ratio."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Starlight Innovations's Debt to Equity Ratio between 0 and 0 ratio? Please list the years and corresponding values.",
+            "A": "{0.09} ratio in {2017} year, {0.14} ratio in {2013} year, {0.10} ratio in {2016} year."
+        },
+        {
+            "Q": "Which years did Starlight Innovations's Debt to Equity Ratio exceed 0 ratio? Please list the years and corresponding values.",
+            "A": "{0.21} ratio in {2009} year, {0.23} ratio in {2008} year, {0.18} ratio in {2010} year."
+        },
+        {
+            "Q": "Which years did Starlight Innovations's Debt to Equity Ratio below 0 ratio? Please list the years and corresponding values.",
+            "A": "{0.05} ratio in {2022} year, {0.06} ratio in {2021} year, {0.06} ratio in {2020} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Starlight Innovations's Debt to Equity Ratio in 2007 higher or lower than in 2019?",
+            "A": "The debt to equity ratio in 2007 was {higher} than in 2019."
+        },
+        {
+            "Q": "Was Starlight Innovations's Debt to Equity Ratio in 2014 higher or lower than in 2023?",
+            "A": "The debt to equity ratio in 2014 was {higher} than in 2023."
+        },
+        {
+            "Q": "Was Starlight Innovations's Debt to Equity Ratio in 2010 higher or lower than in 2014?",
+            "A": "The debt to equity ratio in 2010 was {higher} than in 2014."
+        },
+        {
+            "Q": "Was Starlight Innovations's Debt to Equity Ratio in 2007 higher or lower than in 2023?",
+            "A": "The debt to equity ratio in 2007 was {higher} than in 2023."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Starlight Innovations. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {2007, 2023}."
+        }
+    ]
+}

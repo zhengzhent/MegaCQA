@@ -1,0 +1,139 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Digital Content Creation Rate?",
+            "A": "The next dimension clockwise from Digital Content Creation Rate is Artwork Sales Growth Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Digital Content Creation Rate?",
+            "A": "The next dimension counterclockwise from Digital Content Creation Rate is Streaming Media Cultural Content Consumption Rate."
+        },
+        {
+            "Q": "On the Digital Content Creation Rate, is the point for North Williamview Cultural Center inside or outside the point for Kellyville Cultural Center?",
+            "A": "On the Digital Content Creation Rate, the point for North Williamview Cultural Center is inside the point for Kellyville Cultural Center."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Local Heritage Awareness Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Kellyville Cultural Center?",
+            "A": "The strongest aspect is {Local Heritage Awareness Rate}, while the weakest aspect is{ Streaming Media Cultural Content Consumption Rate}."
+        },
+        {
+            "Q": "On dimension Digital Content Creation Rate, which label scores the highest?",
+            "A": "On Digital Content Creation Rate, label {Lake Derrick Cultural Center} scores the highest."
+        },
+        {
+            "Q": "On dimension Cultural Funding Utilization Rate, which label scores the highest?",
+            "A": "On Cultural Funding Utilization Rate, label {North Williamview Cultural Center} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Lake Derrick Cultural Center on the Local Heritage Awareness Rate in the radar chart?",
+            "A": "The value of Lake Derrick Cultural Center on the Safety dimension is {39}."
+        },
+        {
+            "Q": "What is the value of Lake Derrick Cultural Center on the Artwork Sales Growth Rate in the radar chart?",
+            "A": "The value of Lake Derrick Cultural Center on the Safety dimension is {32}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Lake Derrick Cultural Center across all dimensions in the radar chart?",
+            "A": "The maximum value of Lake Derrick Cultural Center across all dimensions is {73}."
+        },
+        {
+            "Q": "What is the minimum value of label Lake Derrick Cultural Center across all dimensions in the radar chart?",
+            "A": "The minimum value of Lake Derrick Cultural Center across all dimensions is {39}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Digital Content Creation Rate",
+            "A": "The average value of Digital Content Creation Rate is {59.33}."
+        },
+        {
+            "Q": "What is the average value of Lake Derrick Cultural Center",
+            "A": "The average value of Lake Derrick Cultural Center is {57.0}."
+        },
+        {
+            "Q": "What is the difference in Artwork Sales Growth Rate between Lake Derrick Cultural Center and North Williamview Cultural Center?",
+            "A": "The difference in Artwork Sales Growth Rate between Lake Derrick Cultural Center and North Williamview Cultural Center is {5}."
+        },
+        {
+            "Q": "What is the difference in Cultural Funding Utilization Rate between Kellyville Cultural Center and Lake Derrick Cultural Center?",
+            "A": "The difference in Cultural Funding Utilization Rate between Kellyville Cultural Center and Lake Derrick Cultural Center is {9}."
+        },
+        {
+            "Q": "What is the difference in Artwork Sales Growth Rate between North Williamview Cultural Center and Lake Derrick Cultural Center?",
+            "A": "The difference in Artwork Sales Growth Rate between North Williamview Cultural Center and Lake Derrick Cultural Center is {5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For North Williamview Cultural Center in the radar chart, which dimensions have scores above 47? Please list the dimensions and corresponding scores.",
+            "A": "{Digital Content Creation Rate} is {52}, {Cultural Funding Utilization Rate} is {53}"
+        },
+        {
+            "Q": "For North Williamview Cultural Center in the radar chart, which dimensions have scores below 30? Please list the dimensions and corresponding scores.",
+            "A": "{Local Heritage Awareness Rate} is {24}"
+        },
+        {
+            "Q": "Which labels have scores above 84 for the Cultural Funding Utilization Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Lake Derrick Cultural Center} is {92}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Lake Derrick Cultural Center, which dimension has a higher score: Streaming Media Cultural Content Consumption Rate or Digital Content Creation Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score than Digital Content Creation Rate for Lake Derrick Cultural Center."
+        },
+        {
+            "Q": "For Kellyville Cultural Center, which dimension has a higher score: Streaming Media Cultural Content Consumption Rate or Artwork Sales Growth Rate?",
+            "A": "{Artwork Sales Growth Rate} has a higher score than Streaming Media Cultural Content Consumption Rate for Kellyville Cultural Center."
+        },
+        {
+            "Q": "On Digital Content Creation Rate, which label has a higher score: North Williamview Cultural Center or the Lake Derrick Cultural Center?",
+            "A": "{North Williamview Cultural Center} has a higher score on Digital Content Creation Rate compared to Lake Derrick Cultural Center."
+        },
+        {
+            "Q": "On Cultural Funding Utilization Rate, which label has a higher score: Kellyville Cultural Center or the North Williamview Cultural Center?",
+            "A": "{Kellyville Cultural Center} has a higher score on Cultural Funding Utilization Rate compared to North Williamview Cultural Center."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For North Williamview Cultural Center, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "North Williamview Cultural Center most needs to improve its {Local Heritage Awareness Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Kellyville Cultural Center}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {North Williamview Cultural Center}."
+        }
+    ],
+    "VA": []
+}

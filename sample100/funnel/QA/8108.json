@@ -1,0 +1,91 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {7} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Property Listed stage positioned above or below the Initial Inquiries stage?",
+            "A": "The Property Listed stage is positioned {above} the Initial Inquiries stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {logarithmic} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Property Listed?",
+            "A": "The value of stage Property Listed is {366}."
+        },
+        {
+            "Q": "What is the value of stage Negotiation?",
+            "A": "The value of stage Negotiation is {105}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Property Listed, with a value of {366}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Post-sale Survey, with a value of {48}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Property Viewed to stage Negotiation?",
+            "A": "Decreased by {54} Properties from stage Property Viewed to stage Negotiation."
+        },
+        {
+            "Q": "How much did it decrease from stage Initial Inquiries to stage Property Viewed?",
+            "A": "Decreased by {76} Properties from stage Initial Inquiries to stage Property Viewed."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 132? Please list the stage labels and corresponding values.",
+            "A": "The {Property Listed} stage has {366}, the {Initial Inquiries} stage has {235}, the {Property Viewed} stage has {159}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 61? Please list the stage labels and corresponding values.",
+            "A": "The {Sale Closed} stage has {59}, the {Post-sale Survey} stage has {48}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 61 and 132? Please list the stage labels and corresponding values.",
+            "A": "The {Negotiation} stage has {105}, the {Contract Signed} stage has {63}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Property Viewed to Negotiation, or from stage Contract Signed to Sale Closed?",
+            "A": "The reduction from stage {Property Viewed} to {Negotiation} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Sale Closed to Post-sale Survey, from stage Initial Inquiries to Property Viewed, or from stage Contract Signed to Sale Closed?",
+            "A": "The reduction from stage {Initial Inquiries} to stage {Property Viewed} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Property Listed} and {Initial Inquiries} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Contract Signed} and {Sale Closed} stages."
+        }
+    ],
+    "VA": []
+}

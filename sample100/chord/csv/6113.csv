@@ -1,0 +1,8 @@
+Healthcare and Health, Medical Referral Flow, Patients, normal
+Source,Target,Value
+Maternal and Child Health Center,Tertiary General Hospital,90
+Tertiary General Hospital,Maternal and Child Health Center,258
+Mental Health Hospital,Tertiary General Hospital,516
+Tertiary General Hospital,Mental Health Hospital,648
+Maternal and Child Health Center,Mental Health Hospital,540
+Mental Health Hospital,Maternal and Child Health Center,282

@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category ML Models in this treemap?",
+            "A": "There are {2} child rectangles under the category ML Models."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Platform Architecture}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {PCI Compliance}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Platform Architecture}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Fraud Detection rectangle in this treemap?",
+            "A": "The value of the Fraud Detection rectangle is {47.06}."
+        },
+        {
+            "Q": "What is the value of the PCI Compliance rectangle in this treemap?",
+            "A": "The value of the PCI Compliance rectangle is {5.39}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.39}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Collaborative Filtering and Recommendation Engines?",
+            "A": "The difference between Collaborative Filtering and Recommendation Engines is {37.86}."
+        },
+        {
+            "Q": "What is the sum of the regions of SVD Algorithms and PCI Compliance?",
+            "A": "The sum of SVD Algorithms and PCI Compliance is {15.08}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the ML Models category in the treemap, which rectangular labels have a value exceeded 30.67? Please list the labels and values.",
+            "A": "{Behavior Analysis} has {37.81}"
+        },
+        {
+            "Q": "Under the ML Models category in the treemap, which rectangular labels have a value below 16.39? Please list the labels and values.",
+            "A": "{Anomaly Detection} has {9.25}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Payment Systems, Recommendation Engines, or Fraud Detection?",
+            "A": "The value of {Fraud Detection} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Platform Architecture or Payment Systems?",
+            "A": "The value of {Platform Architecture} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Platform Architecture, Payment Systems, or Recommendation Engines?",
+            "A": "The value of {Platform Architecture} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

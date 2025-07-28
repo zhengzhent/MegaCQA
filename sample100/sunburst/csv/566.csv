@@ -1,0 +1,20 @@
+Business and Finance,Business Distribution by Category (2021),%
+parent,child,value
+Root,Financial Management,30.04
+Financial Management,Budgeting & Planning,7.8
+Financial Management,Investment Strategy,22.24
+Investment Strategy,Risk Management,6.48
+Investment Strategy,Asset Allocation,15.76
+Asset Allocation,Bonds,5.07
+Asset Allocation,Equities,5.56
+Asset Allocation,Real Estate,5.13
+Root,Digital Transformation,21.5
+Digital Transformation,Technology Adoption,6.57
+Digital Transformation,Data Strategy,14.93
+Data Strategy,Business Intelligence,9.57
+Data Strategy,Data Governance,5.36
+Root,Corporate Strategy,48.46
+Corporate Strategy,Innovation Strategy,48.46
+Innovation Strategy,Process Innovation,48.46
+Process Innovation,Agile Transformation,30.34
+Process Innovation,Automation Systems,18.12

@@ -1,0 +1,38 @@
+Agriculture and Food Production,Agricultural Value Chain,Crops,random,Distribution,Import & Export,Processing,Farming
+Source,Target,Value
+Transportation,Customs Clearance,5972
+Transportation,International Shipping,8874
+Transportation,Export Certification,5556
+Transportation,Import Inspection,7757
+Transportation,Trade Agreements,9241
+Storage,Customs Clearance,1519
+Storage,International Shipping,1290
+Storage,Export Certification,173
+Storage,Import Inspection,260
+Storage,Trade Agreements,527
+Wholesale,Customs Clearance,1113
+Wholesale,International Shipping,3191
+Wholesale,Export Certification,722
+Wholesale,Import Inspection,3312
+Wholesale,Trade Agreements,331
+Retail Delivery,Customs Clearance,591
+Retail Delivery,International Shipping,685
+Retail Delivery,Export Certification,939
+Retail Delivery,Import Inspection,889
+Retail Delivery,Trade Agreements,723
+Customs Clearance,Sorting,6911
+Customs Clearance,Canning,2284
+International Shipping,Sorting,8785
+International Shipping,Canning,5255
+Export Certification,Sorting,3847
+Export Certification,Canning,3543
+Import Inspection,Sorting,8750
+Import Inspection,Canning,3468
+Trade Agreements,Sorting,7742
+Trade Agreements,Canning,3080
+Sorting,Pest Control,24312
+Sorting,Seeding,4257
+Sorting,Fertilization,7466
+Canning,Pest Control,5803
+Canning,Seeding,9287
+Canning,Fertilization,2540

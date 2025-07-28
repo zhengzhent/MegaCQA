@@ -1,0 +1,7 @@
+﻿Cultural Trends and Influences,Influence Metrics of Different Cultural
+Pattern,Clustering,Weak Correlation,Clustering,Weak Correlation,No Correlation,Weak Correlation
+labels,Media coverage (articles/month),Language adoption (new words),Opinion leader count(verified accounts),Policy influence index (1-10),Behavior change rate (%),Artistic references (cultural citations),Historical significance (1-10)
+career  Civilization,1000.0,44.3,368.37,5.85,18.36,30.3,1.0
+nearly  Culture,445.67,100.0,1000.0,10.0,50.0,974.38,10.0
+film  Civilization,1.0,0.0,445.57,1.0,14.99,1000.0,3.57
+degree  Civilization,792.8,69.6,1.0,4.77,1.0,0.0,5.98

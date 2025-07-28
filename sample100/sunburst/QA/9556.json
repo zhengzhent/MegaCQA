@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Micromobility positioned outside, inside or on the same side as Commercial Airlines?",
+            "A": "Micromobility is positioned {on the same side} Commercial Airlines."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Air Transport}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Airport Infrastructure segment in this sunburst chart?",
+            "A": "The value of the Airport Infrastructure segment is {5.92}."
+        },
+        {
+            "Q": "What is the value of the Parcel Freight segment in this sunburst chart?",
+            "A": "The value of the Parcel Freight segment is {5.82}."
+        },
+        {
+            "Q": "What is the value of the Commercial Airlines segment in this sunburst chart?",
+            "A": "The value of the Commercial Airlines segment is {11.29}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {39.13}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {25.18}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {5.82}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.05}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Air Transport exceed 61%? Please list the category names and corresponding percentages.",
+            "A": "{Air Cargo} accounts for {71.15}%"
+        },
+        {
+            "Q": "Which categories in the segment Air Transport are below 39%? Please list the category names and corresponding percentages.",
+            "A": "{Commercial Airlines} accounts for {28.85}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Air Transport or Urban Mobility?",
+            "A": "The value of {Air Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Air Transport, Urban Mobility, or Public Transit?",
+            "A": "The value of {Air Transport} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Air Transport, Urban Mobility, Public Transit, or Freight and Logistics?",
+            "A": "The value of {Air Transport} is the largest."
+        },
+        {
+            "Q": "Which is smaller, the value of Urban Mobility, Public Transit, or Air Cargo?",
+            "A": "The value of {Air Cargo} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Air Transport to Air Cargo to Cargo Airlines to Parcel Freight}."
+        }
+    ],
+    "VA": []
+}

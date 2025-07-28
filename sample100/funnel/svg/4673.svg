@@ -1,0 +1,23 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1052.4 665.8 1132.4 665.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1359.6 305.2 1439.6 305.2" fill="none" stroke="#000000"></polyline>
+<polyline points="1171.2 485.5 1251.2 485.5" fill="none" stroke="#000000"></polyline>
+<polyline points="967.4 846.2 1047.4 846.2" fill="none" stroke="#000000"></polyline>
+<polyline points="926.1 1026.5 1006.1 1026.5" fill="none" stroke="#000000"></polyline>
+<polyline points="920.3 1206.8 1000.3 1206.8" fill="none" stroke="#000000"></polyline>
+<polygon points="626.3 576.7 1101.7 576.7 1003 755 725 755" fill="#7AA9BD" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1240.7 394.3 487.3 394.3" fill="#9AC7E3" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="487.3 396.3 1240.7 396.3 1101.7 574.7 626.3 574.7" fill="#8AB8D0" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="725 757 1003 757 931.8 935.3 796.2 935.3" fill="#6A9AAA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="796.2 937.3 931.8 937.3 920.3 1115.7 807.7 1115.7" fill="#5A8B97" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="807.7 1117.7 920.3 1117.7 920.3 1296 807.7 1296" fill="#4A7C84" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1137.354848758095" y="665.8333333333335" fill="#000000">Post-Distribution: 37753</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1444.5579965570948" y="305.1666666666667" fill="#000000">Post-Generation: 97592</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1256.196852201" y="485.50000000000006" fill="#000000">Post-Transmission: 59838</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1052.4209361423068" y="846.1666666666667" fill="#000000">Delivered to End Users: 22084</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1011.058857283384" y="1026.5" fill="#000000">Billed Consumption: 10771</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1005.3078285105337" y="1206.8333333333335" fill="#000000">Paid Consumption: 8944</text>
+<path d="M-531.7578 -5l1063.5156 0l0 58l-1063.5156 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Energy Generation and Distribution (Megawatt Hours)</text>
+</svg>

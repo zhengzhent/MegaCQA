@@ -1,0 +1,7 @@
+﻿Agriculture and Food Production,Farm Productivity
+Pattern,Clustering,Strong Correlation,Clustering,Clustering,Weak Correlation,Weak Correlation
+labels,Pesticide use (kg/ha),Harvest frequency (per year),Soil health index (1-10),Water usage (liters/kg),Yield per acre (tons),Equipment utilization (%),Labor efficiency (acres/worker)
+expect  Corn,6.29,2.05,4.57,296.52,14.22,47.75,298.01
+not  Wheat,0.0,3.63,6.01,1000.0,0.5,30.0,1000.0
+increase  Oats,20.0,4.0,10.0,777.34,50.0,100.0,1.0
+yourself  Rice,14.06,1.0,1.0,1.0,18.33,97.35,613.09

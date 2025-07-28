@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Learning Systems in this treemap?",
+            "A": "There are {2} child rectangles under the category Learning Systems."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Learning Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Blockchain Issuance}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Learning Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Fieldwork Tech rectangle in this treemap?",
+            "A": "The value of the Fieldwork Tech rectangle is {47.45}."
+        },
+        {
+            "Q": "What is the value of the Experiential rectangle in this treemap?",
+            "A": "The value of the Experiential rectangle is {89.78}."
+        },
+        {
+            "Q": "What is the value of the Mobile Sensing rectangle in this treemap?",
+            "A": "The value of the Mobile Sensing rectangle is {47.45}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.04}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Mobile Sensing and Lab Simulations?",
+            "A": "The difference between Mobile Sensing and Lab Simulations is {5.12}."
+        },
+        {
+            "Q": "What is the sum of the regions of LoRa Modules and Motion Capture?",
+            "A": "The sum of LoRa Modules and Motion Capture is {57.42}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Learning Systems category in the treemap, which rectangular labels have a value exceeded 69.89? Please list the labels and values.",
+            "A": "{Experiential} has {89.78}"
+        },
+        {
+            "Q": "Under the Learning Systems category in the treemap, which rectangular labels have a value below 30.11? Please list the labels and values.",
+            "A": "{Pedagogy} has {10.22}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Learning Systems, Experiential, or Fieldwork Tech?",
+            "A": "The value of {Learning Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Fieldwork Tech or IoT Kits?",
+            "A": "The value of {Fieldwork Tech} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Learning Systems or Experiential?",
+            "A": "The value of {Learning Systems} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,10 @@
+Energy and Utilities, Energy Production and Consumption Flow, Gigawatt-hours, linear
+Source,Target,Value
+Nuclear,Solar,301
+Solar,Nuclear,264
+Biomass,Wind,225
+Wind,Biomass,203
+Biomass,Nuclear,185
+Nuclear,Biomass,140
+Biomass,Solar,114
+Solar,Biomass,85

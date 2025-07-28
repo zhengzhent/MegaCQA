@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Bonus percentage (%) dimension, what is the spatial relationship of Mccormick-Collins relative to Barker, Calderon and Campbell in terms of vertical (above/below) direction?",
+            "A": "{Mccormick-Collins} is {above} {Barker, Calderon and Campbell} on the Bonus percentage (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Overtime hours/month(hours)?",
+            "A": "The second position to the left of Overtime hours/month(hours) is {Bonus percentage (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Pay equity ratio (ratio)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Bonus percentage (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Benefits cost (USD/year)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Stock options (%) and dimension Benefits cost (USD/year)",
+            "A": "There is {Weak Correlation} between Stock options (%) and Benefits cost (USD/year)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Mccormick-Collins on the Benefits cost (USD/year) dimension in the parallel-coordinates chart?",
+            "A": "The value of Mccormick-Collins on the Benefits cost (USD/year) dimension is {1000.0}"
+        },
+        {
+            "Q": "What is the value of Barker, Calderon and Campbell on the Benefits cost (USD/year) dimension in the parallel-coordinates chart?",
+            "A": "The value of Barker, Calderon and Campbell on the Benefits cost (USD/year) dimension is {8556.7}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Mcgrath-Ramos across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Mcgrath-Ramos across all dimensions is {20000.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Skinner-Russell across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Skinner-Russell across all dimensions is {1.11}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Bonus percentage (%)?",
+            "A": "The average value of Bonus percentage (%) is {25.09}"
+        },
+        {
+            "Q": "What is the difference in coding Bonus percentage (%) between label Skinner-Russell and label Barker, Calderon and Campbell",
+            "A": "The difference in coding Bonus percentage (%) between Skinner-Russell and Barker, Calderon and Campbell is {20.53}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Remote work allowance (days/week) dimension in the parallel coordinates?",
+            "A": "{[5.0, 3.99, 1.82]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Bonus percentage (%) dimension in the parallel coordinates?",
+            "A": "{[0.0, 20.53, 29.81]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Benefits cost (USD/year), which label has a higher score: Mcgrath-Ramos or Mccormick-Collins?",
+            "A": "{Mcgrath-Ramos} has a higher score on Benefits cost (USD/year)."
+        },
+        {
+            "Q": "On Bonus percentage (%), which label has a higher score: Mccormick-Collins or Barker, Calderon and Campbell?",
+            "A": "{Mccormick-Collins} has a higher score on Bonus percentage (%)."
+        },
+        {
+            "Q": "On Stock options (%), which label has a higher score: Mcgrath-Ramos or Mccormick-Collins?",
+            "A": "{Mccormick-Collins} has a higher score on Stock options (%)."
+        },
+        {
+            "Q": "On Remote work allowance (days/week), which label has a higher score: Barker, Calderon and Campbell or Skinner-Russell?",
+            "A": "{Skinner-Russell} has a higher score on Remote work allowance (days/week)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Benefits cost (USD/year)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Remote work allowance (days/week) being greater than 2.82 and Stock options (%) being less than 9.5?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

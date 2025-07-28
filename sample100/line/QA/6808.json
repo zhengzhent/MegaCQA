@@ -1,0 +1,160 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 2004, what is the vertical (above/below) relationship of the line representing Echo Dynamics relative to Luminara Solutions?",
+            "A": "In 2004, Echo Dynamics is {above} Luminara Solutions in the vertical direction."
+        },
+        {
+            "Q": "On Echo Dynamics, what is the spatial relationship of the data point in 1990 relative to that in 1986 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Echo Dynamics, the data point in 1990 is {above} and to the {right} of the data point in 1986."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Luminara Solutions's Patent Applications levels?",
+            "A": "Luminara Solutions's patent applications levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "What is the trend of Echo Dynamics's Patent Applications levels?",
+            "A": "Echo Dynamics's patent applications levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Nova Industries's Patent Applications levels?",
+            "A": "Nova Industries's patent applications levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "What is the trend of Crimson Group's Patent Applications levels?",
+            "A": "Crimson Group's patent applications levels show a {single valley} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Nova Industries's Patent Applications in 1995?",
+            "A": "Nova Industries's patent applications in 1995 is {1988.20} applications."
+        },
+        {
+            "Q": "What is Luminara Solutions's Patent Applications in 1993?",
+            "A": "Luminara Solutions's patent applications in 1993 is {2311.22} applications."
+        },
+        {
+            "Q": "What is Nova Industries's Patent Applications in 1991?",
+            "A": "Nova Industries's patent applications in 1991 is {3112.49} applications."
+        },
+        {
+            "Q": "What are the patent applications of Echo Dynamics, Crimson Group, and Nova Industries in 2009?",
+            "A": "Echo Dynamics's patent applications is {5644.12} applications, Crimson Group's patent applications is {3102.41} applications, Nova Industries's patent applications is {49.04} applications."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Patent Applications in the line chart?",
+            "A": "The global minimum patent applications is {49.04} applications."
+        },
+        {
+            "Q": "What is the global maximum Patent Applications in the line chart?",
+            "A": "The global maximum patent applications is {5775.21} applications."
+        },
+        {
+            "Q": "What is the highest Patent Applications level recorded for Crimson Group?",
+            "A": "Crimson Group reached approximately {3173.27} applications in {2010}."
+        },
+        {
+            "Q": "What is the lowest Patent Applications level recorded for Crimson Group?",
+            "A": "Crimson Group's lowest recorded level is approximately {782.93} applications in {1997}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Luminara Solutions's Patent Applications from the starting year to the final year?",
+            "A": "The rate of decline in Luminara Solutions's patent applications is {-1.26}%."
+        },
+        {
+            "Q": "What is the rate of change in Nova Industries's Patent Applications from the starting year to the final year?",
+            "A": "The rate of decline in Nova Industries's patent applications is {-99.02}%."
+        },
+        {
+            "Q": "What is the average value of Luminara Solutions's Patent Applications?",
+            "A": "The average value of Luminara Solutions's patent applications is {2701.05} applications."
+        },
+        {
+            "Q": "What is the rate of change in Crimson Group's Patent Applications from the starting year to the final year?",
+            "A": "The rate of growth in Crimson Group's patent applications is {1.67}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1986, which lines had Patent Applications between 2979 and 3599 applications? Please list the lines and corresponding values.",
+            "A": "{Luminara Solutions} had {3351} applications."
+        },
+        {
+            "Q": "In the year 2007, which lines had Patent Applications below 2198 applications? Please list the lines and corresponding values.",
+            "A": "{Nova Industries} had {49} applications."
+        },
+        {
+            "Q": "Which years did Crimson Group's Patent Applications exceed 2856 applications? Please list the years and corresponding values.",
+            "A": "{3121.24} applications in {1985} year, {2913.69} applications in {2007} year, {3049.16} applications in {2008} year."
+        },
+        {
+            "Q": "Which years did Luminara Solutions's Patent Applications below 2293 applications? Please list the years and corresponding values.",
+            "A": "{2044.28} applications in {2004} year, {2036.93} applications in {2009} year, {2292.50} applications in {2003} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2007, which line had the highest Patent Applications, Crimson Group, Nova Industries, Luminara Solutions, or Echo Dynamics?",
+            "A": "In 2007, {Echo Dynamics} had the highest patent applications."
+        },
+        {
+            "Q": "Between 1994 and 1995, which line had the highest average Patent Applications, Nova Industries, Crimson Group, or Echo Dynamics?",
+            "A": "{Echo Dynamics} had the highest average patent applications."
+        },
+        {
+            "Q": "Was Luminara Solutions's Patent Applications in 1993 higher or lower than in 1999?",
+            "A": "The patent applications in 1993 was {higher} than in 1999."
+        },
+        {
+            "Q": "Between 2005 and 2009, which line had the highest average Patent Applications, Luminara Solutions, Nova Industries, or Echo Dynamics?",
+            "A": "{Echo Dynamics} had the highest average patent applications."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Nova Industries}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1993 and 2007?",
+            "A": "{Echo Dynamics} has the fastest average growth rate between 1993 and 2007."
+        },
+        {
+            "Q": "In which year did Echo Dynamics first surpass Luminara Solutions?",
+            "A": "Echo Dynamics first surpassed Luminara Solutions in the year {1988}."
+        },
+        {
+            "Q": "In which year did Luminara Solutions first surpass Echo Dynamics?",
+            "A": "Luminara Solutions first surpassed Echo Dynamics in the year {1991}."
+        },
+        {
+            "Q": "Which label had the leading patent applications since 2007?",
+            "A": "Since 2007, {Echo Dynamics} had the leading patent applications."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Luminara Solutions. List the x-coordinates of data points to be preserved.(6 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1985, 1986, 1989, 1996, 2009, 2010}."
+        }
+    ]
+}

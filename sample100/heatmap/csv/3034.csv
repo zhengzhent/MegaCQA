@@ -1,0 +1,91 @@
+Energy and Utilities,the Analysis of Energy and Utilities,10x9,horizontal_gradient
+Coal,Consumption,0.77
+Distribution,Consumption,0.69
+Electricity,Consumption,0.67
+Exploration,Consumption,0.6
+Gas,Consumption,0.56
+Nuclear,Consumption,0.5
+Renewables,Consumption,0.45
+Transmission,Consumption,0.39
+Waste Management,Consumption,0.35
+Water,Consumption,0.23
+Coal,Efficiency,0.77
+Distribution,Efficiency,0.71
+Electricity,Efficiency,0.66
+Exploration,Efficiency,0.61
+Gas,Efficiency,0.54
+Nuclear,Efficiency,0.51
+Renewables,Efficiency,0.42
+Transmission,Efficiency,0.42
+Waste Management,Efficiency,0.32
+Water,Efficiency,0.27
+Coal,Emissions,0.79
+Distribution,Emissions,0.74
+Electricity,Emissions,0.65
+Exploration,Emissions,0.64
+Gas,Emissions,0.57
+Nuclear,Emissions,0.48
+Renewables,Emissions,0.43
+Transmission,Emissions,0.36
+Waste Management,Emissions,0.3
+Water,Emissions,0.25
+Coal,Infrastructure,0.78
+Distribution,Infrastructure,0.73
+Electricity,Infrastructure,0.67
+Exploration,Infrastructure,0.57
+Gas,Infrastructure,0.56
+Nuclear,Infrastructure,0.53
+Renewables,Infrastructure,0.43
+Transmission,Infrastructure,0.36
+Waste Management,Infrastructure,0.37
+Water,Infrastructure,0.23
+Coal,Investment,0.78
+Distribution,Investment,0.71
+Electricity,Investment,0.65
+Exploration,Investment,0.63
+Gas,Investment,0.56
+Nuclear,Investment,0.45
+Renewables,Investment,0.43
+Transmission,Investment,0.35
+Waste Management,Investment,0.32
+Water,Investment,0.24
+Coal,Policy,0.8
+Distribution,Policy,0.72
+Electricity,Policy,0.69
+Exploration,Policy,0.59
+Gas,Policy,0.56
+Nuclear,Policy,0.49
+Renewables,Policy,0.41
+Transmission,Policy,0.37
+Waste Management,Policy,0.32
+Water,Policy,0.26
+Coal,Production,0.79
+Distribution,Production,0.72
+Electricity,Production,0.65
+Exploration,Production,0.6
+Gas,Production,0.55
+Nuclear,Production,0.48
+Renewables,Production,0.44
+Transmission,Production,0.39
+Waste Management,Production,0.3
+Water,Production,0.28
+Coal,Reliability,0.8
+Distribution,Reliability,0.72
+Electricity,Reliability,0.64
+Exploration,Reliability,0.62
+Gas,Reliability,0.54
+Nuclear,Reliability,0.49
+Renewables,Reliability,0.42
+Transmission,Reliability,0.38
+Waste Management,Reliability,0.31
+Water,Reliability,0.26
+Coal,Storage,0.77
+Distribution,Storage,0.72
+Electricity,Storage,0.67
+Exploration,Storage,0.62
+Gas,Storage,0.51
+Nuclear,Storage,0.49
+Renewables,Storage,0.41
+Transmission,Storage,0.35
+Waste Management,Storage,0.34
+Water,Storage,0.26

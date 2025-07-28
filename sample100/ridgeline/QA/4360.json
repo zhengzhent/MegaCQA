@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {3} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Product Range relative to the peak of Return Policies in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Product Range is to the {left} of the peak of Return Policies."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Personalization show?",
+            "A": "The ridgeline representing Personalization shows a {Random fluctuation}."
+        },
+        {
+            "Q": "At what value do  Personalization reach its peaks?",
+            "A": "At {74.67}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Return Policies} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =55.2?",
+            "A": "At X =55.2,the label with the highest density is {Personalization}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 45? Please list the countries and corresponding peak values.",
+            "A": "{Personalization}'s peak at {75}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 60? Please list the countries and corresponding peak values.",
+            "A": "{Product Range}'s peak at {20},{Return Policies}'s peak at {23}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Product Range or Return Policies?",
+            "A": "{Return Policies} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Product Range or Return Policies?",
+            "A": "{Return Policies} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Personalization or Product Range?",
+            "A": "{Personalization} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Product Range or Return Policies?",
+            "A": "{Return Policies} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Return Policies}"
+        }
+    ],
+    "VA": []
+}

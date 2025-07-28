@@ -1,0 +1,65 @@
+Retail and E-commerce,the Factors of Retail and E-commerce,8x8,vertical_gradient
+Apparel,Brick&Mortar,0.22
+Beauty,Brick&Mortar,0.18
+Books,Brick&Mortar,0.17
+Electronics,Brick&Mortar,0.14
+Jewelry,Brick&Mortar,0.21
+Pet Supplies,Brick&Mortar,0.18
+Sports,Brick&Mortar,0.18
+Toys,Brick&Mortar,0.19
+Apparel,DTC,0.2
+Beauty,DTC,0.19
+Books,DTC,0.19
+Electronics,DTC,0.18
+Jewelry,DTC,0.17
+Pet Supplies,DTC,0.19
+Sports,DTC,0.24
+Toys,DTC,0.2
+Apparel,Inventory,0.23
+Beauty,Inventory,0.23
+Books,Inventory,0.26
+Electronics,Inventory,0.23
+Jewelry,Inventory,0.25
+Pet Supplies,Inventory,0.2
+Sports,Inventory,0.2
+Toys,Inventory,0.24
+Apparel,Marketing,0.29
+Beauty,Marketing,0.28
+Books,Marketing,0.32
+Electronics,Marketing,0.29
+Jewelry,Marketing,0.31
+Pet Supplies,Marketing,0.27
+Sports,Marketing,0.3
+Toys,Marketing,0.27
+Apparel,Marketplace,0.39
+Beauty,Marketplace,0.41
+Books,Marketplace,0.38
+Electronics,Marketplace,0.4
+Jewelry,Marketplace,0.41
+Pet Supplies,Marketplace,0.37
+Sports,Marketplace,0.39
+Toys,Marketplace,0.39
+Apparel,Omnichannel,0.49
+Beauty,Omnichannel,0.48
+Books,Omnichannel,0.5
+Electronics,Omnichannel,0.48
+Jewelry,Omnichannel,0.51
+Pet Supplies,Omnichannel,0.53
+Sports,Omnichannel,0.52
+Toys,Omnichannel,0.53
+Apparel,Online,0.68
+Beauty,Online,0.7
+Books,Online,0.64
+Electronics,Online,0.7
+Jewelry,Online,0.63
+Pet Supplies,Online,0.65
+Sports,Online,0.65
+Toys,Online,0.66
+Apparel,Sales,0.81
+Beauty,Sales,0.83
+Books,Sales,0.82
+Electronics,Sales,0.84
+Jewelry,Sales,0.83
+Pet Supplies,Sales,0.82
+Sports,Sales,0.81
+Toys,Sales,0.86

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {72} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {9} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {horizontal gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Investments and Assets in the heatmap?",
+            "A": "The heat value is {0.20}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Consulting and Expenses in the heatmap?",
+            "A": "The heat value is {0.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.75}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.13}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Expenses on the y-axis?",
+            "A": "The maximum heat value for Expenses on the y-axis is {0.71}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Capital Markets on the x-axis?",
+            "A": "The maximum heat value of Capital Markets on the x-axis is {0.62}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Assets on the y-axis?",
+            "A": "The average heat value for Assets on the y-axis is {0.43}."
+        },
+        {
+            "Q": "What is the average heat value for label Liquidity on the y-axis?",
+            "A": "The average heat value for Liquidity on the y-axis is {0.43}."
+        },
+        {
+            "Q": "What is the average heat value for label Profit on the y-axis?",
+            "A": "The average heat value for Profit on the y-axis is {0.44}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Banking and Equity or the cell corresponding to Accounting and Risk?",
+            "A": "The cell corresponding to {Accounting} and {Risk} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Real Estate and Expenses or the cell corresponding to Tax and Liabilities?",
+            "A": "The cell corresponding to {Real Estate} and {Expenses} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Accounting and Equity or the cell corresponding to Banking and Expenses?",
+            "A": "The cell corresponding to {Banking} and {Expenses} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.14 to 0.26?",
+            "A": "The cells are: {(Investments, Assets), (Real Estate, Assets), (Financial Tech, Equity), (Investments, Equity), (Real Estate, Equity), (Tax, Equity), (Financial Tech, Expenses), (Investments, Expenses), (Real Estate, Expenses), (Tax, Expenses), (Investments, Liabilities), (Tax, Liabilities), (Investments, Liquidity), (Financial Tech, Market Share), (Investments, Market Share), (Real Estate, Market Share), (Investments, Profit), (Real Estate, Profit), (Investments, Risk), (Real Estate, Risk)}."
+        }
+    ],
+    "VA": []
+}

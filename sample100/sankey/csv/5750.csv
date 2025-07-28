@@ -1,0 +1,49 @@
+Food and Beverage Industry,Food Production and Consumption Chain,Products,random,Waste Management,Distribution Channels,Food Sources,Processing Facilities
+Source,Target,Value
+Landfills,Online Platforms,31421
+Landfills,Farmers' Markets,21959
+Landfills,Wholesalers,13163
+Recycling,Online Platforms,2730
+Recycling,Farmers' Markets,1628
+Recycling,Wholesalers,2506
+Food Banks,Online Platforms,21387
+Food Banks,Farmers' Markets,5521
+Food Banks,Wholesalers,12539
+Composting,Online Platforms,37752
+Composting,Farmers' Markets,14005
+Composting,Wholesalers,6945
+Online Platforms,Greenhouses,3058
+Online Platforms,Ranches,20310
+Online Platforms,Farms,27001
+Online Platforms,Fisheries,15984
+Online Platforms,Orchards,26937
+Farmers' Markets,Greenhouses,8580
+Farmers' Markets,Ranches,5966
+Farmers' Markets,Farms,7427
+Farmers' Markets,Fisheries,12624
+Farmers' Markets,Orchards,8516
+Wholesalers,Greenhouses,8699
+Wholesalers,Ranches,1628
+Wholesalers,Farms,12042
+Wholesalers,Fisheries,10722
+Wholesalers,Orchards,2062
+Greenhouses,Dairies,7472
+Greenhouses,Canneries,9148
+Greenhouses,Beverage Plants,2606
+Greenhouses,Slaughterhouses,1111
+Ranches,Dairies,11683
+Ranches,Canneries,8365
+Ranches,Beverage Plants,1466
+Ranches,Slaughterhouses,6390
+Farms,Dairies,9694
+Farms,Canneries,9447
+Farms,Beverage Plants,18550
+Farms,Slaughterhouses,8779
+Fisheries,Dairies,8225
+Fisheries,Canneries,14968
+Fisheries,Beverage Plants,10090
+Fisheries,Slaughterhouses,6047
+Orchards,Dairies,11832
+Orchards,Canneries,8492
+Orchards,Beverage Plants,14269
+Orchards,Slaughterhouses,2922

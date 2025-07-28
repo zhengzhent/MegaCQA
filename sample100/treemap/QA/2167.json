@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category nan in this treemap?",
+            "A": "There are {2} child rectangles under the category nan."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Artwork Sales}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Cultural Activities}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Artwork Sales}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Art Fairs rectangle in this treemap?",
+            "A": "The value of the Art Fairs rectangle is {9.95}."
+        },
+        {
+            "Q": "What is the value of the Artwork Sales rectangle in this treemap?",
+            "A": "The value of the Artwork Sales rectangle is {93.71}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {93.71}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {6.29}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Emerging Artists and Art Fairs?",
+            "A": "The difference between Emerging Artists and Art Fairs is {11.88}."
+        },
+        {
+            "Q": "What is the sum of the regions of Galleries and Art Funds?",
+            "A": "The sum of Galleries and Art Funds is {27.8}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the nan category in the treemap, which rectangular labels have a value exceeded 71.85? Please list the labels and values.",
+            "A": "{Artwork Sales} has {93.71}"
+        },
+        {
+            "Q": "Under the nan category in the treemap, which rectangular labels have a value below 28.14? Please list the labels and values.",
+            "A": "{Cultural Activities} has {6.29}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Auction Houses or Primary Market?",
+            "A": "The value of {Auction Houses} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Artwork Sales, Secondary Market, or Auction Houses?",
+            "A": "The value of {Artwork Sales} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Secondary Market, Auction Houses, or Modern Masters?",
+            "A": "The value of {Modern Masters} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Artwork Sales or Secondary Market?",
+            "A": "The value of {Artwork Sales} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {6} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

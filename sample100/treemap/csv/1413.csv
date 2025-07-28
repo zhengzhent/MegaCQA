@@ -1,0 +1,15 @@
+Business and Finance,Business Distribution by Category (2022),%
+parent,child,value
+,Supply Chain,100.0
+Supply Chain,Logistics,8.85
+Supply Chain,Inventory Control,91.15
+Inventory Control,RFID Tracking,30.0
+RFID Tracking,Real-Time Locating,30.0
+Real-Time Locating,Triangulation,30.0
+Triangulation,TDOA,19.42
+Triangulation,RSSI Mapping,10.58
+Inventory Control,Demand Sensing,61.15
+Demand Sensing,Social Listening,61.15
+Social Listening,Sentiment Analysis,61.15
+Sentiment Analysis,BERT Models,26.94
+Sentiment Analysis,Emoji Decoding,34.21

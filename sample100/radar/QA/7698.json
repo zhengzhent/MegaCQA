@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Hospital Bed Utilization Rate?",
+            "A": "The next dimension clockwise from Hospital Bed Utilization Rate is Vaccination Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Hospital Bed Utilization Rate?",
+            "A": "The next dimension counterclockwise from Hospital Bed Utilization Rate is Health Insurance Coverage Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Vaccination Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Myanmar?",
+            "A": "The strongest aspect is {Vaccination Rate}, while the weakest aspect is{ Electronic Medical Record Adoption Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Myanmar on the Health Insurance Coverage Rate in the radar chart?",
+            "A": "The value of Myanmar on the Safety dimension is {87}."
+        },
+        {
+            "Q": "What is the value of Myanmar on the Vaccination Rate in the radar chart?",
+            "A": "The value of Myanmar on the Safety dimension is {100}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Myanmar across all dimensions in the radar chart?",
+            "A": "The maximum value of Myanmar across all dimensions is {68}."
+        },
+        {
+            "Q": "What is the minimum value of label Myanmar across all dimensions in the radar chart?",
+            "A": "The minimum value of Myanmar across all dimensions is {68}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Hospital Bed Utilization Rate",
+            "A": "The average value of Hospital Bed Utilization Rate is {36.0}."
+        },
+        {
+            "Q": "What is the average value of Myanmar",
+            "A": "The average value of Myanmar is {62.83}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Myanmar in the radar chart, which dimensions have scores between 39 and 85? Please list the dimensions and corresponding scores.",
+            "A": "{Primary Healthcare Institutions Ratio} is {68}, {Chronic Disease Management Compliance Rate} is {62}"
+        },
+        {
+            "Q": "Which labels have scores below 87 for the Health Insurance Coverage Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Myanmar} is {87}"
+        },
+        {
+            "Q": "Which labels have scores above 36 for the Hospital Bed Utilization Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Myanmar} is {36}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Myanmar, which dimension has a higher score: Electronic Medical Record Adoption Rate or Primary Healthcare Institutions Ratio?",
+            "A": "{Primary Healthcare Institutions Ratio} has a higher score than Electronic Medical Record Adoption Rate for Myanmar."
+        },
+        {
+            "Q": "For Myanmar, which dimension has a higher score: Primary Healthcare Institutions Ratio or Health Insurance Coverage Rate?",
+            "A": "{Health Insurance Coverage Rate} has a higher score than Primary Healthcare Institutions Ratio for Myanmar."
+        },
+        {
+            "Q": "For Myanmar, which dimension has a higher score: Vaccination Rate or Primary Healthcare Institutions Ratio or Chronic Disease Management Compliance Rate?",
+            "A": "{Vaccination Rate} has a higher score for Myanmar."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Myanmar, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Myanmar most needs to improve its {Electronic Medical Record Adoption Rate}."
+        }
+    ],
+    "VA": []
+}

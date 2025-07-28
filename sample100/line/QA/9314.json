@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1965, what is the vertical (above/below) relationship of the line representing Street Food Hubs relative to Vegan Cafes?",
+            "A": "In 1965, Street Food Hubs is {above} Vegan Cafes in the vertical direction."
+        },
+        {
+            "Q": "On Casual Eateries, what is the spatial relationship of the data point in 1981 relative to that in 1958 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Casual Eateries, the data point in 1981 is {below} and to the {right} of the data point in 1958."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Vegan Cafes's Restaurant Reservations levels?",
+            "A": "Vegan Cafes's restaurant reservations levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Fusion Kitchens's Restaurant Reservations levels?",
+            "A": "Fusion Kitchens's restaurant reservations levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Street Food Hubs's Restaurant Reservations levels?",
+            "A": "Street Food Hubs's restaurant reservations levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of Casual Eateries's Restaurant Reservations levels?",
+            "A": "Casual Eateries's restaurant reservations levels show a {exponential falling} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Fusion Kitchens's Restaurant Reservations in 1976?",
+            "A": "Fusion Kitchens's restaurant reservations in 1976 is {107.68} reservations/week."
+        },
+        {
+            "Q": "What is Fusion Kitchens's Restaurant Reservations in 1958?",
+            "A": "Fusion Kitchens's restaurant reservations in 1958 is {852.29} reservations/week."
+        },
+        {
+            "Q": "What is Street Food Hubs's Restaurant Reservations in 1961?",
+            "A": "Street Food Hubs's restaurant reservations in 1961 is {1266.80} reservations/week."
+        },
+        {
+            "Q": "What are the restaurant reservations of Fusion Kitchens, Street Food Hubs, and Vegan Cafes in 1969?",
+            "A": "Fusion Kitchens's restaurant reservations is {255.83} reservations/week, Street Food Hubs's restaurant reservations is {1881.33} reservations/week, Vegan Cafes's restaurant reservations is {976.40} reservations/week."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Restaurant Reservations in the line chart?",
+            "A": "The global minimum restaurant reservations is {42.54} reservations/week."
+        },
+        {
+            "Q": "What is the global maximum Restaurant Reservations in the line chart?",
+            "A": "The global maximum restaurant reservations is {1925.37} reservations/week."
+        },
+        {
+            "Q": "What is the highest Restaurant Reservations level recorded for Casual Eateries?",
+            "A": "Casual Eateries reached approximately {857.11} reservations/week in {1958}."
+        },
+        {
+            "Q": "What is the lowest Restaurant Reservations level recorded for Casual Eateries?",
+            "A": "Casual Eateries's lowest recorded level is approximately {119.22} reservations/week in {1985}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Fusion Kitchens's Restaurant Reservations?",
+            "A": "The average value of Fusion Kitchens's restaurant reservations is {283.53} reservations/week."
+        },
+        {
+            "Q": "What is the rate of change in Casual Eateries's Restaurant Reservations from the starting year to the final year?",
+            "A": "The rate of decline in Casual Eateries's restaurant reservations is {-86.09}%."
+        },
+        {
+            "Q": "What is the average value of Street Food Hubs's Restaurant Reservations?",
+            "A": "The average value of Street Food Hubs's restaurant reservations is {1474.02} reservations/week."
+        },
+        {
+            "Q": "What is the average value of Vegan Cafes's Restaurant Reservations?",
+            "A": "The average value of Vegan Cafes's restaurant reservations is {1052.12} reservations/week."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1980, which lines had Restaurant Reservations below 128 reservations/week? Please list the lines and corresponding values.",
+            "A": "{Fusion Kitchens} had {100} reservations/week."
+        },
+        {
+            "Q": "Which years did Street Food Hubs's Restaurant Reservations between 1251 and 1679 reservations/week? Please list the years and corresponding values.",
+            "A": "{1619.82} reservations/week in {1976} year, {1334.77} reservations/week in {1963} year, {1441.95} reservations/week in {1978} year."
+        },
+        {
+            "Q": "Which years did Casual Eateries's Restaurant Reservations below 164 reservations/week? Please list the years and corresponding values.",
+            "A": "{137.92} reservations/week in {1980} year, {119.22} reservations/week in {1985} year, {141.53} reservations/week in {1982} year."
+        },
+        {
+            "Q": "In the year 1961, which line had Restaurant Reservations exceed 926 reservations/week? Please list the lines and corresponding values.",
+            "A": "{Street Food Hubs} had {1267} reservations/week."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1963 and 1975, which line experienced a larger change in Restaurant Reservations, Street Food Hubs or Vegan Cafes?",
+            "A": "{Street Food Hubs} experienced a larger change in restaurant reservations."
+        },
+        {
+            "Q": "In 1972, which line had a higher Restaurant Reservations, {Street Food Hubs} or {Vegan Cafes}?",
+            "A": "In 1972, {Street Food Hubs} had a higher restaurant reservations."
+        },
+        {
+            "Q": "Between 1963 and 1972, which line experienced the largest change in Restaurant Reservations, Casual Eateries, Vegan Cafes, or Fusion Kitchens?",
+            "A": "{Casual Eateries} experienced the largest change in restaurant reservations."
+        },
+        {
+            "Q": "Was Casual Eateries's Restaurant Reservations in 1961 higher or lower than in 1969?",
+            "A": "The restaurant reservations in 1961 was {higher} than in 1969."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Street Food Hubs}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1974 and 1983?",
+            "A": "{Vegan Cafes} has the fastest average growth rate between 1974 and 1983."
+        },
+        {
+            "Q": "In which year did Vegan Cafes first surpass Fusion Kitchens?",
+            "A": "Vegan Cafes first surpassed Fusion Kitchens in the year {1960}."
+        },
+        {
+            "Q": "Which label had the leading restaurant reservations since 1960?",
+            "A": "Since 1960, {Street Food Hubs} had the leading restaurant reservations."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Vegan Cafes. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1958, 1985}."
+        }
+    ]
+}

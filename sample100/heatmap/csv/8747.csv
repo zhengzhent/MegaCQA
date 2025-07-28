@@ -1,0 +1,65 @@
+Sports and Entertainment,the Metrics of Sports and Entertainment,8x8,central_cluster
+Events,Attendance,0.24
+Gaming,Attendance,0.27
+Media Rights,Attendance,0.29
+Music,Attendance,0.26
+Publishing,Attendance,0.31
+Streaming,Attendance,0.29
+Tennis,Attendance,0.27
+Theater,Attendance,0.29
+Events,Ratings,0.27
+Gaming,Ratings,0.24
+Media Rights,Ratings,0.35
+Music,Ratings,0.32
+Publishing,Ratings,0.33
+Streaming,Ratings,0.34
+Tennis,Ratings,0.35
+Theater,Ratings,0.31
+Events,Revenue,0.27
+Gaming,Revenue,0.31
+Media Rights,Revenue,0.32
+Music,Revenue,0.35
+Publishing,Revenue,0.38
+Streaming,Revenue,0.41
+Tennis,Revenue,0.41
+Theater,Revenue,0.38
+Events,Royalties,0.31
+Gaming,Royalties,0.33
+Media Rights,Royalties,0.42
+Music,Royalties,0.45
+Publishing,Royalties,0.48
+Streaming,Royalties,0.45
+Tennis,Royalties,0.46
+Theater,Royalties,0.41
+Events,Social Media,0.36
+Gaming,Social Media,0.38
+Media Rights,Social Media,0.42
+Music,Social Media,0.47
+Publishing,Social Media,0.5
+Streaming,Social Media,0.52
+Tennis,Social Media,0.55
+Theater,Social Media,0.51
+Events,Streaming Hours,0.32
+Gaming,Streaming Hours,0.4
+Media Rights,Streaming Hours,0.5
+Music,Streaming Hours,0.52
+Publishing,Streaming Hours,0.59
+Streaming,Streaming Hours,0.66
+Tennis,Streaming Hours,0.63
+Theater,Streaming Hours,0.56
+Events,Ticket Sales,0.37
+Gaming,Ticket Sales,0.44
+Media Rights,Ticket Sales,0.51
+Music,Ticket Sales,0.6
+Publishing,Ticket Sales,0.68
+Streaming,Ticket Sales,0.77
+Tennis,Ticket Sales,0.7
+Theater,Ticket Sales,0.57
+Events,Viewership,0.37
+Gaming,Viewership,0.46
+Media Rights,Viewership,0.55
+Music,Viewership,0.64
+Publishing,Viewership,0.77
+Streaming,Viewership,0.9
+Tennis,Viewership,0.79
+Theater,Viewership,0.63

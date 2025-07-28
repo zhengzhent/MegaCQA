@@ -1,0 +1,91 @@
+Energy and Utilities,the Correlations of Energy and Utilities,10x9,central_cluster
+Coal,Consumption,0.66
+Distribution,Consumption,0.82
+Exploration,Consumption,0.87
+Gas,Consumption,0.91
+Nuclear,Consumption,0.88
+Oil,Consumption,0.8
+Renewables,Consumption,0.6
+Transmission,Consumption,0.52
+Waste Management,Consumption,0.33
+Water,Consumption,0.23
+Coal,Emissions,0.64
+Distribution,Emissions,0.74
+Exploration,Emissions,0.82
+Gas,Emissions,0.84
+Nuclear,Emissions,0.79
+Oil,Emissions,0.73
+Renewables,Emissions,0.62
+Transmission,Emissions,0.49
+Waste Management,Emissions,0.39
+Water,Emissions,0.26
+Coal,Infrastructure,0.58
+Distribution,Infrastructure,0.63
+Exploration,Infrastructure,0.73
+Gas,Infrastructure,0.8
+Nuclear,Infrastructure,0.69
+Oil,Infrastructure,0.62
+Renewables,Infrastructure,0.56
+Transmission,Infrastructure,0.44
+Waste Management,Infrastructure,0.32
+Water,Infrastructure,0.25
+Coal,Policy,0.52
+Distribution,Policy,0.59
+Exploration,Policy,0.63
+Gas,Policy,0.64
+Nuclear,Policy,0.63
+Oil,Policy,0.56
+Renewables,Policy,0.49
+Transmission,Policy,0.38
+Waste Management,Policy,0.25
+Water,Policy,0.22
+Coal,Prices,0.43
+Distribution,Prices,0.49
+Exploration,Prices,0.5
+Gas,Prices,0.52
+Nuclear,Prices,0.49
+Oil,Prices,0.46
+Renewables,Prices,0.36
+Transmission,Prices,0.33
+Waste Management,Prices,0.24
+Water,Prices,0.19
+Coal,Production,0.29
+Distribution,Production,0.4
+Exploration,Production,0.4
+Gas,Production,0.39
+Nuclear,Production,0.4
+Oil,Production,0.35
+Renewables,Production,0.32
+Transmission,Production,0.27
+Waste Management,Production,0.21
+Water,Production,0.14
+Coal,Reliability,0.27
+Distribution,Reliability,0.26
+Exploration,Reliability,0.31
+Gas,Reliability,0.27
+Nuclear,Reliability,0.3
+Oil,Reliability,0.22
+Renewables,Reliability,0.26
+Transmission,Reliability,0.2
+Waste Management,Reliability,0.18
+Water,Reliability,0.12
+Coal,Storage,0.18
+Distribution,Storage,0.18
+Exploration,Storage,0.25
+Gas,Storage,0.21
+Nuclear,Storage,0.24
+Oil,Storage,0.23
+Renewables,Storage,0.16
+Transmission,Storage,0.17
+Waste Management,Storage,0.17
+Water,Storage,0.09
+Coal,Technology,0.15
+Distribution,Technology,0.12
+Exploration,Technology,0.17
+Gas,Technology,0.16
+Nuclear,Technology,0.17
+Oil,Technology,0.2
+Renewables,Technology,0.14
+Transmission,Technology,0.14
+Waste Management,Technology,0.14
+Water,Technology,0.12

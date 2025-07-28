@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {6} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {PureSync}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {SkyBound}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin SwiftLink?",
+            "A": "The first position to the right of the violin SwiftLink is {SmartHub}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin SmartHub relative to the violin EcoCore in terms of horizontal (left/right) direction?",
+            "A": "violin SmartHub is to the {left} of the violin EcoCore."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {SkyBound}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {SkyBound}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing PureSync?",
+            "A": "The density distribution pattern of the PureSync shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of SwiftLink in the violin plot?",
+            "A": "The median of SwiftLink is {58448.50} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of PureSync in the violin plot?",
+            "A": "The lower quartile (Q1) of PureSync is {38802.25} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of SwiftLink in the violin plot?",
+            "A": "The upper whisker limit of SwiftLink is {139652.00} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in PureSync in the violin plot?",
+            "A": "The largest upper outlier value in PureSync is {179056.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {319975.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {19514.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin SkyBound and EcoCore?",
+            "A": "The Median difference between violin SkyBound and EcoCore is {8353.50} USD."
+        },
+        {
+            "Q": "What is the toal Median value of violin EcoCore and UrbanFlow?",
+            "A": "The total Median value of violin EcoCore and SkyBound is {138425.00} USD."
+        },
+        {
+            "Q": "What is the average Median value of violin UrbanFlow and PureSync?",
+            "A": "The average Median value of violin UrbanFlow and PureSync is {61001.00} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 76499.25 USD? Please list the violins and corresponding values.",
+            "A": "{SkyBound} has {80676.00} USD "
+        },
+        {
+            "Q": "Which violins have median values below 57174.00 USD? Please list the violins and corresponding values.",
+            "A": "{PureSync} has {55899.50} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 48325.25 USD and the upper quartile (Q3) below 97178.62 USD?",
+            "A": "Violin {UrbanFlow} has the Q1 above 48325.25 USD and the Q3 below 97178.625 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 57320.63 USD?",
+            "A": "Violin {UrbanFlow} has {58613.03} USD ,{EcoCore} has {58618.96} USD have their highest density peak exceed 57320.63 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 42481.96 USD?",
+            "A": "Violin {SwiftLink} has {42321.36} USD have their highest density peak below 42481.96 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of UrbanFlow or EcoCore ",
+            "A": "The median value of the {EcoCore} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of SkyBound, SwiftLink or PureSync ",
+            "A": "The median value of the {SkyBound} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of SmartHub, SwiftLink, UrbanFlow or SkyBound ",
+            "A": "The median value of the {SkyBound} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {UrbanFlow}."
+        }
+    ],
+    "VA": []
+}

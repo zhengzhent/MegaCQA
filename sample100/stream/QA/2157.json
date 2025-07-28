@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Celestial College Archives relative to Meridian Academy Collection?",
+            "A": "Celestial College Archives is {below} Meridian Academy Collection in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Celestial College Archives relative to Zenith Tech Library?",
+            "A": "Celestial College Archives is {above} Zenith Tech Library in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Zenith Tech Library relative to Meridian Academy Collection?",
+            "A": "Zenith Tech Library is {below} Meridian Academy Collection in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total library visits?",
+            "A": "The series with the largest contribution is {Meridian Academy Collection}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total library visits?",
+            "A": "The series with the smallest contribution is {Arcane University Library}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is Meridian Academy Collection's minimum Library Visits in the streamgraph?",
+            "A": "Meridian Academy Collection's minimum Library Visits is in {1960}."
+        },
+        {
+            "Q": "Which year is Celestial College Archives's maximum Library Visits in the streamgraph?",
+            "A": "Celestial College Archives's maximum Library Visits is in {1988}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Between 1981 and 1982, did the total Library Visits experience a larger or smaller change than between 1966 and 1971?",
+            "A": "The change in total library visits between 1981 and 1982 was {smaller} than between 1966 and 1971."
+        },
+        {
+            "Q": "Between 1964 and 1966, was the average total Library Visits higher or lower than between 1975 and 1979?",
+            "A": "The average total library visits between 1964 and 1966 was {lower} than between 1975 and 1979."
+        },
+        {
+            "Q": "Between 1972 and 1981, did the total Library Visits experience a larger or smaller change than between 1972 and 1986?",
+            "A": "The change in total library visits between 1972 and 1981 was {smaller} than between 1972 and 1986."
+        },
+        {
+            "Q": "Between 1964 and 1988, did the total Library Visits experience a larger or smaller change than between 1976 and 1985?",
+            "A": "The change in total library visits between 1964 and 1988 was {larger} than between 1976 and 1985."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Meridian Academy Collection} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did Arcane University Library and Meridian Academy Collection first exchange dominant positions?",
+            "A": "Arcane University Library and Meridian Academy Collection first exchanged leading positions in {1961}."
+        }
+    ],
+    "VA": []
+}

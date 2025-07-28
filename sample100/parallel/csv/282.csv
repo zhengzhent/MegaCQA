@@ -1,0 +1,7 @@
+﻿Sports and Entertainment,Athlete Statistics
+Pattern,Clustering,Weak Correlation,Weak Correlation,Clustering
+labels,Injury frequency (per year),Recovery time (hours),Accuracy (%),Training hours/week (hours),Speed (km/h)
+David Patterson,3.97,12.0,50.0,10.0,30.11
+Kimberly Reese,3.67,72.0,100.0,31.99,40.0
+Jesus Gibbs,5.0,66.99,62.79,14.1,15.0
+Tiffany Johnson,0.0,16.39,79.49,40.0,34.31

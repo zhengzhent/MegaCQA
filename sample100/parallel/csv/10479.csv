@@ -1,0 +1,6 @@
+﻿Real Estate and Housing Market,Property Characteristics of Different House
+Pattern,No Correlation,Strong Correlation,Clustering,Weak Correlation,Strong Correlation
+labels,Days on market (days),Year built (year),Walk score (0-100),Square footage (sq ft),Bathroom count (units),Bedroom count (units)
+call Mansion,103.36,1800.0,0.0,500.0,1.0,1.42
+six Villa,365.0,2023.0,100.0,10000.0,1.16,1.0
+talk Mansion,1.0,1828.7,12.4,7748.91,5.0,6.0

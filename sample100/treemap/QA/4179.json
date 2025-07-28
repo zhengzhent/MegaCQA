@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Aseptic Sealers in this treemap?",
+            "A": "There are {1} child rectangles under the category Aseptic Sealers."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Processing Lines}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Filling Machines}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Processing Lines}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Condensation Traps rectangle in this treemap?",
+            "A": "The value of the Condensation Traps rectangle is {9.58}."
+        },
+        {
+            "Q": "What is the value of the Catalytic Converters rectangle in this treemap?",
+            "A": "The value of the Catalytic Converters rectangle is {17.35}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {66.58}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {6.49}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Aseptic Sealers and Retort Machines?",
+            "A": "The difference between Aseptic Sealers and Retort Machines is {17.61}."
+        },
+        {
+            "Q": "What is the sum of the regions of Blast Chillers and Control Units?",
+            "A": "The sum of Blast Chillers and Control Units is {49.26}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Aseptic Sealers category in the treemap, which rectangular labels have a value exceeded 26.92? Please list the labels and values.",
+            "A": "{H2O2 Sterilization} has {26.93}"
+        },
+        {
+            "Q": "Under the Aseptic Sealers category in the treemap, which rectangular labels have a value below 26.94? Please list the labels and values.",
+            "A": "{H2O2 Sterilization} has {26.93}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Retort Machines or Control Units?",
+            "A": "The value of {Retort Machines} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Thermal Systems, Retort Machines, or Packaging Systems?",
+            "A": "The value of {Packaging Systems} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Processing Lines or Thermal Systems?",
+            "A": "The value of {Processing Lines} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

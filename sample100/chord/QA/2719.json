@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {3} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {3} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Luxury Fashion?",
+            "A": "The next arc clockwise from arc Luxury Fashion is arc {High Fashion}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Streetwear?",
+            "A": "The next arc counterclockwise from arc Streetwear is arc {High Fashion}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{High Fashion} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Streetwear} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Streetwear to Luxury Fashion in the chord chart?",
+            "A": "The flow value is {128}."
+        },
+        {
+            "Q": "What is the flow value from Luxury Fashion to High Fashion in the chord chart?",
+            "A": "The flow value is {374}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Streetwear and High Fashion in the chord chart?",
+            "A": "The maximum flow value between Streetwear and High Fashion is {969}."
+        },
+        {
+            "Q": "What is the minimum flow value between Luxury Fashion and High Fashion in the chord chart?",
+            "A": "The minimum flow value between Luxury Fashion and High Fashion is {374}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {969}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {128}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Streetwear?",
+            "A": "The total flow output from Streetwear is {864}."
+        },
+        {
+            "Q": "What is the total flow input by Streetwear?",
+            "A": "The total flow input by Streetwear is {1346}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 547? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {736} from {Streetwear} to {High Fashion}, a flow of {969} from {High Fashion} to {Streetwear}, a flow of {718} from {High Fashion} to {Luxury Fashion}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 251? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {128} from {Streetwear} to {Luxury Fashion}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 375 and 727? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {377} from {Luxury Fashion} to {Streetwear}, a flow of {718} from {High Fashion} to {Luxury Fashion}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Streetwear to High Fashion or from Streetwear to Luxury Fashion?",
+            "A": "The flow from {Streetwear} to {High Fashion} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Luxury Fashion to Streetwear, from Streetwear to High Fashion, or from Streetwear to Luxury Fashion?",
+            "A": "The flow from {Streetwear} to {High Fashion} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {High Fashion}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {High Fashion} and {Streetwear}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Luxury Fashion, Arc High Fashion, Arc Streetwear}."
+        }
+    ]
+}

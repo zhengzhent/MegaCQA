@@ -1,0 +1,91 @@
+Cultural Trends and Influences,the Trajectory of Cultural Trends and Influences,10x9,central_cluster
+Cuisine,Accessibility,0.31
+Fashion,Accessibility,0.37
+Gaming,Accessibility,0.41
+Language,Accessibility,0.45
+Literature,Accessibility,0.47
+Movies,Accessibility,0.59
+Music,Accessibility,0.62
+Social Media,Accessibility,0.73
+TV Shows,Accessibility,0.81
+Travel,Accessibility,0.82
+Cuisine,Adoption,0.36
+Fashion,Adoption,0.31
+Gaming,Adoption,0.39
+Language,Adoption,0.45
+Literature,Adoption,0.49
+Movies,Adoption,0.53
+Music,Adoption,0.61
+Social Media,Adoption,0.63
+TV Shows,Adoption,0.71
+Travel,Adoption,0.76
+Cuisine,Critique,0.31
+Fashion,Critique,0.36
+Gaming,Critique,0.39
+Language,Critique,0.4
+Literature,Critique,0.46
+Movies,Critique,0.51
+Music,Critique,0.55
+Social Media,Critique,0.58
+TV Shows,Critique,0.62
+Travel,Critique,0.64
+Cuisine,Diversity,0.31
+Fashion,Diversity,0.31
+Gaming,Diversity,0.37
+Language,Diversity,0.39
+Literature,Diversity,0.43
+Movies,Diversity,0.46
+Music,Diversity,0.47
+Social Media,Diversity,0.5
+TV Shows,Diversity,0.51
+Travel,Diversity,0.53
+Cuisine,Influence,0.26
+Fashion,Influence,0.29
+Gaming,Influence,0.33
+Language,Influence,0.41
+Literature,Influence,0.39
+Movies,Influence,0.4
+Music,Influence,0.45
+Social Media,Influence,0.48
+TV Shows,Influence,0.52
+Travel,Influence,0.5
+Cuisine,Innovation,0.26
+Fashion,Innovation,0.31
+Gaming,Innovation,0.31
+Language,Innovation,0.33
+Literature,Innovation,0.38
+Movies,Innovation,0.41
+Music,Innovation,0.44
+Social Media,Innovation,0.41
+TV Shows,Innovation,0.43
+Travel,Innovation,0.43
+Cuisine,Localization,0.24
+Fashion,Localization,0.26
+Gaming,Localization,0.28
+Language,Localization,0.32
+Literature,Localization,0.32
+Movies,Localization,0.4
+Music,Localization,0.4
+Social Media,Localization,0.35
+TV Shows,Localization,0.38
+Travel,Localization,0.38
+Cuisine,Popularity,0.21
+Fashion,Popularity,0.29
+Gaming,Popularity,0.22
+Language,Popularity,0.3
+Literature,Popularity,0.28
+Movies,Popularity,0.28
+Music,Popularity,0.36
+Social Media,Popularity,0.34
+TV Shows,Popularity,0.33
+Travel,Popularity,0.34
+Cuisine,Preservation,0.24
+Fashion,Preservation,0.21
+Gaming,Preservation,0.25
+Language,Preservation,0.27
+Literature,Preservation,0.23
+Movies,Preservation,0.3
+Music,Preservation,0.33
+Social Media,Preservation,0.32
+TV Shows,Preservation,0.33
+Travel,Preservation,0.34

@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {3} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Benefits cost (USD/year) dimension, what is the spatial relationship of Jones PLC relative to Pierce PLC in terms of vertical (above/below) direction?",
+            "A": "{Jones PLC} is {below} {Pierce PLC} on the Benefits cost (USD/year) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Salary range (USD thousands)?",
+            "A": "The second position to the left of Salary range (USD thousands) is {Overtime hours/month(hours)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Stock options (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Overtime hours/month(hours)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Benefits cost (USD/year)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Remote work allowance (days/week) and dimension Stock options (%)",
+            "A": "There is {Weak Correlation} between Remote work allowance (days/week) and Stock options (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Snow, Hodges and Osborne on the Bonus percentage (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Snow, Hodges and Osborne on the Bonus percentage (%) dimension is {50.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Snow, Hodges and Osborne across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Snow, Hodges and Osborne across all dimensions is {1000.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Snow, Hodges and Osborne across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Snow, Hodges and Osborne across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Salary range (USD thousands)?",
+            "A": "The average value of Salary range (USD thousands) is {196.71}"
+        },
+        {
+            "Q": "What is the difference in coding Benefits cost (USD/year) between label Pierce PLC and label Jones PLC",
+            "A": "The difference in coding Benefits cost (USD/year) between Pierce PLC and Jones PLC is {17645.14}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Remote work allowance (days/week) dimension in the parallel coordinates?",
+            "A": "{[5.0, 4.25, 0.0]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Salary range (USD thousands) dimension in the parallel coordinates?",
+            "A": "{[20.0, 70.13, 500.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Benefits cost (USD/year), which label has a higher score: Pierce PLC or Snow, Hodges and Osborne?",
+            "A": "{Pierce PLC} has a higher score on Benefits cost (USD/year)."
+        },
+        {
+            "Q": "On Remote work allowance (days/week), which label has a higher score: Jones PLC or Pierce PLC?",
+            "A": "{Jones PLC} has a higher score on Remote work allowance (days/week)."
+        },
+        {
+            "Q": "On Benefits cost (USD/year), which label has a higher score: Jones PLC or Snow, Hodges and Osborne?",
+            "A": "{Jones PLC} has a higher score on Benefits cost (USD/year)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Benefits cost (USD/year)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Bonus percentage (%) being greater than 15.3 and Remote work allowance (days/week) being less than 2.29?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

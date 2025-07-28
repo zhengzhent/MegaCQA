@@ -1,0 +1,10 @@
+Food and Beverage Industry, Restaurant Customer Flow, Customers, linear
+Source,Target,Value
+Martinberg Hot Dog,Parkershire Burger,511
+Parkershire Burger,Martinberg Hot Dog,438
+World Donuts,Christopher's Tacos,397
+Christopher's Tacos,World Donuts,333
+World Donuts,Martinberg Hot Dog,299
+Martinberg Hot Dog,World Donuts,259
+Christopher's Tacos,Parkershire Burger,191
+Parkershire Burger,Christopher's Tacos,149

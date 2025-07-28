@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {62} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Athlete age in the scatter plot?",
+            "A": "The maximum observed value in the Athlete age dimension is {40.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Athlete age in the scatter plot?",
+            "A": "The minimum observed value in the Athlete age dimension is {15.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Endurance level in the scatter plot?",
+            "A": "The maximum observed value in the Endurance level dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Endurance level in the scatter plot?",
+            "A": "The minimum observed value in the Endurance level dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Athlete age for all points?",
+            "A": "The average value of Athlete age for all points is {27.50}."
+        },
+        {
+            "Q": "What is the average value of the Endurance level for all points?",
+            "A": "The average value of Endurance level for all points is {50.63}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Endurance level values corresponding to the top 3 Athlete age values in the scatter plot?",
+            "A": "{85.77, 69.06, 79.62}."
+        },
+        {
+            "Q": "What are the Endurance level values corresponding to the bottom 3 Athlete age values in the scatter plot?",
+            "A": "{2.65, 0.00, 21.12}."
+        },
+        {
+            "Q": "What are the Athlete age values corresponding to the top 3 Endurance level values in the scatter plot?",
+            "A": "{35.08, 37.54, 37.95}."
+        },
+        {
+            "Q": "What are the Athlete age values corresponding to the bottom 3 Endurance level values in the scatter plot?",
+            "A": "{15.41, 15.00, 21.15}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 25.58 and 32.68 and Y coordinates between 69.66 and 96.25?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(15.41, 0.00) and (35.08, 100.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(23.61, 43.03) and (24.02, 42.45)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [22.36, 37.45, 25.27, 48.03] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (23.61, 43.03)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [32.71, 35.00, 38.90, 57.85]; Region B: [25.02, 64.62, 31.21, 87.46]; Region C: [20.72, 31.32, 26.91, 54.16]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

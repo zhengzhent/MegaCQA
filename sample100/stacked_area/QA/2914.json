@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Meridian Water Authority relative to Borealis Water Cooperative?",
+            "A": "Meridian Water Authority is {below} Borealis Water Cooperative in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total water consumption?",
+            "A": "The series with the largest contribution is {Meridian Water Authority}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total water consumption?",
+            "A": "The series with the smallest contribution is {Borealis Water Cooperative}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Meridian Water Authority's Water Consumption in 2018?",
+            "A": "Meridian Water Authority's water consumption in 2018 is {30502603.18} cubic meters."
+        },
+        {
+            "Q": "What is AquaFlow Utilities's Water Consumption in 2018?",
+            "A": "AquaFlow Utilities's water consumption in 2018 is {29945538.06} cubic meters."
+        },
+        {
+            "Q": "What is Azure Reservoir Management's Water Consumption in 2019?",
+            "A": "Azure Reservoir Management's water consumption in 2019 is {32849609.33} cubic meters."
+        },
+        {
+            "Q": "What are the water consumption of Borealis Water Cooperative, Meridian Water Authority, and Azure Reservoir Management in 2018?",
+            "A": "Borealis Water Cooperative's water consumption is {29847709.31} cubic meters, Meridian Water Authority's water consumption is {30502603.18} cubic meters, Azure Reservoir Management's water consumption is {30516121.19} cubic meters."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Water Consumption in the area chart?",
+            "A": "The global minimum water consumption is {22106891.84} cubic meters."
+        },
+        {
+            "Q": "What is the global maximum Water Consumption in the area chart?",
+            "A": "The global maximum water consumption is {40454475.27} cubic meters."
+        },
+        {
+            "Q": "What is the highest Water Consumption level recorded for AquaFlow Utilities?",
+            "A": "AquaFlow Utilities reached approximately {34671498.51} cubic meters in {2021}."
+        },
+        {
+            "Q": "What is the lowest Water Consumption level recorded for AquaFlow Utilities?",
+            "A": "AquaFlow Utilities's lowest recorded level is approximately {29945538.06} cubic meters in {2018}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Water Consumption?",
+            "A": "The average total water consumption is {127309225.49} cubic meters."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Water Consumption exceed 129872707.64 cubic meters? Please list the years and corresponding total values.",
+            "A": "{134179831.47} cubic meters in {2021}."
+        },
+        {
+            "Q": "Which years did the total Water Consumption go below 124447061.55 cubic meters? Please list the years and corresponding total values.",
+            "A": "{120811971.74} cubic meters in {2018}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2018 and 2021, did the total Water Consumption experience a larger or smaller change than between 2019 and 2020?",
+            "A": "The change in total water consumption between 2018 and 2021 was {larger} than between 2019 and 2020."
+        },
+        {
+            "Q": "Between 2019 and 2020, was the average total Water Consumption higher or lower than between 2019 and 2021?",
+            "A": "The average total water consumption between 2019 and 2020 was {lower} than between 2019 and 2021."
+        },
+        {
+            "Q": "Between 2018 and 2020, was the average total Water Consumption higher or lower than between 2019 and 2020?",
+            "A": "The average total water consumption between 2018 and 2020 was {lower} than between 2019 and 2020."
+        },
+        {
+            "Q": "Was the total Water Consumption in 2019 higher or lower than in 2020?",
+            "A": "The total water consumption in 2019 was {lower} than in 2020."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Meridian Water Authority} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Borealis Water Cooperative, AquaFlow Utilities, Azure Reservoir Management, Meridian Water Authority}."
+        }
+    ]
+}

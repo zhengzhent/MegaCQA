@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow into column Sector Distribution of this sankey chart?",
+            "A": "There are {16} links flow into column Sector Distribution."
+        },
+        {
+            "Q": "How many links flow into the node Agriculture in this sankey chart?",
+            "A": "There are {4} links flowing into the node Agriculture."
+        },
+        {
+            "Q": "How many links flow out of column Final Disposition of this sankey chart?",
+            "A": "There are {16} links flow out of column Final Disposition."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Final Disposition}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Sector Distribution}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Carbon Trading} and {Residential}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Offset Projects} and {Residential}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Carbon Trading to the node Agriculture?",
+            "A": "The flow value from the node Carbon Trading to the node Agriculture is {2042}."
+        },
+        {
+            "Q": "What is the flow value from the node Atmosphere to the node Power Generation?",
+            "A": "The flow value from the node Atmosphere to the node Power Generation is {534}."
+        },
+        {
+            "Q": "What is the flow value from the node Carbon Storage to the node Transportation?",
+            "A": "The flow value from the node Carbon Storage to the node Transportation is {4426}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Offset Projects to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Offset Projects to the next stage is {846}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Carbon Storage to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Carbon Storage to the next stage is {1457}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Atmosphere?",
+            "A": "The total flow output from node Atmosphere is {6004}."
+        },
+        {
+            "Q": "What is the total flow input by node Power Generation?",
+            "A": "The total flow input by node Power Generation is {11605}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Final Disposition of the sankey chart, which nodes have an outflow exceeded 4789? Please list the node labels and their corresponding outflow values.",
+            "A": "{Carbon Storage} has an outflow of {5522}, {Carbon Storage} has an outflow of {4875}, {Carbon Trading} has an outflow of {6221}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Final Disposition and column Sector Distribution is the flow between 1587 and 1879? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {1717} from node {Carbon Trading} to {Transportation}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 1587 and 2076? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {2042} from node {Carbon Trading} to {Agriculture}, a flow of {1717} from node {Carbon Trading} to {Transportation}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Carbon Storage to node Agriculture and from node Offset Projects to node Agriculture, which path has a larger flow?",
+            "A": "The flow from node {Carbon Storage} to node {Agriculture} is larger."
+        },
+        {
+            "Q": "Between the flows from node Offset Projects to node Agriculture and from node Carbon Trading to node Power Generation, which path has a larger flow?",
+            "A": "The flow from node {Carbon Trading} to node {Power Generation} is larger."
+        },
+        {
+            "Q": "Among the flows from node Carbon Trading to node Agriculture, from node Atmosphere to node Power Generation, and from node Carbon Trading to node Transportation, which path has the largest flow?",
+            "A": "The flow from node {Carbon Trading} to node {Agriculture} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Offset Projects to node Transportation, from node Carbon Trading to node Residential, and from node Offset Projects to node Agriculture, which path has the largest flow?",
+            "A": "The flow from node {Carbon Trading} to node {Residential} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Sector Distribution of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Sector Distribution is {Power Generation}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Carbon Trading to target node Power Generation? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Carbon Trading to node Power Generation is: {Carbon Trading, Power Generation}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Box Office ROI ?",
+            "A": "The next dimension clockwise from Box Office ROI  is Sponsorship Revenue Ratio "
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Box Office ROI ?",
+            "A": "The next dimension counterclockwise from Box Office ROI  is Live Comment Engagement Rate ."
+        },
+        {
+            "Q": "On the Sponsorship Revenue Ratio , is the point for re-intermediate out-of-the-box e-business inside or outside the point for streamline cross-media users?",
+            "A": "On the Sponsorship Revenue Ratio , the point for re-intermediate out-of-the-box e-business is inside the point for streamline cross-media users."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Streaming Play Rate } encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of streamline cross-media users?",
+            "A": "The strongest aspect is {Streaming Play Rate }, while the weakest aspect is{ Box Office ROI }."
+        },
+        {
+            "Q": "On dimension Streaming Play Rate , which label scores the highest?",
+            "A": "On Streaming Play Rate , label {re-intermediate out-of-the-box e-business} scores the highest."
+        },
+        {
+            "Q": "On dimension Sponsorship Revenue Ratio , which label scores the highest?",
+            "A": "On Sponsorship Revenue Ratio , label {re-intermediate out-of-the-box e-business} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of re-intermediate out-of-the-box e-business on the Streaming Play Rate  in the radar chart?",
+            "A": "The value of re-intermediate out-of-the-box e-business on the Safety dimension is {55}."
+        },
+        {
+            "Q": "What is the value of re-intermediate out-of-the-box e-business on the Live Comment Engagement Rate  in the radar chart?",
+            "A": "The value of re-intermediate out-of-the-box e-business on the Safety dimension is {95}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label re-intermediate out-of-the-box e-business across all dimensions in the radar chart?",
+            "A": "The maximum value of re-intermediate out-of-the-box e-business across all dimensions is {95}."
+        },
+        {
+            "Q": "What is the minimum value of label streamline cross-media users across all dimensions in the radar chart?",
+            "A": "The minimum value of streamline cross-media users across all dimensions is {95}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Box Office ROI ",
+            "A": "The average value of Box Office ROI  is {26.5}."
+        },
+        {
+            "Q": "What is the average value of re-intermediate out-of-the-box e-business",
+            "A": "The average value of re-intermediate out-of-the-box e-business is {49.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 61 for the Streaming Play Rate  dimension? Please list the labels and corresponding scores.",
+            "A": "{re-intermediate out-of-the-box e-business} is {55}"
+        },
+        {
+            "Q": "For re-intermediate out-of-the-box e-business in the radar chart, which dimensions have scores above 80? Please list the dimensions and corresponding scores.",
+            "A": "{Live Comment Engagement Rate } is {95}"
+        },
+        {
+            "Q": "For re-intermediate out-of-the-box e-business in the radar chart, which dimensions have scores between 37 and 80? Please list the dimensions and corresponding scores.",
+            "A": "{Streaming Play Rate } is {55}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For re-intermediate out-of-the-box e-business, which dimension has a higher score: Streaming Play Rate  or Sponsorship Revenue Ratio ?",
+            "A": "{Streaming Play Rate } has a higher score than Sponsorship Revenue Ratio  for re-intermediate out-of-the-box e-business."
+        },
+        {
+            "Q": "For streamline cross-media users, which dimension has a higher score: Live Comment Engagement Rate  or Streaming Play Rate ?",
+            "A": "{Streaming Play Rate } has a higher score than Live Comment Engagement Rate  for streamline cross-media users."
+        },
+        {
+            "Q": "On Box Office ROI , which label has a higher score: re-intermediate out-of-the-box e-business or the streamline cross-media users?",
+            "A": "{streamline cross-media users} has a higher score on Box Office ROI  compared to re-intermediate out-of-the-box e-business."
+        },
+        {
+            "Q": "On Sponsorship Revenue Ratio , which label has a higher score: re-intermediate out-of-the-box e-business or the streamline cross-media users?",
+            "A": "{streamline cross-media users} has a higher score on Sponsorship Revenue Ratio  compared to re-intermediate out-of-the-box e-business."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For re-intermediate out-of-the-box e-business, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "re-intermediate out-of-the-box e-business most needs to improve its {Box Office ROI }."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {streamline cross-media users}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {re-intermediate out-of-the-box e-business}."
+        }
+    ],
+    "VA": []
+}

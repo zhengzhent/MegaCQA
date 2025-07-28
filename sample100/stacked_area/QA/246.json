@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {2} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Ironwood Ranch relative to Misty Meadow Acres?",
+            "A": "Ironwood Ranch is {above} Misty Meadow Acres in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total livestock production?",
+            "A": "The series with the largest contribution is {Misty Meadow Acres}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total livestock production?",
+            "A": "The series with the smallest contribution is {Ironwood Ranch}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Ironwood Ranch's Livestock Production in 1986?",
+            "A": "Ironwood Ranch's livestock production in 1986 is {51394.09} tons."
+        },
+        {
+            "Q": "What is Misty Meadow Acres's Livestock Production in 1985?",
+            "A": "Misty Meadow Acres's livestock production in 1985 is {49941.72} tons."
+        },
+        {
+            "Q": "What is Misty Meadow Acres's Livestock Production in 1986?",
+            "A": "Misty Meadow Acres's livestock production in 1986 is {55027.89} tons."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Livestock Production in the area chart?",
+            "A": "The global minimum livestock production is {49941.72} tons."
+        },
+        {
+            "Q": "What is the global maximum Livestock Production in the area chart?",
+            "A": "The global maximum livestock production is {64719.93} tons."
+        },
+        {
+            "Q": "What is the highest Livestock Production level recorded for Ironwood Ranch?",
+            "A": "Ironwood Ranch reached approximately {57866.65} tons in {1988}."
+        },
+        {
+            "Q": "What is the lowest Livestock Production level recorded for Ironwood Ranch?",
+            "A": "Ironwood Ranch's lowest recorded level is approximately {50675.80} tons in {1985}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Livestock Production?",
+            "A": "The average total livestock production is {111355.26} tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Livestock Production exceed 116474.12 tons? Please list the years and corresponding total values.",
+            "A": "{122586.58} tons in {1988}."
+        },
+        {
+            "Q": "Which years did the total Livestock Production fall between 105599.94 and 116715.72 tons? Please list the years and corresponding total values.",
+            "A": "{106421.98} tons in {1986}, {115794.96} tons in {1987}."
+        },
+        {
+            "Q": "Which years did the total Livestock Production go below 105841.53 tons? Please list the years and corresponding total values.",
+            "A": "{100617.52} tons in {1985}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1985 and 1987, did the total Livestock Production experience a larger or smaller change than between 1985 and 1986?",
+            "A": "The change in total livestock production between 1985 and 1987 was {larger} than between 1985 and 1986."
+        },
+        {
+            "Q": "Between 1986 and 1987, was the average total Livestock Production higher or lower than between 1986 and 1988?",
+            "A": "The average total livestock production between 1986 and 1987 was {lower} than between 1986 and 1988."
+        },
+        {
+            "Q": "Was the total Livestock Production in 1985 higher or lower than in 1988?",
+            "A": "The total livestock production in 1985 was {lower} than in 1988."
+        },
+        {
+            "Q": "Between 1987 and 1988, was the average total Livestock Production higher or lower than between 1986 and 1987?",
+            "A": "The average total livestock production between 1987 and 1988 was {higher} than between 1986 and 1987."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Misty Meadow Acres} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Ironwood Ranch, Misty Meadow Acres}."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+Human Resources and Employee Management,the Factors of Human Resources and Employee Management,8x8,diagonal
+Benefits,Culture,0.92
+Compensation,Culture,0.67
+Compliance,Culture,0.46
+Diversity & Inclusion,Culture,0.21
+HR Tech,Culture,0.22
+Performance,Culture,0.47
+Retention,Culture,0.67
+Training,Culture,0.93
+Benefits,Engagement,0.67
+Compensation,Engagement,0.86
+Compliance,Engagement,0.65
+Diversity & Inclusion,Engagement,0.46
+HR Tech,Engagement,0.46
+Performance,Engagement,0.65
+Retention,Engagement,0.86
+Training,Engagement,0.67
+Benefits,Leadership,0.46
+Compensation,Leadership,0.64
+Compliance,Leadership,0.86
+Diversity & Inclusion,Leadership,0.67
+HR Tech,Leadership,0.67
+Performance,Leadership,0.86
+Retention,Leadership,0.65
+Training,Leadership,0.47
+Benefits,Productivity,0.2
+Compensation,Productivity,0.46
+Compliance,Productivity,0.67
+Diversity & Inclusion,Productivity,0.93
+HR Tech,Productivity,0.93
+Performance,Productivity,0.67
+Retention,Productivity,0.46
+Training,Productivity,0.22
+Benefits,Skills Gap,0.21
+Compensation,Skills Gap,0.46
+Compliance,Skills Gap,0.67
+Diversity & Inclusion,Skills Gap,0.93
+HR Tech,Skills Gap,0.92
+Performance,Skills Gap,0.67
+Retention,Skills Gap,0.47
+Training,Skills Gap,0.22
+Benefits,Training Hours,0.46
+Compensation,Training Hours,0.65
+Compliance,Training Hours,0.86
+Diversity & Inclusion,Training Hours,0.67
+HR Tech,Training Hours,0.67
+Performance,Training Hours,0.86
+Retention,Training Hours,0.65
+Training,Training Hours,0.46
+Benefits,Turnover,0.67
+Compensation,Turnover,0.86
+Compliance,Turnover,0.65
+Diversity & Inclusion,Turnover,0.46
+HR Tech,Turnover,0.46
+Performance,Turnover,0.64
+Retention,Turnover,0.85
+Training,Turnover,0.67
+Benefits,Wellbeing,0.92
+Compensation,Wellbeing,0.67
+Compliance,Wellbeing,0.47
+Diversity & Inclusion,Wellbeing,0.22
+HR Tech,Wellbeing,0.21
+Performance,Wellbeing,0.46
+Retention,Wellbeing,0.67
+Training,Wellbeing,0.92

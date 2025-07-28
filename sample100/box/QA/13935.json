@@ -1,0 +1,123 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {3} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Spring Spa}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Hidden Valley}."
+        },
+        {
+            "Q": "Which box is the first position to the right of the box Sun Harbor?",
+            "A": "The first position to the right of the box Sun Harbor is {Hidden Valley}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Hidden Valley relative to the box Sun Harbor in terms of horizontal (left/right) direction?",
+            "A": "Box Hidden Valley is to the {right} of the box Sun Harbor."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Spring Spa}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Spring Spa}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Spring Spa}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Spring Spa in the box plot?",
+            "A": "The median of Spring Spa is {8465.0} Visitors."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Sun Harbor in the box plot?",
+            "A": "The upper quartile (Q3) of Sun Harbor is {9172.0} Visitors."
+        },
+        {
+            "Q": "What is the lower whisker limit of Spring Spa in the box plot?",
+            "A": "The lower whisker limit of Spring Spa is {827} Visitors."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Hidden Valley in the box plot?",
+            "A": "The largest upper outlier value in Hidden Valley is {28525}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Visitors value in the box plot?",
+            "A": "The global maximum Visitors value in the box plot is {31049.00} Visitors."
+        },
+        {
+            "Q": "What is the global minimum Visitors value in the box plot?",
+            "A": "The global minimum Visitors value in the box plot is {11.00} Visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Hidden Valley and Sun Harbor?",
+            "A": "The Q3 difference between box Hidden Valley and Sun Harbor is {283.0} Visitors."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Spring Spa and Sun Harbor?",
+            "A": "The total Q1 value of box Spring Spa and Sun Harbor is {10503.0} Visitors."
+        },
+        {
+            "Q": "What is the average Median value of box Hidden Valley and Sun Harbor?",
+            "A": "The average Median value of box Hidden Valley and Sun Harbor is {6995.0} Visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 18591.3 Visitors?",
+            "A": "Box{Spring Spa},{Sun Harbor},{Hidden Valley} have the outliers exceed 18591.3 Visitors."
+        },
+        {
+            "Q": "Which boxes have median values exceed 6995.00 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Spring Spa} has {8465.0} Visitors , {Hidden Valley} has {7183.0} Visitors "
+        },
+        {
+            "Q": "Which boxes have median values below 6995.00 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Sun Harbor} has {6807.0} Visitors "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Hidden Valley or Spring Spa ",
+            "A": "The median value of the {Spring Spa} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Spring Spa, Hidden Valley or Sun Harbor ",
+            "A": "The median value of the {Spring Spa} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Sun Harbor}."
+        }
+    ],
+    "VA": []
+}

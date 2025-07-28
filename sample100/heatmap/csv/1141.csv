@@ -1,0 +1,73 @@
+Business and Finance,the Patterns of Business and Finance,9x8,radial_gradient
+Accounting,Equity,0.79
+Auditing,Equity,0.8
+Banking,Equity,0.83
+Consulting,Equity,0.83
+Financial Tech,Equity,0.81
+Insurance,Equity,0.81
+Real Estate,Equity,0.74
+Risk Management,Equity,0.65
+Tax,Equity,0.55
+Accounting,Expenses,0.73
+Auditing,Expenses,0.8
+Banking,Expenses,0.85
+Consulting,Expenses,0.84
+Financial Tech,Expenses,0.81
+Insurance,Expenses,0.81
+Real Estate,Expenses,0.73
+Risk Management,Expenses,0.67
+Tax,Expenses,0.57
+Accounting,Growth,0.76
+Auditing,Growth,0.79
+Banking,Growth,0.82
+Consulting,Growth,0.84
+Financial Tech,Growth,0.8
+Insurance,Growth,0.76
+Real Estate,Growth,0.68
+Risk Management,Growth,0.64
+Tax,Growth,0.55
+Accounting,Liabilities,0.7
+Auditing,Liabilities,0.73
+Banking,Liabilities,0.75
+Consulting,Liabilities,0.77
+Financial Tech,Liabilities,0.77
+Insurance,Liabilities,0.73
+Real Estate,Liabilities,0.66
+Risk Management,Liabilities,0.64
+Tax,Liabilities,0.51
+Accounting,Liquidity,0.61
+Auditing,Liquidity,0.65
+Banking,Liquidity,0.72
+Consulting,Liquidity,0.73
+Financial Tech,Liquidity,0.7
+Insurance,Liquidity,0.67
+Real Estate,Liquidity,0.63
+Risk Management,Liquidity,0.51
+Tax,Liquidity,0.44
+Accounting,Market Share,0.58
+Auditing,Market Share,0.61
+Banking,Market Share,0.64
+Consulting,Market Share,0.6
+Financial Tech,Market Share,0.6
+Insurance,Market Share,0.58
+Real Estate,Market Share,0.52
+Risk Management,Market Share,0.41
+Tax,Market Share,0.32
+Accounting,Profit,0.49
+Auditing,Profit,0.51
+Banking,Profit,0.53
+Consulting,Profit,0.5
+Financial Tech,Profit,0.51
+Insurance,Profit,0.48
+Real Estate,Profit,0.42
+Risk Management,Profit,0.35
+Tax,Profit,0.31
+Accounting,Risk,0.32
+Auditing,Risk,0.4
+Banking,Risk,0.39
+Consulting,Risk,0.38
+Financial Tech,Risk,0.4
+Insurance,Risk,0.38
+Real Estate,Risk,0.28
+Risk Management,Risk,0.27
+Tax,Risk,0.18

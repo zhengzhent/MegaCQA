@@ -1,0 +1,23 @@
+Science and Engineering,Science Distribution by Category (2020),%
+parent,child,value
+Root,Life Sciences,33.81
+Life Sciences,Biology,18.34
+Biology,Genetics,7.91
+Biology,Ecology,10.43
+Life Sciences,Neuroscience,15.47
+Neuroscience,Brain Function,5.12
+Neuroscience,Neural Networks,10.34
+Root,Applied Sciences,38.42
+Applied Sciences,Engineering,14.71
+Engineering,Mechanical,5.25
+Engineering,Electrical,9.46
+Applied Sciences,Computer Science,23.71
+Computer Science,Artificial Intelligence,7.55
+Computer Science,Algorithms,16.16
+Root,Physical Sciences,27.77
+Physical Sciences,Chemistry,14.13
+Chemistry,Organic Chemistry,8.37
+Chemistry,Inorganic Chemistry,5.76
+Physical Sciences,Physics,13.64
+Physics,Mechanics,8.08
+Physics,Quantum Physics,5.56

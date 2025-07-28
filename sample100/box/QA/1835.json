@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {5} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {SkyBound}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {DataPulse}."
+        },
+        {
+            "Q": "Which box is the first position to the right of the box PrimeVue?",
+            "A": "The first position to the right of the box PrimeVue is {PeakPoint}."
+        },
+        {
+            "Q": "What is the spatial relationship of box PrimeVue relative to the box PeakPoint in terms of horizontal (left/right) direction?",
+            "A": "Box PrimeVue is to the {left} of the box PeakPoint."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {PeakPoint}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {PeakPoint}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {PureSync}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of PrimeVue in the box plot?",
+            "A": "The median of PrimeVue is {52610.0} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of PrimeVue in the box plot?",
+            "A": "The lower quartile (Q1) of PrimeVue is {41852.75} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of PrimeVue in the box plot?",
+            "A": "The upper whisker limit of PrimeVue is {82890} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in SkyBound in the box plot?",
+            "A": "The largest upper outlier value in SkyBound is {109487} USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the box plot?",
+            "A": "The global maximum USD value in the box plot is {109487.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the box plot?",
+            "A": "The global minimum USD value in the box plot is {1507.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box DataPulse and PeakPoint?",
+            "A": "The Median difference between box DataPulse and PeakPoint is {9041.5} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of box PeakPoint and PureSync?",
+            "A": "The total Q3 value of box PeakPoint and PureSync is {129349.5} USD."
+        },
+        {
+            "Q": "What is the average Q3 value of box PeakPoint and PrimeVue?",
+            "A": "The average Q3 value of box PeakPoint and PrimeVue is {64426.375} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 98538.3 USD?",
+            "A": "Box{SkyBound} have the outliers exceed 98538.3 USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 53119.50 USD? Please list the boxes and corresponding values.",
+            "A": "{SkyBound} has {53846.0} USD , {PureSync} has {53629.0} USD , {PeakPoint} has {60269.0} USD "
+        },
+        {
+            "Q": "Which boxes have median values below 51918.75 USD? Please list the boxes and corresponding values.",
+            "A": "{DataPulse} has {51227.5} USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of PeakPoint or PureSync ",
+            "A": "The median value of the {PeakPoint} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of PrimeVue, PeakPoint or PureSync ",
+            "A": "The median value of the {PeakPoint} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of SkyBound, PureSync, PrimeVue or DataPulse ",
+            "A": "The median value of the {SkyBound} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {SkyBound}."
+        }
+    ],
+    "VA": []
+}

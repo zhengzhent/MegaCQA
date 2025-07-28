@@ -1,0 +1,10 @@
+﻿Real Estate and Housing Market,Property Characteristics of Different House
+Pattern,Weak Correlation,No Correlation,Strong Correlation,Weak Correlation
+labels,Energy efficiency rating (1-10),Bedroom count (units),Days on market (days),Walk score (0-100),Bathroom count (units)
+boy Mansion,3.44,4.11,365.0,100.0,3.48
+age Villa,7.5,6.0,348.74,92.79,4.23
+recognize Cottage,5.49,2.68,184.87,47.14,2.4
+little Villa,10.0,5.06,58.39,21.19,5.0
+college Villa,6.23,1.85,160.33,42.44,4.68
+economic Cottage,1.0,1.0,93.28,15.52,1.0
+ten Villa,7.09,4.6,1.0,0.0,2.37

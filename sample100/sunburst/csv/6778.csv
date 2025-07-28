@@ -1,0 +1,20 @@
+Real Estate and Housing Market,Housing Market Distribution by Category (2023),%
+parent,child,value
+Root,Residential Property,20.78
+Residential Property,Single Family Homes,12.57
+Single Family Homes,Semi-Detached,5.38
+Single Family Homes,Detached,7.19
+Residential Property,Multi-Family Homes,8.21
+Root,Rental Market,49.29
+Rental Market,Long-Term Rentals,28.98
+Long-Term Rentals,Apartments,11.71
+Long-Term Rentals,Houses for Rent,17.27
+Houses for Rent,Townhomes,5.01
+Houses for Rent,Detached Rentals,5.82
+Houses for Rent,Gated Communities,6.44
+Rental Market,Short-Term Rentals,20.31
+Short-Term Rentals,Vacation Homes,20.31
+Vacation Homes,Mountain Cabins,11.92
+Vacation Homes,City Condos,8.39
+Root,Commercial Real Estate,29.93
+Commercial Real Estate,Retail Spaces,29.93

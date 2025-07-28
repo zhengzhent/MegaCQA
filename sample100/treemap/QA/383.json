@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Depth Control in this treemap?",
+            "A": "There are {2} child rectangles under the category Depth Control."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Crop Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Valve Types}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Crop Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Sprinkler Types rectangle in this treemap?",
+            "A": "The value of the Sprinkler Types rectangle is {5.68}."
+        },
+        {
+            "Q": "What is the value of the Row Units rectangle in this treemap?",
+            "A": "The value of the Row Units rectangle is {61.63}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.12}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Row Units and Depth Control?",
+            "A": "The difference between Row Units and Depth Control is {0.0}."
+        },
+        {
+            "Q": "What is the sum of the regions of Silicone Diaphragms and Parallel Linkages?",
+            "A": "The sum of Silicone Diaphragms and Parallel Linkages is {49.34}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Depth Control category in the treemap, which rectangular labels have a value exceeded 33.69? Please list the labels and values.",
+            "A": "{Parallel Linkages} has {36.57}"
+        },
+        {
+            "Q": "Under the Depth Control category in the treemap, which rectangular labels have a value below 27.94? Please list the labels and values.",
+            "A": "{Pressure Sensors} has {25.06}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Crop Systems, Precision Planting, or Seeders?",
+            "A": "The value of {Crop Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Seeders or Depth Control?",
+            "A": "The value of {Seeders} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Precision Planting, Seeders, or Row Units?",
+            "A": "The value of {Row Units} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {6} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

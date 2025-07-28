@@ -1,0 +1,12 @@
+Agriculture and Food Production, Crops Production Transfer Flow, Thousand Tons, long_tail
+Source,Target,Value
+Wheat,Oats,599
+Oats,Wheat,289
+Potatoes,Soybeans,184
+Soybeans,Potatoes,152
+Corn,Soybeans,118
+Soybeans,Corn,92
+Potatoes,Corn,80
+Corn,Potatoes,71
+Wheat,Corn,61
+Corn,Wheat,56

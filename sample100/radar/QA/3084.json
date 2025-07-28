@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Further Education Rate?",
+            "A": "The next dimension clockwise from Further Education Rate is Employment Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Patent Conversion Rate?",
+            "A": "The next dimension counterclockwise from Further Education Rate is Patent Conversion Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Further Education Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of North Melissastad College?",
+            "A": "The strongest aspect is {Further Education Rate}, while the weakest aspect is{ Research Investment Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of North Melissastad College on the Paper Publication Rate in the radar chart?",
+            "A": "The value of North Melissastad College on the Safety dimension is {85}."
+        },
+        {
+            "Q": "What is the value of North Melissastad College on the Further Education Rate in the radar chart?",
+            "A": "The value of North Melissastad College on the Safety dimension is {92}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label North Melissastad College across all dimensions in the radar chart?",
+            "A": "The maximum value of North Melissastad College across all dimensions is {85}."
+        },
+        {
+            "Q": "What is the minimum value of label North Melissastad College across all dimensions in the radar chart?",
+            "A": "The minimum value of North Melissastad College across all dimensions is {85}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Further Education Rate",
+            "A": "The average value of Further Education Rate is {92.0}."
+        },
+        {
+            "Q": "What is the average value of North Melissastad College",
+            "A": "The average value of North Melissastad College is {62.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 92 for the Further Education Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{North Melissastad College} is {92}"
+        },
+        {
+            "Q": "Which labels have scores above 42 for the Patent Conversion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{North Melissastad College} is {42}"
+        },
+        {
+            "Q": "For North Melissastad College in the radar chart, which dimensions have scores below 43? Please list the dimensions and corresponding scores.",
+            "A": "{Research Investment Rate} is {31}, {Patent Conversion Rate} is {42}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For North Melissastad College, which dimension has a higher score: Patent Conversion Rate or Further Education Rate?",
+            "A": "{Further Education Rate} has a higher score than Patent Conversion Rate for North Melissastad College."
+        },
+        {
+            "Q": "For North Melissastad College, which dimension has a higher score: Research Investment Rate or Patent Conversion Rate?",
+            "A": "{Patent Conversion Rate} has a higher score than Research Investment Rate for North Melissastad College."
+        },
+        {
+            "Q": "For North Melissastad College, which dimension has a higher score: Further Education Rate or Paper Publication Rate or Employment Rate?",
+            "A": "{Further Education Rate} has a higher score for North Melissastad College."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For North Melissastad College, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "North Melissastad College most needs to improve its {Research Investment Rate}."
+        }
+    ],
+    "VA": []
+}

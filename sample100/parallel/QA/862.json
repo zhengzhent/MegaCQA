@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Training hours/week (hours) dimension, what is the spatial relationship of Danielle Mathews relative to Chris Wilson in terms of vertical (above/below) direction?",
+            "A": "{Danielle Mathews} is {above} {Chris Wilson} on the Training hours/week (hours) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Training hours/week (hours)?",
+            "A": "The second position to the left of Training hours/week (hours) is {Recovery time (hours)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Injury frequency (per year)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Endurance (minutes)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Endurance (minutes)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Recovery time (hours) and dimension Performance rating (1-10)",
+            "A": "There is {Weak Correlation} between Recovery time (hours) and Performance rating (1-10)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Danielle Mathews on the Endurance (minutes) dimension in the parallel-coordinates chart?",
+            "A": "The value of Danielle Mathews on the Endurance (minutes) dimension is {120.0}"
+        },
+        {
+            "Q": "What is the value of Danielle Mathews on the Performance rating (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Danielle Mathews on the Performance rating (1-10) dimension is {5.6}"
+        },
+        {
+            "Q": "What is the value of Whitney Johnson on the Injury frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of Whitney Johnson on the Injury frequency (per year) dimension is {2.55}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Candice Stevenson across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Candice Stevenson across all dimensions is {66.62}"
+        },
+        {
+            "Q": "What is the minimum value of label Chris Wilson across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Chris Wilson across all dimensions is {1.89}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Accuracy (%)?",
+            "A": "The average value of Accuracy (%) is {73.95}"
+        },
+        {
+            "Q": "What is the difference in coding Accuracy (%) between label Chris Wilson and label Danielle Mathews",
+            "A": "The difference in coding Accuracy (%) between Chris Wilson and Danielle Mathews is {9.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Recovery time (hours) dimension in the parallel coordinates?",
+            "A": "{[72.0, 66.62, 35.64]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Accuracy (%) dimension in the parallel coordinates?",
+            "A": "{[50.0, 53.01, 78.86]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Training hours/week (hours), which label has a higher score: Chris Wilson or Candice Stevenson?",
+            "A": "{Chris Wilson} has a higher score on Training hours/week (hours)."
+        },
+        {
+            "Q": "On Performance rating (1-10), which label has a higher score: Candice Stevenson or Chris Wilson?",
+            "A": "{Candice Stevenson} has a higher score on Performance rating (1-10)."
+        },
+        {
+            "Q": "On Recovery time (hours), which label has a higher score: Whitney Johnson or Kendra Green?",
+            "A": "{Whitney Johnson} has a higher score on Recovery time (hours)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Endurance (minutes)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Training hours/week (hours) being greater than 28.14 and Performance rating (1-10) being less than 6.67?",
+            "A": "There are {3} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

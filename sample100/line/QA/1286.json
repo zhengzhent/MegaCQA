@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Vanguard Dynamics, what is the spatial relationship of the data point in 2011 relative to that in 2013 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Vanguard Dynamics, the data point in 2011 is {below} and to the {left} of the data point in 2013."
+        },
+        {
+            "Q": "In 2017, what is the vertical (above/below) relationship of the line representing Aegis Corp relative to Vanguard Dynamics?",
+            "A": "In 2017, Aegis Corp is {above} Vanguard Dynamics in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Aegis Corp's Debt to Equity Ratio levels?",
+            "A": "Aegis Corp's debt to equity ratio levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of Vanguard Dynamics's Debt to Equity Ratio levels?",
+            "A": "Vanguard Dynamics's debt to equity ratio levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of Starlight Innovations's Debt to Equity Ratio levels?",
+            "A": "Starlight Innovations's debt to equity ratio levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "What is the trend of Horizon Enterprises's Debt to Equity Ratio levels?",
+            "A": "Horizon Enterprises's debt to equity ratio levels show a {bimodal peak} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Horizon Enterprises's Debt to Equity Ratio in 2024?",
+            "A": "Horizon Enterprises's debt to equity ratio in 2024 is {0.83} ratio."
+        },
+        {
+            "Q": "What is Starlight Innovations's Debt to Equity Ratio in 2023?",
+            "A": "Starlight Innovations's debt to equity ratio in 2023 is {0.07} ratio."
+        },
+        {
+            "Q": "What is Starlight Innovations's Debt to Equity Ratio in 2012?",
+            "A": "Starlight Innovations's debt to equity ratio in 2012 is {0.08} ratio."
+        },
+        {
+            "Q": "What are the debt to equity ratio of Starlight Innovations, Aegis Corp, and Horizon Enterprises in 2011?",
+            "A": "Starlight Innovations's debt to equity ratio is {0.12} ratio, Aegis Corp's debt to equity ratio is {0.76} ratio, Horizon Enterprises's debt to equity ratio is {0.83} ratio."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Debt to Equity Ratio in the line chart?",
+            "A": "The global minimum debt to equity ratio is {0.00} ratio."
+        },
+        {
+            "Q": "What is the global maximum Debt to Equity Ratio in the line chart?",
+            "A": "The global maximum debt to equity ratio is {1.03} ratio."
+        },
+        {
+            "Q": "What is the highest Debt to Equity Ratio level recorded for Aegis Corp?",
+            "A": "Aegis Corp reached approximately {0.97} ratio in {2016}."
+        },
+        {
+            "Q": "What is the lowest Debt to Equity Ratio level recorded for Aegis Corp?",
+            "A": "Aegis Corp's lowest recorded level is approximately {0.71} ratio in {2024}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Aegis Corp's Debt to Equity Ratio from the starting year to the final year?",
+            "A": "The rate of decline in Aegis Corp's debt to equity ratio is {-6.58}%."
+        },
+        {
+            "Q": "What is the rate of change in Starlight Innovations's Debt to Equity Ratio from the starting year to the final year?",
+            "A": "The rate of growth in Starlight Innovations's debt to equity ratio is {8.33}%."
+        },
+        {
+            "Q": "What is the average value of Aegis Corp's Debt to Equity Ratio?",
+            "A": "The average value of Aegis Corp's debt to equity ratio is {0.87} ratio."
+        },
+        {
+            "Q": "What is the average value of Vanguard Dynamics's Debt to Equity Ratio?",
+            "A": "The average value of Vanguard Dynamics's debt to equity ratio is {0.49} ratio."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2013, which lines had Debt to Equity Ratio below 0 ratio? Please list the lines and corresponding values.",
+            "A": "{Starlight Innovations} had {0} ratio."
+        },
+        {
+            "Q": "In the year 2020, which lines had Debt to Equity Ratio between 0 and 1 ratio? Please list the lines and corresponding values.",
+            "A": "{Vanguard Dynamics} had {1} ratio."
+        },
+        {
+            "Q": "In the year 2019, which lines had Debt to Equity Ratio below 0 ratio? Please list the lines and corresponding values.",
+            "A": "{Starlight Innovations} had {0} ratio."
+        },
+        {
+            "Q": "In the year 2014, which lines had Debt to Equity Ratio between 0 and 1 ratio? Please list the lines and corresponding values.",
+            "A": "{Vanguard Dynamics} had {0} ratio."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2017 and 2019, which line had a higher average Debt to Equity Ratio, Starlight Innovations or Vanguard Dynamics?",
+            "A": "{Vanguard Dynamics} had a higher average debt to equity ratio."
+        },
+        {
+            "Q": "Between 2014 and 2024, which line experienced the largest change in Debt to Equity Ratio, Vanguard Dynamics, Horizon Enterprises, Aegis Corp, or Starlight Innovations?",
+            "A": "{Vanguard Dynamics} experienced the largest change in debt to equity ratio."
+        },
+        {
+            "Q": "Between 2016 and 2019, which line experienced the largest change in Debt to Equity Ratio, Aegis Corp, Starlight Innovations, Horizon Enterprises, or Vanguard Dynamics?",
+            "A": "{Vanguard Dynamics} experienced the largest change in debt to equity ratio."
+        },
+        {
+            "Q": "Between 2014 and 2017, which line experienced the largest change in Debt to Equity Ratio, Starlight Innovations, Vanguard Dynamics, Aegis Corp, or Horizon Enterprises?",
+            "A": "{Vanguard Dynamics} experienced the largest change in debt to equity ratio."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Vanguard Dynamics}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2019 and 2020?",
+            "A": "{Vanguard Dynamics} has the fastest average growth rate between 2019 and 2020."
+        },
+        {
+            "Q": "Which label had the leading debt to equity ratio since 2017?",
+            "A": "Since 2017, {Horizon Enterprises} had the leading debt to equity ratio."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Aegis Corp. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {2011, 2024}."
+        }
+    ]
+}

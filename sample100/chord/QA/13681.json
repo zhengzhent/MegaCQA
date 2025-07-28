@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {5} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Ryanmouth?",
+            "A": "The next arc clockwise from arc Ryanmouth is arc {Brandonburgh}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Jackfort?",
+            "A": "The next arc counterclockwise from arc Jackfort is arc {Christine}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Brandonburgh} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Ryanmouth} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Brandonburgh to Jackfort in the chord chart?",
+            "A": "The flow value is {166}."
+        },
+        {
+            "Q": "What is the flow value from Jackfort to Brandonburgh in the chord chart?",
+            "A": "The flow value is {201}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Brandonburgh and Jackfort in the chord chart?",
+            "A": "The maximum flow value between Brandonburgh and Jackfort is {201}."
+        },
+        {
+            "Q": "What is the minimum flow value between Jackfort and Angelaview in the chord chart?",
+            "A": "The minimum flow value between Jackfort and Angelaview is {106}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {219}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {32}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Ryanmouth?",
+            "A": "The total flow output from Ryanmouth is {210}."
+        },
+        {
+            "Q": "What is the total flow input by Jackfort?",
+            "A": "The total flow input by Jackfort is {304}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 214? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {219} from {Brandonburgh} to {Ryanmouth}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 63? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {32} from {Christine} to {Jackfort}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 105 and 160? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {106} from {Angelaview} to {Jackfort}, a flow of {154} from {Jackfort} to {Angelaview}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Christine to Angelaview or from Jackfort to Christine?",
+            "A": "The flow from {Christine} to {Angelaview} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Jackfort to Angelaview, from Brandonburgh to Jackfort, or from Christine to Jackfort?",
+            "A": "The flow from {Brandonburgh} to {Jackfort} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Jackfort}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Brandonburgh} and {Ryanmouth}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Christine, Arc Angelaview, Arc Jackfort, Arc Brandonburgh, Arc Ryanmouth}."
+        }
+    ]
+}

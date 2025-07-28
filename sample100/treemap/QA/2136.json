@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Cultural Activities in this treemap?",
+            "A": "There are {2} child rectangles under the category Cultural Activities."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Artwork Sales}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Modern Masters}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Artwork Sales}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Art Funds rectangle in this treemap?",
+            "A": "The value of the Art Funds rectangle is {39.5}."
+        },
+        {
+            "Q": "What is the value of the Community Projects rectangle in this treemap?",
+            "A": "The value of the Community Projects rectangle is {6.37}."
+        },
+        {
+            "Q": "What is the value of the Emerging Artists rectangle in this treemap?",
+            "A": "The value of the Emerging Artists rectangle is {10.87}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {80.66}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.09}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Emerging Artists and Auction Houses?",
+            "A": "The difference between Emerging Artists and Auction Houses is {5.09}."
+        },
+        {
+            "Q": "What is the sum of the regions of Modern Masters and Galleries?",
+            "A": "The sum of Modern Masters and Galleries is {23.92}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Cultural Activities category in the treemap, which rectangular labels have a value exceeded 11.54? Please list the labels and values.",
+            "A": "{Public Art} has {13.42}"
+        },
+        {
+            "Q": "Under the Cultural Activities category in the treemap, which rectangular labels have a value below 7.80? Please list the labels and values.",
+            "A": "{Art Exhibitions} has {5.92}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Secondary Market, Art Funds, or Investment Grade?",
+            "A": "The value of {Investment Grade} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Artwork Sales, Secondary Market, or Art Funds?",
+            "A": "The value of {Artwork Sales} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

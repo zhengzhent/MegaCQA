@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Return rate (%) dimension, what is the spatial relationship of Taylor, Wolfe and Turner relative to Morris-Brooks in terms of vertical (above/below) direction?",
+            "A": "{Taylor, Wolfe and Turner} is {below} {Morris-Brooks} on the Return rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Conversion rate (%)?",
+            "A": "The first position to the left of Conversion rate (%) is {Return rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Cart abandonment rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Return rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Average order value (USD)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Gross margin (%) and dimension Customer retention rate (%)",
+            "A": "There is {Strong Correlation} between Gross margin (%) and Customer retention rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Rodriguez, Williams and Collins on the Average order value (USD) dimension in the parallel-coordinates chart?",
+            "A": "The value of Rodriguez, Williams and Collins on the Average order value (USD) dimension is {500.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Jones-Stephens across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Jones-Stephens across all dimensions is {340.37}"
+        },
+        {
+            "Q": "What is the minimum value of label Jones-Stephens across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Jones-Stephens across all dimensions is {6.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Cart abandonment rate (%)?",
+            "A": "The average value of Cart abandonment rate (%) is {64.78}"
+        },
+        {
+            "Q": "What is the difference in coding Customer retention rate (%) between label Morris-Brooks and label Taylor, Wolfe and Turner",
+            "A": "The difference in coding Customer retention rate (%) between Morris-Brooks and Taylor, Wolfe and Turner is {27.8}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Conversion rate (%) dimension in the parallel coordinates?",
+            "A": "{[10.0, 9.69, 8.07]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Cart abandonment rate (%) dimension in the parallel coordinates?",
+            "A": "{[40.0, 48.38, 57.48]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Customer retention rate (%), which label has a higher score: Barnes-Thomas or Vaughan Inc?",
+            "A": "{Vaughan Inc} has a higher score on Customer retention rate (%)."
+        },
+        {
+            "Q": "On Cart abandonment rate (%), which label has a higher score: Morris-Brooks or Nichols, Smith and Oliver?",
+            "A": "{Nichols, Smith and Oliver} has a higher score on Cart abandonment rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Average order value (USD)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Inventory accuracy (%) being greater than 90.45 and Conversion rate (%) being less than 6.15?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

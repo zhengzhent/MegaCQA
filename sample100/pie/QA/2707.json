@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {3} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Vocational Schools?",
+            "A": "The next slice clockwise from slice Vocational Schools is {Universities}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Vocational Schools?",
+            "A": "The next slice counterclockwise from slice Vocational Schools is {Private Schools}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which student has the largest proportion in this pie chart?",
+            "A": "The student with the largest proportion is {Private Schools}."
+        },
+        {
+            "Q": "Which student has the smallest proportion in this pie chart?",
+            "A": "The student with the smallest proportion is {Universities}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Universities slice in this pie chart?",
+            "A": "The value of the Universities slice is {27}%."
+        },
+        {
+            "Q": "What is the value of the Private Schools slice in this pie chart?",
+            "A": "The value of the Private Schools slice is {40}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {40}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {27}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 36.5%? Please list the category names and corresponding percentages.",
+            "A": "{Private Schools} accounts for {40}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 30.0%? Please list the category names and corresponding percentages.",
+            "A": "{Universities} accounts for {27}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Private Schools or Vocational Schools?",
+            "A": "The value of {Private Schools} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Private Schools, Vocational Schools, or Universities?",
+            "A": "The value of {Private Schools} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

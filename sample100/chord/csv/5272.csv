@@ -1,0 +1,12 @@
+Food and Beverage Industry, Restaurant Customer Flow, Customers, long_tail
+Source,Target,Value
+Danielle's Chicken,Kathy's Pizzas,1635
+Kathy's Pizzas,Danielle's Chicken,752
+Kyle's Salads,Kathy's Pizzas,518
+Kathy's Pizzas,Kyle's Salads,375
+World Donuts,Kathy's Pizzas,317
+Kathy's Pizzas,World Donuts,247
+Danielle's Chicken,Kyle's Salads,216
+Kyle's Salads,Danielle's Chicken,198
+World Donuts,Danielle's Chicken,174
+Danielle's Chicken,World Donuts,153

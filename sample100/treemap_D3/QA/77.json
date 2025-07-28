@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {19} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {User Engagement}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Likes}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Platforms rectangle in this treemap?",
+            "A": "The value of the Platforms rectangle is {27.77}."
+        },
+        {
+            "Q": "What is the value of the Spotify rectangle in this treemap?",
+            "A": "The value of the Spotify rectangle is {17.01}."
+        },
+        {
+            "Q": "What is the value of the Video Platforms rectangle in this treemap?",
+            "A": "The value of the Video Platforms rectangle is {11.0}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.01}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Messaging Apps and TikTok?",
+            "A": "The difference between Messaging Apps and TikTok is {15.48}."
+        },
+        {
+            "Q": "What is the sum of the regions of Likes and Memes?",
+            "A": "The sum of Likes and Memes is {18.19}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Messaging Apps category in the treemap, which rectangular labels have a value exceeded 10.77? Please list the labels and values.",
+            "A": "{WhatsApp} has {11.26}"
+        },
+        {
+            "Q": "Under the Messaging Apps category in the treemap, which rectangular labels have a value below 9.78? Please list the labels and values.",
+            "A": "{Telegram} has {9.29}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Content Creation, Platforms, or Sharing and Virality?",
+            "A": "The value of {Sharing and Virality} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Platforms or Podcasting?",
+            "A": "The value of {Platforms} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

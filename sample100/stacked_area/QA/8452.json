@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {5} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Starfall Championship relative to Nova Games?",
+            "A": "Starfall Championship is {above} Nova Games in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total stadium attendance?",
+            "A": "The series with the largest contribution is {Crimson Clash}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total stadium attendance?",
+            "A": "The series with the smallest contribution is {Nova Games}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Starfall Championship's Stadium Attendance in 2008?",
+            "A": "Starfall Championship's stadium attendance in 2008 is {51346.49} tickets/session."
+        },
+        {
+            "Q": "What is Nova Games's Stadium Attendance in 2010?",
+            "A": "Nova Games's stadium attendance in 2010 is {22888.29} tickets/session."
+        },
+        {
+            "Q": "What is Starfall Championship's Stadium Attendance in 2003?",
+            "A": "Starfall Championship's stadium attendance in 2003 is {49008.92} tickets/session."
+        },
+        {
+            "Q": "What are the stadium attendance of Echo Bowl, Crimson Clash, and Nova Games in 2005?",
+            "A": "Echo Bowl's stadium attendance is {46118.98} tickets/session, Crimson Clash's stadium attendance is {62336.97} tickets/session, Nova Games's stadium attendance is {40086.16} tickets/session."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Stadium Attendance in the area chart?",
+            "A": "The global minimum stadium attendance is {22888.29} tickets/session."
+        },
+        {
+            "Q": "What is the global maximum Stadium Attendance in the area chart?",
+            "A": "The global maximum stadium attendance is {95181.76} tickets/session."
+        },
+        {
+            "Q": "What is the highest Stadium Attendance level recorded for Aether Cup Finals?",
+            "A": "Aether Cup Finals reached approximately {49970.59} tickets/session in {2003}."
+        },
+        {
+            "Q": "What is the lowest Stadium Attendance level recorded for Aether Cup Finals?",
+            "A": "Aether Cup Finals's lowest recorded level is approximately {24751.24} tickets/session in {2010}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Stadium Attendance?",
+            "A": "The average total stadium attendance is {231433.63} tickets/session."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Stadium Attendance go below 224414.28 tickets/session? Please list the years and corresponding total values.",
+            "A": "{221018.36} tickets/session in {2010}, {224133.47} tickets/session in {2006}, {219707.60} tickets/session in {2008}."
+        },
+        {
+            "Q": "Which years did the total Stadium Attendance exceed 237992.36 tickets/session? Please list the years and corresponding total values.",
+            "A": "{244951.30} tickets/session in {2004}, {246844.41} tickets/session in {2003}, {239006.41} tickets/session in {2005}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was the total Stadium Attendance in 2004 higher or lower than in 2010?",
+            "A": "The total stadium attendance in 2004 was {higher} than in 2010."
+        },
+        {
+            "Q": "Between 2003 and 2005, was the average total Stadium Attendance higher or lower than between 2006 and 2010?",
+            "A": "The average total stadium attendance between 2003 and 2005 was {higher} than between 2006 and 2010."
+        },
+        {
+            "Q": "Between 2006 and 2008, did the total Stadium Attendance experience a larger or smaller change than between 2008 and 2009?",
+            "A": "The change in total stadium attendance between 2006 and 2008 was {smaller} than between 2008 and 2009."
+        },
+        {
+            "Q": "Between 2006 and 2010, did the total Stadium Attendance experience a larger or smaller change than between 2003 and 2008?",
+            "A": "The change in total stadium attendance between 2006 and 2010 was {smaller} than between 2003 and 2008."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Crimson Clash} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Nova Games, Aether Cup Finals, Echo Bowl, Starfall Championship, Crimson Clash}."
+        }
+    ]
+}

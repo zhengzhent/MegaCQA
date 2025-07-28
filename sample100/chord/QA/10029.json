@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {3} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {3} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Parker University?",
+            "A": "The next arc clockwise from arc Parker University is arc {NIT}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Williams University?",
+            "A": "The next arc counterclockwise from arc Williams University is arc {NIT}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Parker University} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Williams University} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Williams University to Parker University in the chord chart?",
+            "A": "The flow value is {24}."
+        },
+        {
+            "Q": "What is the flow value from Parker University to Williams University in the chord chart?",
+            "A": "The flow value is {34}."
+        },
+        {
+            "Q": "What is the flow value from NIT to Williams University in the chord chart?",
+            "A": "The flow value is {30}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Parker University and Williams University in the chord chart?",
+            "A": "The maximum flow value between Parker University and Williams University is {34}."
+        },
+        {
+            "Q": "What is the minimum flow value between Williams University and Parker University in the chord chart?",
+            "A": "The minimum flow value between Williams University and Parker University is {24}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {34}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {2}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from NIT?",
+            "A": "The total flow output from NIT is {63}."
+        },
+        {
+            "Q": "What is the total flow input by Parker University?",
+            "A": "The total flow input by Parker University is {57}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 31? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {34} from {Parker University} to {Williams University}, a flow of {33} from {NIT} to {Parker University}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 27? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {24} from {Williams University} to {Parker University}, a flow of {2} from {Parker University} to {NIT}, a flow of {12} from {Williams University} to {NIT}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 18 and 31? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {24} from {Williams University} to {Parker University}, a flow of {30} from {NIT} to {Williams University}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Parker University to Williams University or from NIT to Parker University?",
+            "A": "The flow from {Parker University} to {Williams University} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Parker University to NIT, from Parker University to Williams University, or from Williams University to NIT?",
+            "A": "The flow from {Parker University} to {Williams University} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {NIT}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Parker University} and {Williams University}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Parker University, Arc Williams University, Arc NIT}."
+        }
+    ]
+}

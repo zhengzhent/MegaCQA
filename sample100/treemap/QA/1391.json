@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category ABC Analysis in this treemap?",
+            "A": "There are {2} child rectangles under the category ABC Analysis."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Supply Chain}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Intermodal}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Supply Chain}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Metaheuristics rectangle in this treemap?",
+            "A": "The value of the Metaheuristics rectangle is {6.54}."
+        },
+        {
+            "Q": "What is the value of the Slotting Algorithms rectangle in this treemap?",
+            "A": "The value of the Slotting Algorithms rectangle is {48.85}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.03}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Triangulation and Sentiment Analysis?",
+            "A": "The difference between Triangulation and Sentiment Analysis is {0.24}."
+        },
+        {
+            "Q": "What is the sum of the regions of Logistics and Demand Sensing?",
+            "A": "The sum of Logistics and Demand Sensing is {80.09}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the ABC Analysis category in the treemap, which rectangular labels have a value exceeded 24.82? Please list the labels and values.",
+            "A": "{Velocity Profiling} has {25.21}"
+        },
+        {
+            "Q": "Under the ABC Analysis category in the treemap, which rectangular labels have a value below 24.03? Please list the labels and values.",
+            "A": "{Pareto Thresholds} has {23.64}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Supply Chain, Logistics, or Warehouse Design?",
+            "A": "The value of {Supply Chain} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Logistics, Warehouse Design, or Slotting Algorithms?",
+            "A": "The value of {Slotting Algorithms} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Supply Chain or Logistics?",
+            "A": "The value of {Supply Chain} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {8} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

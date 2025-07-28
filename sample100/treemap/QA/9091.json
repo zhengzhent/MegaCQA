@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Wearables in this treemap?",
+            "A": "There are {1} child rectangles under the category Wearables."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Training Tech}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Nonlinearity Correction}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Training Tech}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Plantar Pressure rectangle in this treemap?",
+            "A": "The value of the Plantar Pressure rectangle is {17.55}."
+        },
+        {
+            "Q": "What is the value of the Midsole Sensors rectangle in this treemap?",
+            "A": "The value of the Midsole Sensors rectangle is {9.09}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.46}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of IMU Sensors and Biomechanics?",
+            "A": "The difference between IMU Sensors and Biomechanics is {53.59}."
+        },
+        {
+            "Q": "What is the sum of the regions of Training Tech and Wearables?",
+            "A": "The sum of Training Tech and Wearables is {117.35}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Wearables category in the treemap, which rectangular labels have a value exceeded 17.34? Please list the labels and values.",
+            "A": "{IMU Sensors} has {17.35}"
+        },
+        {
+            "Q": "Under the Wearables category in the treemap, which rectangular labels have a value below 17.36? Please list the labels and values.",
+            "A": "{IMU Sensors} has {17.35}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Motion Capture or Infrared Markers?",
+            "A": "The value of {Motion Capture} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Training Tech or Biomechanics?",
+            "A": "The value of {Training Tech} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

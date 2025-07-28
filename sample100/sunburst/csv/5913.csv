@@ -1,0 +1,15 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2021),%
+parent,child,value
+Root,Employee Development,24.4
+Employee Development,Training Programs,13.15
+Training Programs,Skill Workshops,8.07
+Training Programs,Online Learning,5.08
+Employee Development,Performance Management,11.25
+Performance Management,Feedback,5.94
+Performance Management,Goal Setting,5.31
+Root,Employee Lifecycle,26.44
+Employee Lifecycle,Onboarding,11.38
+Onboarding,Mentorship,11.38
+Employee Lifecycle,Recruitment,15.06
+Root,Workplace Wellbeing,49.16
+Workplace Wellbeing,Health & Safety,49.16

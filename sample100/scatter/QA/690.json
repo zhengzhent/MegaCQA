@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {54} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Study hours in the scatter plot?",
+            "A": "The maximum observed value in the Study hours dimension is {40.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Study hours in the scatter plot?",
+            "A": "The minimum observed value in the Study hours dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Academic performance in the scatter plot?",
+            "A": "The maximum observed value in the Academic performance dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Academic performance in the scatter plot?",
+            "A": "The minimum observed value in the Academic performance dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Study hours for all points?",
+            "A": "The average value of Study hours for all points is {20.50}."
+        },
+        {
+            "Q": "What is the average value of the Academic performance for all points?",
+            "A": "The average value of Academic performance for all points is {48.86}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Academic performance values corresponding to the top 3 Study hours values in the scatter plot?",
+            "A": "{43.14, 60.76, 51.46}."
+        },
+        {
+            "Q": "What are the Academic performance values corresponding to the bottom 3 Study hours values in the scatter plot?",
+            "A": "{34.28, 59.80, 50.35}."
+        },
+        {
+            "Q": "What are the Study hours values corresponding to the top 3 Academic performance values in the scatter plot?",
+            "A": "{32.64, 26.02, 5.42}."
+        },
+        {
+            "Q": "What are the Study hours values corresponding to the bottom 3 Academic performance values in the scatter plot?",
+            "A": "{11.30, 19.40, 36.32}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 26.45 and 35.47 and Y coordinates between 7.84 and 32.39?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(11.30, 0.00) and (32.64, 100.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(29.70, 48.24) and (30.43, 47.47)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [27.75, 42.47, 32.38, 53.24] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (29.70, 48.24)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [25.98, 35.60, 34.15, 60.11]; Region B: [16.01, 56.71, 24.18, 81.21]; Region C: [6.92, 63.89, 15.10, 88.39]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

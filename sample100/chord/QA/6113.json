@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {3} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {3} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Tertiary General Hospital?",
+            "A": "The next arc clockwise from arc Tertiary General Hospital is arc {Mental Health Hospital}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Maternal and Child Health Center?",
+            "A": "The next arc counterclockwise from arc Maternal and Child Health Center is arc {Mental Health Hospital}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Tertiary General Hospital} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Mental Health Hospital} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Mental Health Hospital to Tertiary General Hospital in the chord chart?",
+            "A": "The flow value is {516}."
+        },
+        {
+            "Q": "What is the flow value from Maternal and Child Health Center to Mental Health Hospital in the chord chart?",
+            "A": "The flow value is {540}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Maternal and Child Health Center and Tertiary General Hospital in the chord chart?",
+            "A": "The maximum flow value between Maternal and Child Health Center and Tertiary General Hospital is {258}."
+        },
+        {
+            "Q": "What is the minimum flow value between Mental Health Hospital and Maternal and Child Health Center in the chord chart?",
+            "A": "The minimum flow value between Mental Health Hospital and Maternal and Child Health Center is {282}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {648}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {90}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Tertiary General Hospital?",
+            "A": "The total flow output from Tertiary General Hospital is {906}."
+        },
+        {
+            "Q": "What is the total flow input by Tertiary General Hospital?",
+            "A": "The total flow input by Tertiary General Hospital is {606}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 528? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {648} from {Tertiary General Hospital} to {Mental Health Hospital}, a flow of {540} from {Maternal and Child Health Center} to {Mental Health Hospital}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 174? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {90} from {Maternal and Child Health Center} to {Tertiary General Hospital}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 270 and 528? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {516} from {Mental Health Hospital} to {Tertiary General Hospital}, a flow of {282} from {Mental Health Hospital} to {Maternal and Child Health Center}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Maternal and Child Health Center to Tertiary General Hospital or from Mental Health Hospital to Tertiary General Hospital?",
+            "A": "The flow from {Mental Health Hospital} to {Tertiary General Hospital} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Mental Health Hospital to Tertiary General Hospital, from Maternal and Child Health Center to Mental Health Hospital, or from Mental Health Hospital to Maternal and Child Health Center?",
+            "A": "The flow from {Maternal and Child Health Center} to {Mental Health Hospital} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Tertiary General Hospital}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Mental Health Hospital} and {Tertiary General Hospital}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Tertiary General Hospital, Arc Mental Health Hospital, Arc Maternal and Child Health Center}."
+        }
+    ]
+}

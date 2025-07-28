@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the trend of Eco Lodges's Hotel Occupancy Rate levels?",
+            "A": "Eco Lodges's hotel occupancy rate levels show a {single peak} trend."
+        },
+        {
+            "Q": "Which line shows a single peak trend in Hotel Occupancy Rate levels?",
+            "A": "{Eco Lodges}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Eco Lodges's Hotel Occupancy Rate in 1969?",
+            "A": "Eco Lodges's hotel occupancy rate in 1969 is {100} %."
+        },
+        {
+            "Q": "What is Eco Lodges's Hotel Occupancy Rate in 1974?",
+            "A": "Eco Lodges's hotel occupancy rate in 1974 is {100} %."
+        },
+        {
+            "Q": "What is Eco Lodges's Hotel Occupancy Rate in 1970?",
+            "A": "Eco Lodges's hotel occupancy rate in 1970 is {100} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Hotel Occupancy Rate in the line chart?",
+            "A": "The global minimum hotel occupancy rate is {100} %."
+        },
+        {
+            "Q": "What is the global maximum Hotel Occupancy Rate in the line chart?",
+            "A": "The global maximum hotel occupancy rate is {100} %."
+        },
+        {
+            "Q": "What is the highest Hotel Occupancy Rate level recorded for Eco Lodges?",
+            "A": "Eco Lodges reached approximately {100.00} % in {1961}."
+        },
+        {
+            "Q": "What is the lowest Hotel Occupancy Rate level recorded for Eco Lodges?",
+            "A": "Eco Lodges's lowest recorded level is approximately {100.00} % in {1961}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Eco Lodges's Hotel Occupancy Rate?",
+            "A": "The average value of Eco Lodges's hotel occupancy rate is {100.00} %."
+        },
+        {
+            "Q": "What is the rate of change in Eco Lodges's Hotel Occupancy Rate from the starting year to the final year?",
+            "A": "The rate of no change in Eco Lodges's hotel occupancy rate is {0.00}%."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Was Eco Lodges's Hotel Occupancy Rate in 1965 higher or lower than in 1972?",
+            "A": "The hotel occupancy rate in 1965 was {the same} than in 1972."
+        },
+        {
+            "Q": "Was Eco Lodges's Hotel Occupancy Rate in 1963 higher or lower than in 1968?",
+            "A": "The hotel occupancy rate in 1963 was {the same} than in 1968."
+        },
+        {
+            "Q": "Was Eco Lodges's Hotel Occupancy Rate in 1962 higher or lower than in 1974?",
+            "A": "The hotel occupancy rate in 1962 was {the same} than in 1974."
+        },
+        {
+            "Q": "Was Eco Lodges's Hotel Occupancy Rate in 1970 higher or lower than in 1971?",
+            "A": "The hotel occupancy rate in 1970 was {the same} than in 1971."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Eco Lodges. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1961, 1977}."
+        }
+    ]
+}

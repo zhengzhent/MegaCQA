@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {6} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar 2018 of this stacked bar chart?",
+            "A": "There are {5} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {2011}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {2019}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar 2016 relative to the bar 2019 in terms of horizontal (left/right) direction?",
+            "A": "Bar 2016 is to the {left} of the bar 2019."
+        },
+        {
+            "Q": "In the stacked bar of 2016, What is the spatial relationship of segment Elmwood relative to the segment Meadowbrook in terms of vertical (above/below) direction?",
+            "A": "Elmwood segment is positioned {below} the Meadowbrook segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Year has the highest bar in this stacked bar chart?",
+            "A": "The Year with the highest bar is {2018}."
+        },
+        {
+            "Q": "Which Year has the lowest bar in this stacked bar chart?",
+            "A": "The Year with the lowest bar is {2013}."
+        },
+        {
+            "Q": "In the stacked bar representing 2011, which segment has the highest value?",
+            "A": "The segment with the highest value is {Eastwood}."
+        },
+        {
+            "Q": "In the stacked bar representing 2016, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Stonehill}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Meadowbrook segment within the 2011 bar in the stacked bar chart?",
+            "A": "The value of the Meadowbrook segment is {17401.00} visits."
+        },
+        {
+            "Q": "What is the value of the Elmwood segment within the 2013 bar in the stacked bar chart?",
+            "A": "The value of the Elmwood segment is {12387.00} visits."
+        },
+        {
+            "Q": "What is the value of the Hillcrest segment within the 2018 bar in the stacked bar chart?",
+            "A": "The value of the Hillcrest segment is {15232.00} visits."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum visits among the stacked segments of bar 2019?",
+            "A": "The maximum visits among the stacked segments of bar 2019 is {19627} visits."
+        },
+        {
+            "Q": "What is the minimum visits among the stacked segments of bar 2016?",
+            "A": "The minimum visits among the stacked segments of bar 2016 is {9744} visits."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum visits of the segment Meadowbrook among the bars?",
+            "A": "The maximum visits among the bars of segment Meadowbrook is {19404} visits."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum visits of the segment Stonehill among the bars?",
+            "A": "The minimum visits among the bars of segment Stonehill is {5920} visits."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar 2019?",
+            "A": "The total value of bar 2019 is {55868.00} visits."
+        },
+        {
+            "Q": "What is the total value of the bar 2018?",
+            "A": "The total value of bar 2018 is {77461.00} visits."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {374843} visits."
+        },
+        {
+            "Q": "What is the difference between total value of bar 2015 and 2011?",
+            "A": "The difference between between total value of bar 2015 and 2011 is {16041} visits."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total visits values exceed 66892.50 visits? Please list the bar and corresponding values.",
+            "A": "{2011} has {70053} visits, {2018} has {77461} visits"
+        },
+        {
+            "Q": "Which bars have total visits values below 54940.00 visits? Please list the bar and corresponding values.",
+            "A": "{2013} has {53717} visits, {2015} has {54012} visits"
+        },
+        {
+            "Q": "For bar 2018 in the stacked bar chart, which segment have visits value between 6867.0 and 16013.0? Please list the segment and corresponding values.",
+            "A": "{Meadowbrook} has {13734} visits, {Eastwood} has {14311} visits, {Hillcrest} has {15232} visits."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total visits of 2015 or 2013?",
+            "A": "The total visits of the {2015} is larger."
+        },
+        {
+            "Q": "Which is larger, the total visits of 2013, 2015 or 2011?",
+            "A": "The total visits of the {2011} is larger."
+        },
+        {
+            "Q": "In the bar 2018, which has a larger visits value: Stonehill or Hillcrest?",
+            "A": "{Stonehill} has the larger visits value."
+        },
+        {
+            "Q": "In the bar 2011, which has a larger visits value: Eastwood, Stonehill or Hillcrest?",
+            "A": "{Eastwood} has the larger visits value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Hillcrest in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Hillcrest are: {2018}, {2011}, {2015}."
+        }
+    ],
+    "VA": []
+}

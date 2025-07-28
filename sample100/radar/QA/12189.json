@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Ad Click-Through Rate (CTR)?",
+            "A": "The next dimension clockwise from Ad Click-Through Rate (CTR) is Follower Growth Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Ad Click-Through Rate (CTR)?",
+            "A": "The next dimension counterclockwise from Ad Click-Through Rate (CTR) is Influencer Collaboration ROI Rate."
+        },
+        {
+            "Q": "On the User Engagement Rate, is the point for Zavala PLC Media inside or outside the point for Wilson-Johnson Media?",
+            "A": "On the User Engagement Rate, the point for Zavala PLC Media is outside the point for Wilson-Johnson Media."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Influencer Collaboration ROI Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Zavala PLC Media?",
+            "A": "The strongest aspect is {Influencer Collaboration ROI Rate}, while the weakest aspect is{ Ad Click-Through Rate (CTR)}."
+        },
+        {
+            "Q": "On dimension Ad Click-Through Rate (CTR), which label scores the highest?",
+            "A": "On Ad Click-Through Rate (CTR), label {Zavala PLC Media} scores the highest."
+        },
+        {
+            "Q": "On dimension Follower Growth Rate, which label scores the highest?",
+            "A": "On Follower Growth Rate, label {Wilson-Johnson Media} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Wilson-Johnson Media on the Influencer Collaboration ROI Rate in the radar chart?",
+            "A": "The value of Wilson-Johnson Media on the Safety dimension is {64}."
+        },
+        {
+            "Q": "What is the value of Wilson, Rodriguez and Rush Media on the Influencer Collaboration ROI Rate in the radar chart?",
+            "A": "The value of Wilson, Rodriguez and Rush Media on the Safety dimension is {72}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Zavala PLC Media across all dimensions in the radar chart?",
+            "A": "The maximum value of Zavala PLC Media across all dimensions is {59}."
+        },
+        {
+            "Q": "What is the minimum value of label Wilson, Rodriguez and Rush Media across all dimensions in the radar chart?",
+            "A": "The minimum value of Wilson, Rodriguez and Rush Media across all dimensions is {48}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Follower Growth Rate",
+            "A": "The average value of Follower Growth Rate is {63.67}."
+        },
+        {
+            "Q": "What is the average value of Zavala PLC Media",
+            "A": "The average value of Zavala PLC Media is {73.0}."
+        },
+        {
+            "Q": "What is the difference in User Engagement Rate between Wilson, Rodriguez and Rush Media and Zavala PLC Media?",
+            "A": "The difference in User Engagement Rate between Wilson, Rodriguez and Rush Media and Zavala PLC Media is {26}."
+        },
+        {
+            "Q": "What is the difference in Follower Growth Rate between Wilson, Rodriguez and Rush Media and Wilson-Johnson Media?",
+            "A": "The difference in Follower Growth Rate between Wilson, Rodriguez and Rush Media and Wilson-Johnson Media is {17}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 32 for the Ad Click-Through Rate (CTR) dimension? Please list the labels and corresponding scores.",
+            "A": "{Zavala PLC Media} is {28}"
+        },
+        {
+            "Q": "Which labels have scores above 80 for the Follower Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Zavala PLC Media} is {90}"
+        },
+        {
+            "Q": "For Wilson, Rodriguez and Rush Media in the radar chart, which dimensions have scores above 67? Please list the dimensions and corresponding scores.",
+            "A": "{Influencer Collaboration ROI Rate} is {72}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Wilson-Johnson Media, which dimension has a higher score: Follower Growth Rate or Ad Click-Through Rate (CTR)?",
+            "A": "{Follower Growth Rate} has a higher score than Ad Click-Through Rate (CTR) for Wilson-Johnson Media."
+        },
+        {
+            "Q": "On Ad Click-Through Rate (CTR), which label has a higher score: Zavala PLC Media or the Wilson, Rodriguez and Rush Media?",
+            "A": "{Wilson, Rodriguez and Rush Media} has a higher score on Ad Click-Through Rate (CTR) compared to Zavala PLC Media."
+        },
+        {
+            "Q": "For Wilson, Rodriguez and Rush Media, which dimension has a higher score: Influencer Collaboration ROI Rate or Ad Click-Through Rate (CTR) or User Engagement Rate?",
+            "A": "{Influencer Collaboration ROI Rate} has a higher score for Wilson, Rodriguez and Rush Media."
+        },
+        {
+            "Q": "For Wilson, Rodriguez and Rush Media, which dimension has a higher score: Ad Click-Through Rate (CTR) or Influencer Collaboration ROI Rate or User Engagement Rate?",
+            "A": "{Influencer Collaboration ROI Rate} has a higher score for Wilson, Rodriguez and Rush Media."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Wilson, Rodriguez and Rush Media, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Wilson, Rodriguez and Rush Media most needs to improve its {Ad Click-Through Rate (CTR)}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Zavala PLC Media}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Wilson-Johnson Media}."
+        }
+    ],
+    "VA": []
+}

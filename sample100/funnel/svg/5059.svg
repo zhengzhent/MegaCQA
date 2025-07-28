@@ -1,0 +1,17 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1405.6 350.3 1485.6 350.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1247 620.8 1327 620.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1093.2 891.3 1173.2 891.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1025.2 1161.8 1105.2 1161.8" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1332.8 484.5 395.2 484.5" fill="#9AC7E3" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="395.2 486.5 1332.8 486.5 1161.2 755 566.8 755" fill="#8AB8D0" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="566.8 757 1161.2 757 1025.2 1025.5 702.8 1025.5" fill="#7AA9BD" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="702.8 1027.5 1025.2 1027.5 1025.2 1296 702.8 1296" fill="#6A9AAA" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1490.6066637439721" y="350.25" fill="#000000">Retail Placement: 4562</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1332.023586146427" y="620.75" fill="#000000">In-Store Promotion: 3481</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1178.221569487067" y="891.25" fill="#000000">Customer Purchase: 2207</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1110.209294169224" y="1161.75" fill="#000000">Repeat Purchase: 1197</text>
+<path d="M-422.2344 -5l844.4688 0l0 58l-844.4687 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Beverage Sales Process (Thousand Bottles)</text>
+</svg>

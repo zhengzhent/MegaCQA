@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from ROI?",
+            "A": "The next dimension clockwise from ROI is Operating Cost Ratio"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Operating Cost Ratio?",
+            "A": "The next dimension counterclockwise from ROI is Customer Retention Rate."
+        },
+        {
+            "Q": "On the Net Profit Margin, is the point for Page-Nguyen inside or outside the point for Owen, Anderson and Long?",
+            "A": "On the Net Profit Margin, the point for Page-Nguyen is inside the point for Owen, Anderson and Long."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Market Share Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Page-Nguyen?",
+            "A": "The strongest aspect is {Market Share Rate}, while the weakest aspect is{ Customer Retention Rate}."
+        },
+        {
+            "Q": "On dimension Operating Cost Ratio, which label scores the highest?",
+            "A": "On Operating Cost Ratio, label {Page-Nguyen} scores the highest."
+        },
+        {
+            "Q": "On dimension ROI, which label scores the highest?",
+            "A": "On ROI, label {Owen, Anderson and Long} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Owen, Anderson and Long on the ROI in the radar chart?",
+            "A": "The value of Owen, Anderson and Long on the Safety dimension is {34}."
+        },
+        {
+            "Q": "What is the value of Page-Nguyen on the Market Share Rate in the radar chart?",
+            "A": "The value of Page-Nguyen on the Safety dimension is {68}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Page-Nguyen across all dimensions in the radar chart?",
+            "A": "The maximum value of Page-Nguyen across all dimensions is {98}."
+        },
+        {
+            "Q": "What is the minimum value of label Page-Nguyen across all dimensions in the radar chart?",
+            "A": "The minimum value of Page-Nguyen across all dimensions is {41}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Market Share Rate",
+            "A": "The average value of Market Share Rate is {61.5}."
+        },
+        {
+            "Q": "What is the average value of Page-Nguyen",
+            "A": "The average value of Page-Nguyen is {51.5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 60 for the ROI dimension? Please list the labels and corresponding scores.",
+            "A": "{Page-Nguyen} is {66}"
+        },
+        {
+            "Q": "Which labels have scores below 58 for the Market Share Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Owen, Anderson and Long} is {55}"
+        },
+        {
+            "Q": "For Page-Nguyen in the radar chart, which dimensions have scores between 41 and 85? Please list the dimensions and corresponding scores.",
+            "A": "{Net Profit Margin} is {55}, {ROI} is {66}, {Operating Cost Ratio} is {45}, {Market Share Rate} is {68}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Page-Nguyen, which dimension has a higher score: ROI or Market Share Rate?",
+            "A": "{Market Share Rate} has a higher score than ROI for Page-Nguyen."
+        },
+        {
+            "Q": "For Page-Nguyen, which dimension has a higher score: ROI or Customer Retention Rate?",
+            "A": "{ROI} has a higher score than Customer Retention Rate for Page-Nguyen."
+        },
+        {
+            "Q": "On Operating Cost Ratio, which label has a higher score: Owen, Anderson and Long or the Page-Nguyen?",
+            "A": "{Owen, Anderson and Long} has a higher score on Operating Cost Ratio compared to Page-Nguyen."
+        },
+        {
+            "Q": "For Owen, Anderson and Long, which dimension has a higher score: Current Ratio or ROI or Net Profit Margin?",
+            "A": "{Net Profit Margin} has a higher score for Owen, Anderson and Long."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Owen, Anderson and Long, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Owen, Anderson and Long most needs to improve its {ROI}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Owen, Anderson and Long}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Page-Nguyen}."
+        }
+    ],
+    "VA": []
+}

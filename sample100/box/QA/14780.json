@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {7} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Fairmont}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Glenhaven}."
+        },
+        {
+            "Q": "Which box is the third position to the right of the box Fairmont?",
+            "A": "The third position to the right of the box Fairmont is {Yorkton}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Lakeview relative to the box Fairmont in terms of horizontal (left/right) direction?",
+            "A": "Box Lakeview is to the {right} of the box Fairmont."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Pinehaven}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Pinehaven}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Yorkton}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Glenhaven in the box plot?",
+            "A": "The median of Glenhaven is {51381.5} tons."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Pinehaven in the box plot?",
+            "A": "The upper quartile (Q3) of Pinehaven is {72026.0} tons."
+        },
+        {
+            "Q": "What is the upper whisker limit of Fairmont in the box plot?",
+            "A": "The upper whisker limit of Fairmont is {89185} tons."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Brookfield in the box plot?",
+            "A": "The largest upper outlier value in Brookfield is {149088}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum tons value in the box plot?",
+            "A": "The global maximum tons value in the box plot is {160501.00} tons."
+        },
+        {
+            "Q": "What is the global minimum tons value in the box plot?",
+            "A": "The global minimum tons value in the box plot is {28473.00} tons."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box Fairmont and Lakeview?",
+            "A": "The Q1 difference between box Fairmont and Lakeview is {1515.25} tons."
+        },
+        {
+            "Q": "What is the toal Median value of box Glenhaven and Lakeview?",
+            "A": "The total Median value of box Glenhaven and Lakeview is {104172.5} tons."
+        },
+        {
+            "Q": "What is the average Q1 value of box Lakeview and Pinehaven?",
+            "A": "The average Q1 value of box Lakeview and Pinehaven is {42957.0} tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 106870.5 tons?",
+            "A": "Box{Fairmont},{Creston},{Pinehaven},{Yorkton},{Brookfield},{Lakeview},{Glenhaven} have the outliers exceed 106870.5 tons."
+        },
+        {
+            "Q": "Which boxes have median values exceed 53975.75 tons? Please list the boxes and corresponding values.",
+            "A": "{Pinehaven} has {58442.0} tons , {Yorkton} has {55826.5} tons , {Brookfield} has {54673.5} tons "
+        },
+        {
+            "Q": "Which boxes have median values below 52086.25 tons? Please list the boxes and corresponding values.",
+            "A": "{Fairmont} has {49966.5} tons , {Glenhaven} has {51381.5} tons "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Creston or Glenhaven ",
+            "A": "The median value of the {Creston} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Fairmont, Pinehaven or Lakeview ",
+            "A": "The median value of the {Pinehaven} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Brookfield, Pinehaven, Creston or Glenhaven ",
+            "A": "The median value of the {Pinehaven} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Lakeview}."
+        }
+    ],
+    "VA": []
+}

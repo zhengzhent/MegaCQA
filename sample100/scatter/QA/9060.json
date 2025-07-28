@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {68} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Attraction popularity in the scatter plot?",
+            "A": "The maximum observed value in the Attraction popularity dimension is {1000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Attraction popularity in the scatter plot?",
+            "A": "The minimum observed value in the Attraction popularity dimension is {100.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Occupancy rate in the scatter plot?",
+            "A": "The maximum observed value in the Occupancy rate dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Occupancy rate in the scatter plot?",
+            "A": "The minimum observed value in the Occupancy rate dimension is {30.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Attraction popularity for all points?",
+            "A": "The average value of Attraction popularity for all points is {500050.00}."
+        },
+        {
+            "Q": "What is the average value of the Occupancy rate for all points?",
+            "A": "The average value of Occupancy rate for all points is {47.61}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Occupancy rate values corresponding to the top 3 Attraction popularity values in the scatter plot?",
+            "A": "{38.75, 42.64, 37.97}."
+        },
+        {
+            "Q": "What are the Occupancy rate values corresponding to the bottom 3 Attraction popularity values in the scatter plot?",
+            "A": "{100.00, 77.46, 82.78}."
+        },
+        {
+            "Q": "What are the Attraction popularity values corresponding to the top 3 Occupancy rate values in the scatter plot?",
+            "A": "{100.00, 44871.64, 29947.76}."
+        },
+        {
+            "Q": "What are the Attraction popularity values corresponding to the bottom 3 Occupancy rate values in the scatter plot?",
+            "A": "{611979.10, 552283.58, 835837.31}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 563312.66 and 844301.59 and Y coordinates between 73.48 and 91.99?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(100.00, 100.00) and (1000000.00, 38.75)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(328425.37, 50.38) and (343349.25, 50.30)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [278430.37, 46.80, 393344.25, 53.88] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (328425.37, 50.38)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [47235.42, 70.28, 283213.91, 87.98]; Region B: [217898.06, 41.49, 453876.56, 59.19]; Region C: [590442.59, 37.00, 826421.08, 54.70]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

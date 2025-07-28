@@ -1,0 +1,23 @@
+Tourism and Hospitality,Tourism Distribution by Category (2023),%
+parent,child,value
+Root,Hospitality Services,33.81
+Hospitality Services,Lodging Options,10.59
+Lodging Options,Luxury Hotels,5.58
+Lodging Options,Budget Hotels,5.01
+Hospitality Services,Dining Experiences,23.22
+Dining Experiences,Fine Dining,14.55
+Dining Experiences,Local Cuisine,8.67
+Root,Travel Services,38.42
+Travel Services,Transportation,21.69
+Transportation,Air Travel,7.49
+Transportation,Rail & Road,14.19
+Travel Services,Guided Tours,16.74
+Guided Tours,Adventure Tours,10.72
+Guided Tours,Cultural Tours,6.02
+Root,Destination Types,27.77
+Destination Types,Nature Tourism,11.65
+Nature Tourism,Mountain Destinations,5.15
+Nature Tourism,Coastal Areas,6.5
+Destination Types,Urban Tourism,16.12
+Urban Tourism,Shopping Districts,7.94
+Urban Tourism,City Landmarks,8.18

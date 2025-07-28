@@ -1,0 +1,73 @@
+Retail and E-commerce,the Risk Assessment of Retail and E-commerce,9x8,uniform
+Apparel,Brick&Mortar,0.51
+Beauty,Brick&Mortar,0.49
+Books,Brick&Mortar,0.49
+Electronics,Brick&Mortar,0.49
+Groceries,Brick&Mortar,0.5
+Home Goods,Brick&Mortar,0.49
+Jewelry,Brick&Mortar,0.5
+Pet Supplies,Brick&Mortar,0.51
+Toys,Brick&Mortar,0.49
+Apparel,DTC,0.49
+Beauty,DTC,0.51
+Books,DTC,0.49
+Electronics,DTC,0.5
+Groceries,DTC,0.5
+Home Goods,DTC,0.48
+Jewelry,DTC,0.5
+Pet Supplies,DTC,0.5
+Toys,DTC,0.49
+Apparel,Inventory,0.5
+Beauty,Inventory,0.5
+Books,Inventory,0.5
+Electronics,Inventory,0.5
+Groceries,Inventory,0.48
+Home Goods,Inventory,0.5
+Jewelry,Inventory,0.5
+Pet Supplies,Inventory,0.51
+Toys,Inventory,0.5
+Apparel,Logistics,0.52
+Beauty,Logistics,0.52
+Books,Logistics,0.5
+Electronics,Logistics,0.5
+Groceries,Logistics,0.5
+Home Goods,Logistics,0.5
+Jewelry,Logistics,0.5
+Pet Supplies,Logistics,0.5
+Toys,Logistics,0.5
+Apparel,Marketplace,0.51
+Beauty,Marketplace,0.5
+Books,Marketplace,0.49
+Electronics,Marketplace,0.49
+Groceries,Marketplace,0.51
+Home Goods,Marketplace,0.5
+Jewelry,Marketplace,0.48
+Pet Supplies,Marketplace,0.5
+Toys,Marketplace,0.49
+Apparel,Omnichannel,0.51
+Beauty,Omnichannel,0.51
+Books,Omnichannel,0.5
+Electronics,Omnichannel,0.48
+Groceries,Omnichannel,0.49
+Home Goods,Omnichannel,0.49
+Jewelry,Omnichannel,0.49
+Pet Supplies,Omnichannel,0.5
+Toys,Omnichannel,0.49
+Apparel,Online,0.48
+Beauty,Online,0.51
+Books,Online,0.49
+Electronics,Online,0.5
+Groceries,Online,0.49
+Home Goods,Online,0.5
+Jewelry,Online,0.51
+Pet Supplies,Online,0.5
+Toys,Online,0.52
+Apparel,Subscription,0.49
+Beauty,Subscription,0.5
+Books,Subscription,0.49
+Electronics,Subscription,0.5
+Groceries,Subscription,0.49
+Home Goods,Subscription,0.49
+Jewelry,Subscription,0.5
+Pet Supplies,Subscription,0.5
+Toys,Subscription,0.49

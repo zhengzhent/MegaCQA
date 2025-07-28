@@ -1,0 +1,91 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {4} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Residential Rentals?",
+            "A": "The next slice clockwise from slice Residential Rentals is {Vacation Rentals}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Residential Rentals?",
+            "A": "The next slice counterclockwise from slice Residential Rentals is {Storage Rentals}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which rental has the largest proportion in this pie chart?",
+            "A": "The rental with the largest proportion is {Event Space Rentals}."
+        },
+        {
+            "Q": "Which rental has the smallest proportion in this pie chart?",
+            "A": "The rental with the smallest proportion is {Vacation Rentals}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Vacation Rentals slice in this pie chart?",
+            "A": "The value of the Vacation Rentals slice is {13}%."
+        },
+        {
+            "Q": "What is the value of the Residential Rentals slice in this pie chart?",
+            "A": "The value of the Residential Rentals slice is {24}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {33}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {13}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Residential Rentals and Vacation Rentals in this pie chart?",
+            "A": "The difference between Residential Rentals and Vacation Rentals is {11}%."
+        },
+        {
+            "Q": "What is the sum of the values of Event Space Rentals and Storage Rentals in this pie chart?",
+            "A": "The sum of Event Space Rentals and Storage Rentals is {63}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 30.75%? Please list the category names and corresponding percentages.",
+            "A": "{Event Space Rentals} accounts for {33}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 21.25%? Please list the category names and corresponding percentages.",
+            "A": "{Vacation Rentals} accounts for {13}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Event Space Rentals, Storage Rentals, or Residential Rentals?",
+            "A": "The value of {Event Space Rentals} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Storage Rentals, Residential Rentals, or Vacation Rentals?",
+            "A": "The value of {Vacation Rentals} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 10% and 15%?",
+            "A": "There are {1} sectors that have a percentage between 10% and 15%."
+        }
+    ],
+    "VA": []
+}

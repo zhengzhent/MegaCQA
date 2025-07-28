@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of people involved/influenced of 8276.07 relative to the bubble with a Number of people involved/influenced of 56043.15 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of people involved/influenced of 8276.07 is {below} and to the {right} of the bubble with a Number of people involved/influenced of 56043.15."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Artist popularity rank and Commercial impact value?",
+            "A": "The highest concentration of bubbles corresponds to approximately {3.96} rank and {768549738.64} $."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of people involved/influenced of the largest bubble?",
+            "A": "The Number of people involved/influenced of the largest bubble is {100000.00} count."
+        },
+        {
+            "Q": "What is the Number of people involved/influenced of the smallest bubble?",
+            "A": "The Number of people involved/influenced of the smallest bubble is {100.00} count."
+        },
+        {
+            "Q": "What are the Artist popularity rank and Commercial impact value values of the largest bubble?",
+            "A": "The Artist popularity rank of the largest bubble is {54.91} rank, and {Commercial impact value} is {66722337.88} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of people involved/influenced in the bubble chart?",
+            "A": "The global maximum Number of people involved/influenced is {100000.00} count."
+        },
+        {
+            "Q": "What is the global minimum Number of people involved/influenced in the bubble chart?",
+            "A": "The global minimum Number of people involved/influenced is {100.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Artist popularity rank in the bubble chart?",
+            "A": "The maximum observed value in the Artist popularity rank dimension is {94.84} rank."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Artist popularity rank in the bubble chart?",
+            "A": "The minimum observed value in the Artist popularity rank dimension is {1.00} rank."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Commercial impact value in the bubble chart?",
+            "A": "The maximum observed value in the Commercial impact value dimension is {990006024.44} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Commercial impact value in the bubble chart?",
+            "A": "The minimum observed value in the Commercial impact value dimension is {36362548.98} $."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of people involved/influenced for all bubbles?",
+            "A": "The average value of the Number of people involved/influenced for all bubbles is {44393.69} count."
+        },
+        {
+            "Q": "What is the average value of the Artist popularity rank for all bubbles?",
+            "A": "The average value of Artist popularity rank for all bubbles is {37.74} rank."
+        },
+        {
+            "Q": "What is the average value of the Commercial impact value for all bubbles?",
+            "A": "The average value of Commercial impact value for all bubbles is {471903107.35} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of people involved/influenced values in the bubble chart?",
+            "A": "{100000.00, 78647.02, 67254.77} count."
+        },
+        {
+            "Q": "What are the bottom 3 Number of people involved/influenced values in the bubble chart?",
+            "A": "{100.00, 7640.16, 8276.07} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of people involved/influenced value, the bubble with a Artist popularity rank of 42.5 rank and a Commercial impact value of 902952092.8 $, or the bubble with a Artist popularity rank of 94.8 rank and a Commercial impact value of 330651270.8 $?",
+            "A": "The bubble with a Artist popularity rank of {94.8} and a Commercial impact value of {330651270.8} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of people involved/influenced value of the bubble with the largest Commercial impact value value?",
+            "A": "The Number of people involved/influenced value of the bubble with the largest Commercial impact value is {55861.00}."
+        },
+        {
+            "Q": "What is the Number of people involved/influenced value of the bubble with the largest Artist popularity rank value?",
+            "A": "The Number of people involved/influenced value of the bubble with the largest Artist popularity rank is {78647.02}."
+        },
+        {
+            "Q": "Classify bubbles with a Commercial impact value-coordinate greater than 868904452 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of people involved/influenced for the high value group and the low value group?",
+            "A": "The difference between the total Number of people involved/influenced of the high-value and low-value groups is {426261.17}."
+        }
+    ],
+    "VA": []
+}

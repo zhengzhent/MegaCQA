@@ -1,0 +1,10 @@
+Image Name: 2790.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\2790.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels for both the x-axis and y-axis. Each bar is distinctly colored, which helps in differentiating between the cities. The numbers are placed on top of each bar, making it easy to read the exact values. The title is clear and provides context for the data being presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the number of artworks created across different cities. The use of distinct colors for each bar helps in differentiating the cities, and the numerical values on top of the bars provide precise information. The axis labels are legible, and the overall layout is organized, making it easy for the viewer to interpret the data at a glance.

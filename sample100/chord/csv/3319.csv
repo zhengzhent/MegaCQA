@@ -1,0 +1,14 @@
+Education and Academics, Student Major Changes, Students, linear
+Source,Target,Value
+Social Sciences,Business,231
+Business,Social Sciences,230
+Engineering,Business,202
+Business,Engineering,203
+Computer Science,Business,176
+Business,Computer Science,159
+Arts,Business,143
+Business,Arts,132
+Arts,Computer Science,119
+Computer Science,Arts,106
+Arts,Engineering,89
+Engineering,Arts,75

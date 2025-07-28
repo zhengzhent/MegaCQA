@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {7} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice YouTube?",
+            "A": "The next slice clockwise from slice YouTube is {Twitter}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice YouTube?",
+            "A": "The next slice counterclockwise from slice YouTube is {LinkedIn}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which 2024 has the largest proportion in this pie chart?",
+            "A": "The 2024 with the largest proportion is {LinkedIn}."
+        },
+        {
+            "Q": "Which 2024 has the smallest proportion in this pie chart?",
+            "A": "The 2024 with the smallest proportion is {Twitter}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Twitter slice in this pie chart?",
+            "A": "The value of the Twitter slice is {8}%."
+        },
+        {
+            "Q": "What is the value of the YouTube slice in this pie chart?",
+            "A": "The value of the YouTube slice is {12}%."
+        },
+        {
+            "Q": "What is the value of the LinkedIn slice in this pie chart?",
+            "A": "The value of the LinkedIn slice is {19}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {19}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {8}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Twitter and Instagram in this pie chart?",
+            "A": "The difference between Twitter and Instagram is {8}%."
+        },
+        {
+            "Q": "What is the sum of the values of LinkedIn and Snapchat in this pie chart?",
+            "A": "The sum of LinkedIn and Snapchat is {36}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 18.0%? Please list the category names and corresponding percentages.",
+            "A": "{LinkedIn} accounts for {19}% and {Facebook} accounts for {19}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 10.5%? Please list the category names and corresponding percentages.",
+            "A": "{TikTok} accounts for {9}% and {Twitter} accounts for {8}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of LinkedIn or Facebook?",
+            "A": "The value of {LinkedIn} is larger."
+        },
+        {
+            "Q": "Which has the largest value: LinkedIn, Facebook, Snapchat, or YouTube?",
+            "A": "The value of {LinkedIn} is the largest."
+        },
+        {
+            "Q": "Which is smaller, the value of Facebook, Snapchat, or Instagram?",
+            "A": "The value of {Instagram} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of LinkedIn, Facebook, or Snapchat?",
+            "A": "The value of {LinkedIn} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 3% and 20%?",
+            "A": "There are {7} sectors that have a percentage between 3% and 20%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 45%? List all possible combinations.",
+            "A": "The possible combinations are: {(LinkedIn, Snapchat, Twitter), (LinkedIn, Instagram, TikTok), (LinkedIn, Instagram, Twitter), (LinkedIn, YouTube, TikTok), (LinkedIn, YouTube, Twitter), (LinkedIn, TikTok, Twitter), (Facebook, Snapchat, Twitter), (Facebook, Instagram, TikTok), (Facebook, Instagram, Twitter), (Facebook, YouTube, TikTok), (Facebook, YouTube, Twitter), (Facebook, TikTok, Twitter), (Snapchat, Instagram, TikTok), (Snapchat, Instagram, Twitter), (Snapchat, YouTube, TikTok), (Snapchat, YouTube, Twitter), (Snapchat, TikTok, Twitter), (Instagram, YouTube, TikTok), (Instagram, YouTube, Twitter), (Instagram, TikTok, Twitter), (YouTube, TikTok, Twitter)}."
+        }
+    ],
+    "VA": []
+}

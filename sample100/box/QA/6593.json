@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {5} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Yorkton}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Rosewood}."
+        },
+        {
+            "Q": "Which box is the second position to the right of the box Zephyr?",
+            "A": "The second position to the right of the box Zephyr is {Ironwood}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Rosewood relative to the box Ironwood in terms of horizontal (left/right) direction?",
+            "A": "Box Rosewood is to the {right} of the box Ironwood."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Rosewood}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Rosewood}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Ironwood}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Ironwood in the box plot?",
+            "A": "The median of Ironwood is {1028.5} Number."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Springfield in the box plot?",
+            "A": "The upper quartile (Q3) of Springfield is {1273.5} Number."
+        },
+        {
+            "Q": "What is the upper whisker limit of Yorkton in the box plot?",
+            "A": "The upper whisker limit of Yorkton is {1768} Number."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Springfield in the box plot?",
+            "A": "The largest upper outlier value in Springfield is {1998} Number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number value in the box plot?",
+            "A": "The global maximum Number value in the box plot is {2023.00} Number."
+        },
+        {
+            "Q": "What is the global minimum Number value in the box plot?",
+            "A": "The global minimum Number value in the box plot is {726.00} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Springfield and Ironwood?",
+            "A": "The Median difference between box Springfield and Ironwood is {32.5} Number."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Zephyr and Springfield?",
+            "A": "The total Q1 value of box Zephyr and Springfield is {1907.25} Number."
+        },
+        {
+            "Q": "What is the average Q3 value of box Rosewood and Zephyr?",
+            "A": "The average Q3 value of box Rosewood and Zephyr is {1380.25} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 1728.9 Number?",
+            "A": "Box{Yorkton},{Springfield},{Ironwood} have the outliers exceed 1728.9 Number."
+        },
+        {
+            "Q": "Which boxes have median values exceed 1076.50 Number? Please list the boxes and corresponding values.",
+            "A": "{Zephyr} has {1090.5} Number , {Rosewood} has {1199.0} Number "
+        },
+        {
+            "Q": "Which boxes have median values below 1061.75 Number? Please list the boxes and corresponding values.",
+            "A": "{Springfield} has {1061.0} Number , {Ironwood} has {1028.5} Number "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Rosewood or Ironwood ",
+            "A": "The median value of the {Rosewood} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Zephyr, Ironwood or Yorkton ",
+            "A": "The median value of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Zephyr, Ironwood, Rosewood or Yorkton ",
+            "A": "The median value of the {Rosewood} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Rosewood}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in the column Returns of this sankey chart?",
+            "A": "There are {4} nodes in the column Returns."
+        },
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {7} nodes."
+        },
+        {
+            "Q": "How many links flow out of the node Low Return in this sankey chart?",
+            "A": "There are {3} links flowing out of the node Low Return."
+        },
+        {
+            "Q": "How many links flow out of column Returns of this sankey chart?",
+            "A": "There are {12} links flow out of column Returns."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Returns}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Investment Types}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Moderate Return} and {Real Estate}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {High Return} and {Cryptocurrency}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Low Return to the node Cryptocurrency?",
+            "A": "The flow value from the node Low Return to the node Cryptocurrency is {7335}."
+        },
+        {
+            "Q": "What is the flow value from the node High Return to the node Stocks?",
+            "A": "The flow value from the node High Return to the node Stocks is {1526}."
+        },
+        {
+            "Q": "What is the flow value from the node Low Return to the node Real Estate?",
+            "A": "The flow value from the node Low Return to the node Real Estate is {11500}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Negative Return to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Negative Return to the next stage is {3845}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Negative Return to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Negative Return to the next stage is {1564}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node High Return?",
+            "A": "The total flow output from node High Return is {4634}."
+        },
+        {
+            "Q": "What is the total flow input by node Real Estate?",
+            "A": "The total flow input by node Real Estate is {29933}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Returns of the sankey chart, which nodes have an outflow exceeded 12113? Please list the node labels and their corresponding outflow values.",
+            "A": "{Moderate Return} has an outflow of {12726}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Returns and column Investment Types is the flow between 1761 and 2853? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {1797} from node {Negative Return} to {Stocks}, a flow of {1769} from node {Low Return} to {Stocks}, a flow of {1862} from node {High Return} to {Real Estate}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 1783 and 1829? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {1797} from node {Negative Return} to {Stocks}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node High Return to node Cryptocurrency and from node Moderate Return to node Stocks, which path has a larger flow?",
+            "A": "The flow from node {Moderate Return} to node {Stocks} is larger."
+        },
+        {
+            "Q": "Between the flows from node High Return to node Real Estate and from node Moderate Return to node Stocks, which path has a larger flow?",
+            "A": "The flow from node {Moderate Return} to node {Stocks} is larger."
+        },
+        {
+            "Q": "Among the flows from node High Return to node Stocks, from node Moderate Return to node Real Estate, and from node Low Return to node Real Estate, which path has the largest flow?",
+            "A": "The flow from node {Moderate Return} to node {Real Estate} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Investment Types of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Investment Types is {Real Estate}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node High Return to target node Real Estate? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node High Return to node Real Estate is: {High Return, Real Estate}."
+        }
+    ],
+    "VA": []
+}

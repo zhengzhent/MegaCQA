@@ -1,0 +1,79 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {11} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node Silverline Monorail Station?",
+            "A": "There are {3} nodes link with node Silverline Monorail Station."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Oceanview Ferry Terminal and node Rivertown Bus Depot in this node-link chart?",
+            "A": "The relationship between node Oceanview Ferry Terminal and node Rivertown Bus Depot is {supply_contract}."
+        },
+        {
+            "Q": "What is the relationship between node Oceanview Ferry Terminal and node Eastside Metro Station in this node-link chart?",
+            "A": "The relationship between node Oceanview Ferry Terminal and node Eastside Metro Station is {supply_contract}."
+        },
+        {
+            "Q": "What is the relationship between node Central Transit Station and node Silverline Monorail Station in this node-link chart?",
+            "A": "The relationship between node Central Transit Station and node Silverline Monorail Station is {energy_transfer}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type power_station_link?",
+            "A": "There are {2} links with the relation type power_station_link."
+        },
+        {
+            "Q": "How many links have the relation type grid_connection?",
+            "A": "There are {2} links with the relation type grid_connection."
+        },
+        {
+            "Q": "How many links have the relation type renewable_integration?",
+            "A": "There are {2} links with the relation type renewable_integration."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Central Transit Station, how many links are of type renewable_integration?",
+            "A": "Node Central Transit Station has {1} links of type renewable_integration."
+        },
+        {
+            "Q": "Under node Northgate Railway Hub, how many links are of type grid_connection?",
+            "A": "Node Northgate Railway Hub has {1} links of type grid_connection."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Central Transit Station}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Central Transit Station with a degree of 7}, {node Oceanview Ferry Terminal with a degree of 5}, {node Northgate Railway Hub with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Rivertown Bus Depot to node Central Transit Station in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Rivertown Bus Depot to node Central Transit Station is: {Rivertown Bus Depot to Oceanview Ferry Terminal to Central Transit Station}."
+        }
+    ],
+    "VA": []
+}

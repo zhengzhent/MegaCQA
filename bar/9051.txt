@@ -1,0 +1,10 @@
+Image Name: 9051.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\9051.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is relatively easy to read with clear labels and a gradient color scheme that adds visual interest without distracting from the data. However, the months are not in chronological order, which can be slightly confusing. The values are directly labeled on the bars, which aids in quick comprehension.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart presents the sales figures clearly with distinct bars for each month. However, the color gradient may distract from the data, and the labels on the bars could be more prominent for better visibility. Overall, the information is understandable, but there are minor readability issues.

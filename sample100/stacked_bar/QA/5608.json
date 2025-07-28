@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {4} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar 2002 of this stacked bar chart?",
+            "A": "There are {6} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {horizontal} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {2002}"
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The bottom bar represents {2018}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar 2016 relative to the bar 2013 in terms of vertical (below/above) direction??",
+            "A": "Bar 2016 is {above} the bar 2013."
+        },
+        {
+            "Q": "In the stacked bar of 2013, What is the spatial relationship of segment Meat relative to the segment Bakery in terms of horizontal (left/right) direction?",
+            "A": "Meat segment is positioned {right} the Bakery segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Year has the highest bar in this stacked bar chart?",
+            "A": "The Year with the highest bar is {2013}."
+        },
+        {
+            "Q": "Which Year has the lowest bar in this stacked bar chart?",
+            "A": "The Year with the lowest bar is {2002}."
+        },
+        {
+            "Q": "In the stacked bar representing 2018, which segment has the highest value?",
+            "A": "The segment with the highest value is {Meat}."
+        },
+        {
+            "Q": "In the stacked bar representing 2013, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Frozen}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Frozen segment within the 2018 bar in the stacked bar chart?",
+            "A": "The value of the Frozen segment is {245.17} million USD."
+        },
+        {
+            "Q": "What is the value of the Bakery segment within the 2013 bar in the stacked bar chart?",
+            "A": "The value of the Bakery segment is {893.41} million USD."
+        },
+        {
+            "Q": "What is the value of the Seafood segment within the 2016 bar in the stacked bar chart?",
+            "A": "The value of the Seafood segment is {498.20} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD among the stacked segments of bar 2016?",
+            "A": "The maximum million USD among the stacked segments of bar 2016 is {595.96} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD among the stacked segments of bar 2018?",
+            "A": "The minimum million USD among the stacked segments of bar 2018 is {180.0} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum million USD of the segment Meat among the bars?",
+            "A": "The maximum million USD among the bars of segment Meat is {801.06} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum million USD of the segment Meat among the bars?",
+            "A": "The minimum million USD among the bars of segment Meat is {556.16} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar 2016?",
+            "A": "The total value of bar 2016 is {2792.67} million USD."
+        },
+        {
+            "Q": "What is the total value of the bar 2002?",
+            "A": "The total value of bar 2002 is {2147.31} million USD."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {11171.99} million USD."
+        },
+        {
+            "Q": "What is the difference between total value of bar 2002 and 2016?",
+            "A": "The difference between between total value of bar 2002 and 2016 is {645.3600000000001} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total million USD values exceed 2687.12 million USD? Please list the bar and corresponding values.",
+            "A": "{2016.0} has {2792.67} million USD, {2013.0} has {3650.4399999999996} million USD"
+        },
+        {
+            "Q": "Which bars have total million USD values below 2364.44 million USD? Please list the bar and corresponding values.",
+            "A": "{2002.0} has {2147.31} million USD"
+        },
+        {
+            "Q": "For bar 2018 in the stacked bar chart, which segment have million USD value between 212.58499999999998 and 264.36? Please list the segment and corresponding values.",
+            "A": "{Frozen} has {245.17} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total million USD of 2018 or 2013?",
+            "A": "The total million USD of the {2013} is larger."
+        },
+        {
+            "Q": "Which is larger, the total million USD of 2016, 2013 or 2018?",
+            "A": "The total million USD of the {2013} is larger."
+        },
+        {
+            "Q": "In the bar 2002, which has a larger million USD value: Beverages or Vegetables?",
+            "A": "{Vegetables} has the larger million USD value."
+        },
+        {
+            "Q": "In the bar 2018, which has a larger million USD value: Meat, Seafood or Vegetables?",
+            "A": "{Meat} has the larger million USD value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Seafood in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Seafood are: {2013}, {2016}, {2018}."
+        }
+    ],
+    "VA": []
+}

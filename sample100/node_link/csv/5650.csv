@@ -1,0 +1,17 @@
+Real Estate and Housing Market,Interconnected Housing Projects by Region
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Willow Creek Estate,5,Harborview Condominiums,property_exchange
+0,Willow Creek Estate,8,Crystal Bay Residence,property_exchange
+0,Willow Creek Estate,7,Maplewood Park Homes,rental_agreement
+0,Willow Creek Estate,3,Emerald Tower,broker_affiliation
+0,Willow Creek Estate,9,Lakeside Heights,real_estate_agency_link
+1,Sunset Villas Complex,9,Lakeside Heights,rental_agreement
+1,Sunset Villas Complex,4,Pinehill Townhomes,property_exchange
+1,Sunset Villas Complex,10,Hilltop Luxury Condos,broker_affiliation
+1,Sunset Villas Complex,8,Crystal Bay Residence,real_estate_agency_link
+1,Sunset Villas Complex,6,Golden Terrace Apartments,lease_chain
+2,Riverstone Residences,3,Emerald Tower,broker_affiliation
+2,Riverstone Residences,8,Crystal Bay Residence,property_exchange
+2,Riverstone Residences,1,Sunset Villas Complex,rental_agreement
+2,Riverstone Residences,7,Maplewood Park Homes,property_exchange
+2,Riverstone Residences,11,Oceanfront Horizon Estate,rental_agreement

@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Labor efficiency (acres/worker) dimension, what is the spatial relationship of lead  Corn relative to base  Rice in terms of vertical (above/below) direction?",
+            "A": "{lead  Corn} is {above} {base  Rice} on the Labor efficiency (acres/worker) dimension."
+        },
+        {
+            "Q": "Which dimension is the third position to the left of dimension Soil health index (1-10)?",
+            "A": "The third position to the left of Soil health index (1-10) is {Labor efficiency (acres/worker)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Soil health index (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Yield per acre (tons)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Water usage (liters/kg)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Equipment utilization (%) and dimension Labor efficiency (acres/worker)",
+            "A": "There is {Clustering} between Equipment utilization (%) and Labor efficiency (acres/worker)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of not  Barley on the Yield per acre (tons) dimension in the parallel-coordinates chart?",
+            "A": "The value of not  Barley on the Yield per acre (tons) dimension is {9.41}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label executive  Oats across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of executive  Oats across all dimensions is {487.31}"
+        },
+        {
+            "Q": "What is the minimum value of label base  Rice across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of base  Rice across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Pesticide use (kg/ha)?",
+            "A": "The average value of Pesticide use (kg/ha) is {10.56}"
+        },
+        {
+            "Q": "What is the difference in coding Pesticide use (kg/ha) between label not  Barley and label same  Barley",
+            "A": "The difference in coding Pesticide use (kg/ha) between not  Barley and same  Barley is {5.81}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Labor efficiency (acres/worker) dimension in the parallel coordinates?",
+            "A": "{[1000.0, 913.73, 853.49]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Pesticide use (kg/ha) dimension in the parallel coordinates?",
+            "A": "{[0.0, 4.06, 14.19]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Water usage (liters/kg), which label has a higher score: base  Rice or not  Barley?",
+            "A": "{base  Rice} has a higher score on Water usage (liters/kg)."
+        },
+        {
+            "Q": "On Labor efficiency (acres/worker), which label has a higher score: lead  Corn or same  Barley?",
+            "A": "{same  Barley} has a higher score on Labor efficiency (acres/worker)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Water usage (liters/kg)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Pesticide use (kg/ha) being greater than 9.76 and Labor efficiency (acres/worker) being less than 582.07?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

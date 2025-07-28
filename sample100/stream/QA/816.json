@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {7} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Ironclad Ventures relative to Starlight Innovations?",
+            "A": "Ironclad Ventures is {below} Starlight Innovations in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Aegis Corp relative to Starlight Innovations?",
+            "A": "Aegis Corp is {below} Starlight Innovations in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Starlight Innovations relative to NovaTech Solutions?",
+            "A": "Starlight Innovations is {above} NovaTech Solutions in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total market share?",
+            "A": "The series with the largest contribution is {Ironclad Ventures}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total market share?",
+            "A": "The series with the smallest contribution is {Starlight Innovations}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is NovaTech Solutions's minimum Market Share in the streamgraph?",
+            "A": "NovaTech Solutions's minimum Market Share is in {1961}."
+        },
+        {
+            "Q": "Which year is Aegis Corp's minimum Market Share in the streamgraph?",
+            "A": "Aegis Corp's minimum Market Share is in {1960}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Between 1960 and 1963, did the total Market Share experience a larger or smaller change than between 1962 and 1963?",
+            "A": "The change in total market share between 1960 and 1963 was {larger} than between 1962 and 1963."
+        },
+        {
+            "Q": "Between 1967 and 1969, was the average total Market Share higher or lower than between 1975 and 1976?",
+            "A": "The average total market share between 1967 and 1969 was {lower} than between 1975 and 1976."
+        },
+        {
+            "Q": "Between 1961 and 1972, did the total Market Share experience a larger or smaller change than between 1970 and 1977?",
+            "A": "The change in total market share between 1961 and 1972 was {smaller} than between 1970 and 1977."
+        },
+        {
+            "Q": "Between 1960 and 1969, was the average total Market Share higher or lower than between 1961 and 1974?",
+            "A": "The average total market share between 1960 and 1969 was {lower} than between 1961 and 1974."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Vanguard Dynamics} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did NovaTech Solutions and Aegis Corp first exchange dominant positions?",
+            "A": "NovaTech Solutions and Aegis Corp first exchanged leading positions in {1961}."
+        }
+    ],
+    "VA": []
+}

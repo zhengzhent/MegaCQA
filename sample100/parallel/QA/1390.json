@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {3} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Benefits cost (USD/year) dimension, what is the spatial relationship of Smith, Sutton and Russell relative to Young, Johnson and Knight in terms of vertical (above/below) direction?",
+            "A": "{Smith, Sutton and Russell} is {below} {Young, Johnson and Knight} on the Benefits cost (USD/year) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Overtime hours/month(hours)?",
+            "A": "The second position to the left of Overtime hours/month(hours) is {Salary range (USD thousands)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Overtime hours/month(hours)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Salary range (USD thousands)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Benefits cost (USD/year)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Salary range (USD thousands) and dimension Benefits cost (USD/year)",
+            "A": "There is {Strong Correlation} between Salary range (USD thousands) and Benefits cost (USD/year)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Taylor Ltd on the Overtime hours/month(hours) dimension in the parallel-coordinates chart?",
+            "A": "The value of Taylor Ltd on the Overtime hours/month(hours) dimension is {0.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Hudson Ltd across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Hudson Ltd across all dimensions is {19588.79}"
+        },
+        {
+            "Q": "What is the minimum value of label Smith, Sutton and Russell across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Smith, Sutton and Russell across all dimensions is {40.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Benefits cost (USD/year)?",
+            "A": "The average value of Benefits cost (USD/year) is {13245.01}"
+        },
+        {
+            "Q": "What is the difference in coding Salary range (USD thousands) between label Young, Johnson and Knight and label Smith, Sutton and Russell",
+            "A": "The difference in coding Salary range (USD thousands) between Young, Johnson and Knight and Smith, Sutton and Russell is {273.7}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Benefits cost (USD/year) dimension in the parallel coordinates?",
+            "A": "{[20000.0, 19588.79, 16235.9]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Salary range (USD thousands) dimension in the parallel coordinates?",
+            "A": "{[20.0, 68.49, 174.17]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Salary range (USD thousands), which label has a higher score: Smith, Sutton and Russell or Hudson Ltd?",
+            "A": "{Hudson Ltd} has a higher score on Salary range (USD thousands)."
+        },
+        {
+            "Q": "On Salary range (USD thousands), which label has a higher score: Mccullough, Buchanan and Flores or Hudson, Rosario and Jarvis?",
+            "A": "{Mccullough, Buchanan and Flores} has a higher score on Salary range (USD thousands)."
+        },
+        {
+            "Q": "On Benefits cost (USD/year), which label has a higher score: Young, Johnson and Knight or Taylor Ltd?",
+            "A": "{Taylor Ltd} has a higher score on Benefits cost (USD/year)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Benefits cost (USD/year)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Benefits cost (USD/year) being greater than 13163.89 and Salary range (USD thousands) being less than 182.61?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

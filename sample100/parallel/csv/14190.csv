@@ -1,0 +1,8 @@
+﻿Tourism and Hospitality,Travel Experience Metrics In Different City
+Pattern,Strong Correlation,No Correlation,Clustering
+labels,Attraction visit rate (per day),Cultural immersion index (1-10),Accessibility score (1-5),Repeat visitor rate (%)
+Moralesfurt,1.87,2.95,1.04,13.21
+Josephfort,4.34,8.46,1.0,44.1
+Staffordhaven,5.0,10.0,3.89,5.0
+West Colton,2.16,3.16,5.0,60.0
+South Jasmine,1.0,1.0,4.77,50.0

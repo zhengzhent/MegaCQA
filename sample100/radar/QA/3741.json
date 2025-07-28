@@ -1,0 +1,139 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Research Investment Rate?",
+            "A": "The next dimension clockwise from Research Investment Rate is Paper Publication Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Research Investment Rate?",
+            "A": "The next dimension counterclockwise from Research Investment Rate is Discipline Coverage Rate."
+        },
+        {
+            "Q": "On the Employment Rate, is the point for West Alexandra University inside or outside the point for Lake Larry Institute?",
+            "A": "On the Employment Rate, the point for West Alexandra University is outside the point for Lake Larry Institute."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Paper Publication Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Martinezburgh School?",
+            "A": "The strongest aspect is {Paper Publication Rate}, while the weakest aspect is{ Research Investment Rate}."
+        },
+        {
+            "Q": "On dimension Research Investment Rate, which label scores the highest?",
+            "A": "On Research Investment Rate, label {Lake Larry Institute} scores the highest."
+        },
+        {
+            "Q": "On dimension Employment Rate, which label scores the highest?",
+            "A": "On Employment Rate, label {Lake Larry Institute} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of West Alexandra University on the Paper Publication Rate in the radar chart?",
+            "A": "The value of West Alexandra University on the Safety dimension is {48}."
+        },
+        {
+            "Q": "What is the value of West Alexandra University on the Research Investment Rate in the radar chart?",
+            "A": "The value of West Alexandra University on the Safety dimension is {75}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Lake Larry Institute across all dimensions in the radar chart?",
+            "A": "The maximum value of Lake Larry Institute across all dimensions is {75}."
+        },
+        {
+            "Q": "What is the minimum value of label Lake Larry Institute across all dimensions in the radar chart?",
+            "A": "The minimum value of Lake Larry Institute across all dimensions is {66}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Research Investment Rate",
+            "A": "The average value of Research Investment Rate is {45.67}."
+        },
+        {
+            "Q": "What is the average value of West Alexandra University",
+            "A": "The average value of West Alexandra University is {66.5}."
+        },
+        {
+            "Q": "What is the difference in Employment Rate between Lake Larry Institute and West Alexandra University?",
+            "A": "The difference in Employment Rate between Lake Larry Institute and West Alexandra University is {20}."
+        },
+        {
+            "Q": "What is the difference in Paper Publication Rate between West Alexandra University and Lake Larry Institute?",
+            "A": "The difference in Paper Publication Rate between West Alexandra University and Lake Larry Institute is {7}."
+        },
+        {
+            "Q": "What is the difference in Paper Publication Rate between Lake Larry Institute and Martinezburgh School?",
+            "A": "The difference in Paper Publication Rate between Lake Larry Institute and Martinezburgh School is {11}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Martinezburgh School in the radar chart, which dimensions have scores between 32 and 60? Please list the dimensions and corresponding scores.",
+            "A": "{Employment Rate} is {51}, {Research Investment Rate} is {36}"
+        },
+        {
+            "Q": "Which labels have scores below 52 for the Paper Publication Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{West Alexandra University} is {48}"
+        },
+        {
+            "Q": "For Martinezburgh School in the radar chart, which dimensions have scores below 32? Please list the dimensions and corresponding scores.",
+            "A": "{Research Investment Rate} is {26}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For West Alexandra University, which dimension has a higher score: Discipline Coverage Rate or Research Investment Rate?",
+            "A": "{Discipline Coverage Rate} has a higher score than Research Investment Rate for West Alexandra University."
+        },
+        {
+            "Q": "On Research Investment Rate, which label has a higher score: Lake Larry Institute or the Martinezburgh School?",
+            "A": "{Martinezburgh School} has a higher score on Research Investment Rate compared to Lake Larry Institute."
+        },
+        {
+            "Q": "For West Alexandra University, which dimension has a higher score: Research Investment Rate or Employment Rate or Discipline Coverage Rate?",
+            "A": "{Discipline Coverage Rate} has a higher score for West Alexandra University."
+        },
+        {
+            "Q": "For Lake Larry Institute, which dimension has a higher score: Discipline Coverage Rate or Research Investment Rate or Paper Publication Rate?",
+            "A": "{Paper Publication Rate} has a higher score for Lake Larry Institute."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For West Alexandra University, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "West Alexandra University most needs to improve its {Paper Publication Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {West Alexandra University}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Lake Larry Institute}."
+        }
+    ],
+    "VA": []
+}

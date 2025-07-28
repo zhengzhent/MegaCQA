@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {92} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Content length in the scatter plot?",
+            "A": "The maximum observed value in the Content length dimension is {60.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Content length in the scatter plot?",
+            "A": "The minimum observed value in the Content length dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Engagement rate in the scatter plot?",
+            "A": "The maximum observed value in the Engagement rate dimension is {20.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Engagement rate in the scatter plot?",
+            "A": "The minimum observed value in the Engagement rate dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Content length for all points?",
+            "A": "The average value of Content length for all points is {30.50}."
+        },
+        {
+            "Q": "What is the average value of the Engagement rate for all points?",
+            "A": "The average value of Engagement rate for all points is {6.69}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Engagement rate values corresponding to the top 3 Content length values in the scatter plot?",
+            "A": "{20.00, 19.54, 16.66}."
+        },
+        {
+            "Q": "What are the Engagement rate values corresponding to the bottom 3 Content length values in the scatter plot?",
+            "A": "{19.13, 17.58, 17.64}."
+        },
+        {
+            "Q": "What are the Content length values corresponding to the top 3 Engagement rate values in the scatter plot?",
+            "A": "{60.00, 59.35, 1.00}."
+        },
+        {
+            "Q": "What are the Content length values corresponding to the bottom 3 Engagement rate values in the scatter plot?",
+            "A": "{32.77, 36.66, 28.23}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 22.31 and 28.56 and Y coordinates between 12.69 and 17.05?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1.00, 19.13) and (60.00, 20.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(54.16, 12.08) and (54.81, 12.10)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [51.21, 11.08, 57.76, 13.10] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (54.16, 12.08)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [48.67, 9.43, 60.00, 14.75]; Region B: [46.18, 2.31, 57.81, 7.63]; Region C: [22.32, 0.12, 33.95, 5.45]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

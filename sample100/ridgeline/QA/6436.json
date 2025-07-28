@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {7} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Food and Wine Events relative to the peak of Music Concerts in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Food and Wine Events is to the {right} of the peak of Music Concerts."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Music Concerts show?",
+            "A": "The ridgeline representing Music Concerts shows a {Single Peak Distribution}."
+        },
+        {
+            "Q": "At what value do  Food and Wine Events reach its peaks?",
+            "A": "At {471471.47}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Theater Performances} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =301028.9?",
+            "A": "At X =301028.9,the label with the highest density is {Film Festivals}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 405978? Please list the countries and corresponding peak values.",
+            "A": "{Film Festivals}'s peak at {412412},{Professional Sports}'s peak at {618268},{Food and Wine Events}'s peak at {471471}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 388943? Please list the countries and corresponding peak values.",
+            "A": "{Gaming Conventions}'s peak at {104104},{Theater Performances}'s peak at {100100},{Comedy Shows}'s peak at {94094},{Music Concerts}'s peak at {97097}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Gaming Conventions or Music Concerts?",
+            "A": "{Gaming Conventions} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Film Festivals or Music Concerts?",
+            "A": "{Film Festivals} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Theater Performances or Comedy Shows?",
+            "A": "{Theater Performances} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Theater Performances}"
+        }
+    ],
+    "VA": []
+}

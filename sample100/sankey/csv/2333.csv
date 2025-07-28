@@ -1,0 +1,26 @@
+Cultural Trends and Influences,Cultural Products Influence Flow,Cultural Products,random,Cultural Origins,Cultural Mediums,Impact Areas,Audience Types
+Source,Target,Value
+Europe,Theaters,304
+Europe,Digital Platforms,94
+Europe,Museums,376
+Europe,Festivals,205
+Africa,Theaters,353
+Africa,Digital Platforms,177
+Africa,Museums,253
+Africa,Festivals,108
+Oceania,Theaters,133
+Oceania,Digital Platforms,45
+Oceania,Museums,17
+Oceania,Festivals,68
+Theaters,Economy,96
+Theaters,Social Integration,694
+Digital Platforms,Economy,142
+Digital Platforms,Social Integration,174
+Museums,Economy,559
+Museums,Social Integration,87
+Festivals,Economy,181
+Festivals,Social Integration,200
+Economy,Artists,498
+Economy,Local Communities,480
+Social Integration,Artists,151
+Social Integration,Local Communities,1004

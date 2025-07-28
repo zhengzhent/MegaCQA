@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {15} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {2} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Wheat positioned outside, inside or on the same side as Oilseeds?",
+            "A": "Wheat is positioned {outside} Oilseeds."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Crop Production}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Rice segment in this sunburst chart?",
+            "A": "The value of the Rice segment is {6.72}."
+        },
+        {
+            "Q": "What is the value of the Soybean segment in this sunburst chart?",
+            "A": "The value of the Soybean segment is {7.28}."
+        },
+        {
+            "Q": "What is the value of the Hybrid Varieties segment in this sunburst chart?",
+            "A": "The value of the Hybrid Varieties segment is {7.1}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {42.24}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {25.6}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {12.39}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {7.1}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.01}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Crop Production exceed 56%? Please list the category names and corresponding percentages.",
+            "A": "{Oilseeds} accounts for {63.38}%"
+        },
+        {
+            "Q": "Which categories in the segment Crop Production are below 43%? Please list the category names and corresponding percentages.",
+            "A": "{Grains} accounts for {36.62}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Agricultural Inputs, Oilseeds, or Livestock?",
+            "A": "The value of {Livestock} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Crop Production, Agricultural Inputs, or Oilseeds?",
+            "A": "The value of {Crop Production} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Crop Production, Agricultural Inputs, Oilseeds, or Poultry?",
+            "A": "The value of {Crop Production} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Crop Production to Oilseeds to Canola to Open-Pollinated}."
+        }
+    ],
+    "VA": []
+}

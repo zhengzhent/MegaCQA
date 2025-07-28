@@ -1,0 +1,10 @@
+Image Name: 7642.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\7642.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels and distinct colors for each company. The horizontal bar format makes it easy to compare the number of employees across different companies. The numbers are also directly displayed at the end of each bar, which enhances readability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively uses contrasting colors to differentiate between the companies. The horizontal bar chart format allows for easy comparison of the number of employees across different companies. The labels are legible, and the numerical values are clearly displayed, making it easy to interpret the data at a glance.

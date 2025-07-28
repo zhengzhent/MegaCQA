@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {5} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {4} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Briannaville?",
+            "A": "The next arc clockwise from arc Briannaville is arc {Michaelchester}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Carterside?",
+            "A": "The next arc counterclockwise from arc Carterside is arc {Jessestad}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Jessestad} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Carterside} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Michaelchester to Carterside in the chord chart?",
+            "A": "The flow value is {346}."
+        },
+        {
+            "Q": "What is the flow value from Carterside to Briannaville in the chord chart?",
+            "A": "The flow value is {622}."
+        },
+        {
+            "Q": "What is the flow value from Jessestad to Carterside in the chord chart?",
+            "A": "The flow value is {842}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Jessestad and Carterside in the chord chart?",
+            "A": "The maximum flow value between Jessestad and Carterside is {842}."
+        },
+        {
+            "Q": "What is the minimum flow value between Michaelchester and Briannaville in the chord chart?",
+            "A": "The minimum flow value between Michaelchester and Briannaville is {240}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {842}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {240}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Jessestad?",
+            "A": "The total flow output from Jessestad is {1376}."
+        },
+        {
+            "Q": "What is the total flow input by Michaelchester?",
+            "A": "The total flow input by Michaelchester is {1266}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 703? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {842} from {Jessestad} to {Carterside}, a flow of {738} from {Carterside} to {Jessestad}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 322? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {298} from {Briannaville} to {Michaelchester}, a flow of {240} from {Michaelchester} to {Briannaville}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 390 and 578? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {534} from {Jessestad} to {Michaelchester}, a flow of {469} from {Michaelchester} to {Jessestad}, a flow of {434} from {Carterside} to {Michaelchester}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Carterside to Briannaville or from Briannaville to Michaelchester?",
+            "A": "The flow from {Carterside} to {Briannaville} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Briannaville to Carterside, from Briannaville to Michaelchester, or from Jessestad to Michaelchester?",
+            "A": "The flow from {Briannaville} to {Carterside} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Jessestad}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Carterside} and {Jessestad}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Carterside, Arc Jessestad, Arc Michaelchester, Arc Briannaville}."
+        }
+    ]
+}

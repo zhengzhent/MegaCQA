@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {7} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Online Schools?",
+            "A": "The next slice clockwise from slice Online Schools is {Private Schools}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Online Schools?",
+            "A": "The next slice counterclockwise from slice Online Schools is {Universities}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which student has the largest proportion in this pie chart?",
+            "A": "The student with the largest proportion is {Universities}."
+        },
+        {
+            "Q": "Which student has the smallest proportion in this pie chart?",
+            "A": "The student with the smallest proportion is {Charter Schools}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Private Schools slice in this pie chart?",
+            "A": "The value of the Private Schools slice is {12}%."
+        },
+        {
+            "Q": "What is the value of the Universities slice in this pie chart?",
+            "A": "The value of the Universities slice is {21}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {21}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {9}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Online Schools and Universities in this pie chart?",
+            "A": "The difference between Online Schools and Universities is {11}%."
+        },
+        {
+            "Q": "What is the sum of the values of Public Schools and International Schools in this pie chart?",
+            "A": "The sum of Public Schools and International Schools is {38}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 19.0%? Please list the category names and corresponding percentages.",
+            "A": "{Universities} accounts for {21}% and {International Schools} accounts for {20}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 10.0%? Please list the category names and corresponding percentages.",
+            "A": "{Charter Schools} accounts for {9}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Universities, International Schools, or Public Schools?",
+            "A": "The value of {Universities} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of International Schools, Public Schools, or Private Schools?",
+            "A": "The value of {Private Schools} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Universities or International Schools?",
+            "A": "The value of {Universities} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Universities, International Schools, Public Schools, or Online Schools?",
+            "A": "The value of {Universities} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 5% and 20%?",
+            "A": "There are {6} sectors that have a percentage between 5% and 20%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 40%? List all possible combinations.",
+            "A": "The possible combinations are: {(International Schools, Online Schools, Charter Schools), (International Schools, Vocational Schools, Charter Schools), (Public Schools, Private Schools, Charter Schools), (Public Schools, Online Schools, Vocational Schools), (Public Schools, Online Schools, Charter Schools), (Public Schools, Vocational Schools, Charter Schools), (Private Schools, Online Schools, Vocational Schools), (Private Schools, Online Schools, Charter Schools), (Private Schools, Vocational Schools, Charter Schools), (Online Schools, Vocational Schools, Charter Schools)}."
+        }
+    ],
+    "VA": []
+}

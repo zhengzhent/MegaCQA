@@ -1,0 +1,12 @@
+Retail and E-commerce, E-commerce Platform User Migration, Million Users, long_tail
+Source,Target,Value
+GillespieShop,Potter.com,474
+Potter.com,GillespieShop,226
+GillespieShop,JohnsonLLC.com,155
+JohnsonLLC.com,GillespieShop,118
+Potter.com,AtkinsonExpress,91
+AtkinsonExpress,Potter.com,81
+JohnsonLLC.com,AtkinsonExpress,66
+AtkinsonExpress,JohnsonLLC.com,60
+GillespieShop,AtkinsonExpress,51
+AtkinsonExpress,GillespieShop,46

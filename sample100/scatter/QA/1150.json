@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {31} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Parental education in the scatter plot?",
+            "A": "The maximum observed value in the Parental education dimension is {20.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Parental education in the scatter plot?",
+            "A": "The minimum observed value in the Parental education dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Test scores in the scatter plot?",
+            "A": "The maximum observed value in the Test scores dimension is {1600.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Test scores in the scatter plot?",
+            "A": "The minimum observed value in the Test scores dimension is {400.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Parental education for all points?",
+            "A": "The average value of Parental education for all points is {10.00}."
+        },
+        {
+            "Q": "What is the average value of the Test scores for all points?",
+            "A": "The average value of Test scores for all points is {909.44}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Test scores values corresponding to the top 3 Parental education values in the scatter plot?",
+            "A": "{806.71, 1007.74, 1253.25}."
+        },
+        {
+            "Q": "What are the Test scores values corresponding to the bottom 3 Parental education values in the scatter plot?",
+            "A": "{928.33, 1386.14, 470.96}."
+        },
+        {
+            "Q": "What are the Parental education values corresponding to the top 3 Test scores values in the scatter plot?",
+            "A": "{12.00, 11.33, 0.67}."
+        },
+        {
+            "Q": "What are the Parental education values corresponding to the bottom 3 Test scores values in the scatter plot?",
+            "A": "{14.67, 2.00, 1.33}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 4.23 and 10.21 and Y coordinates between 623.64 and 815.72?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(12.00, 1600.00) and (14.67, 400.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(15.33, 1256.13) and (18.67, 1253.25)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [13.66, 1193.25, 20.34, 1316.13] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (15.33, 1256.13)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [14.69, 1082.96, 19.31, 1426.42]; Region B: [14.33, 721.44, 18.96, 1064.89]; Region C: [9.76, 1179.15, 14.38, 1522.60]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

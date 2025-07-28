@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {72} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {9} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {radial gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Risk Management and Liquidity in the heatmap?",
+            "A": "The heat value is {0.51}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Real Estate and Market Share in the heatmap?",
+            "A": "The heat value is {0.52}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Tax and Equity in the heatmap?",
+            "A": "The heat value is {0.55}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Insurance and Liquidity in the heatmap?",
+            "A": "The heat value is {0.67}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.85}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.18}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Auditing on the x-axis?",
+            "A": "The maximum heat value of Auditing on the x-axis is {0.80}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Market Share on the y-axis?",
+            "A": "The maximum heat value for Market Share on the y-axis is {0.64}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Market Share on the y-axis?",
+            "A": "The average heat value for Market Share on the y-axis is {0.54}."
+        },
+        {
+            "Q": "What is the average heat value for label Consulting on the x-axis?",
+            "A": "The average heat value for Consulting on the x-axis is {0.69}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Auditing and Growth or the cell corresponding to Consulting and Liquidity?",
+            "A": "The cell corresponding to {Auditing} and {Growth} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Banking and Liabilities or the cell corresponding to Banking and Liquidity?",
+            "A": "The cell corresponding to {Banking} and {Liabilities} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.40 to 0.48?",
+            "A": "The cells are: {(Tax, Liquidity), (Risk Management, Market Share), (Insurance, Profit), (Real Estate, Profit)}."
+        }
+    ],
+    "VA": []
+}

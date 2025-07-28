@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Surface Mining positioned outside, inside or on the same side as Ore Processing?",
+            "A": "Surface Mining is positioned {on the same side} Ore Processing."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Energy Sources}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Coal segment in this sunburst chart?",
+            "A": "The value of the Coal segment is {15.28}."
+        },
+        {
+            "Q": "What is the value of the Ore Processing segment in this sunburst chart?",
+            "A": "The value of the Ore Processing segment is {11.03}."
+        },
+        {
+            "Q": "What is the value of the Energy Consumption segment in this sunburst chart?",
+            "A": "The value of the Energy Consumption segment is {33.24}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {34.06}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {32.7}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {32.7}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {6.45}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Energy Sources exceed 61%? Please list the category names and corresponding percentages.",
+            "A": "{Fossil Fuels} accounts for {71.32}%"
+        },
+        {
+            "Q": "Which categories in the segment Energy Sources are below 39%? Please list the category names and corresponding percentages.",
+            "A": "{Renewables} accounts for {28.68}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Energy Sources, Energy Consumption, Energy Infrastructure, or Thermal Plants?",
+            "A": "The value of {Energy Sources} is the largest."
+        },
+        {
+            "Q": "Which is smaller, the value of Energy Consumption, Energy Infrastructure, or Generation?",
+            "A": "The value of {Generation} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Energy Infrastructure to Generation to Thermal Plants to Steam Boilers}."
+        }
+    ],
+    "VA": []
+}

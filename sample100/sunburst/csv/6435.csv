@@ -1,0 +1,18 @@
+Real Estate and Housing Market,Housing Market Distribution by Category (2023),%
+parent,child,value
+Root,Rental Market,53.71
+Rental Market,Short-Term Rentals,41.87
+Short-Term Rentals,Vacation Homes,5.92
+Short-Term Rentals,Platforms,35.95
+Platforms,Vrbo Hosts,5.88
+Platforms,Airbnb Listings,8.38
+Platforms,Booking.com,21.69
+Rental Market,Long-Term Rentals,11.84
+Long-Term Rentals,Houses for Rent,5.31
+Long-Term Rentals,Apartments,6.53
+Root,Residential Property,20.08
+Residential Property,Single Family Homes,5.55
+Single Family Homes,Detached,5.55
+Residential Property,Multi-Family Homes,14.53
+Root,Commercial Real Estate,26.21
+Commercial Real Estate,Office Buildings,26.21

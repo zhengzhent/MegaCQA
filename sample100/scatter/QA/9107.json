@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {79} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Seasonality index in the scatter plot?",
+            "A": "The maximum observed value in the Seasonality index dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Seasonality index in the scatter plot?",
+            "A": "The minimum observed value in the Seasonality index dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Occupancy rate in the scatter plot?",
+            "A": "The maximum observed value in the Occupancy rate dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Occupancy rate in the scatter plot?",
+            "A": "The minimum observed value in the Occupancy rate dimension is {30.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Seasonality index for all points?",
+            "A": "The average value of Seasonality index for all points is {5.00}."
+        },
+        {
+            "Q": "What is the average value of the Occupancy rate for all points?",
+            "A": "The average value of Occupancy rate for all points is {49.56}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Occupancy rate values corresponding to the top 3 Seasonality index values in the scatter plot?",
+            "A": "{39.38, 45.79, 42.44}."
+        },
+        {
+            "Q": "What are the Occupancy rate values corresponding to the bottom 3 Seasonality index values in the scatter plot?",
+            "A": "{100.00, 94.65, 86.59}."
+        },
+        {
+            "Q": "What are the Seasonality index values corresponding to the top 3 Occupancy rate values in the scatter plot?",
+            "A": "{0.00, 0.13, 0.38}."
+        },
+        {
+            "Q": "What are the Seasonality index values corresponding to the bottom 3 Occupancy rate values in the scatter plot?",
+            "A": "{6.92, 7.69, 9.49}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 4.57 and 6.90 and Y coordinates between 48.37 and 60.91?",
+            "A": "There are {5} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(0.00, 100.00) and (6.92, 30.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(8.08, 35.12) and (8.21, 35.22)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [7.58, 31.62, 8.71, 38.72] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (8.08, 35.12)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [6.85, 30.00, 9.44, 44.20]; Region B: [2.64, 53.45, 5.22, 67.65]; Region C: [4.11, 35.22, 6.69, 49.43]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

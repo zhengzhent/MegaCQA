@@ -1,0 +1,132 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {fill bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this fill bubble chart?",
+            "A": "There are {4} bubbles."
+        },
+        {
+            "Q": "How many bubbles are in layer 2 of this fill bubble chart?",
+            "A": "There are {1} bubbles in layer 2."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Bubble Transportation and Logistics positioned deeper, shallower or on the same depth as Bubble Rail Transport?",
+            "A": "Bubble Transportation and Logistics is positioned {shallower than} Bubble Rail Transport."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the maximum depth in this fill bubble chart?",
+            "A": "The maximum depth is {3}."
+        },
+        {
+            "Q": "Which bubble contains bubble Road Transport in the fill bubble chart?",
+            "A": "Bubble Road Transport is contained by bubble {Modes of Transport}."
+        },
+        {
+            "Q": "Which bubbles are contained within bubble Transportation and Logistics in the fill bubble chart?",
+            "A": "Bubble Transportation and Logistics contains bubbles {Modes of Transport}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the size value of bubble Road Transport?",
+            "A": "The size value of bubble Road Transport is {12.90}."
+        },
+        {
+            "Q": "What is the size value of bubble Rail Transport?",
+            "A": "The size value of bubble Rail Transport is {12.28}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum size value in the fill bubble chart?",
+            "A": "The global maximum size value is {83.23}."
+        },
+        {
+            "Q": "What is the global minimum size value in the fill bubble chart?",
+            "A": "The global minimum size value is {12.28}."
+        },
+        {
+            "Q": "What is the maximum value under category Modes of Transport?",
+            "A": "The maximum value under category Modes of Transport is {12.90}."
+        },
+        {
+            "Q": "What is the minimum value under category Modes of Transport?",
+            "A": "The minimum value under category Modes of Transport is {12.28}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of layer 3 of bubbles?",
+            "A": "The total value of layer 3 of bubbles is {25.18}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 size values in the fill bubble chart?",
+            "A": "{83.23, 21.90, 12.90}."
+        },
+        {
+            "Q": "What are the bottom 3 size values in the fill bubble chart?",
+            "A": "{12.28, 12.90, 21.90}."
+        },
+        {
+            "Q": "Which bubbles have size values exceed 45.15? Please list the bubbles and corresponding values.",
+            "A": "Transportation and Logistics has {83.23}."
+        },
+        {
+            "Q": "Which bubbles have size values between 14.80 and 75.40? Please list the bubbles and corresponding values.",
+            "A": "Modes of Transport has {21.90}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the size value of Rail Transport or Road Transport in the fill bubble chart?",
+            "A": "The size value of {Road Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Modes of Transport or Road Transport in the fill bubble chart?",
+            "A": "The size value of {Modes of Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Modes of Transport or Rail Transport in the fill bubble chart?",
+            "A": "The size value of {Modes of Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Transportation and Logistics or Road Transport in the fill bubble chart?",
+            "A": "The size value of {Transportation and Logistics} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 3 has the largest bubble area?",
+            "A": "The subcategory with the largest bubble area in the level 3 is {Road Transport}."
+        },
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 3 has the smallest bubble area?",
+            "A": "The subcategory with the smallest bubble area in the level 3 is {Rail Transport}."
+        },
+        {
+            "Q": "How many bubbles have values above the average size across all categories?",
+            "A": "There are {1} bubbles with values above the average size."
+        },
+        {
+            "Q": "How many bubbles have values below the average oil storage across all categories?",
+            "A": "There are {3} bubbles with values below the average size."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual clutter caused by overlapping labels in the bubble chart, sample the labels and list the top 2 labels recommended for removal.",
+            "A": "The top 2 labels recommended for removal to reduce label overlap are: {Road Transport}, {Transportation and Logistics}."
+        }
+    ]
+}

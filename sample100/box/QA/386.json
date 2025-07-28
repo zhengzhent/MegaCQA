@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {2} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Jute}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Wheat}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Wheat?",
+            "A": "The first position to the left of the box Wheat is {Jute}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Jute relative to the box Wheat in terms of horizontal (left/right) direction?",
+            "A": "Box Jute is to the {left} of the box Wheat."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Jute}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Jute}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Wheat}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Jute in the box plot?",
+            "A": "The median of Jute is {5787.0} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Jute in the box plot?",
+            "A": "The upper quartile (Q3) of Jute is {7376.5} kilograms per hectare."
+        },
+        {
+            "Q": "What is the lower whisker limit of Wheat in the box plot?",
+            "A": "The lower whisker limit of Wheat is {1567} kilograms per hectare."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Wheat in the box plot?",
+            "A": "The largest upper outlier value in Wheat is {9328} kilograms per hectare."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum kilograms per hectare value in the box plot?",
+            "A": "The global maximum kilograms per hectare value in the box plot is {12687.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the global minimum kilograms per hectare value in the box plot?",
+            "A": "The global minimum kilograms per hectare value in the box plot is {1567.00} kilograms per hectare."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Wheat and Jute?",
+            "A": "The Median difference between box Wheat and Jute is {2056.0} kilograms per hectare."
+        },
+        {
+            "Q": "What is the toal Q3 value of box Jute and Wheat?",
+            "A": "The total Q3 value of box Jute and Wheat is {12495.75} kilograms per hectare."
+        },
+        {
+            "Q": "What is the average Median value of box Jute and Wheat?",
+            "A": "The average Median value of box Jute and Wheat is {4759.0} kilograms per hectare."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 8395.2 kilograms per hectare?",
+            "A": "Box{Jute},{Wheat} have the outliers exceed 8395.2 kilograms per hectare."
+        },
+        {
+            "Q": "Which boxes have median values exceed 4759.00 kilograms per hectare? Please list the boxes and corresponding values.",
+            "A": "{Jute} has {5787.0} kilograms per hectare "
+        },
+        {
+            "Q": "Which boxes have median values below 4759.00 kilograms per hectare? Please list the boxes and corresponding values.",
+            "A": "{Wheat} has {3731.0} kilograms per hectare "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Wheat or Jute ",
+            "A": "The median value of the {Jute} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Jute}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Metro Storage, what is the spatial relationship of the data point in 2010 relative to that in 2015 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Metro Storage, the data point in 2010 is {below} and to the {left} of the data point in 2015."
+        },
+        {
+            "Q": "In 1994, what is the vertical (above/below) relationship of the line representing QuickDeliver Hubs relative to Metro Storage?",
+            "A": "In 1994, QuickDeliver Hubs is {below} Metro Storage in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of QuickDeliver Hubs's Inventory Turnover levels?",
+            "A": "QuickDeliver Hubs's inventory turnover levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Metro Storage's Inventory Turnover levels?",
+            "A": "Metro Storage's inventory turnover levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "Which line shows a stable rising trend in Inventory Turnover levels?",
+            "A": "{QuickDeliver Hubs}."
+        },
+        {
+            "Q": "Which line shows a periodic stable trend in Inventory Turnover levels?",
+            "A": "{Metro Storage}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Metro Storage's Inventory Turnover in 1994?",
+            "A": "Metro Storage's inventory turnover in 1994 is {6.61} times/year."
+        },
+        {
+            "Q": "What is Metro Storage's Inventory Turnover in 2018?",
+            "A": "Metro Storage's inventory turnover in 2018 is {5.10} times/year."
+        },
+        {
+            "Q": "What is Metro Storage's Inventory Turnover in 2001?",
+            "A": "Metro Storage's inventory turnover in 2001 is {7.72} times/year."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Inventory Turnover in the line chart?",
+            "A": "The global minimum inventory turnover is {4.98} times/year."
+        },
+        {
+            "Q": "What is the global maximum Inventory Turnover in the line chart?",
+            "A": "The global maximum inventory turnover is {15.76} times/year."
+        },
+        {
+            "Q": "What is the highest Inventory Turnover level recorded for Metro Storage?",
+            "A": "Metro Storage reached approximately {8.49} times/year in {1995}."
+        },
+        {
+            "Q": "What is the lowest Inventory Turnover level recorded for Metro Storage?",
+            "A": "Metro Storage's lowest recorded level is approximately {4.98} times/year in {2003}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Metro Storage's Inventory Turnover from the starting year to the final year?",
+            "A": "The rate of decline in Metro Storage's inventory turnover is {-22.39}%."
+        },
+        {
+            "Q": "What is the rate of change in QuickDeliver Hubs's Inventory Turnover from the starting year to the final year?",
+            "A": "The rate of growth in QuickDeliver Hubs's inventory turnover is {145.10}%."
+        },
+        {
+            "Q": "What is the average value of Metro Storage's Inventory Turnover?",
+            "A": "The average value of Metro Storage's inventory turnover is {6.74} times/year."
+        },
+        {
+            "Q": "What is the average value of QuickDeliver Hubs's Inventory Turnover?",
+            "A": "The average value of QuickDeliver Hubs's inventory turnover is {11.14} times/year."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1998, which line had Inventory Turnover exceed 7 times/year? Please list the lines and corresponding values.",
+            "A": "{QuickDeliver Hubs} had {8} times/year."
+        },
+        {
+            "Q": "In the year 2011, which line had Inventory Turnover exceed 11 times/year? Please list the lines and corresponding values.",
+            "A": "{QuickDeliver Hubs} had {12} times/year."
+        },
+        {
+            "Q": "Which years did Metro Storage's Inventory Turnover below 6 times/year? Please list the years and corresponding values.",
+            "A": "{5.11} times/year in {2008} year, {4.98} times/year in {2003} year, {5.54} times/year in {2022} year."
+        },
+        {
+            "Q": "Which years did Metro Storage's Inventory Turnover between 6 and 8 times/year? Please list the years and corresponding values.",
+            "A": "{6.90} times/year in {2004} year, {6.85} times/year in {1999} year, {6.92} times/year in {2009} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2021, which line had a higher Inventory Turnover, {QuickDeliver Hubs} or {Metro Storage}?",
+            "A": "In 2021, {QuickDeliver Hubs} had a higher inventory turnover."
+        },
+        {
+            "Q": "Was Metro Storage's Inventory Turnover in 1998 higher or lower than in 2004?",
+            "A": "The inventory turnover in 1998 was {lower} than in 2004."
+        },
+        {
+            "Q": "Was QuickDeliver Hubs's Inventory Turnover in 2007 higher or lower than in 2017?",
+            "A": "The inventory turnover in 2007 was {lower} than in 2017."
+        },
+        {
+            "Q": "Between 2011 and 2015, which line experienced a larger change in Inventory Turnover, Metro Storage or QuickDeliver Hubs?",
+            "A": "{QuickDeliver Hubs} experienced a larger change in inventory turnover."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {QuickDeliver Hubs}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2019 and 2023?",
+            "A": "{QuickDeliver Hubs} has the fastest average growth rate between 2019 and 2023."
+        },
+        {
+            "Q": "In which year did QuickDeliver Hubs first surpass Metro Storage?",
+            "A": "QuickDeliver Hubs first surpassed Metro Storage in the year {1997}."
+        },
+        {
+            "Q": "Which label had the leading inventory turnover since 2004?",
+            "A": "Since 2004, {QuickDeliver Hubs} had the leading inventory turnover."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the QuickDeliver Hubs. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1994, 2023}."
+        }
+    ]
+}

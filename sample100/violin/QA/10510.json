@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {4} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Fairmont}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Brookfield}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin Fairmont?",
+            "A": "The first position to the right of the violin Fairmont is {Elmhurst}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Fairmont relative to the violin Ashford in terms of horizontal (left/right) direction?",
+            "A": "violin Fairmont is to the {left} of the violin Ashford."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Elmhurst}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Elmhurst}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Elmhurst?",
+            "A": "The density distribution pattern of the Elmhurst shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Ashford in the violin plot?",
+            "A": "The median of Ashford is {477.50} million USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Brookfield in the violin plot?",
+            "A": "The lower quartile (Q1) of Brookfield is {461.00} million USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Elmhurst in the violin plot?",
+            "A": "The upper whisker limit of Elmhurst is {921.00} million USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Brookfield in the violin plot?",
+            "A": "The largest upper outlier value in Brookfield is {873.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the violin plot?",
+            "A": "The global maximum million USD value in the violin plot is {1152.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the violin plot?",
+            "A": "The global minimum million USD value in the violin plot is {45.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Brookfield and Elmhurst?",
+            "A": "The Median difference between violin Brookfield and Elmhurst is {82.00} million USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin Elmhurst and Ashford?",
+            "A": "The total Q3 value of violin Elmhurst and Brookfield is {1227.25} million USD."
+        },
+        {
+            "Q": "What is the average Median value of violin Brookfield and Fairmont?",
+            "A": "The average Median value of violin Brookfield and Fairmont is {539.50} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 580.50 million USD? Please list the violins and corresponding values.",
+            "A": "{Elmhurst} has {611.00} million USD "
+        },
+        {
+            "Q": "Which violins have median values below 503.25 million USD? Please list the violins and corresponding values.",
+            "A": "{Ashford} has {477.50} million USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 425.75 million USD and the upper quartile (Q3) below 656.75 million USD?",
+            "A": "Violin {Fairmont},{Brookfield} has the Q1 above 425.75 million USD and the Q3 below 656.75 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 585.56 million USD?",
+            "A": "Violin {Elmhurst} has {608.17} million USD have their highest density peak exceed 585.56 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 585.56 million USD?",
+            "A": "Violin {Fairmont} has {562.96} million USD ,{Ashford} has {480.14} million USD ,{Brookfield} has {517.12} million USD have their highest density peak below 585.56 million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Brookfield or Ashford ",
+            "A": "The median value of the {Brookfield} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Brookfield, Fairmont or Elmhurst ",
+            "A": "The median value of the {Elmhurst} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Elmhurst, Fairmont, Brookfield or Ashford ",
+            "A": "The median value of the {Elmhurst} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Fairmont}."
+        }
+    ],
+    "VA": []
+}

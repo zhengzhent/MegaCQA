@@ -1,0 +1,10 @@
+Image Name: 5103.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\5103.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and well-organized, with distinct bars for each food category. The use of stars as a pattern inside the bars adds visual interest without cluttering the information. The labels are legible, and the values are clearly marked on top of each bar, making it easy to compare sales figures at a glance. The title and axis labels are descriptive and help in understanding the context of the data.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 2/5
+Score Reason: The visualization uses a star pattern within the bars, which can distract from the actual values being represented. Additionally, the numbers on top of the bars are somewhat difficult to read due to their placement and the background pattern. The overall layout is somewhat cluttered, making it harder for viewers to quickly interpret the data.

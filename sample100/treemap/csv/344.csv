@@ -1,0 +1,32 @@
+Agriculture and Food Production,Agriculture Production Distribution by Category (2021),%
+parent,child,value
+,Crop Systems,100.0
+Crop Systems,Precision Planting,51.54
+Precision Planting,Seeders,38.3
+Seeders,Row Units,38.3
+Row Units,Depth Control,38.3
+Depth Control,Parallel Linkages,20.74
+Depth Control,Pressure Sensors,17.56
+Precision Planting,Fertigation Systems,13.24
+Fertigation Systems,Dosing Mechanisms,13.24
+Dosing Mechanisms,Venturi Injectors,13.24
+Venturi Injectors,Flow Calibration,5.73
+Venturi Injectors,Anti-Clog Nozzles,7.51
+Crop Systems,Irrigation Tech,48.46
+Irrigation Tech,Pivot Systems,25.3
+Pivot Systems,Control Modules,14.85
+Control Modules,Water Flow,14.85
+Water Flow,Valve Types,14.85
+Valve Types,Ball Valves,7.06
+Valve Types,Solenoid Valves,7.79
+Pivot Systems,Sprinkler Types,10.45
+Sprinkler Types,Impact Drive,10.45
+Impact Drive,Nozzle Plates,10.45
+Nozzle Plates,Brass Alloy,5.15
+Nozzle Plates,Ceramic Coatings,5.3
+Irrigation Tech,Drip Networks,23.16
+Drip Networks,Emitter Design,23.16
+Emitter Design,Pressure Compensating,23.16
+Pressure Compensating,Silicone Diaphragms,23.16
+Silicone Diaphragms,Laser-Drilled Orifices,13.7
+Silicone Diaphragms,Turbulence Chambers,9.46

@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {fill bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this fill bubble chart?",
+            "A": "There are {6} bubbles."
+        },
+        {
+            "Q": "How many bubbles are in layer 2 of this fill bubble chart?",
+            "A": "There are {1} bubbles in layer 2."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Bubble Pop-up Shops positioned deeper, shallower or on the same depth as Bubble Retail and E-commerce?",
+            "A": "Bubble Pop-up Shops is positioned {deeper than} Bubble Retail and E-commerce."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the maximum depth in this fill bubble chart?",
+            "A": "The maximum depth is {3}."
+        },
+        {
+            "Q": "Which bubble contains bubble Retail Channels in the fill bubble chart?",
+            "A": "Bubble Retail Channels is contained by bubble {Retail and E-commerce}."
+        },
+        {
+            "Q": "Which bubbles are contained within bubble Retail Channels in the fill bubble chart?",
+            "A": "Bubble Retail Channels contains bubbles {Mobile Commerce, Online Stores, Physical Stores, Pop-up Shops}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the size value of bubble Online Stores?",
+            "A": "The size value of bubble Online Stores is {11.19}."
+        },
+        {
+            "Q": "What is the size value of bubble Retail and E-commerce?",
+            "A": "The size value of bubble Retail and E-commerce is {93.11}."
+        },
+        {
+            "Q": "What is the size value of bubble Physical Stores?",
+            "A": "The size value of bubble Physical Stores is {6.71}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum size value in the fill bubble chart?",
+            "A": "The global maximum size value is {93.11}."
+        },
+        {
+            "Q": "What is the global minimum size value in the fill bubble chart?",
+            "A": "The global minimum size value is {6.71}."
+        },
+        {
+            "Q": "What is the maximum value under category Retail Channels?",
+            "A": "The maximum value under category Retail Channels is {11.19}."
+        },
+        {
+            "Q": "What is the minimum value under category Retail Channels?",
+            "A": "The minimum value under category Retail Channels is {6.71}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of layer 2 of bubbles?",
+            "A": "The total value of layer 2 of bubbles is {24.94}."
+        },
+        {
+            "Q": "What is the total value of layer 3 of bubbles?",
+            "A": "The total value of layer 3 of bubbles is {33.17}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 size values in the fill bubble chart?",
+            "A": "{93.11, 24.94, 11.19}."
+        },
+        {
+            "Q": "What are the bottom 3 size values in the fill bubble chart?",
+            "A": "{6.71, 7.12, 8.15}."
+        },
+        {
+            "Q": "Which bubbles have size values exceed 29.14? Please list the bubbles and corresponding values.",
+            "A": "Retail and E-commerce has {93.11}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the size value of Physical Stores or Online Stores in the fill bubble chart?",
+            "A": "The size value of {Online Stores} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Mobile Commerce or Online Stores in the fill bubble chart?",
+            "A": "The size value of {Online Stores} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 2 has the largest bubble area?",
+            "A": "The subcategory with the largest bubble area in the level 2 is {Retail Channels}."
+        },
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 3 has the smallest bubble area?",
+            "A": "The subcategory with the smallest bubble area in the level 3 is {Physical Stores}."
+        },
+        {
+            "Q": "How many bubbles have values above the average size across all categories?",
+            "A": "There are {1} bubbles with values above the average size."
+        },
+        {
+            "Q": "How many bubbles have values below the average oil storage across all categories?",
+            "A": "There are {5} bubbles with values below the average size."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual clutter caused by overlapping labels in the bubble chart, sample the labels and list the top 2 labels recommended for removal.",
+            "A": "The top 2 labels recommended for removal to reduce label overlap are: {Retail Channels}, {Physical Stores}."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {6} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Whisper Reef}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Maple Arbor}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin Willow Grove?",
+            "A": "The first position to the left of the violin Willow Grove is {Whisper Reef}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Sunset Cliff relative to the violin Maple Arbor in terms of horizontal (left/right) direction?",
+            "A": "violin Sunset Cliff is to the {left} of the violin Maple Arbor."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Sunset Cliff}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Sunset Cliff}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Sunset Cliff?",
+            "A": "The density distribution pattern of the Sunset Cliff shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Sunset Cliff in the violin plot?",
+            "A": "The median of Sunset Cliff is {11876.50} Visitors."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Sunset Cliff in the violin plot?",
+            "A": "The lower quartile (Q1) of Sunset Cliff is {7628.50} Visitors."
+        },
+        {
+            "Q": "What is the upper whisker limit of Maple Arbor in the violin plot?",
+            "A": "The upper whisker limit of Maple Arbor is {21394.00} Visitors."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Sunset Cliff in the violin plot?",
+            "A": "The largest upper outlier value in Sunset Cliff is {35164.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Visitors value in the violin plot?",
+            "A": "The global maximum Visitors value in the violin plot is {40698.00} Visitors."
+        },
+        {
+            "Q": "What is the global minimum Visitors value in the violin plot?",
+            "A": "The global minimum Visitors value in the violin plot is {3357.00} Visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin Whisper Reef and Celestial Arch?",
+            "A": "The Q1 difference between violin Whisper Reef and Celestial Arch is {815.75} Visitors."
+        },
+        {
+            "Q": "What is the toal Median value of violin Willow Grove and Thunder Canyon?",
+            "A": "The total Median value of violin Willow Grove and Maple Arbor is {18944.00} Visitors."
+        },
+        {
+            "Q": "What is the average Q3 value of violin Thunder Canyon and Sunset Cliff?",
+            "A": "The average Q3 value of violin Thunder Canyon and Sunset Cliff is {15234.62} Visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 10924.50 Visitors? Please list the violins and corresponding values.",
+            "A": "{Sunset Cliff} has {11876.50} Visitors "
+        },
+        {
+            "Q": "Which violins have median values below 9712.00 Visitors? Please list the violins and corresponding values.",
+            "A": "{Whisper Reef} has {9615.00} Visitors , {Willow Grove} has {8971.50} Visitors "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 7936.35 Visitors?",
+            "A": "Violin {Celestial Arch} has {8110.26} Visitors ,{Sunset Cliff} has {8450.73} Visitors ,{Thunder Canyon} has {8059.53} Visitors have their highest density peak exceed 7936.35 Visitors."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 7330.43 Visitors?",
+            "A": "Violin {Maple Arbor} has {7289.28} Visitors have their highest density peak below 7330.43 Visitors."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Willow Grove or Maple Arbor ",
+            "A": "The median value of the {Maple Arbor} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Willow Grove, Celestial Arch or Whisper Reef ",
+            "A": "The median value of the {Celestial Arch} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Sunset Cliff, Maple Arbor, Willow Grove or Whisper Reef ",
+            "A": "The median value of the {Sunset Cliff} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Willow Grove}."
+        }
+    ],
+    "VA": []
+}

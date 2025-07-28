@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Wearables in this treemap?",
+            "A": "There are {1} child rectangles under the category Wearables."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Training Tech}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Motion Blur Correction}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Training Tech}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the IMU Sensors rectangle in this treemap?",
+            "A": "The value of the IMU Sensors rectangle is {29.34}."
+        },
+        {
+            "Q": "What is the value of the Force Analysis rectangle in this treemap?",
+            "A": "The value of the Force Analysis rectangle is {24.95}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.26}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Piezoelectric and Force Plates?",
+            "A": "The difference between Piezoelectric and Force Plates is {0.0}."
+        },
+        {
+            "Q": "What is the sum of the regions of Peak Detection and Midsole Sensors?",
+            "A": "The sum of Peak Detection and Midsole Sensors is {19.53}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Wearables category in the treemap, which rectangular labels have a value exceeded 29.33? Please list the labels and values.",
+            "A": "{IMU Sensors} has {29.34}"
+        },
+        {
+            "Q": "Under the Wearables category in the treemap, which rectangular labels have a value below 29.35? Please list the labels and values.",
+            "A": "{IMU Sensors} has {29.34}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Training Tech, Biomechanics, or Motion Capture?",
+            "A": "The value of {Training Tech} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Biomechanics, Motion Capture, or Gait Analysis?",
+            "A": "The value of {Gait Analysis} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {10} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

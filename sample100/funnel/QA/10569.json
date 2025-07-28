@@ -1,0 +1,95 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {4} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Final Design Approval stage positioned above or below the Testing and Validation stage?",
+            "A": "The Final Design Approval stage is positioned {below} the Testing and Validation stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {linear} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Market Release?",
+            "A": "The value of stage Market Release is {20%}."
+        },
+        {
+            "Q": "What is the value of stage Testing and Validation?",
+            "A": "The value of stage Testing and Validation is {100%}."
+        },
+        {
+            "Q": "What is the value of stage Production?",
+            "A": "The value of stage Production is {43%}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Testing and Validation, with a value of {100%}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Market Release, with a value of {20%}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the percentage reduction from stage Final Design Approval to stage Production?",
+            "A": "The percentage reduction from stage Final Design Approval to stage Production is {29%}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 86%? Please list the stage labels and corresponding values.",
+            "A": "The {Testing and Validation} stage has {100%}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 31%? Please list the stage labels and corresponding values.",
+            "A": "The {Market Release} stage has {20%}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 10% and 86%? Please list the stage labels and corresponding values.",
+            "A": "The {Final Design Approval} stage has {72%}, the {Production} stage has {43%}, the {Market Release} stage has {20%}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Testing and Validation to Final Design Approval, or from stage Final Design Approval to Production?",
+            "A": "The reduction from stage {Final Design Approval} to {Production} is greater."
+        },
+        {
+            "Q": "Which reduction is greater: from stage Production to Market Release, or from stage Final Design Approval to Production?",
+            "A": "The reduction from stage {Final Design Approval} to {Production} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Final Design Approval to Production, from stage Testing and Validation to Final Design Approval, or from stage Production to Market Release?",
+            "A": "The reduction from stage {Final Design Approval} to stage {Production} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Final Design Approval} and {Production} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Production} and {Market Release} stages."
+        }
+    ],
+    "VA": []
+}

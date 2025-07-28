@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {6} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Hidden Valley}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Coral Lookout}."
+        },
+        {
+            "Q": "Which box is the second position to the left of the box Coral Lookout?",
+            "A": "The second position to the left of the box Coral Lookout is {Golden Dunes}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Celestial Arch relative to the box Dragon Ruins in terms of horizontal (left/right) direction?",
+            "A": "Box Celestial Arch is to the {left} of the box Dragon Ruins."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Golden Dunes}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Crystal Falls}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Celestial Arch}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Dragon Ruins in the box plot?",
+            "A": "The median of Dragon Ruins is {7629.0} Visitors."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Golden Dunes in the box plot?",
+            "A": "The lower quartile (Q1) of Golden Dunes is {6371.75} Visitors."
+        },
+        {
+            "Q": "What is the lower whisker limit of Coral Lookout in the box plot?",
+            "A": "The lower whisker limit of Coral Lookout is {78} Visitors."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Hidden Valley in the box plot?",
+            "A": "The largest upper outlier value in Hidden Valley is {14865} Visitors."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Visitors value in the box plot?",
+            "A": "The global maximum Visitors value in the box plot is {14865.00} Visitors."
+        },
+        {
+            "Q": "What is the global minimum Visitors value in the box plot?",
+            "A": "The global minimum Visitors value in the box plot is {78.00} Visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Dragon Ruins and Crystal Falls?",
+            "A": "The Q3 difference between box Dragon Ruins and Crystal Falls is {570.25} Visitors."
+        },
+        {
+            "Q": "What is the toal Median value of box Coral Lookout and Celestial Arch?",
+            "A": "The total Median value of box Coral Lookout and Celestial Arch is {15799.5} Visitors."
+        },
+        {
+            "Q": "What is the average Q1 value of box Celestial Arch and Dragon Ruins?",
+            "A": "The average Q1 value of box Celestial Arch and Dragon Ruins is {5991.375} Visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 13378.5 Visitors?",
+            "A": "Box{Hidden Valley} have the outliers exceed 13378.5 Visitors."
+        },
+        {
+            "Q": "Which boxes have median values exceed 7903.25 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Celestial Arch} has {8177.5} Visitors , {Crystal Falls} has {8391.0} Visitors , {Golden Dunes} has {8898.5} Visitors "
+        },
+        {
+            "Q": "Which boxes have median values below 7459.75 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Hidden Valley} has {7297.5} Visitors "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Crystal Falls or Celestial Arch ",
+            "A": "The median value of the {Crystal Falls} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Crystal Falls, Hidden Valley or Dragon Ruins ",
+            "A": "The median value of the {Crystal Falls} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Hidden Valley, Coral Lookout, Golden Dunes or Crystal Falls ",
+            "A": "The median value of the {Golden Dunes} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Coral Lookout}."
+        }
+    ],
+    "VA": []
+}

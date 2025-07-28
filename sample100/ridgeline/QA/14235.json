@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {3} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Sightseeing relative to the peak of Dining in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Sightseeing is to the {left} of the peak of Dining."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Sightseeing show?",
+            "A": "The ridgeline representing Sightseeing shows a {Random fluctuation}."
+        },
+        {
+            "Q": "At what value do  Nightlife reach its peaks?",
+            "A": "At {960.96}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Sightseeing} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =9241.6?",
+            "A": "At X =9241.6,the label with the highest density is {Dining}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 5105? Please list the countries and corresponding peak values.",
+            "A": "{Dining}'s peak at {7132}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 5074? Please list the countries and corresponding peak values.",
+            "A": "{Nightlife}'s peak at {961},{Sightseeing}'s peak at {4231}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Nightlife or Dining?",
+            "A": "{Dining} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Sightseeing or Dining?",
+            "A": "{Dining} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Sightseeing or Nightlife?",
+            "A": "{Sightseeing} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Nightlife or Dining?",
+            "A": "{Dining} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Sightseeing}"
+        }
+    ],
+    "VA": []
+}

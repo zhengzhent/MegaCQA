@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {7} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar 2020 of this stacked bar chart?",
+            "A": "There are {3} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {2008}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {2020}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar 2020 relative to the bar 2018 in terms of horizontal (left/right) direction?",
+            "A": "Bar 2020 is to the {right} of the bar 2018."
+        },
+        {
+            "Q": "In the stacked bar of 2012, What is the spatial relationship of segment Riverdale High relative to the segment Lakewood Institute in terms of vertical (above/below) direction?",
+            "A": "Riverdale High segment is positioned {below} the Lakewood Institute segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Year has the highest bar in this stacked bar chart?",
+            "A": "The Year with the highest bar is {2016}."
+        },
+        {
+            "Q": "Which Year has the lowest bar in this stacked bar chart?",
+            "A": "The Year with the lowest bar is {2020}."
+        },
+        {
+            "Q": "In the stacked bar representing 2018, which segment has the highest value?",
+            "A": "The segment with the highest value is {Maplewood School}."
+        },
+        {
+            "Q": "In the stacked bar representing 2016, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Lakewood Institute}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Lakewood Institute segment within the 2012 bar in the stacked bar chart?",
+            "A": "The value of the Lakewood Institute segment is {1141.00} students."
+        },
+        {
+            "Q": "What is the value of the Lakewood Institute segment within the 2017 bar in the stacked bar chart?",
+            "A": "The value of the Lakewood Institute segment is {1187.00} students."
+        },
+        {
+            "Q": "What is the value of the Lakewood Institute segment within the 2018 bar in the stacked bar chart?",
+            "A": "The value of the Lakewood Institute segment is {1480.00} students."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum students among the stacked segments of bar 2008?",
+            "A": "The maximum students among the stacked segments of bar 2008 is {1326} students."
+        },
+        {
+            "Q": "What is the minimum students among the stacked segments of bar 2018?",
+            "A": "The minimum students among the stacked segments of bar 2018 is {1480} students."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum students of the segment Maplewood School among the bars?",
+            "A": "The maximum students among the bars of segment Maplewood School is {4105} students."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum students of the segment Riverdale High among the bars?",
+            "A": "The minimum students among the bars of segment Riverdale High is {1131} students."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar 2018?",
+            "A": "The total value of bar 2018 is {4931.00} students."
+        },
+        {
+            "Q": "What is the total value of the bar 2020?",
+            "A": "The total value of bar 2020 is {3446.00} students."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {36417} students."
+        },
+        {
+            "Q": "What is the difference between total value of bar 2012 and 2016?",
+            "A": "The difference between between total value of bar 2012 and 2016 is {4158} students."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total students values exceed 7453.50 students? Please list the bar and corresponding values.",
+            "A": "{2016} has {7657} students"
+        },
+        {
+            "Q": "Which bars have total students values below 3472.50 students? Please list the bar and corresponding values.",
+            "A": "{2020} has {3446} students"
+        },
+        {
+            "Q": "For bar 2014 in the stacked bar chart, which segment have students value between 534.0 and 4140? Please list the segment and corresponding values.",
+            "A": "{Lakewood Institute} has {1068} students, {Riverdale High} has {1922} students, {Maplewood School} has {3072} students."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total students of 2020 or 2008?",
+            "A": "The total students of the {2008} is larger."
+        },
+        {
+            "Q": "Which is larger, the total students of 2008, 2017 or 2014?",
+            "A": "The total students of the {2017} is larger."
+        },
+        {
+            "Q": "In the bar 2008, which has a larger students value: Lakewood Institute or Riverdale High?",
+            "A": "{Lakewood Institute} has the larger students value."
+        },
+        {
+            "Q": "In the bar 2020, which has a larger students value: Riverdale High, Lakewood Institute or Maplewood School?",
+            "A": "{Riverdale High} has the larger students value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Riverdale High in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Riverdale High are: {2016}, {2017}, {2014}."
+        }
+    ],
+    "VA": []
+}

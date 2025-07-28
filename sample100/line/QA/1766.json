@@ -1,0 +1,148 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 2011, what is the vertical (above/below) relationship of the line representing Zenith Imprints relative to Crimson Quill Publishing?",
+            "A": "In 2011, Zenith Imprints is {above} Crimson Quill Publishing in the vertical direction."
+        },
+        {
+            "Q": "On Crimson Quill Publishing, what is the spatial relationship of the data point in 2007 relative to that in 2006 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Crimson Quill Publishing, the data point in 2007 is {below} and to the {right} of the data point in 2006."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Crimson Quill Publishing's Book Sales levels?",
+            "A": "Crimson Quill Publishing's book sales levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "What is the trend of Zenith Imprints's Book Sales levels?",
+            "A": "Zenith Imprints's book sales levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "Which line shows a periodic stable trend in Book Sales levels?",
+            "A": "{Crimson Quill Publishing}."
+        },
+        {
+            "Q": "Which line shows a bimodal peak trend in Book Sales levels?",
+            "A": "{Zenith Imprints}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Zenith Imprints's Book Sales in 2008?",
+            "A": "Zenith Imprints's book sales in 2008 is {1117324.73} copies."
+        },
+        {
+            "Q": "What is Crimson Quill Publishing's Book Sales in 2001?",
+            "A": "Crimson Quill Publishing's book sales in 2001 is {406880.76} copies."
+        },
+        {
+            "Q": "What is Crimson Quill Publishing's Book Sales in 2006?",
+            "A": "Crimson Quill Publishing's book sales in 2006 is {417235.88} copies."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Book Sales in the line chart?",
+            "A": "The global minimum book sales is {363094.36} copies."
+        },
+        {
+            "Q": "What is the global maximum Book Sales in the line chart?",
+            "A": "The global maximum book sales is {1140407.06} copies."
+        },
+        {
+            "Q": "What is the highest Book Sales level recorded for Crimson Quill Publishing?",
+            "A": "Crimson Quill Publishing reached approximately {597073.71} copies in {2009}."
+        },
+        {
+            "Q": "What is the lowest Book Sales level recorded for Crimson Quill Publishing?",
+            "A": "Crimson Quill Publishing's lowest recorded level is approximately {363094.36} copies in {2012}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Crimson Quill Publishing's Book Sales from the starting year to the final year?",
+            "A": "The rate of growth in Crimson Quill Publishing's book sales is {25.80}%."
+        },
+        {
+            "Q": "What is the average value of Zenith Imprints's Book Sales?",
+            "A": "The average value of Zenith Imprints's book sales is {1028999.44} copies."
+        },
+        {
+            "Q": "What is the rate of change in Zenith Imprints's Book Sales from the starting year to the final year?",
+            "A": "The rate of growth in Zenith Imprints's book sales is {0.17}%."
+        },
+        {
+            "Q": "What is the average value of Crimson Quill Publishing's Book Sales?",
+            "A": "The average value of Crimson Quill Publishing's book sales is {485949.82} copies."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2005, which line had Book Sales exceed 982253 copies? Please list the lines and corresponding values.",
+            "A": "{Zenith Imprints} had {1127717} copies."
+        },
+        {
+            "Q": "Which years did Crimson Quill Publishing's Book Sales exceed 537366 copies? Please list the years and corresponding values.",
+            "A": "{597073.71} copies in {2009} year, {588561.41} copies in {2004} year, {540984.60} copies in {2000} year."
+        },
+        {
+            "Q": "In the year 2008, which line had Book Sales exceed 958034 copies? Please list the lines and corresponding values.",
+            "A": "{Zenith Imprints} had {1117325} copies."
+        },
+        {
+            "Q": "In the year 2008, which lines had Book Sales below 639454 copies? Please list the lines and corresponding values.",
+            "A": "{Crimson Quill Publishing} had {480163} copies."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2013, which line had a higher Book Sales, {Zenith Imprints} or {Crimson Quill Publishing}?",
+            "A": "In 2013, {Zenith Imprints} had a higher book sales."
+        },
+        {
+            "Q": "In 2014, which line had a higher Book Sales, {Crimson Quill Publishing} or {Zenith Imprints}?",
+            "A": "In 2014, {Zenith Imprints} had a higher book sales."
+        },
+        {
+            "Q": "Was Crimson Quill Publishing's Book Sales in 1998 higher or lower than in 2003?",
+            "A": "The book sales in 1998 was {lower} than in 2003."
+        },
+        {
+            "Q": "In 2004, which line had a higher Book Sales, {Zenith Imprints} or {Crimson Quill Publishing}?",
+            "A": "In 2004, {Zenith Imprints} had a higher book sales."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Zenith Imprints}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2011 and 2012?",
+            "A": "{Crimson Quill Publishing} has the fastest average growth rate between 2011 and 2012."
+        },
+        {
+            "Q": "Which label had the leading book sales since 2006?",
+            "A": "Since 2006, {Zenith Imprints} had the leading book sales."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Crimson Quill Publishing. List the x-coordinates of data points to be preserved.(6 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1998, 1999, 2002, 2009, 2012, 2014}."
+        }
+    ]
+}

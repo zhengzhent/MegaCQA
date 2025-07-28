@@ -1,0 +1,10 @@
+Agriculture and Food Production,Food Waste,tons
+trend,exponential_falling,stable_rising,stable_falling,stable_rising,single_valley,periodic_stable
+Year,FarmGate Transit,CropConnect Logistics,Verdant Distribution,HarvestLink Systems,AgroChain Management,AgriFlow Solutions
+1996,5879.29,6290.61,8159.11,6417.26,5266.55,11326.66
+1997,5288.38,6616.74,8431.21,6719.89,4214.76,14014.16
+1998,4738.8,6852.62,8696.27,7025.74,3725.42,12999.97
+1999,4329.74,7167.07,8900.33,7320.27,3439.78,9653.7
+2000,3910.84,7557.79,9142.79,7589.25,3693.74,8651.04
+2001,3478.53,7784.96,9430.76,7917.43,4305.9,11344.03
+2002,3140.56,8141.94,9621.57,8210.66,5127.12,14079.83

@@ -1,0 +1,143 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {3} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Fairmont of this stacked bar chart?",
+            "A": "There are {2} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Springfield}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Fairmont}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Fairmont relative to the bar Springfield in terms of horizontal (left/right) direction?",
+            "A": "Bar Fairmont is to the {right} of the bar Springfield."
+        },
+        {
+            "Q": "In the stacked bar of Oakridge, What is the spatial relationship of segment DigitalArt relative to the segment Photography in terms of vertical (above/below) direction?",
+            "A": "DigitalArt segment is positioned {below} the Photography segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which City has the highest bar in this stacked bar chart?",
+            "A": "The City with the highest bar is {Fairmont}."
+        },
+        {
+            "Q": "Which City has the lowest bar in this stacked bar chart?",
+            "A": "The City with the lowest bar is {Springfield}."
+        },
+        {
+            "Q": "In the stacked bar representing Oakridge, which segment has the highest value?",
+            "A": "The segment with the highest value is {Photography}."
+        },
+        {
+            "Q": "In the stacked bar representing Fairmont, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Photography}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Photography segment within the Fairmont bar in the stacked bar chart?",
+            "A": "The value of the Photography segment is {45.00} number."
+        },
+        {
+            "Q": "What is the value of the DigitalArt segment within the Oakridge bar in the stacked bar chart?",
+            "A": "The value of the DigitalArt segment is {69.00} number."
+        },
+        {
+            "Q": "What is the value of the DigitalArt segment within the Springfield bar in the stacked bar chart?",
+            "A": "The value of the DigitalArt segment is {45.00} number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum number among the stacked segments of bar Oakridge?",
+            "A": "The maximum number among the stacked segments of bar Oakridge is {141} number."
+        },
+        {
+            "Q": "What is the minimum number among the stacked segments of bar Fairmont?",
+            "A": "The minimum number among the stacked segments of bar Fairmont is {45} number."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum number of the segment DigitalArt among the bars?",
+            "A": "The maximum number among the bars of segment DigitalArt is {239} number."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum number of the segment Photography among the bars?",
+            "A": "The minimum number among the bars of segment Photography is {45} number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Oakridge?",
+            "A": "The total value of bar Oakridge is {210.00} number."
+        },
+        {
+            "Q": "What is the total value of the bar Fairmont?",
+            "A": "The total value of bar Fairmont is {284.00} number."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {592} number."
+        },
+        {
+            "Q": "What is the difference between total value of bar Springfield and Oakridge?",
+            "A": "The difference between between total value of bar Springfield and Oakridge is {112} number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total number values exceed 247.00 number? Please list the bar and corresponding values.",
+            "A": "{Fairmont} has {284} number"
+        },
+        {
+            "Q": "Which bars have total number values below 154.00 number? Please list the bar and corresponding values.",
+            "A": "{Springfield} has {98} number"
+        },
+        {
+            "Q": "For bar Oakridge in the stacked bar chart, which segment have number value between 34.5 and 210? Please list the segment and corresponding values.",
+            "A": "{DigitalArt} has {69} number, {Photography} has {141} number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total number of Springfield or Fairmont?",
+            "A": "The total number of the {Fairmont} is larger."
+        },
+        {
+            "Q": "Which is larger, the total number of Springfield, Oakridge or Fairmont?",
+            "A": "The total number of the {Fairmont} is larger."
+        },
+        {
+            "Q": "In the bar Fairmont, which has a larger number value: Photography or DigitalArt?",
+            "A": "{DigitalArt} has the larger number value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment DigitalArt in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment DigitalArt are: {Fairmont}, {Oakridge}, {Springfield}."
+        }
+    ],
+    "VA": []
+}

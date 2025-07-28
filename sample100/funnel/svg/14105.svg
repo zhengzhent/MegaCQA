@@ -1,0 +1,26 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1027.8 756 1107.8 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1086 601.4 1166 601.4" fill="none" stroke="#000000"></polyline>
+<polyline points="1195.5 446.9 1275.5 446.9" fill="none" stroke="#000000"></polyline>
+<polyline points="1368.9 292.3 1448.9 292.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1015 910.6 1095 910.6" fill="none" stroke="#000000"></polyline>
+<polyline points="1006.7 1065.1 1086.7 1065.1" fill="none" stroke="#000000"></polyline>
+<polyline points="998.5 1219.7 1078.5 1219.7" fill="none" stroke="#000000"></polyline>
+<polygon points="687.4 679.7 1040.6 679.7 1015 832.3 713 832.3" fill="#6A9AAA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="596.6 525.1 1131.4 525.1 1040.6 677.7 687.4 677.7" fill="#7AA9BD" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="468.5 370.6 1259.5 370.6 1131.4 523.1 596.6 523.1" fill="#8AB8D0" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1259.5 368.6 468.5 368.6" fill="#9AC7E3" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="713 834.3 1015 834.3 1015 986.9 713 986.9" fill="#5A8B97" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="713 988.9 1015 988.9 998.5 1141.4 729.5 1141.4" fill="#4A7C84" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="729.5 1143.4 998.5 1143.4 998.5 1296 729.5 1296" fill="#3C6E71" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1112.788250157928" y="756" fill="#000000">Prepare for Pickup: 910</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1171.006822488945" y="601.4285714285713" fill="#000000">Book Transport Service: 1378</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1280.457738471257" y="446.85714285714283" fill="#000000">Select Carrier or Service: 2038</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1453.949084017688" y="292.2857142857143" fill="#000000">Search Transport Options: 3166</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1099.9801642451043" y="910.5714285714284" fill="#000000">Begin Transportation: 778</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1091.7325331648767" y="1065.142857142857" fill="#000000">Complete Delivery: 778</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1083.4849020846495" y="1219.7142857142858" fill="#000000">Provide Feedback or Rating: 693</text>
+<path d="M-564.2656 -5l1128.5313 0l0 58l-1128.5312 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Freight Logistics Order Processing (Thousand Shipments)</text>
+</svg>

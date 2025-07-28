@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Revenue Growth Rate?",
+            "A": "The next dimension clockwise from Revenue Growth Rate is Patent Growth Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Revenue Growth Rate?",
+            "A": "The next dimension counterclockwise from Revenue Growth Rate is Net Profit Margin ."
+        },
+        {
+            "Q": "On the Market Share, is the point for Jimenez, Cabrera and Wilson inside or outside the point for Terry, Miller and Martinez?",
+            "A": "On the Market Share, the point for Jimenez, Cabrera and Wilson is outside the point for Terry, Miller and Martinez."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Net Profit Margin } encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Terry, Miller and Martinez?",
+            "A": "The strongest aspect is {Net Profit Margin }, while the weakest aspect is{ Market Share}."
+        },
+        {
+            "Q": "On dimension Patent Growth Rate, which label scores the highest?",
+            "A": "On Patent Growth Rate, label {Landry, Wilson and Houston} scores the highest."
+        },
+        {
+            "Q": "On dimension Net Profit Margin , which label scores the highest?",
+            "A": "On Net Profit Margin , label {Landry, Wilson and Houston} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Landry, Wilson and Houston on the Net Profit Margin  in the radar chart?",
+            "A": "The value of Landry, Wilson and Houston on the Safety dimension is {29}."
+        },
+        {
+            "Q": "What is the value of Jimenez, Cabrera and Wilson on the Market Share in the radar chart?",
+            "A": "The value of Jimenez, Cabrera and Wilson on the Safety dimension is {61}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Landry, Wilson and Houston across all dimensions in the radar chart?",
+            "A": "The maximum value of Landry, Wilson and Houston across all dimensions is {69}."
+        },
+        {
+            "Q": "What is the minimum value of label Terry, Miller and Martinez across all dimensions in the radar chart?",
+            "A": "The minimum value of Terry, Miller and Martinez across all dimensions is {61}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Market Share",
+            "A": "The average value of Market Share is {58.33}."
+        },
+        {
+            "Q": "What is the average value of Jimenez, Cabrera and Wilson",
+            "A": "The average value of Jimenez, Cabrera and Wilson is {53.0}."
+        },
+        {
+            "Q": "What is the difference in Patent Growth Rate between Jimenez, Cabrera and Wilson and Landry, Wilson and Houston?",
+            "A": "The difference in Patent Growth Rate between Jimenez, Cabrera and Wilson and Landry, Wilson and Houston is {15}."
+        },
+        {
+            "Q": "What is the difference in Net Profit Margin  between Terry, Miller and Martinez and Jimenez, Cabrera and Wilson?",
+            "A": "The difference in Net Profit Margin  between Terry, Miller and Martinez and Jimenez, Cabrera and Wilson is {23}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 64 for the Market Share dimension? Please list the labels and corresponding scores.",
+            "A": "{Landry, Wilson and Houston} is {69}"
+        },
+        {
+            "Q": "For Terry, Miller and Martinez in the radar chart, which dimensions have scores between 49 and 61? Please list the dimensions and corresponding scores.",
+            "A": "None is between 49 and 61"
+        },
+        {
+            "Q": "For Jimenez, Cabrera and Wilson in the radar chart, which dimensions have scores above 61? Please list the dimensions and corresponding scores.",
+            "A": "{Market Share} is {69}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Jimenez, Cabrera and Wilson, which dimension has a higher score: Net Profit Margin  or Revenue Growth Rate?",
+            "A": "{Revenue Growth Rate} has a higher score than Net Profit Margin  for Jimenez, Cabrera and Wilson."
+        },
+        {
+            "Q": "On Net Profit Margin , which label has a higher score: Jimenez, Cabrera and Wilson or the Terry, Miller and Martinez?",
+            "A": "{Terry, Miller and Martinez} has a higher score on Net Profit Margin  compared to Jimenez, Cabrera and Wilson."
+        },
+        {
+            "Q": "For Jimenez, Cabrera and Wilson, which dimension has a higher score: Net Profit Margin  or Revenue Growth Rate or Patent Growth Rate?",
+            "A": "{Revenue Growth Rate} has a higher score for Jimenez, Cabrera and Wilson."
+        },
+        {
+            "Q": "For Jimenez, Cabrera and Wilson, which dimension has a higher score: Net Profit Margin  or Market Share or Patent Growth Rate?",
+            "A": "{Market Share} has a higher score for Jimenez, Cabrera and Wilson."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Terry, Miller and Martinez, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Terry, Miller and Martinez most needs to improve its {Market Share}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Terry, Miller and Martinez}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Landry, Wilson and Houston}."
+        }
+    ],
+    "VA": []
+}

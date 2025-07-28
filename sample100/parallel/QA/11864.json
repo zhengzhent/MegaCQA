@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {3} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Collaboration index (1-10) dimension, what is the spatial relationship of Maxwell-Johnson  Research Institute relative to Duffy Group  Research Institute in terms of vertical (above/below) direction?",
+            "A": "{Maxwell-Johnson  Research Institute} is {above} {Duffy Group  Research Institute} on the Collaboration index (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Experiment success rate (%)?",
+            "A": "The first position to the left of Experiment success rate (%) is {Collaboration index (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Lab efficiency (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Collaboration index (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Experiment success rate (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Collaboration index (1-10) and dimension Experiment success rate (%)",
+            "A": "There is {Strong Correlation} between Collaboration index (1-10) and Experiment success rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Maxwell-Johnson  Research Institute on the Lab efficiency (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Maxwell-Johnson  Research Institute on the Lab efficiency (%) dimension is {100.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Duffy Group  Research Institute across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Duffy Group  Research Institute across all dimensions is {85.37}"
+        },
+        {
+            "Q": "What is the minimum value of label Smith, Murphy and Ford  Lab across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Smith, Murphy and Ford  Lab across all dimensions is {10.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Lab efficiency (%)?",
+            "A": "The average value of Lab efficiency (%) is {59.9}"
+        },
+        {
+            "Q": "What is the difference in coding Lab efficiency (%) between label Duffy Group  Research Institute and label Grant, Edwards and Thompson  Research Institute",
+            "A": "The difference in coding Lab efficiency (%) between Duffy Group  Research Institute and Grant, Edwards and Thompson  Research Institute is {42.83}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Experiment success rate (%) dimension in the parallel coordinates?",
+            "A": "{[100.0, 95.64, 67.19]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Lab efficiency (%) dimension in the parallel coordinates?",
+            "A": "{[30.0, 41.61, 42.54]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Experiment success rate (%), which label has a higher score: Maxwell-Johnson  Research Institute or Duffy Group  Research Institute?",
+            "A": "{Maxwell-Johnson  Research Institute} has a higher score on Experiment success rate (%)."
+        },
+        {
+            "Q": "On Lab efficiency (%), which label has a higher score: Maxwell-Johnson  Research Institute or Moore, Rogers and Harper  Research Institute?",
+            "A": "{Maxwell-Johnson  Research Institute} has a higher score on Lab efficiency (%)."
+        },
+        {
+            "Q": "On Lab efficiency (%), which label has a higher score: Duffy Group  Research Institute or Grant, Edwards and Thompson  Research Institute?",
+            "A": "{Duffy Group  Research Institute} has a higher score on Lab efficiency (%)."
+        },
+        {
+            "Q": "On Collaboration index (1-10), which label has a higher score: Maxwell-Johnson  Research Institute or Duffy Group  Research Institute?",
+            "A": "{Maxwell-Johnson  Research Institute} has a higher score on Collaboration index (1-10)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Experiment success rate (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Collaboration index (1-10) being greater than 6.89 and Lab efficiency (%) being less than 53.27?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

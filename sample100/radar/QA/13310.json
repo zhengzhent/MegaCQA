@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Sponsorship Revenue Ratio ?",
+            "A": "The next dimension clockwise from Sponsorship Revenue Ratio  is TV/Streaming Viewership Rating "
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from TV/Streaming Viewership Rating ?",
+            "A": "The next dimension counterclockwise from Sponsorship Revenue Ratio  is Streaming Play Rate ."
+        },
+        {
+            "Q": "On the Sponsorship Revenue Ratio , is the point for harness granular partnerships inside or outside the point for incentivize rich systems?",
+            "A": "On the Sponsorship Revenue Ratio , the point for harness granular partnerships is outside the point for incentivize rich systems."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Streaming Play Rate } encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of incentivize rich systems?",
+            "A": "The strongest aspect is {Streaming Play Rate }, while the weakest aspect is{ Stadium Occupancy Rate }."
+        },
+        {
+            "Q": "On dimension TV/Streaming Viewership Rating , which label scores the highest?",
+            "A": "On TV/Streaming Viewership Rating , label {harness granular partnerships} scores the highest."
+        },
+        {
+            "Q": "On dimension Ad Impression Rate , which label scores the highest?",
+            "A": "On Ad Impression Rate , label {harness granular partnerships} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of harness granular partnerships on the Stadium Occupancy Rate  in the radar chart?",
+            "A": "The value of harness granular partnerships on the Safety dimension is {21}."
+        },
+        {
+            "Q": "What is the value of incentivize rich systems on the Sponsorship Revenue Ratio  in the radar chart?",
+            "A": "The value of incentivize rich systems on the Safety dimension is {28}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label incentivize rich systems across all dimensions in the radar chart?",
+            "A": "The maximum value of incentivize rich systems across all dimensions is {21}."
+        },
+        {
+            "Q": "What is the minimum value of label incentivize rich systems across all dimensions in the radar chart?",
+            "A": "The minimum value of incentivize rich systems across all dimensions is {47}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Sponsorship Revenue Ratio ",
+            "A": "The average value of Sponsorship Revenue Ratio  is {36.0}."
+        },
+        {
+            "Q": "What is the average value of harness granular partnerships",
+            "A": "The average value of harness granular partnerships is {37.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 25 for the TV/Streaming Viewership Rating  dimension? Please list the labels and corresponding scores.",
+            "A": "{harness granular partnerships} is {21}"
+        },
+        {
+            "Q": "For harness granular partnerships in the radar chart, which dimensions have scores between 32 and 43? Please list the dimensions and corresponding scores.",
+            "A": "None is between 32 and 43"
+        },
+        {
+            "Q": "For harness granular partnerships in the radar chart, which dimensions have scores above 43? Please list the dimensions and corresponding scores.",
+            "A": "{Streaming Play Rate } is {47}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For incentivize rich systems, which dimension has a higher score: TV/Streaming Viewership Rating  or Ad Impression Rate ?",
+            "A": "{TV/Streaming Viewership Rating } has a higher score than Ad Impression Rate  for incentivize rich systems."
+        },
+        {
+            "Q": "On Stadium Occupancy Rate , which label has a higher score: incentivize rich systems or the harness granular partnerships?",
+            "A": "{incentivize rich systems} has a higher score on Stadium Occupancy Rate  compared to harness granular partnerships."
+        },
+        {
+            "Q": "For incentivize rich systems, which dimension has a higher score: TV/Streaming Viewership Rating  or Sponsorship Revenue Ratio  or Stadium Occupancy Rate ?",
+            "A": "{TV/Streaming Viewership Rating } has a higher score for incentivize rich systems."
+        },
+        {
+            "Q": "For incentivize rich systems, which dimension has a higher score: TV/Streaming Viewership Rating  or Stadium Occupancy Rate  or Streaming Play Rate ?",
+            "A": "{Streaming Play Rate } has a higher score for incentivize rich systems."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For harness granular partnerships, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "harness granular partnerships most needs to improve its {Ad Impression Rate }."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {harness granular partnerships}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {incentivize rich systems}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,6 @@
+﻿Agriculture and Food Production,Farm Productivity
+Pattern,No Correlation,No Correlation
+labels,Soil health index (1-10),Equipment utilization (%),Water usage (liters/kg)
+left  Soybean,8.08,91.82,1.0
+under  Corn,10.0,100.0,162.17
+instead  Rice,1.0,30.0,1000.0

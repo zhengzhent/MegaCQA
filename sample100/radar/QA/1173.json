@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Market Share Rate?",
+            "A": "The next dimension clockwise from Market Share Rate is Customer Retention Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Market Share Rate?",
+            "A": "The next dimension counterclockwise from Market Share Rate is Capacity Utilization Rate."
+        },
+        {
+            "Q": "On the ROI, is the point for Myers and Sons inside or outside the point for Rodriguez, Johnson and Hernandez?",
+            "A": "On the ROI, the point for Myers and Sons is inside the point for Rodriguez, Johnson and Hernandez."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Customer Retention Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Myers and Sons?",
+            "A": "The strongest aspect is {Customer Retention Rate}, while the weakest aspect is{ Market Share Rate}."
+        },
+        {
+            "Q": "On dimension Market Share Rate, which label scores the highest?",
+            "A": "On Market Share Rate, label {Myers and Sons} scores the highest."
+        },
+        {
+            "Q": "On dimension ROI, which label scores the highest?",
+            "A": "On ROI, label {Myers and Sons} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Rodriguez, Johnson and Hernandez on the Market Share Rate in the radar chart?",
+            "A": "The value of Rodriguez, Johnson and Hernandez on the Safety dimension is {74}."
+        },
+        {
+            "Q": "What is the value of Rodriguez, Johnson and Hernandez on the Customer Retention Rate in the radar chart?",
+            "A": "The value of Rodriguez, Johnson and Hernandez on the Safety dimension is {82}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Rodriguez, Johnson and Hernandez across all dimensions in the radar chart?",
+            "A": "The maximum value of Rodriguez, Johnson and Hernandez across all dimensions is {58}."
+        },
+        {
+            "Q": "What is the minimum value of label Smith-Sharp across all dimensions in the radar chart?",
+            "A": "The minimum value of Smith-Sharp across all dimensions is {74}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Capacity Utilization Rate",
+            "A": "The average value of Capacity Utilization Rate is {77.33}."
+        },
+        {
+            "Q": "What is the average value of Myers and Sons",
+            "A": "The average value of Myers and Sons is {64.75}."
+        },
+        {
+            "Q": "What is the difference in Capacity Utilization Rate between Myers and Sons and Smith-Sharp?",
+            "A": "The difference in Capacity Utilization Rate between Myers and Sons and Smith-Sharp is {30}."
+        },
+        {
+            "Q": "What is the difference in Capacity Utilization Rate between Rodriguez, Johnson and Hernandez and Smith-Sharp?",
+            "A": "The difference in Capacity Utilization Rate between Rodriguez, Johnson and Hernandez and Smith-Sharp is {35}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Rodriguez, Johnson and Hernandez in the radar chart, which dimensions have scores above 80? Please list the dimensions and corresponding scores.",
+            "A": "{Customer Retention Rate} is {87}"
+        },
+        {
+            "Q": "For Smith-Sharp in the radar chart, which dimensions have scores between 63 and 80? Please list the dimensions and corresponding scores.",
+            "A": "None is between 63 and 80"
+        },
+        {
+            "Q": "Which labels have scores below 84 for the Customer Retention Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Rodriguez, Johnson and Hernandez} is {82}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Myers and Sons, which dimension has a higher score: Capacity Utilization Rate or Market Share Rate?",
+            "A": "{Capacity Utilization Rate} has a higher score than Market Share Rate for Myers and Sons."
+        },
+        {
+            "Q": "For Smith-Sharp, which dimension has a higher score: Market Share Rate or ROI?",
+            "A": "{ROI} has a higher score than Market Share Rate for Smith-Sharp."
+        },
+        {
+            "Q": "On Capacity Utilization Rate, which label has a higher score: Smith-Sharp or the Rodriguez, Johnson and Hernandez?",
+            "A": "{Smith-Sharp} has a higher score on Capacity Utilization Rate compared to Rodriguez, Johnson and Hernandez."
+        },
+        {
+            "Q": "On ROI, which label has a higher score: Smith-Sharp or the Myers and Sons?",
+            "A": "{Smith-Sharp} has a higher score on ROI compared to Myers and Sons."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Myers and Sons, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Myers and Sons most needs to improve its {Market Share Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Smith-Sharp}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Myers and Sons}."
+        }
+    ],
+    "VA": []
+}

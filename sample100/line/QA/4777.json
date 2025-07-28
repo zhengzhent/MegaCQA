@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On AstraCorp, what is the spatial relationship of the data point in 1977 relative to that in 1976 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On AstraCorp, the data point in 1977 is {below} and to the {right} of the data point in 1976."
+        },
+        {
+            "Q": "In 1975, what is the vertical (above/below) relationship of the line representing AstraCorp relative to Ironclad Industries?",
+            "A": "In 1975, AstraCorp is {below} Ironclad Industries in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Verdant Ventures's Turnover Rate levels?",
+            "A": "Verdant Ventures's turnover rate levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of AstraCorp's Turnover Rate levels?",
+            "A": "AstraCorp's turnover rate levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Ironclad Industries's Turnover Rate levels?",
+            "A": "Ironclad Industries's turnover rate levels show a {stable falling} trend."
+        },
+        {
+            "Q": "Which line shows a exponential falling trend in Turnover Rate levels?",
+            "A": "{Verdant Ventures}, {AstraCorp}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Ironclad Industries's Turnover Rate in 1977?",
+            "A": "Ironclad Industries's turnover rate in 1977 is {21.67} %."
+        },
+        {
+            "Q": "What is AstraCorp's Turnover Rate in 1976?",
+            "A": "AstraCorp's turnover rate in 1976 is {11.28} %."
+        },
+        {
+            "Q": "What is Verdant Ventures's Turnover Rate in 1976?",
+            "A": "Verdant Ventures's turnover rate in 1976 is {8.50} %."
+        },
+        {
+            "Q": "What are the turnover rate of Verdant Ventures, Ironclad Industries, and AstraCorp in 1975?",
+            "A": "Verdant Ventures's turnover rate is {9.39} %, Ironclad Industries's turnover rate is {20.37} %, AstraCorp's turnover rate is {12.71} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Turnover Rate in the line chart?",
+            "A": "The global minimum turnover rate is {7.64} %."
+        },
+        {
+            "Q": "What is the global maximum Turnover Rate in the line chart?",
+            "A": "The global maximum turnover rate is {21.67} %."
+        },
+        {
+            "Q": "What is the highest Turnover Rate level recorded for AstraCorp?",
+            "A": "AstraCorp reached approximately {12.71} % in {1975}."
+        },
+        {
+            "Q": "What is the lowest Turnover Rate level recorded for AstraCorp?",
+            "A": "AstraCorp's lowest recorded level is approximately {10.27} % in {1977}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Ironclad Industries's Turnover Rate from the starting year to the final year?",
+            "A": "The rate of growth in Ironclad Industries's turnover rate is {6.38}%."
+        },
+        {
+            "Q": "What is the rate of change in AstraCorp's Turnover Rate from the starting year to the final year?",
+            "A": "The rate of decline in AstraCorp's turnover rate is {-19.20}%."
+        },
+        {
+            "Q": "What is the rate of change in Verdant Ventures's Turnover Rate from the starting year to the final year?",
+            "A": "The rate of decline in Verdant Ventures's turnover rate is {-18.64}%."
+        },
+        {
+            "Q": "What is the average value of Ironclad Industries's Turnover Rate?",
+            "A": "The average value of Ironclad Industries's turnover rate is {21.07} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1976, which lines had Turnover Rate below 10 %? Please list the lines and corresponding values.",
+            "A": "{Verdant Ventures} had {8} %."
+        },
+        {
+            "Q": "In the year 1976, which line had Turnover Rate exceed 16 %? Please list the lines and corresponding values.",
+            "A": "{Ironclad Industries} had {21} %."
+        },
+        {
+            "Q": "Which years did AstraCorp's Turnover Rate between 11 and 12 %? Please list the years and corresponding values.",
+            "A": "{11.28} % in {1976} year."
+        },
+        {
+            "Q": "In the year 1977, which lines had Turnover Rate below 9 %? Please list the lines and corresponding values.",
+            "A": "{Verdant Ventures} had {8} %."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1976 and 1977, which line experienced a larger change in Turnover Rate, AstraCorp or Ironclad Industries?",
+            "A": "{AstraCorp} experienced a larger change in turnover rate."
+        },
+        {
+            "Q": "Between 1975 and 1976, which line had the highest average Turnover Rate, Verdant Ventures, Ironclad Industries, or AstraCorp?",
+            "A": "{Ironclad Industries} had the highest average turnover rate."
+        },
+        {
+            "Q": "Between 1975 and 1976, which line experienced a larger change in Turnover Rate, Verdant Ventures or Ironclad Industries?",
+            "A": "{Verdant Ventures} experienced a larger change in turnover rate."
+        },
+        {
+            "Q": "Between 1975 and 1976, which line had a higher average Turnover Rate, Ironclad Industries or Verdant Ventures?",
+            "A": "{Ironclad Industries} had a higher average turnover rate."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {AstraCorp}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1975 and 1977?",
+            "A": "{Ironclad Industries} has the fastest average growth rate between 1975 and 1977."
+        },
+        {
+            "Q": "Which label had the leading turnover rate since 1976?",
+            "A": "Since 1976, {Ironclad Industries} had the leading turnover rate."
+        }
+    ],
+    "VA": []
+}

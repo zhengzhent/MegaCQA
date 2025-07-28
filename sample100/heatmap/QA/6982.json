@@ -1,0 +1,97 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {64} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {central cluster} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Data and Patents in the heatmap?",
+            "A": "The heat value is {0.52}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Materials and Commercialization in the heatmap?",
+            "A": "The heat value is {0.27}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Materials and Testing in the heatmap?",
+            "A": "The heat value is {0.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.80}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.27}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Data on the x-axis?",
+            "A": "The maximum heat value of Data on the x-axis is {0.57}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Testing on the y-axis?",
+            "A": "The maximum heat value for Testing on the y-axis is {0.80}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Funding on the y-axis?",
+            "A": "The average heat value for Funding on the y-axis is {0.38}."
+        },
+        {
+            "Q": "What is the average heat value for label Aerospace on the x-axis?",
+            "A": "The average heat value for Aerospace on the x-axis is {0.53}."
+        },
+        {
+            "Q": "What is the average heat value for label Development on the y-axis?",
+            "A": "The average heat value for Development on the y-axis is {0.34}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Environmental and Commercialization or the cell corresponding to Aerospace and Maintenance?",
+            "A": "The cell corresponding to {Aerospace} and {Maintenance} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Computer and Innovation or the cell corresponding to Environmental and Patents?",
+            "A": "The cell corresponding to {Computer} and {Innovation} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Electrical and Innovation or the cell corresponding to Environmental and Maintenance?",
+            "A": "The cell corresponding to {Electrical} and {Innovation} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.65 to 0.69?",
+            "A": "The cells are: {(Aerospace, Patents), (Computer, Testing)}."
+        }
+    ],
+    "VA": []
+}

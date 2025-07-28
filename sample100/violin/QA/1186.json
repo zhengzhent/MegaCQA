@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {3} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {PrimeVue}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {CoreLogic}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin PrimeVue?",
+            "A": "The first position to the right of the violin PrimeVue is {DataPulse}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin CoreLogic relative to the violin DataPulse in terms of horizontal (left/right) direction?",
+            "A": "violin CoreLogic is to the {right} of the violin DataPulse."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {CoreLogic}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {CoreLogic}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing DataPulse?",
+            "A": "The density distribution pattern of the DataPulse shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of DataPulse in the violin plot?",
+            "A": "The median of DataPulse is {44843.00} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of DataPulse in the violin plot?",
+            "A": "The lower quartile (Q1) of DataPulse is {33962.00} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of DataPulse in the violin plot?",
+            "A": "The upper whisker limit of DataPulse is {78211.00} USD."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in DataPulse in the violin plot?",
+            "A": "The lowest upper outlier value in DataPulse is {68.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {127021.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {68.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin DataPulse and PrimeVue?",
+            "A": "The Q3 difference between violin DataPulse and PrimeVue is {7317.00} USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin CoreLogic and PrimeVue?",
+            "A": "The total Q1 value of violin CoreLogic and CoreLogic is {81748.00} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of violin PrimeVue and DataPulse?",
+            "A": "The average Q1 value of violin PrimeVue and DataPulse is {34571.00} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 46579.00 USD? Please list the violins and corresponding values.",
+            "A": "{PrimeVue} has {48315.00} USD , {CoreLogic} has {57561.00} USD "
+        },
+        {
+            "Q": "Which violins have median values below 52938.00 USD? Please list the violins and corresponding values.",
+            "A": "{PrimeVue} has {48315.00} USD , {DataPulse} has {44843.00} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 34571.00 USD and the upper quartile (Q3) below 63617.50 USD?",
+            "A": "Violin {PrimeVue} has the Q1 above 34571.00 USD and the Q3 below 63617.5 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 48913.50 USD?",
+            "A": "Violin {PrimeVue} has {49848.20} USD ,{CoreLogic} has {59128.28} USD have their highest density peak exceed 48913.50 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 54488.24 USD?",
+            "A": "Violin {PrimeVue} has {49848.20} USD ,{DataPulse} has {47978.80} USD have their highest density peak below 54488.24 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of PrimeVue or CoreLogic ",
+            "A": "The median value of the {CoreLogic} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of PrimeVue, CoreLogic or DataPulse ",
+            "A": "The median value of the {CoreLogic} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {PrimeVue}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {5} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1983, what is the vertical (above/below) relationship of the line representing Starlight Soundwave relative to Aethelgard Harmonic Assembly?",
+            "A": "In 1983, Starlight Soundwave is {above} Aethelgard Harmonic Assembly in the vertical direction."
+        },
+        {
+            "Q": "On Zenith Rhythm Fest, what is the spatial relationship of the data point in 1982 relative to that in 1983 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Zenith Rhythm Fest, the data point in 1982 is {below} and to the {left} of the data point in 1983."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Meridian Music Gathering's Music Festival Attendance levels?",
+            "A": "Meridian Music Gathering's music festival attendance levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Starlight Soundwave's Music Festival Attendance levels?",
+            "A": "Starlight Soundwave's music festival attendance levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Zenith Rhythm Fest's Music Festival Attendance levels?",
+            "A": "Zenith Rhythm Fest's music festival attendance levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of Aethelgard Harmonic Assembly's Music Festival Attendance levels?",
+            "A": "Aethelgard Harmonic Assembly's music festival attendance levels show a {stable rising} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Terra Tempo Festival's Music Festival Attendance in 1986?",
+            "A": "Terra Tempo Festival's music festival attendance in 1986 is {161993.17} attendees."
+        },
+        {
+            "Q": "What is Meridian Music Gathering's Music Festival Attendance in 1985?",
+            "A": "Meridian Music Gathering's music festival attendance in 1985 is {90180.56} attendees."
+        },
+        {
+            "Q": "What is Zenith Rhythm Fest's Music Festival Attendance in 1987?",
+            "A": "Zenith Rhythm Fest's music festival attendance in 1987 is {72998.32} attendees."
+        },
+        {
+            "Q": "What are the music festival attendance of Starlight Soundwave, Aethelgard Harmonic Assembly, and Terra Tempo Festival in 1986?",
+            "A": "Starlight Soundwave's music festival attendance is {170857.40} attendees, Aethelgard Harmonic Assembly's music festival attendance is {77024.61} attendees, Terra Tempo Festival's music festival attendance is {161993.17} attendees."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Music Festival Attendance in the line chart?",
+            "A": "The global minimum music festival attendance is {54118.86} attendees."
+        },
+        {
+            "Q": "What is the global maximum Music Festival Attendance in the line chart?",
+            "A": "The global maximum music festival attendance is {183677.26} attendees."
+        },
+        {
+            "Q": "What is the highest Music Festival Attendance level recorded for Aethelgard Harmonic Assembly?",
+            "A": "Aethelgard Harmonic Assembly reached approximately {80604.52} attendees in {1987}."
+        },
+        {
+            "Q": "What is the lowest Music Festival Attendance level recorded for Aethelgard Harmonic Assembly?",
+            "A": "Aethelgard Harmonic Assembly's lowest recorded level is approximately {64986.84} attendees in {1982}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Zenith Rhythm Fest's Music Festival Attendance?",
+            "A": "The average value of Zenith Rhythm Fest's music festival attendance is {63724.39} attendees."
+        },
+        {
+            "Q": "What is the rate of change in Starlight Soundwave's Music Festival Attendance from the starting year to the final year?",
+            "A": "The rate of growth in Starlight Soundwave's music festival attendance is {23.10}%."
+        },
+        {
+            "Q": "What is the average value of Starlight Soundwave's Music Festival Attendance?",
+            "A": "The average value of Starlight Soundwave's music festival attendance is {160021.09} attendees."
+        },
+        {
+            "Q": "What is the rate of change in Zenith Rhythm Fest's Music Festival Attendance from the starting year to the final year?",
+            "A": "The rate of growth in Zenith Rhythm Fest's music festival attendance is {34.89}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Terra Tempo Festival's Music Festival Attendance below 125565 attendees? Please list the years and corresponding values.",
+            "A": "{112823.44} attendees in {1982} year, {121437.52} attendees in {1983} year."
+        },
+        {
+            "Q": "In the year 1987, which lines had Music Festival Attendance between 90162 and 166621 attendees? Please list the lines and corresponding values.",
+            "A": "{Meridian Music Gathering} had {95599} attendees."
+        },
+        {
+            "Q": "Which years did Aethelgard Harmonic Assembly's Music Festival Attendance exceed 72544 attendees? Please list the years and corresponding values.",
+            "A": "{73193.98} attendees in {1985} year, {77024.61} attendees in {1986} year, {80604.52} attendees in {1987} year."
+        },
+        {
+            "Q": "In the year 1984, which lines had Music Festival Attendance below 71542 attendees? Please list the lines and corresponding values.",
+            "A": "{Zenith Rhythm Fest} had {61694} attendees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1984 and 1986, which line experienced the largest change in Music Festival Attendance, Terra Tempo Festival, Starlight Soundwave, Aethelgard Harmonic Assembly, or Zenith Rhythm Fest?",
+            "A": "{Terra Tempo Festival} experienced the largest change in music festival attendance."
+        },
+        {
+            "Q": "In 1984, which line had a higher Music Festival Attendance, {Aethelgard Harmonic Assembly} or {Starlight Soundwave}?",
+            "A": "In 1984, {Starlight Soundwave} had a higher music festival attendance."
+        },
+        {
+            "Q": "Between 1983 and 1987, which line had a higher average Music Festival Attendance, Zenith Rhythm Fest or Meridian Music Gathering?",
+            "A": "{Meridian Music Gathering} had a higher average music festival attendance."
+        },
+        {
+            "Q": "Between 1984 and 1987, which line had a higher average Music Festival Attendance, Meridian Music Gathering or Zenith Rhythm Fest?",
+            "A": "{Meridian Music Gathering} had a higher average music festival attendance."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Terra Tempo Festival}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1984 and 1985?",
+            "A": "{Terra Tempo Festival} has the fastest average growth rate between 1984 and 1985."
+        },
+        {
+            "Q": "In which year did Terra Tempo Festival first surpass Starlight Soundwave?",
+            "A": "Terra Tempo Festival first surpassed Starlight Soundwave in the year {1987}."
+        },
+        {
+            "Q": "Which label had the leading music festival attendance since 1985?",
+            "A": "Since 1985, {Starlight Soundwave} had the leading music festival attendance."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Terra Tempo Festival. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1982, 1987}."
+        }
+    ]
+}

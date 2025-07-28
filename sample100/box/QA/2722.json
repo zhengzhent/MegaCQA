@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {7} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Glenhaven}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Springfield}."
+        },
+        {
+            "Q": "Which box is the second position to the left of the box Northgate?",
+            "A": "The second position to the left of the box Northgate is {Glenhaven}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Springfield relative to the box Zephyr in terms of horizontal (left/right) direction?",
+            "A": "Box Springfield is to the {right} of the box Zephyr."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Springfield}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Springfield}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Oakridge}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Zephyr in the box plot?",
+            "A": "The median of Zephyr is {957.5} number."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Glenhaven in the box plot?",
+            "A": "The lower quartile (Q1) of Glenhaven is {843.25} number."
+        },
+        {
+            "Q": "What is the upper whisker limit of Dunvale in the box plot?",
+            "A": "The upper whisker limit of Dunvale is {1694} number."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Springfield in the box plot?",
+            "A": "The largest upper outlier value in Springfield is {2764}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum number value in the box plot?",
+            "A": "The global maximum number value in the box plot is {2764.00} number."
+        },
+        {
+            "Q": "What is the global minimum number value in the box plot?",
+            "A": "The global minimum number value in the box plot is {236.00} number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Dunvale and Glenhaven?",
+            "A": "The Median difference between box Dunvale and Glenhaven is {297.0} number."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Ironwood and Oakridge?",
+            "A": "The total Q1 value of box Ironwood and Oakridge is {1553.0} number."
+        },
+        {
+            "Q": "What is the average Median value of box Dunvale and Zephyr?",
+            "A": "The average Median value of box Dunvale and Zephyr is {871.75} number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 1511.1000000000001 number?",
+            "A": "Box{Glenhaven},{Northgate},{Ironwood},{Oakridge},{Springfield} have the outliers exceed 1511.1000000000001 number."
+        },
+        {
+            "Q": "Which boxes have median values exceed 1282.00 number? Please list the boxes and corresponding values.",
+            "A": "{Springfield} has {1413.5} number "
+        },
+        {
+            "Q": "Which boxes have median values below 1015.75 number? Please list the boxes and corresponding values.",
+            "A": "{Zephyr} has {957.5} number , {Ironwood} has {758.5} number , {Dunvale} has {786.0} number "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Glenhaven or Northgate ",
+            "A": "The median value of the {Northgate} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Northgate, Ironwood or Glenhaven ",
+            "A": "The median value of the {Northgate} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Northgate, Springfield, Dunvale or Ironwood ",
+            "A": "The median value of the {Springfield} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Dunvale}."
+        }
+    ],
+    "VA": []
+}

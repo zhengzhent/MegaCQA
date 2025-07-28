@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {7} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Fine Dining relative to Street Food Hubs?",
+            "A": "Fine Dining is {below} Street Food Hubs in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total restaurant reservations?",
+            "A": "The series with the largest contribution is {Casual Eateries}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total restaurant reservations?",
+            "A": "The series with the smallest contribution is {Family Restaurants}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Vegan Cafes's Restaurant Reservations in 1998?",
+            "A": "Vegan Cafes's restaurant reservations in 1998 is {1444.51} reservations/week."
+        },
+        {
+            "Q": "What is Vegan Cafes's Restaurant Reservations in 2002?",
+            "A": "Vegan Cafes's restaurant reservations in 2002 is {1926.24} reservations/week."
+        },
+        {
+            "Q": "What is Rooftop Bars's Restaurant Reservations in 1991?",
+            "A": "Rooftop Bars's restaurant reservations in 1991 is {1003.38} reservations/week."
+        },
+        {
+            "Q": "What are the restaurant reservations of Rooftop Bars, Casual Eateries, and Vegan Cafes in 1997?",
+            "A": "Rooftop Bars's restaurant reservations is {1203.48} reservations/week, Casual Eateries's restaurant reservations is {1976.03} reservations/week, Vegan Cafes's restaurant reservations is {1602.93} reservations/week."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Restaurant Reservations in the area chart?",
+            "A": "The global minimum restaurant reservations is {497.86} reservations/week."
+        },
+        {
+            "Q": "What is the global maximum Restaurant Reservations in the area chart?",
+            "A": "The global maximum restaurant reservations is {4501.19} reservations/week."
+        },
+        {
+            "Q": "What is the highest Restaurant Reservations level recorded for Casual Eateries?",
+            "A": "Casual Eateries reached approximately {4501.19} reservations/week in {2007}."
+        },
+        {
+            "Q": "What is the lowest Restaurant Reservations level recorded for Casual Eateries?",
+            "A": "Casual Eateries's lowest recorded level is approximately {987.77} reservations/week in {1991}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Restaurant Reservations?",
+            "A": "The average total restaurant reservations is {9279.01} reservations/week."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Restaurant Reservations exceed 10143.62 reservations/week? Please list the years and corresponding total values.",
+            "A": "{12671.92} reservations/week in {2007}, {10698.59} reservations/week in {2002}, {10405.98} reservations/week in {2005}."
+        },
+        {
+            "Q": "Which years did the total Restaurant Reservations go below 8020.95 reservations/week? Please list the years and corresponding total values.",
+            "A": "{7927.23} reservations/week in {1996}, {7444.04} reservations/week in {1991}, {7725.02} reservations/week in {1993}."
+        },
+        {
+            "Q": "Which years did the total Restaurant Reservations fall between 8628.17 and 9536.40 reservations/week? Please list the years and corresponding total values.",
+            "A": "{8898.95} reservations/week in {1998}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1997 and 2006, was the average total Restaurant Reservations higher or lower than between 1999 and 2005?",
+            "A": "The average total restaurant reservations between 1997 and 2006 was {higher} than between 1999 and 2005."
+        },
+        {
+            "Q": "Between 1991 and 1997, was the average total Restaurant Reservations higher or lower than between 2000 and 2006?",
+            "A": "The average total restaurant reservations between 1991 and 1997 was {lower} than between 2000 and 2006."
+        },
+        {
+            "Q": "Between 1997 and 2007, was the average total Restaurant Reservations higher or lower than between 1997 and 2003?",
+            "A": "The average total restaurant reservations between 1997 and 2007 was {higher} than between 1997 and 2003."
+        },
+        {
+            "Q": "Was the total Restaurant Reservations in 1993 higher or lower than in 2007?",
+            "A": "The total restaurant reservations in 1993 was {lower} than in 2007."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Casual Eateries} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Family Restaurants, Fusion Kitchens, Fine Dining, Rooftop Bars, Street Food Hubs, Vegan Cafes, Casual Eateries}."
+        }
+    ]
+}

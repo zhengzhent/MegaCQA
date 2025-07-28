@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {90} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {10} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {central cluster} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Water and Production in the heatmap?",
+            "A": "The heat value is {0.14}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Exploration and Technology in the heatmap?",
+            "A": "The heat value is {0.17}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.91}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.09}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Renewables on the x-axis?",
+            "A": "The maximum heat value of Renewables on the x-axis is {0.62}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Coal on the x-axis?",
+            "A": "The maximum heat value of Coal on the x-axis is {0.66}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Emissions on the y-axis?",
+            "A": "The average heat value for Emissions on the y-axis is {0.63}."
+        },
+        {
+            "Q": "What is the average heat value for label Oil on the x-axis?",
+            "A": "The average heat value for Oil on the x-axis is {0.46}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Exploration and Prices or the cell corresponding to Gas and Prices?",
+            "A": "The cell corresponding to {Gas} and {Prices} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Renewables and Prices or the cell corresponding to Oil and Reliability?",
+            "A": "The cell corresponding to {Renewables} and {Prices} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Gas and Consumption or the cell corresponding to Waste Management and Prices?",
+            "A": "The cell corresponding to {Gas} and {Consumption} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Distribution and Storage or the cell corresponding to Distribution and Technology?",
+            "A": "The cell corresponding to {Distribution} and {Storage} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.16 to 0.22?",
+            "A": "The cells are: {(Water, Policy), (Water, Prices), (Waste Management, Production), (Oil, Reliability), (Transmission, Reliability), (Waste Management, Reliability), (Coal, Storage), (Distribution, Storage), (Gas, Storage), (Transmission, Storage), (Waste Management, Storage), (Exploration, Technology), (Nuclear, Technology), (Oil, Technology)}."
+        }
+    ],
+    "VA": []
+}

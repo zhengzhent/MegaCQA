@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {13} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {PureSync}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {AlphaNet}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar MarketZen relative to the bar TrueNorth in terms of vetical (above/below) direction??",
+            "A": "Bar MarketZen is  {below} the bar TrueNorth."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {AlphaNet}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {PureSync}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar SmartHub?",
+            "A": "The value of SmartHub is {86431} number of employees."
+        },
+        {
+            "Q": "What is the value of bar EcoCore?",
+            "A": "The value of EcoCore is {64760} number of employees."
+        },
+        {
+            "Q": "What is the value of bar PrimeVue?",
+            "A": "The value of PrimeVue is {67784} number of employees."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum number of employees in the bar chart?",
+            "A": "The maximum number of employees is {300000} number of employees."
+        },
+        {
+            "Q": "What is the minimum number of employees in the bar chart?",
+            "A": "The minimum number of employees is {50176} number of employees."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of BluePeak and EcoCore?",
+            "A": "The total value of BluePeak and EcoCore is {121068} number of employees."
+        },
+        {
+            "Q": "What is the average value of DataPulse and EcoCore?",
+            "A": "The average value of DataPulse and EcoCore is {58219.0} number of employees."
+        },
+        {
+            "Q": "What is the difference between MarketZen and BluePeak?",
+            "A": "The difference between MarketZen and BluePeak is {3171} number of employees."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have number of employees values exceed 198197.50 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{AlphaNet} has {300000} number of employees."
+        },
+        {
+            "Q": "Which bars have {number of employees} values below 55167.50 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{PureSync} has {50176} number of employees, {DataPulse} has {51678} number of employees, {TrueNorth} has {54027} number of employees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, MarketZen or TrueNorth ",
+            "A": "The value of the {MarketZen} is larger?"
+        },
+        {
+            "Q": "Which is larger, PureSync, MarketZen or TrueNorth ",
+            "A": "The value of the {MarketZen} is larger?"
+        },
+        {
+            "Q": "Which is larger, MarketZen, QuantumX, TrueNorth or PrimeVue ",
+            "A": "The value of the {PrimeVue} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {4} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {DataPulse} and {AlphaNet}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {AlphaNet}, {NovaEdge}, and {SwiftLink}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by number of employees values in descending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value descending: {AlphaNet}, {NovaEdge}, {SwiftLink}, {SmartHub}, {PeakPoint}, {PrimeVue}, {EcoCore}, {QuantumX}, {MarketZen}, {BluePeak}, {TrueNorth}, {DataPulse}, and {PureSync}."
+        },
+        {
+            "Q": "Sort the bars by number of employees values in ascending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value ascending: {PureSync}, {DataPulse}, {TrueNorth}, {BluePeak}, {MarketZen}, {QuantumX}, {EcoCore}, {PrimeVue}, {PeakPoint}, {SmartHub}, {SwiftLink}, {NovaEdge}, and {AlphaNet}."
+        }
+    ]
+}

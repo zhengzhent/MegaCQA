@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {10} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Average energy consumption of 303.47 relative to the bubble with a Average energy consumption of 3696.08 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Average energy consumption of 303.47 is {below} and to the {right} of the bubble with a Average energy consumption of 3696.08."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Infrastructure age and Reliability rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {16.45} years and {93.68} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Average energy consumption of the largest bubble?",
+            "A": "The Average energy consumption of the largest bubble is {10000.00} kWh/month."
+        },
+        {
+            "Q": "What is the Average energy consumption of the smallest bubble?",
+            "A": "The Average energy consumption of the smallest bubble is {100.00} kWh/month."
+        },
+        {
+            "Q": "What are the Infrastructure age and Reliability rate values of the largest bubble?",
+            "A": "The Infrastructure age of the largest bubble is {16.45} years, and {Reliability rate} is {93.68} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Average energy consumption in the bubble chart?",
+            "A": "The global maximum Average energy consumption is {10000.00} kWh/month."
+        },
+        {
+            "Q": "What is the global minimum Average energy consumption in the bubble chart?",
+            "A": "The global minimum Average energy consumption is {100.00} kWh/month."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Infrastructure age in the bubble chart?",
+            "A": "The maximum observed value in the Infrastructure age dimension is {46.58} years."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Infrastructure age in the bubble chart?",
+            "A": "The minimum observed value in the Infrastructure age dimension is {3.98} years."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Reliability rate in the bubble chart?",
+            "A": "The maximum observed value in the Reliability rate dimension is {97.89} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Reliability rate in the bubble chart?",
+            "A": "The minimum observed value in the Reliability rate dimension is {90.46} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Average energy consumption for all bubbles?",
+            "A": "The average value of the Average energy consumption for all bubbles is {3598.17} kWh/month."
+        },
+        {
+            "Q": "What is the average value of the Infrastructure age for all bubbles?",
+            "A": "The average value of Infrastructure age for all bubbles is {24.15} years."
+        },
+        {
+            "Q": "What is the average value of the Reliability rate for all bubbles?",
+            "A": "The average value of Reliability rate for all bubbles is {94.27} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Average energy consumption values in the bubble chart?",
+            "A": "{10000.00, 8035.02, 6687.55} kWh/month."
+        },
+        {
+            "Q": "What are the bottom 3 Average energy consumption values in the bubble chart?",
+            "A": "{100.00, 303.47, 545.20} kWh/month."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Average energy consumption value, the bubble with a Infrastructure age of 9.7 years and a Reliability rate of 92.5 %, or the bubble with a Infrastructure age of 15.0 years and a Reliability rate of 95.6 %?",
+            "A": "The bubble with a Infrastructure age of {9.7} and a Reliability rate of {92.5} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Average energy consumption value of the bubble with the largest Reliability rate value?",
+            "A": "The Average energy consumption value of the bubble with the largest Reliability rate is {8035.02}."
+        },
+        {
+            "Q": "What is the Average energy consumption value of the bubble with the largest Infrastructure age value?",
+            "A": "The Average energy consumption value of the bubble with the largest Infrastructure age is {8035.02}."
+        },
+        {
+            "Q": "Classify bubbles with a Reliability rate-coordinate greater than 95 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Average energy consumption for the high value group and the low value group?",
+            "A": "The difference between the total Average energy consumption of the high-value and low-value groups is {2144.63}."
+        }
+    ],
+    "VA": []
+}

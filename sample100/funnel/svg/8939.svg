@@ -1,0 +1,17 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1324.4 350.3 1404.4 350.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1080.1 620.8 1160.1 620.8" fill="none" stroke="#000000"></polyline>
+<polyline points="982.4 891.3 1062.4 891.3" fill="none" stroke="#000000"></polyline>
+<polyline points="975 1161.8 1055 1161.8" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1170.4 484.5 557.6 484.5" fill="#E9B9AA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="557.6 486.5 1170.4 486.5 989.9 755 738.1 755" fill="#D98481" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="738.1 757 989.9 757 975 1025.5 753 1025.5" fill="#7892B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="753 1027.5 975 1027.5 975 1296 753 1296" fill="#8CB9C0" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1409.3859838274934" y="350.25" fill="#000000">Negotiation: 371</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1165.1164420485175" y="620.75" fill="#000000">Contract Signed: 185</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1067.4086253369271" y="891.25" fill="#000000">Sale Closed: 76</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1059.9563342318058" y="1161.75" fill="#000000">Post-sale Survey: 67</text>
+<path d="M-368.9023 -5l737.8047 0l0 58l-737.8047 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Real Estate Sales Process (Properties)</text>
+</svg>

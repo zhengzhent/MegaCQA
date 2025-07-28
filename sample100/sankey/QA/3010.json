@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many nodes are in the column Enrollment Channels of this sankey chart?",
+            "A": "There are {4} nodes in the column Enrollment Channels."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Post-Education Paths}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Enrollment Channels}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Gap Year} and {Career Services}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Certification Programs} and {Career Services}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Entrepreneurship to the node Career Services?",
+            "A": "The flow value from the node Entrepreneurship to the node Career Services is {1079}."
+        },
+        {
+            "Q": "What is the flow value from the node Career Services to the node Online Applications?",
+            "A": "The flow value from the node Career Services to the node Online Applications is {1888}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Career Services to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Career Services to the next stage is {2307}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Career Services to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Career Services to the next stage is {952}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Entrepreneurship?",
+            "A": "The total flow output from node Entrepreneurship is {2401}."
+        },
+        {
+            "Q": "What is the total flow input by node Entrance Exams?",
+            "A": "The total flow input by node Entrance Exams is {2264}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Post-Education Paths of the sankey chart, which nodes have an outflow exceeded 2500? Please list the node labels and their corresponding outflow values.",
+            "A": "{Gap Year} has an outflow of {2984}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Support Services and column Enrollment Channels is the flow between 1081 and 1585? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {1211} from node {Career Services} to {Scholarships}, a flow of {1312} from node {Counseling} to {Entrance Exams}, a flow of {1476} from node {Counseling} to {Online Applications}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 1261 and 1436? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {1396} from node {Graduate Studies} to {Counseling}, a flow of {1322} from node {Entrepreneurship} to {Counseling}, a flow of {1312} from node {Counseling} to {Entrance Exams}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Graduate Studies to node Career Services and from node Career Services to node Entrance Exams, which path has a larger flow?",
+            "A": "The flow from node {Graduate Studies} to node {Career Services} is larger."
+        },
+        {
+            "Q": "Between the flows from node Graduate Studies to node Career Services and from node Career Services to node Exchange Programs, which path has a larger flow?",
+            "A": "The flow from node {Career Services} to node {Exchange Programs} is larger."
+        },
+        {
+            "Q": "Among the flows from node Certification Programs to node Counseling, from node Counseling to node Scholarships, and from node Entrepreneurship to node Counseling, which path has the largest flow?",
+            "A": "The flow from node {Certification Programs} to node {Counseling} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Gap Year to node Career Services, from node Career Services to node Entrance Exams, and from node Career Services to node Exchange Programs, which path has the largest flow?",
+            "A": "The flow from node {Gap Year} to node {Career Services} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Enrollment Channels of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Enrollment Channels is {Exchange Programs}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Gap Year to target node Scholarships? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Gap Year to node Scholarships is: {Gap Year, Career Services, Scholarships}."
+        }
+    ],
+    "VA": []
+}

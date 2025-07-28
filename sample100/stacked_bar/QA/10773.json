@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {5} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Ironwood of this stacked bar chart?",
+            "A": "There are {4} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Elmhurst}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Springfield}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Ironwood relative to the bar Springfield in terms of horizontal (left/right) direction?",
+            "A": "Bar Ironwood is to the {left} of the bar Springfield."
+        },
+        {
+            "Q": "In the stacked bar of Elmhurst, What is the spatial relationship of segment Energy relative to the segment Materials in terms of vertical (above/below) direction?",
+            "A": "Energy segment is positioned {below} the Materials segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which City has the highest bar in this stacked bar chart?",
+            "A": "The City with the highest bar is {Oakridge}."
+        },
+        {
+            "Q": "Which City has the lowest bar in this stacked bar chart?",
+            "A": "The City with the lowest bar is {Elmhurst}."
+        },
+        {
+            "Q": "In the stacked bar representing Ironwood, which segment has the highest value?",
+            "A": "The segment with the highest value is {Nanotech}."
+        },
+        {
+            "Q": "In the stacked bar representing Springfield, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Energy}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Photonics segment within the Elmhurst bar in the stacked bar chart?",
+            "A": "The value of the Photonics segment is {18.38} billion USD."
+        },
+        {
+            "Q": "What is the value of the Photonics segment within the Springfield bar in the stacked bar chart?",
+            "A": "The value of the Photonics segment is {19.47} billion USD."
+        },
+        {
+            "Q": "What is the value of the Energy segment within the Pinehaven bar in the stacked bar chart?",
+            "A": "The value of the Energy segment is {21.72} billion USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum billion USD among the stacked segments of bar Elmhurst?",
+            "A": "The maximum billion USD among the stacked segments of bar Elmhurst is {22.9} billion USD."
+        },
+        {
+            "Q": "What is the minimum billion USD among the stacked segments of bar Springfield?",
+            "A": "The minimum billion USD among the stacked segments of bar Springfield is {10.21} billion USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum billion USD of the segment Energy among the bars?",
+            "A": "The maximum billion USD among the bars of segment Energy is {22.9} billion USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum billion USD of the segment Nanotech among the bars?",
+            "A": "The minimum billion USD among the bars of segment Nanotech is {10.66} billion USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Ironwood?",
+            "A": "The total value of bar Ironwood is {68.28} billion USD."
+        },
+        {
+            "Q": "What is the total value of the bar Springfield?",
+            "A": "The total value of bar Springfield is {73.05} billion USD."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {369.07} billion USD."
+        },
+        {
+            "Q": "What is the difference between total value of bar Pinehaven and Ironwood?",
+            "A": "The difference between between total value of bar Pinehaven and Ironwood is {0.7700000000000102} billion USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total billion USD values exceed 71.05 billion USD? Please list the bar and corresponding values.",
+            "A": "{Springfield} has {73.05} billion USD, {Oakridge} has {94.28} billion USD"
+        },
+        {
+            "Q": "Which bars have total billion USD values below 66.34 billion USD? Please list the bar and corresponding values.",
+            "A": "{Elmhurst} has {64.41} billion USD"
+        },
+        {
+            "Q": "For bar Oakridge in the stacked bar chart, which segment have billion USD value between 17.525 and 36.125? Please list the segment and corresponding values.",
+            "A": "{Materials} has {23.68} billion USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total billion USD of Springfield or Pinehaven?",
+            "A": "The total billion USD of the {Springfield} is larger."
+        },
+        {
+            "Q": "Which is larger, the total billion USD of Ironwood, Pinehaven or Oakridge?",
+            "A": "The total billion USD of the {Oakridge} is larger."
+        },
+        {
+            "Q": "In the bar Elmhurst, which has a larger billion USD value: Materials or Nanotech?",
+            "A": "{Nanotech} has the larger billion USD value."
+        },
+        {
+            "Q": "In the bar Ironwood, which has a larger billion USD value: Energy, Materials or Nanotech?",
+            "A": "{Nanotech} has the larger billion USD value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Photonics in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Photonics are: {Oakridge}, {Springfield}, {Elmhurst}."
+        }
+    ],
+    "VA": []
+}

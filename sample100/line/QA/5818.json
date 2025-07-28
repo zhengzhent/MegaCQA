@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {5} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 2000, what is the vertical (above/below) relationship of the line representing Emerald Capital relative to Apex Credit?",
+            "A": "In 2000, Emerald Capital is {above} Apex Credit in the vertical direction."
+        },
+        {
+            "Q": "On Aura Finance, what is the spatial relationship of the data point in 2003 relative to that in 1993 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Aura Finance, the data point in 2003 is {below} and to the {right} of the data point in 1993."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Aura Finance's Mortgage Rate levels?",
+            "A": "Aura Finance's mortgage rate levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "What is the trend of Titan Lending's Mortgage Rate levels?",
+            "A": "Titan Lending's mortgage rate levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of Emerald Capital's Mortgage Rate levels?",
+            "A": "Emerald Capital's mortgage rate levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "What is the trend of Horizon Funding's Mortgage Rate levels?",
+            "A": "Horizon Funding's mortgage rate levels show a {bimodal valley} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Horizon Funding's Mortgage Rate in 1984?",
+            "A": "Horizon Funding's mortgage rate in 1984 is {2.09} %."
+        },
+        {
+            "Q": "What is Emerald Capital's Mortgage Rate in 1992?",
+            "A": "Emerald Capital's mortgage rate in 1992 is {14.33} %."
+        },
+        {
+            "Q": "What is Aura Finance's Mortgage Rate in 1980?",
+            "A": "Aura Finance's mortgage rate in 1980 is {3.63} %."
+        },
+        {
+            "Q": "What are the mortgage rate of Titan Lending, Apex Credit, and Emerald Capital in 1996?",
+            "A": "Titan Lending's mortgage rate is {4.13} %, Apex Credit's mortgage rate is {0.21} %, Emerald Capital's mortgage rate is {20.97} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Mortgage Rate in the line chart?",
+            "A": "The global minimum mortgage rate is {0.06} %."
+        },
+        {
+            "Q": "What is the global maximum Mortgage Rate in the line chart?",
+            "A": "The global maximum mortgage rate is {59.83} %."
+        },
+        {
+            "Q": "What is the highest Mortgage Rate level recorded for Apex Credit?",
+            "A": "Apex Credit reached approximately {5.95} % in {1980}."
+        },
+        {
+            "Q": "What is the lowest Mortgage Rate level recorded for Apex Credit?",
+            "A": "Apex Credit's lowest recorded level is approximately {0.06} % in {1997}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Emerald Capital's Mortgage Rate?",
+            "A": "The average value of Emerald Capital's mortgage rate is {21.88} %."
+        },
+        {
+            "Q": "What is the average value of Titan Lending's Mortgage Rate?",
+            "A": "The average value of Titan Lending's mortgage rate is {3.38} %."
+        },
+        {
+            "Q": "What is the rate of change in Apex Credit's Mortgage Rate from the starting year to the final year?",
+            "A": "The rate of decline in Apex Credit's mortgage rate is {-98.99}%."
+        },
+        {
+            "Q": "What is the average value of Apex Credit's Mortgage Rate?",
+            "A": "The average value of Apex Credit's mortgage rate is {1.90} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2005, which line had Mortgage Rate exceed 3 %? Please list the lines and corresponding values.",
+            "A": "{Emerald Capital} had {49} %."
+        },
+        {
+            "Q": "In the year 2002, which lines had Mortgage Rate between 1 and 3 %? Please list the lines and corresponding values.",
+            "A": "{Horizon Funding} had {1} %."
+        },
+        {
+            "Q": "In the year 1984, which line had Mortgage Rate exceed 5 %? Please list the lines and corresponding values.",
+            "A": "{Emerald Capital} had {7} %."
+        },
+        {
+            "Q": "Which years did Titan Lending's Mortgage Rate exceed 4 %? Please list the years and corresponding values.",
+            "A": "{4.13} % in {1990} year, {4.13} % in {1996} year, {4.28} % in {1991} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1981 and 1992, which line experienced a larger change in Mortgage Rate, Emerald Capital or Apex Credit?",
+            "A": "{Emerald Capital} experienced a larger change in mortgage rate."
+        },
+        {
+            "Q": "Between 1991 and 1992, which line had a higher average Mortgage Rate, Horizon Funding or Aura Finance?",
+            "A": "{Horizon Funding} had a higher average mortgage rate."
+        },
+        {
+            "Q": "In 1987, which line had a higher Mortgage Rate, {Titan Lending} or {Emerald Capital}?",
+            "A": "In 1987, {Emerald Capital} had a higher mortgage rate."
+        },
+        {
+            "Q": "Between 2002 and 2005, which line had a higher average Mortgage Rate, Emerald Capital or Titan Lending?",
+            "A": "{Emerald Capital} had a higher average mortgage rate."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Emerald Capital}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2002 and 2005?",
+            "A": "{Emerald Capital} has the fastest average growth rate between 2002 and 2005."
+        },
+        {
+            "Q": "In which year did Emerald Capital first surpass Apex Credit?",
+            "A": "Emerald Capital first surpassed Apex Credit in the year {1982}."
+        },
+        {
+            "Q": "Which label had the leading mortgage rate since 1997?",
+            "A": "Since 1997, {Emerald Capital} had the leading mortgage rate."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Emerald Capital. List the x-coordinates of data points to be preserved.(4 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1980, 1989, 1996, 2007}."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {56} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {7} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {uniform} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Materials and Commercialization in the heatmap?",
+            "A": "The heat value is {0.46}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Environmental and Implementation in the heatmap?",
+            "A": "The heat value is {0.47}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Data and Development in the heatmap?",
+            "A": "The heat value is {0.44}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Aerospace and Publications in the heatmap?",
+            "A": "The heat value is {0.45}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.48}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.43}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Implementation on the y-axis?",
+            "A": "The maximum heat value for Implementation on the y-axis is {0.47}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Aerospace on the x-axis?",
+            "A": "The maximum heat value of Aerospace on the x-axis is {0.47}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Maintenance on the y-axis?",
+            "A": "The average heat value for Maintenance on the y-axis is {0.46}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Aerospace and Implementation or the cell corresponding to Biomedical and Patents?",
+            "A": "The heat values are {equal}."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Data and Development or the cell corresponding to Data and Implementation?",
+            "A": "The cell corresponding to {Data} and {Implementation} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Aerospace and Publications or the cell corresponding to Biomedical and Testing?",
+            "A": "The cell corresponding to {Aerospace} and {Publications} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Biomedical and Commercialization or the cell corresponding to Materials and Commercialization?",
+            "A": "The cell corresponding to {Biomedical} and {Commercialization} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.45 to 0.47?",
+            "A": "The cells are: {(Aerospace, Commercialization), (Biomedical, Commercialization), (Chemical, Commercialization), (Data, Commercialization), (Environmental, Commercialization), (Materials, Commercialization), (Mechanical, Commercialization), (Aerospace, Development), (Biomedical, Development), (Chemical, Development), (Materials, Development), (Mechanical, Development), (Aerospace, Implementation), (Biomedical, Implementation), (Chemical, Implementation), (Data, Implementation), (Environmental, Implementation), (Materials, Implementation), (Mechanical, Implementation), (Aerospace, Maintenance), (Biomedical, Maintenance), (Chemical, Maintenance), (Data, Maintenance), (Environmental, Maintenance), (Materials, Maintenance), (Mechanical, Maintenance), (Aerospace, Patents), (Biomedical, Patents), (Data, Patents), (Materials, Patents), (Mechanical, Patents), (Aerospace, Publications), (Biomedical, Publications), (Chemical, Publications), (Data, Publications), (Environmental, Publications), (Materials, Publications), (Mechanical, Publications), (Aerospace, Research), (Data, Research), (Environmental, Research), (Mechanical, Research), (Aerospace, Testing), (Chemical, Testing), (Data, Testing), (Environmental, Testing), (Materials, Testing), (Mechanical, Testing)}."
+        }
+    ],
+    "VA": []
+}

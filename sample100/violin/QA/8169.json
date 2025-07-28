@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {5} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Urban Loft}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Loft}."
+        },
+        {
+            "Q": "Which violin is the second position to the left of the violin Duplex?",
+            "A": "The second position to the left of the violin Duplex is {Urban Loft}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Urban Loft relative to the violin Tiny House in terms of horizontal (left/right) direction?",
+            "A": "violin Urban Loft is to the {left} of the violin Tiny House."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Loft}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Loft}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Tiny House?",
+            "A": "The density distribution pattern of the Tiny House shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Beach House in the violin plot?",
+            "A": "The median of Beach House is {545.00} thousand USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Beach House in the violin plot?",
+            "A": "The lower quartile (Q1) of Beach House is {437.00} thousand USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Tiny House in the violin plot?",
+            "A": "The upper whisker limit of Tiny House is {844.00} thousand USD."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Tiny House in the violin plot?",
+            "A": "The lowest upper outlier value in Tiny House is {103.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum thousand USD value in the violin plot?",
+            "A": "The global maximum thousand USD value in the violin plot is {856.00} thousand USD."
+        },
+        {
+            "Q": "What is the global minimum thousand USD value in the violin plot?",
+            "A": "The global minimum thousand USD value in the violin plot is {92.00} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Tiny House and Beach House?",
+            "A": "The Q3 difference between violin Tiny House and Beach House is {12.75} thousand USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin Duplex and Beach House?",
+            "A": "The total Q3 value of violin Duplex and Loft is {1273.25} thousand USD."
+        },
+        {
+            "Q": "What is the average Median value of violin Beach House and Tiny House?",
+            "A": "The average Median value of violin Beach House and Tiny House is {531.75} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 527.00 thousand USD? Please list the violins and corresponding values.",
+            "A": "{Beach House} has {545.00} thousand USD , {Duplex} has {535.50} thousand USD , {Loft} has {546.00} thousand USD "
+        },
+        {
+            "Q": "Which violins have median values below 515.50 thousand USD? Please list the violins and corresponding values.",
+            "A": "{Urban Loft} has {512.50} thousand USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 422.00 thousand USD and the upper quartile (Q3) below 636.62 thousand USD?",
+            "A": "Violin {Beach House},{Tiny House} has the Q1 above 422.00 thousand USD and the Q3 below 636.625 thousand USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 583.34 thousand USD?",
+            "A": "Violin {Loft} has {583.78} thousand USD have their highest density peak exceed 583.34 thousand USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 538.80 thousand USD?",
+            "A": "Violin {Urban Loft} has {494.71} thousand USD ,{Duplex} has {439.98} thousand USD ,{Tiny House} has {465.71} thousand USD have their highest density peak below 538.80 thousand USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Beach House or Loft ",
+            "A": "The median value of the {Loft} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Urban Loft, Duplex or Beach House ",
+            "A": "The median value of the {Beach House} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Loft, Beach House, Duplex or Urban Loft ",
+            "A": "The median value of the {Loft} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Duplex}."
+        }
+    ],
+    "VA": []
+}

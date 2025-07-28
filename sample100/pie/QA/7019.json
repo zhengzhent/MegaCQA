@@ -1,0 +1,98 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {5} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Collaborative Research?",
+            "A": "The next slice clockwise from slice Collaborative Research is {Conference Paper}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Collaborative Research?",
+            "A": "The next slice counterclockwise from slice Collaborative Research is {Publication}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which discipline-wise has the largest proportion in this pie chart?",
+            "A": "The discipline-wise with the largest proportion is {Publication}."
+        },
+        {
+            "Q": "Which discipline-wise has the smallest proportion in this pie chart?",
+            "A": "The discipline-wise with the smallest proportion is {Conference Paper}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Collaborative Research slice in this pie chart?",
+            "A": "The value of the Collaborative Research slice is {19}%."
+        },
+        {
+            "Q": "What is the value of the Innovative Solution slice in this pie chart?",
+            "A": "The value of the Innovative Solution slice is {20}%."
+        },
+        {
+            "Q": "What is the value of the Publication slice in this pie chart?",
+            "A": "The value of the Publication slice is {24}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {24}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {13}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Collaborative Research and Patent in this pie chart?",
+            "A": "The difference between Collaborative Research and Patent is {5}%."
+        },
+        {
+            "Q": "What is the sum of the values of Innovative Solution and Publication in this pie chart?",
+            "A": "The sum of Innovative Solution and Publication is {44}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 20.0%? Please list the category names and corresponding percentages.",
+            "A": "{Publication} accounts for {24}% and {Patent} accounts for {24}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 19.0%? Please list the category names and corresponding percentages.",
+            "A": "{Conference Paper} accounts for {13}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Publication, Patent, or Innovative Solution?",
+            "A": "The value of {Publication} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Publication or Patent?",
+            "A": "The value of {Publication} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Patent, Innovative Solution, or Collaborative Research?",
+            "A": "The value of {Collaborative Research} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Publication, Patent, Innovative Solution, or Conference Paper?",
+            "A": "The value of {Publication} is the largest."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

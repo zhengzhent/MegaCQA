@@ -1,0 +1,7 @@
+﻿Science and Engineering,Research Metrics of Different Lab
+Pattern,Clustering,Weak Correlation,Weak Correlation,Strong Correlation,No Correlation
+labels,Collaboration index (1-10),Lab efficiency (%),Experiment success rate (%),Publication count (papers),Citation index (citations/paper),Research funding (USD millions)
+"Bond, Kelly and Woods  Lab",1.0,74.21,69.36,54.48,630.29,75.25
+Sherman Inc  Lab,5.29,30.0,10.0,100.0,1000.0,100.0
+"Beltran, Adams and Arias  Research Institute",2.87,68.33,28.97,60.94,663.74,54.49
+Wilson-Foster  Research Institute,10.0,100.0,100.0,0.0,0.0,0.1

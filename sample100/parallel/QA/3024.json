@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Water usage (liters/kg) dimension, what is the spatial relationship of response  Wheat relative to none  Soybean in terms of vertical (above/below) direction?",
+            "A": "{response  Wheat} is {below} {none  Soybean} on the Water usage (liters/kg) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Equipment utilization (%)?",
+            "A": "The first position to the left of Equipment utilization (%) is {Harvest frequency (per year)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Water usage (liters/kg)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Soil health index (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Water usage (liters/kg)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Soil health index (1-10) and dimension Labor efficiency (acres/worker)",
+            "A": "There is {Weak Correlation} between Soil health index (1-10) and Labor efficiency (acres/worker)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of continue  Apple on the Equipment utilization (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of continue  Apple on the Equipment utilization (%) dimension is {51.3}"
+        },
+        {
+            "Q": "What is the value of figure  Potato on the Harvest frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of figure  Potato on the Harvest frequency (per year) dimension is {1.0}"
+        },
+        {
+            "Q": "What is the value of none  Soybean on the Harvest frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of none  Soybean on the Harvest frequency (per year) dimension is {4.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label figure  Potato across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of figure  Potato across all dimensions is {271.09}"
+        },
+        {
+            "Q": "What is the minimum value of label energy  Potato across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of energy  Potato across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Water usage (liters/kg)?",
+            "A": "The average value of Water usage (liters/kg) is {457.85}"
+        },
+        {
+            "Q": "What is the difference in coding Soil health index (1-10) between label none  Soybean and label energy  Potato",
+            "A": "The difference in coding Soil health index (1-10) between none  Soybean and energy  Potato is {5.51}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Harvest frequency (per year) dimension in the parallel coordinates?",
+            "A": "{[4.0, 3.41, 2.67]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Labor efficiency (acres/worker) dimension in the parallel coordinates?",
+            "A": "{[1.0, 271.09, 682.24]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: continue  Apple or energy  Potato?",
+            "A": "{continue  Apple} has a higher score on Equipment utilization (%)."
+        },
+        {
+            "Q": "On Water usage (liters/kg), which label has a higher score: face  Oats or continue  Apple?",
+            "A": "{face  Oats} has a higher score on Water usage (liters/kg)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Water usage (liters/kg)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Harvest frequency (per year) being greater than 2.58 and Soil health index (1-10) being less than 6.13?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,17 @@
+Human Resources and Employee Management,Employee Transfers Across Departments
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Department of Urban Planning,1,Department of Environmental Safety,employee_transfer
+0,Department of Urban Planning,3,Department of Infrastructure,internal_referral
+0,Department of Urban Planning,2,Department of Public Health,project_allocation
+0,Department of Urban Planning,4,Department of Human Resources,training_partnership
+0,Department of Urban Planning,5,Department of Cybersecurity,training_partnership
+1,Department of Environmental Safety,4,Department of Human Resources,training_partnership
+1,Department of Environmental Safety,2,Department of Public Health,employee_transfer
+1,Department of Environmental Safety,3,Department of Infrastructure,employee_transfer
+1,Department of Environmental Safety,5,Department of Cybersecurity,training_partnership
+2,Department of Public Health,5,Department of Cybersecurity,project_allocation
+2,Department of Public Health,3,Department of Infrastructure,training_partnership
+2,Department of Public Health,4,Department of Human Resources,training_partnership
+3,Department of Infrastructure,5,Department of Cybersecurity,department_collaboration
+3,Department of Infrastructure,4,Department of Human Resources,project_allocation
+4,Department of Human Resources,5,Department of Cybersecurity,training_partnership

@@ -1,0 +1,68 @@
+Sports and Entertainment,Sports Event Framework,Events,random,Engagement Channels,Sports Types,Event Types
+Source,Target,Value
+Fantasy Leagues,Basketball,10033
+Fantasy Leagues,Baseball,8685
+Fantasy Leagues,Golf,2164
+Fantasy Leagues,Hockey,6211
+Fantasy Leagues,Football,5216
+Fantasy Leagues,Cricket,3026
+Fan Meetups,Basketball,10940
+Fan Meetups,Baseball,5443
+Fan Meetups,Golf,11556
+Fan Meetups,Hockey,10183
+Fan Meetups,Football,9986
+Fan Meetups,Cricket,5558
+Social Media,Basketball,5647
+Social Media,Baseball,5159
+Social Media,Golf,1712
+Social Media,Hockey,5208
+Social Media,Football,1138
+Social Media,Cricket,3273
+Live Streaming,Basketball,2096
+Live Streaming,Baseball,852
+Live Streaming,Golf,837
+Live Streaming,Hockey,919
+Live Streaming,Football,352
+Live Streaming,Cricket,2280
+Mobile Apps,Basketball,18565
+Mobile Apps,Baseball,3227
+Mobile Apps,Golf,10521
+Mobile Apps,Hockey,11515
+Mobile Apps,Football,7123
+Mobile Apps,Cricket,3650
+Basketball,League Match,2982
+Basketball,Playoffs,5363
+Basketball,Exhibition,6921
+Basketball,Tournament,5945
+Basketball,Friendly Match,21544
+Basketball,Finals,4526
+Baseball,League Match,4684
+Baseball,Playoffs,5512
+Baseball,Exhibition,6639
+Baseball,Tournament,1331
+Baseball,Friendly Match,3655
+Baseball,Finals,1545
+Golf,League Match,7254
+Golf,Playoffs,4411
+Golf,Exhibition,4949
+Golf,Tournament,4441
+Golf,Friendly Match,4958
+Golf,Finals,777
+Hockey,League Match,2133
+Hockey,Playoffs,12109
+Hockey,Exhibition,7984
+Hockey,Tournament,8770
+Hockey,Friendly Match,1644
+Hockey,Finals,1396
+Football,League Match,2203
+Football,Playoffs,7588
+Football,Exhibition,3081
+Football,Tournament,1435
+Football,Friendly Match,8548
+Football,Finals,960
+Cricket,League Match,1216
+Cricket,Playoffs,2038
+Cricket,Exhibition,4919
+Cricket,Tournament,4404
+Cricket,Friendly Match,1655
+Cricket,Finals,3555

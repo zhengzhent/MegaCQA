@@ -1,0 +1,17 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1304.7 350.3 1384.7 350.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1058.3 620.8 1138.3 620.8" fill="none" stroke="#000000"></polyline>
+<polyline points="978 891.3 1058 891.3" fill="none" stroke="#000000"></polyline>
+<polyline points="970.4 1161.8 1050.4 1161.8" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1131 484.5 597 484.5" fill="#FFF5E1" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="597 486.5 1131 486.5 985.6 755 742.4 755" fill="#FFE4B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="742.4 757 985.6 757 970.4 1025.5 757.6 1025.5" fill="#FFD27F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="757.6 1027.5 970.4 1027.5 970.4 1296 757.6 1296" fill="#FFC04A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1389.7180212014134" y="350.25" fill="#000000">Share Content: 283</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1143.3067137809187" y="620.75" fill="#000000">Follow Account: 123</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1062.9787985865723" y="891.25" fill="#000000">Join Group or Community: 56</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1055.3802120141343" y="1161.75" fill="#000000">Content Creation or Upload: 49</text>
+<path d="M-412.9062 -5l825.8125 0l0 58l-825.8125 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Social Media Engagement (Million Users)</text>
+</svg>

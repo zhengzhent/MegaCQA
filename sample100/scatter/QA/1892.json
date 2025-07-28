@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {55} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Infrastructure age in the scatter plot?",
+            "A": "The maximum observed value in the Infrastructure age dimension is {50.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Infrastructure age in the scatter plot?",
+            "A": "The minimum observed value in the Infrastructure age dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Carbon footprint in the scatter plot?",
+            "A": "The maximum observed value in the Carbon footprint dimension is {50.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Carbon footprint in the scatter plot?",
+            "A": "The minimum observed value in the Carbon footprint dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Infrastructure age for all points?",
+            "A": "The average value of Infrastructure age for all points is {25.00}."
+        },
+        {
+            "Q": "What is the average value of the Carbon footprint for all points?",
+            "A": "The average value of Carbon footprint for all points is {30.56}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Carbon footprint values corresponding to the top 3 Infrastructure age values in the scatter plot?",
+            "A": "{2.38, 2.96, 6.29}."
+        },
+        {
+            "Q": "What are the Carbon footprint values corresponding to the bottom 3 Infrastructure age values in the scatter plot?",
+            "A": "{1.00, 8.41, 3.00}."
+        },
+        {
+            "Q": "What are the Infrastructure age values corresponding to the top 3 Carbon footprint values in the scatter plot?",
+            "A": "{25.00, 23.15, 26.85}."
+        },
+        {
+            "Q": "What are the Infrastructure age values corresponding to the bottom 3 Carbon footprint values in the scatter plot?",
+            "A": "{0.00, 50.00, 49.07}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 18.15 and 29.70 and Y coordinates between 30.74 and 40.67?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(0.00, 1.00) and (25.00, 50.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(13.89, 38.96) and (14.81, 39.22)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [11.39, 36.51, 17.31, 41.67] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (13.89, 38.96)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [8.77, 14.05, 20.81, 28.01]; Region B: [26.27, 26.45, 38.32, 40.40]; Region C: [8.33, 32.11, 20.37, 46.07]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

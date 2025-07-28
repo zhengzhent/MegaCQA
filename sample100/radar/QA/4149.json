@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from R&D Investment Ratio?",
+            "A": "The next dimension clockwise from R&D Investment Ratio is Power Transmission and Distribution Loss Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Net Profit Margin ?",
+            "A": "The next dimension counterclockwise from R&D Investment Ratio is Market Share."
+        },
+        {
+            "Q": "On the Patent Growth Rate, is the point for Cole, Davis and Tran inside or outside the point for Harris, Silva and Shannon?",
+            "A": "On the Patent Growth Rate, the point for Cole, Davis and Tran is outside the point for Harris, Silva and Shannon."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Power Transmission and Distribution Loss Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Harris, Silva and Shannon?",
+            "A": "The strongest aspect is {Power Transmission and Distribution Loss Rate}, while the weakest aspect is{ Patent Growth Rate}."
+        },
+        {
+            "Q": "On dimension Patent Growth Rate, which label scores the highest?",
+            "A": "On Patent Growth Rate, label {Harris, Silva and Shannon} scores the highest."
+        },
+        {
+            "Q": "On dimension Patent Growth Rate, which label scores the highest?",
+            "A": "On Patent Growth Rate, label {Harris, Silva and Shannon} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Cole, Davis and Tran on the R&D Investment Ratio in the radar chart?",
+            "A": "The value of Cole, Davis and Tran on the Safety dimension is {47}."
+        },
+        {
+            "Q": "What is the value of Harris, Silva and Shannon on the R&D Investment Ratio in the radar chart?",
+            "A": "The value of Harris, Silva and Shannon on the Safety dimension is {70}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Cole, Davis and Tran across all dimensions in the radar chart?",
+            "A": "The maximum value of Cole, Davis and Tran across all dimensions is {55}."
+        },
+        {
+            "Q": "What is the minimum value of label Harris, Silva and Shannon across all dimensions in the radar chart?",
+            "A": "The minimum value of Harris, Silva and Shannon across all dimensions is {54}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of R&D Investment Ratio",
+            "A": "The average value of R&D Investment Ratio is {58.5}."
+        },
+        {
+            "Q": "What is the average value of Cole, Davis and Tran",
+            "A": "The average value of Cole, Davis and Tran is {58.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Harris, Silva and Shannon in the radar chart, which dimensions have scores below 36? Please list the dimensions and corresponding scores.",
+            "A": "{Patent Growth Rate} is {20}"
+        },
+        {
+            "Q": "Which labels have scores below 56 for the Market Share dimension? Please list the labels and corresponding scores.",
+            "A": "{Cole, Davis and Tran} is {53}"
+        },
+        {
+            "Q": "For Cole, Davis and Tran in the radar chart, which dimensions have scores between 36 and 84? Please list the dimensions and corresponding scores.",
+            "A": "{Revenue Growth Rate} is {78}, {Patent Growth Rate} is {55}, {Net Profit Margin } is {51}, {Market Share} is {53}, {R&D Investment Ratio} is {47}, {Power Transmission and Distribution Loss Rate} is {64}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Harris, Silva and Shannon, which dimension has a higher score: Power Transmission and Distribution Loss Rate or Net Profit Margin ?",
+            "A": "{Power Transmission and Distribution Loss Rate} has a higher score than Net Profit Margin  for Harris, Silva and Shannon."
+        },
+        {
+            "Q": "On Market Share, which label has a higher score: Harris, Silva and Shannon or the Cole, Davis and Tran?",
+            "A": "{Harris, Silva and Shannon} has a higher score on Market Share compared to Cole, Davis and Tran."
+        },
+        {
+            "Q": "For Harris, Silva and Shannon, which dimension has a higher score: Market Share or Patent Growth Rate or Net Profit Margin ?",
+            "A": "{Net Profit Margin } has a higher score for Harris, Silva and Shannon."
+        },
+        {
+            "Q": "For Cole, Davis and Tran, which dimension has a higher score: Market Share or Power Transmission and Distribution Loss Rate or R&D Investment Ratio?",
+            "A": "{Power Transmission and Distribution Loss Rate} has a higher score for Cole, Davis and Tran."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Cole, Davis and Tran, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Cole, Davis and Tran most needs to improve its {R&D Investment Ratio}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Harris, Silva and Shannon}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Cole, Davis and Tran}."
+        }
+    ],
+    "VA": []
+}

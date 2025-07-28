@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {3} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Crystal Falls}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Celestial Arch}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Sunset Cliff?",
+            "A": "The first position to the left of the box Sunset Cliff is {Crystal Falls}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Crystal Falls relative to the box Sunset Cliff in terms of horizontal (left/right) direction?",
+            "A": "Box Crystal Falls is to the {left} of the box Sunset Cliff."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Crystal Falls}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Crystal Falls}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Celestial Arch}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Crystal Falls in the box plot?",
+            "A": "The median of Crystal Falls is {8683.0} Visitors."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Celestial Arch in the box plot?",
+            "A": "The lower quartile (Q1) of Celestial Arch is {5609.5} Visitors."
+        },
+        {
+            "Q": "What is the lower whisker limit of Sunset Cliff in the box plot?",
+            "A": "The lower whisker limit of Sunset Cliff is {402} Visitors."
+        },
+        {
+            "Q": "What is the lowest upper outlier value in Celestial Arch in the box plot?",
+            "A": "The lowest upper outlier value in Celestial Arch is {210} Visitors."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Visitors value in the box plot?",
+            "A": "The global maximum Visitors value in the box plot is {16453.00} Visitors."
+        },
+        {
+            "Q": "What is the global minimum Visitors value in the box plot?",
+            "A": "The global minimum Visitors value in the box plot is {210.00} Visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Sunset Cliff and Crystal Falls?",
+            "A": "The Median difference between box Sunset Cliff and Crystal Falls is {935.0} Visitors."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Crystal Falls and Sunset Cliff?",
+            "A": "The total Q1 value of box Crystal Falls and Sunset Cliff is {11844.0} Visitors."
+        },
+        {
+            "Q": "What is the average Median value of box Sunset Cliff and Celestial Arch?",
+            "A": "The average Median value of box Sunset Cliff and Celestial Arch is {7536.0} Visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes have median values exceed 8215.50 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Crystal Falls} has {8683.0} Visitors "
+        },
+        {
+            "Q": "Which boxes have median values below 7536.00 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Celestial Arch} has {7324.0} Visitors "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Crystal Falls or Sunset Cliff ",
+            "A": "The median value of the {Crystal Falls} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Celestial Arch, Crystal Falls or Sunset Cliff ",
+            "A": "The median value of the {Crystal Falls} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Crystal Falls}."
+        }
+    ],
+    "VA": []
+}

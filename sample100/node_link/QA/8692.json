@@ -1,0 +1,79 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {16} links."
+        },
+        {
+            "Q": "How many nodes link with node Bali Beach Resort?",
+            "A": "There are {4} nodes link with node Bali Beach Resort."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node New York City Landmark and node London Royal Garden in this node-link chart?",
+            "A": "The relationship between node New York City Landmark and node London Royal Garden is {sightseeing_bus_connection}."
+        },
+        {
+            "Q": "What is the relationship between node New York City Landmark and node Paris Historical Spot in this node-link chart?",
+            "A": "The relationship between node New York City Landmark and node Paris Historical Spot is {sightseeing_bus_connection}."
+        },
+        {
+            "Q": "What is the relationship between node Kyoto Temple Area and node New York City Landmark in this node-link chart?",
+            "A": "The relationship between node Kyoto Temple Area and node New York City Landmark is {sightseeing_bus_connection}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type sightseeing_bus_connection?",
+            "A": "There are {5} links with the relation type sightseeing_bus_connection."
+        },
+        {
+            "Q": "How many links have the relation type tourism_package_link?",
+            "A": "There are {3} links with the relation type tourism_package_link."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node New York City Landmark, how many links are of type shared_transport?",
+            "A": "Node New York City Landmark has {1} links of type shared_transport."
+        },
+        {
+            "Q": "Under node Kyoto Temple Area, how many links are of type hotel_chain_membership?",
+            "A": "Node Kyoto Temple Area has {1} links of type hotel_chain_membership."
+        },
+        {
+            "Q": "Under node New York City Landmark, how many links are of type sightseeing_bus_connection?",
+            "A": "Node New York City Landmark has {3} links of type sightseeing_bus_connection."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Paris Historical Spot}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Paris Historical Spot with a degree of 6}, {node Kyoto Temple Area with a degree of 6}, {node New York City Landmark with a degree of 6}."
+        },
+        {
+            "Q": "What is the shortest path from node Santorini Scenic Viewpoint to node Kyoto Temple Area in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Santorini Scenic Viewpoint to node Kyoto Temple Area is: {Santorini Scenic Viewpoint to Paris Historical Spot to Kyoto Temple Area}."
+        }
+    ],
+    "VA": []
+}

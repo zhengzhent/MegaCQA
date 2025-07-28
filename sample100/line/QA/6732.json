@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Rural Communities, what is the spatial relationship of the data point in 1989 relative to that in 1982 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Rural Communities, the data point in 1989 is {above} and to the {right} of the data point in 1982."
+        },
+        {
+            "Q": "In 1981, what is the vertical (above/below) relationship of the line representing Urban Dwellers relative to Rural Communities?",
+            "A": "In 1981, Urban Dwellers is {below} Rural Communities in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Rural Communities's Technology Adoption Rate levels?",
+            "A": "Rural Communities's technology adoption rate levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Urban Dwellers's Technology Adoption Rate levels?",
+            "A": "Urban Dwellers's technology adoption rate levels show a {single valley} trend."
+        },
+        {
+            "Q": "What is the trend of Working Professionals's Technology Adoption Rate levels?",
+            "A": "Working Professionals's technology adoption rate levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "Which line shows a stable rising trend in Technology Adoption Rate levels?",
+            "A": "{Rural Communities}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Rural Communities's Technology Adoption Rate in 1987?",
+            "A": "Rural Communities's technology adoption rate in 1987 is {37.76} %."
+        },
+        {
+            "Q": "What is Rural Communities's Technology Adoption Rate in 1980?",
+            "A": "Rural Communities's technology adoption rate in 1980 is {28.60} %."
+        },
+        {
+            "Q": "What is Urban Dwellers's Technology Adoption Rate in 1986?",
+            "A": "Urban Dwellers's technology adoption rate in 1986 is {8.89} %."
+        },
+        {
+            "Q": "What are the technology adoption rate of Urban Dwellers, Rural Communities, and Working Professionals in 1986?",
+            "A": "Urban Dwellers's technology adoption rate is {8.89} %, Rural Communities's technology adoption rate is {35.94} %, Working Professionals's technology adoption rate is {0.18} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Technology Adoption Rate in the line chart?",
+            "A": "The global minimum technology adoption rate is {0.18} %."
+        },
+        {
+            "Q": "What is the global maximum Technology Adoption Rate in the line chart?",
+            "A": "The global maximum technology adoption rate is {39.80} %."
+        },
+        {
+            "Q": "What is the highest Technology Adoption Rate level recorded for Rural Communities?",
+            "A": "Rural Communities reached approximately {39.80} % in {1989}."
+        },
+        {
+            "Q": "What is the lowest Technology Adoption Rate level recorded for Rural Communities?",
+            "A": "Rural Communities's lowest recorded level is approximately {25.19} % in {1978}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Rural Communities's Technology Adoption Rate from the starting year to the final year?",
+            "A": "The rate of growth in Rural Communities's technology adoption rate is {58.00}%."
+        },
+        {
+            "Q": "What is the average value of Working Professionals's Technology Adoption Rate?",
+            "A": "The average value of Working Professionals's technology adoption rate is {0.77} %."
+        },
+        {
+            "Q": "What is the rate of change in Urban Dwellers's Technology Adoption Rate from the starting year to the final year?",
+            "A": "The rate of growth in Urban Dwellers's technology adoption rate is {14.32}%."
+        },
+        {
+            "Q": "What is the rate of change in Working Professionals's Technology Adoption Rate from the starting year to the final year?",
+            "A": "The rate of decline in Working Professionals's technology adoption rate is {-60.10}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1989, which lines had Technology Adoption Rate between 10 and 25 %? Please list the lines and corresponding values.",
+            "A": "{Urban Dwellers} had {14} %."
+        },
+        {
+            "Q": "Which years did Urban Dwellers's Technology Adoption Rate between 7 and 11 %? Please list the years and corresponding values.",
+            "A": "{10.66} % in {1979} year, {8.89} % in {1980} year, {10.84} % in {1987} year."
+        },
+        {
+            "Q": "Which years did Rural Communities's Technology Adoption Rate exceed 36 %? Please list the years and corresponding values.",
+            "A": "{38.36} % in {1988} year, {37.76} % in {1987} year, {39.80} % in {1989} year."
+        },
+        {
+            "Q": "In the year 1984, which lines had Technology Adoption Rate below 3 %? Please list the lines and corresponding values.",
+            "A": "{Working Professionals} had {0} %."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Urban Dwellers's Technology Adoption Rate in 1978 higher or lower than in 1984?",
+            "A": "The technology adoption rate in 1978 was {higher} than in 1984."
+        },
+        {
+            "Q": "In 1978, which line had the highest Technology Adoption Rate, Urban Dwellers, Working Professionals, or Rural Communities?",
+            "A": "In 1978, {Rural Communities} had the highest technology adoption rate."
+        },
+        {
+            "Q": "Was Rural Communities's Technology Adoption Rate in 1980 higher or lower than in 1987?",
+            "A": "The technology adoption rate in 1980 was {lower} than in 1987."
+        },
+        {
+            "Q": "Was Urban Dwellers's Technology Adoption Rate in 1980 higher or lower than in 1988?",
+            "A": "The technology adoption rate in 1980 was {lower} than in 1988."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Rural Communities}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1986 and 1989?",
+            "A": "{Urban Dwellers} has the fastest average growth rate between 1986 and 1989."
+        },
+        {
+            "Q": "Which label had the leading technology adoption rate since 1986?",
+            "A": "Since 1986, {Rural Communities} had the leading technology adoption rate."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Working Professionals. List the x-coordinates of data points to be preserved.(4 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1978, 1980, 1988, 1989}."
+        }
+    ]
+}

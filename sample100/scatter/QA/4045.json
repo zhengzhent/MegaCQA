@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {90} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Blood pressure in the scatter plot?",
+            "A": "The maximum observed value in the Blood pressure dimension is {180.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Blood pressure in the scatter plot?",
+            "A": "The minimum observed value in the Blood pressure dimension is {80.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Survival rate in the scatter plot?",
+            "A": "The maximum observed value in the Survival rate dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Survival rate in the scatter plot?",
+            "A": "The minimum observed value in the Survival rate dimension is {50.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Blood pressure for all points?",
+            "A": "The average value of Blood pressure for all points is {130.00}."
+        },
+        {
+            "Q": "What is the average value of the Survival rate for all points?",
+            "A": "The average value of Survival rate for all points is {73.56}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Survival rate values corresponding to the top 3 Blood pressure values in the scatter plot?",
+            "A": "{96.23, 93.32, 86.27}."
+        },
+        {
+            "Q": "What are the Survival rate values corresponding to the bottom 3 Blood pressure values in the scatter plot?",
+            "A": "{50.00, 65.35, 58.72}."
+        },
+        {
+            "Q": "What are the Blood pressure values corresponding to the top 3 Survival rate values in the scatter plot?",
+            "A": "{175.51, 180.00, 176.63}."
+        },
+        {
+            "Q": "What are the Blood pressure values corresponding to the bottom 3 Survival rate values in the scatter plot?",
+            "A": "{80.00, 88.99, 103.60}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 92.52 and 104.56 and Y coordinates between 62.51 and 77.32?",
+            "A": "There are {3} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(80.00, 50.00) and (180.00, 96.23)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(106.97, 65.20) and (108.09, 65.17)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [101.97, 62.67, 113.09, 67.70] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (106.97, 65.20)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [132.21, 80.51, 153.89, 94.36]; Region B: [156.06, 79.86, 177.74, 93.71]; Region C: [96.69, 58.26, 118.37, 72.11]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

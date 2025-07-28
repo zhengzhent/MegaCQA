@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {15} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Healthcare Policy}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Medical Devices}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Specialized Care rectangle in this treemap?",
+            "A": "The value of the Specialized Care rectangle is {6.27}."
+        },
+        {
+            "Q": "What is the value of the Medical Services rectangle in this treemap?",
+            "A": "The value of the Medical Services rectangle is {20.0}."
+        },
+        {
+            "Q": "What is the value of the Health Informatics rectangle in this treemap?",
+            "A": "The value of the Health Informatics rectangle is {14.57}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {20.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.43}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Regulatory Frameworks and Health Surveillance?",
+            "A": "The difference between Regulatory Frameworks and Health Surveillance is {4.46}."
+        },
+        {
+            "Q": "What is the sum of the regions of Insurance Models and Professional Training?",
+            "A": "The sum of Insurance Models and Professional Training is {18.61}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Health Technologies category in the treemap, which rectangular labels have a value exceeded 12.28? Please list the labels and values.",
+            "A": "{Health Informatics} has {14.57}"
+        },
+        {
+            "Q": "Under the Health Technologies category in the treemap, which rectangular labels have a value below 7.72? Please list the labels and values.",
+            "A": "{Medical Devices} has {5.43}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Healthcare Policy, Health Education, or Health Technologies?",
+            "A": "The value of {Healthcare Policy} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Health Technologies or Medical Services?",
+            "A": "The value of {Health Technologies} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

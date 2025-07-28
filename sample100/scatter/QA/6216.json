@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {74} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Product price in the scatter plot?",
+            "A": "The maximum observed value in the Product price dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Product price in the scatter plot?",
+            "A": "The minimum observed value in the Product price dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Foot traffic in the scatter plot?",
+            "A": "The maximum observed value in the Foot traffic dimension is {100000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Foot traffic in the scatter plot?",
+            "A": "The minimum observed value in the Foot traffic dimension is {100.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Product price for all points?",
+            "A": "The average value of Product price for all points is {500.50}."
+        },
+        {
+            "Q": "What is the average value of the Foot traffic for all points?",
+            "A": "The average value of Foot traffic for all points is {33633.68}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Foot traffic values corresponding to the top 3 Product price values in the scatter plot?",
+            "A": "{100000.00, 97704.34, 92667.59}."
+        },
+        {
+            "Q": "What are the Foot traffic values corresponding to the bottom 3 Product price values in the scatter plot?",
+            "A": "{6304.15, 3082.31, 3906.02}."
+        },
+        {
+            "Q": "What are the Product price values corresponding to the top 3 Foot traffic values in the scatter plot?",
+            "A": "{1000.00, 986.32, 972.63}."
+        },
+        {
+            "Q": "What are the Product price values corresponding to the bottom 3 Foot traffic values in the scatter plot?",
+            "A": "{42.05, 83.11, 14.68}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 57.74 and 269.73 and Y coordinates between 39465.30 and 66067.45?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(42.05, 100.00) and (1000.00, 100000.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(192.59, 7056.01) and (206.27, 7019.92)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [142.64, 2024.92, 256.22, 12051.01] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (192.59, 7056.01)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [516.58, 42679.75, 792.42, 67797.45]; Region B: [61.51, 100.00, 337.35, 25217.70]; Region C: [436.51, 11694.61, 712.35, 36812.31]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

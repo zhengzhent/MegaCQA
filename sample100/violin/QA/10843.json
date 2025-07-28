@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {7} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Pinehaven}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Springfield}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin Ironwood?",
+            "A": "The first position to the left of the violin Ironwood is {Creston}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Pinehaven relative to the violin Creston in terms of horizontal (left/right) direction?",
+            "A": "violin Pinehaven is to the {left} of the violin Creston."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Springfield}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Ironwood}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Quarryville?",
+            "A": "The density distribution pattern of the Quarryville shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Pinehaven in the violin plot?",
+            "A": "The median of Pinehaven is {605.00} million USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Pinehaven in the violin plot?",
+            "A": "The lower quartile (Q1) of Pinehaven is {440.00} million USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Springfield in the violin plot?",
+            "A": "The upper whisker limit of Springfield is {1507.00} million USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Dunvale in the violin plot?",
+            "A": "The largest upper outlier value in Dunvale is {1273.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the violin plot?",
+            "A": "The global maximum million USD value in the violin plot is {1715.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the violin plot?",
+            "A": "The global minimum million USD value in the violin plot is {109.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Creston and Dunvale?",
+            "A": "The Median difference between violin Creston and Dunvale is {150.00} million USD."
+        },
+        {
+            "Q": "What is the toal Median value of violin Pinehaven and Ironwood?",
+            "A": "The total Median value of violin Pinehaven and Springfield is {1228.00} million USD."
+        },
+        {
+            "Q": "What is the average Q1 value of violin Pinehaven and Creston?",
+            "A": "The average Q1 value of violin Pinehaven and Creston is {353.62} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 583.75 million USD? Please list the violins and corresponding values.",
+            "A": "{Pinehaven} has {605.00} million USD , {Ironwood} has {623.00} million USD , {Springfield} has {628.00} million USD "
+        },
+        {
+            "Q": "Which violins have median values below 554.00 million USD? Please list the violins and corresponding values.",
+            "A": "{Quarryville} has {545.50} million USD , {Creston} has {412.50} million USD , {Fairmont} has {455.50} million USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 391.75 million USD and the upper quartile (Q3) below 754.50 million USD?",
+            "A": "Violin {Dunvale} has the Q1 above 391.75 million USD and the Q3 below 754.5 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 493.48 million USD?",
+            "A": "Violin {Pinehaven} has {512.98} million USD ,{Ironwood} has {508.20} million USD have their highest density peak exceed 493.48 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 331.34 million USD?",
+            "A": "Violin {Creston} has {315.23} million USD have their highest density peak below 331.34 million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Ironwood or Quarryville ",
+            "A": "The median value of the {Ironwood} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Dunvale, Creston or Springfield ",
+            "A": "The median value of the {Springfield} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Dunvale, Ironwood, Pinehaven or Creston ",
+            "A": "The median value of the {Ironwood} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Ironwood}."
+        }
+    ],
+    "VA": []
+}

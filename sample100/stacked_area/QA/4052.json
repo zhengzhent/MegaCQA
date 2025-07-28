@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {3} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Crimson Quarter relative to Outer Rim Settlements?",
+            "A": "Crimson Quarter is {below} Outer Rim Settlements in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total life expectancy?",
+            "A": "The series with the largest contribution is {Outer Rim Settlements}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total life expectancy?",
+            "A": "The series with the smallest contribution is {Crimson Quarter}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Crimson Quarter's Life Expectancy in 1962?",
+            "A": "Crimson Quarter's life expectancy in 1962 is {47.52} years."
+        },
+        {
+            "Q": "What is Outer Rim Settlements's Life Expectancy in 1957?",
+            "A": "Outer Rim Settlements's life expectancy in 1957 is {79.85} years."
+        },
+        {
+            "Q": "What is Verdant Ward's Life Expectancy in 1967?",
+            "A": "Verdant Ward's life expectancy in 1967 is {144.26} years."
+        },
+        {
+            "Q": "What are the life expectancy of Verdant Ward, Outer Rim Settlements, and Crimson Quarter in 1963?",
+            "A": "Verdant Ward's life expectancy is {119.51} years, Outer Rim Settlements's life expectancy is {141.35} years, Crimson Quarter's life expectancy is {42.64} years."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Life Expectancy in the area chart?",
+            "A": "The global minimum life expectancy is {27.49} years."
+        },
+        {
+            "Q": "What is the global maximum Life Expectancy in the area chart?",
+            "A": "The global maximum life expectancy is {207.46} years."
+        },
+        {
+            "Q": "What is the highest Life Expectancy level recorded for Crimson Quarter?",
+            "A": "Crimson Quarter reached approximately {80.10} years in {1957}."
+        },
+        {
+            "Q": "What is the lowest Life Expectancy level recorded for Crimson Quarter?",
+            "A": "Crimson Quarter's lowest recorded level is approximately {27.49} years in {1967}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Life Expectancy?",
+            "A": "The average total life expectancy is {296.84} years."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Life Expectancy exceed 318.55 years? Please list the years and corresponding total values.",
+            "A": "{357.40} years in {1966}, {379.21} years in {1967}, {337.68} years in {1965}."
+        },
+        {
+            "Q": "Which years did the total Life Expectancy fall between 276.27 and 305.35 years? Please list the years and corresponding total values.",
+            "A": "{303.50} years in {1963}, {289.38} years in {1962}."
+        },
+        {
+            "Q": "Which years did the total Life Expectancy go below 263.07 years? Please list the years and corresponding total values.",
+            "A": "{254.40} years in {1959}, {239.99} years in {1957}, {246.17} years in {1958}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1958 and 1965, did the total Life Expectancy experience a larger or smaller change than between 1958 and 1964?",
+            "A": "The change in total life expectancy between 1958 and 1965 was {larger} than between 1958 and 1964."
+        },
+        {
+            "Q": "Was the total Life Expectancy in 1957 higher or lower than in 1959?",
+            "A": "The total life expectancy in 1957 was {lower} than in 1959."
+        },
+        {
+            "Q": "Between 1964 and 1967, was the average total Life Expectancy higher or lower than between 1961 and 1967?",
+            "A": "The average total life expectancy between 1964 and 1967 was {higher} than between 1961 and 1967."
+        },
+        {
+            "Q": "Between 1961 and 1962, was the average total Life Expectancy higher or lower than between 1963 and 1966?",
+            "A": "The average total life expectancy between 1961 and 1962 was {lower} than between 1963 and 1966."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Outer Rim Settlements} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Crimson Quarter, Verdant Ward, Outer Rim Settlements}."
+        }
+    ]
+}

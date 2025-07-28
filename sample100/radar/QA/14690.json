@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Return on Investment (ROI)Local Community Engagement Rate?",
+            "A": "The next dimension clockwise from Return on Investment (ROI)Local Community Engagement Rate is Tourist Growth Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Return on Investment (ROI)Local Community Engagement Rate?",
+            "A": "The next dimension counterclockwise from Return on Investment (ROI)Local Community Engagement Rate is Tourist Satisfaction Rate ."
+        },
+        {
+            "Q": "On the Tourist Growth Rate, is the point for Brooksstad inside or outside the point for Ginabury?",
+            "A": "On the Tourist Growth Rate, the point for Brooksstad is outside the point for Ginabury."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Tourist Satisfaction Rate } encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Ginabury?",
+            "A": "The strongest aspect is {Tourist Satisfaction Rate }, while the weakest aspect is{ Tourist Growth Rate}."
+        },
+        {
+            "Q": "On dimension Hotel Occupancy Rate, which label scores the highest?",
+            "A": "On Hotel Occupancy Rate, label {Ginabury} scores the highest."
+        },
+        {
+            "Q": "On dimension Return on Investment (ROI)Local Community Engagement Rate, which label scores the highest?",
+            "A": "On Return on Investment (ROI)Local Community Engagement Rate, label {Brooksstad} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Brooksstad on the Tourist Satisfaction Rate  in the radar chart?",
+            "A": "The value of Brooksstad on the Safety dimension is {53}."
+        },
+        {
+            "Q": "What is the value of Brooksstad on the Tourist Conversion Rate in the radar chart?",
+            "A": "The value of Brooksstad on the Safety dimension is {46}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Brooksstad across all dimensions in the radar chart?",
+            "A": "The maximum value of Brooksstad across all dimensions is {46}."
+        },
+        {
+            "Q": "What is the minimum value of label Brooksstad across all dimensions in the radar chart?",
+            "A": "The minimum value of Brooksstad across all dimensions is {53}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Tourist Conversion Rate",
+            "A": "The average value of Tourist Conversion Rate is {43.5}."
+        },
+        {
+            "Q": "What is the average value of Ginabury",
+            "A": "The average value of Ginabury is {43.4}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 42 for the Tourist Conversion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Ginabury} is {41}"
+        },
+        {
+            "Q": "For Brooksstad in the radar chart, which dimensions have scores above 51? Please list the dimensions and corresponding scores.",
+            "A": "{Tourist Satisfaction Rate } is {55}"
+        },
+        {
+            "Q": "Which labels have scores above 45 for the Tourist Conversion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Brooksstad} is {46}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Brooksstad, which dimension has a higher score: Tourist Conversion Rate or Hotel Occupancy Rate?",
+            "A": "{Hotel Occupancy Rate} has a higher score than Tourist Conversion Rate for Brooksstad."
+        },
+        {
+            "Q": "On Tourist Growth Rate, which label has a higher score: Brooksstad or the Ginabury?",
+            "A": "{Brooksstad} has a higher score on Tourist Growth Rate compared to Ginabury."
+        },
+        {
+            "Q": "For Ginabury, which dimension has a higher score: Tourist Growth Rate or Tourist Satisfaction Rate  or Return on Investment (ROI)Local Community Engagement Rate?",
+            "A": "{Tourist Satisfaction Rate } has a higher score for Ginabury."
+        },
+        {
+            "Q": "For Ginabury, which dimension has a higher score: Tourist Satisfaction Rate  or Hotel Occupancy Rate or Return on Investment (ROI)Local Community Engagement Rate?",
+            "A": "{Tourist Satisfaction Rate } has a higher score for Ginabury."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Ginabury, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Ginabury most needs to improve its {Tourist Growth Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Brooksstad}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Ginabury}."
+        }
+    ],
+    "VA": []
+}

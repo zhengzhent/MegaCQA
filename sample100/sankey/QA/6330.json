@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in the column Patient Demographics of this sankey chart?",
+            "A": "There are {4} nodes in the column Patient Demographics."
+        },
+        {
+            "Q": "How many links flow out of column Patient Demographics of this sankey chart?",
+            "A": "There are {20} links flow out of column Patient Demographics."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Patient Demographics}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Medical Specialties}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Children} and {Pediatrics}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Chronic Patients} and {Pediatrics}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Seniors to the node Pediatrics?",
+            "A": "The flow value from the node Seniors to the node Pediatrics is {157}."
+        },
+        {
+            "Q": "What is the flow value from the node Children to the node Oncology?",
+            "A": "The flow value from the node Children to the node Oncology is {265}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Chronic Patients to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Chronic Patients to the next stage is {608}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Children to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Children to the next stage is {265}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Seniors?",
+            "A": "The total flow output from node Seniors is {1530}."
+        },
+        {
+            "Q": "What is the total flow input by node Dermatology?",
+            "A": "The total flow input by node Dermatology is {3660}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Patient Demographics of the sankey chart, which nodes have an outflow exceeded 958? Please list the node labels and their corresponding outflow values.",
+            "A": "{Children} has an outflow of {2536}, {Children} has an outflow of {1035}, {Children} has an outflow of {2452}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Patient Demographics and column Medical Specialties is the flow between 332 and 439? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {342} from node {Pregnant Women} to {Oncology}, a flow of {426} from node {Seniors} to {Orthopedics}, a flow of {436} from node {Seniors} to {Neurology}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 384 and 439? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {426} from node {Seniors} to {Orthopedics}, a flow of {436} from node {Seniors} to {Neurology}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Chronic Patients to node Orthopedics and from node Seniors to node Neurology, which path has a larger flow?",
+            "A": "The flow from node {Chronic Patients} to node {Orthopedics} is larger."
+        },
+        {
+            "Q": "Between the flows from node Seniors to node Neurology and from node Pregnant Women to node Dermatology, which path has a larger flow?",
+            "A": "The flow from node {Pregnant Women} to node {Dermatology} is larger."
+        },
+        {
+            "Q": "Among the flows from node Children to node Neurology, from node Pregnant Women to node Oncology, and from node Children to node Oncology, which path has the largest flow?",
+            "A": "The flow from node {Pregnant Women} to node {Oncology} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Medical Specialties of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Medical Specialties is {Dermatology}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Children to target node Pediatrics? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Children to node Pediatrics is: {Children, Pediatrics}."
+        }
+    ],
+    "VA": []
+}

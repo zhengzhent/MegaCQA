@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of people attending the game of 35128.57 relative to the bubble with a Number of people attending the game of 1000.00 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of people attending the game of 35128.57 is {below} and to the {left} of the bubble with a Number of people attending the game of 1000.00."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Player salary and Win rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {33973086.57} $ and {83.82} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of people attending the game of the largest bubble?",
+            "A": "The Number of people attending the game of the largest bubble is {100000.00} attendees."
+        },
+        {
+            "Q": "What is the Number of people attending the game of the smallest bubble?",
+            "A": "The Number of people attending the game of the smallest bubble is {1000.00} attendees."
+        },
+        {
+            "Q": "What are the Player salary and Win rate values of the largest bubble?",
+            "A": "The Player salary of the largest bubble is {16560719.38} $, and {Win rate} is {11.33} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of people attending the game in the bubble chart?",
+            "A": "The global maximum Number of people attending the game is {100000.00} attendees."
+        },
+        {
+            "Q": "What is the global minimum Number of people attending the game in the bubble chart?",
+            "A": "The global minimum Number of people attending the game is {1000.00} attendees."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Player salary in the bubble chart?",
+            "A": "The maximum observed value in the Player salary dimension is {47516827.39} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Player salary in the bubble chart?",
+            "A": "The minimum observed value in the Player salary dimension is {4380358.80} $."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Win rate in the bubble chart?",
+            "A": "The maximum observed value in the Win rate dimension is {90.50} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Win rate in the bubble chart?",
+            "A": "The minimum observed value in the Win rate dimension is {5.36} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of people attending the game for all bubbles?",
+            "A": "The average value of the Number of people attending the game for all bubbles is {50382.05} attendees."
+        },
+        {
+            "Q": "What is the average value of the Player salary for all bubbles?",
+            "A": "The average value of Player salary for all bubbles is {30651406.50} $."
+        },
+        {
+            "Q": "What is the average value of the Win rate for all bubbles?",
+            "A": "The average value of Win rate for all bubbles is {55.36} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of people attending the game values in the bubble chart?",
+            "A": "{100000.00, 99783.41, 66895.55} attendees."
+        },
+        {
+            "Q": "What are the bottom 3 Number of people attending the game values in the bubble chart?",
+            "A": "{1000.00, 17559.47, 28931.13} attendees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of people attending the game value, the bubble with a Player salary of 21628501.7 $ and a Win rate of 90.5 %, or the bubble with a Player salary of 31921462.4 $ and a Win rate of 74.4 %?",
+            "A": "The bubble with a Player salary of {31921462.4} and a Win rate of {74.4} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of people attending the game value of the bubble with the largest Win rate value?",
+            "A": "The Number of people attending the game value of the bubble with the largest Win rate is {28931.13}."
+        },
+        {
+            "Q": "What is the Number of people attending the game value of the bubble with the largest Player salary value?",
+            "A": "The Number of people attending the game value of the bubble with the largest Player salary is {57876.32}."
+        },
+        {
+            "Q": "Classify bubbles with a Win rate-coordinate greater than 47 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of people attending the game for the high value group and the low value group?",
+            "A": "The difference between the total Number of people attending the game of the high-value and low-value groups is {47509.54}."
+        }
+    ],
+    "VA": []
+}

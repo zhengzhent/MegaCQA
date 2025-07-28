@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {17} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Air Transport}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Bike Sharing}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the E-Scooters rectangle in this treemap?",
+            "A": "The value of the E-Scooters rectangle is {17.11}."
+        },
+        {
+            "Q": "What is the value of the Road Freight rectangle in this treemap?",
+            "A": "The value of the Road Freight rectangle is {20.87}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.31}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Freight and Logistics and Micromobility?",
+            "A": "The difference between Freight and Logistics and Micromobility is {11.39}."
+        },
+        {
+            "Q": "What is the sum of the regions of Public Transit and Air Transport?",
+            "A": "The sum of Public Transit and Air Transport is {43.77}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Micromobility category in the treemap, which rectangular labels have a value exceeded 14.16? Please list the labels and values.",
+            "A": "{E-Scooters} has {17.11}"
+        },
+        {
+            "Q": "Under the Micromobility category in the treemap, which rectangular labels have a value below 8.26? Please list the labels and values.",
+            "A": "{Bike Sharing} has {5.31}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Freight and Logistics, Commercial Airlines, or Urban Mobility?",
+            "A": "The value of {Urban Mobility} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Air Transport or Freight and Logistics?",
+            "A": "The value of {Air Transport} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Commercial Airlines or Micromobility?",
+            "A": "The value of {Commercial Airlines} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Air Transport, Freight and Logistics, or Commercial Airlines?",
+            "A": "The value of {Air Transport} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

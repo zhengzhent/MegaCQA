@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Drip Networks in this treemap?",
+            "A": "There are {1} child rectangles under the category Drip Networks."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Crop Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Turbulence Chambers}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Crop Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Ball Valves rectangle in this treemap?",
+            "A": "The value of the Ball Valves rectangle is {41.18}."
+        },
+        {
+            "Q": "What is the value of the Fertigation Systems rectangle in this treemap?",
+            "A": "The value of the Fertigation Systems rectangle is {15.4}."
+        },
+        {
+            "Q": "What is the value of the Dosing Mechanisms rectangle in this treemap?",
+            "A": "The value of the Dosing Mechanisms rectangle is {15.4}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.06}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Ball Valves and Irrigation Tech?",
+            "A": "The difference between Ball Valves and Irrigation Tech is {33.52}."
+        },
+        {
+            "Q": "What is the sum of the regions of Solenoid Valves and Control Modules?",
+            "A": "The sum of Solenoid Valves and Control Modules is {57.1}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Drip Networks category in the treemap, which rectangular labels have a value exceeded 10.35? Please list the labels and values.",
+            "A": "{Emitter Design} has {10.36}"
+        },
+        {
+            "Q": "Under the Drip Networks category in the treemap, which rectangular labels have a value below 10.37? Please list the labels and values.",
+            "A": "{Emitter Design} has {10.36}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Crop Systems or Irrigation Tech?",
+            "A": "The value of {Crop Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Crop Systems, Irrigation Tech, or Pivot Systems?",
+            "A": "The value of {Crop Systems} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {8} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

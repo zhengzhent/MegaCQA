@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {5} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Greenwood Academy}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Pinecrest Institute}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Redwood Prep?",
+            "A": "The first position to the left of the box Redwood Prep is {Silverton High}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Silverton High relative to the box Riverdale High in terms of horizontal (left/right) direction?",
+            "A": "Box Silverton High is to the {left} of the box Riverdale High."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Redwood Prep}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Redwood Prep}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Riverdale High}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Silverton High in the box plot?",
+            "A": "The median of Silverton High is {79.095} %."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Silverton High in the box plot?",
+            "A": "The upper quartile (Q3) of Silverton High is {83.8875} %."
+        },
+        {
+            "Q": "What is the lower whisker limit of Redwood Prep in the box plot?",
+            "A": "The lower whisker limit of Redwood Prep is {75.91} %."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Redwood Prep in the box plot?",
+            "A": "The largest upper outlier value in Redwood Prep is {134.37} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum % value in the box plot?",
+            "A": "The global maximum % value in the box plot is {134.37} %."
+        },
+        {
+            "Q": "What is the global minimum % value in the box plot?",
+            "A": "The global minimum % value in the box plot is {71.50} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Silverton High and Pinecrest Institute?",
+            "A": "The Q3 difference between box Silverton High and Pinecrest Institute is {5.912499999999994} %."
+        },
+        {
+            "Q": "What is the toal Median value of box Redwood Prep and Silverton High?",
+            "A": "The total Median value of box Redwood Prep and Silverton High is {165.905} %."
+        },
+        {
+            "Q": "What is the average Median value of box Redwood Prep and Pinecrest Institute?",
+            "A": "The average Median value of box Redwood Prep and Pinecrest Institute is {85.53999999999999} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 98.55 %?",
+            "A": "Box{Greenwood Academy},{Redwood Prep},{Riverdale High},{Pinecrest Institute} have the outliers exceed 98.55 %."
+        },
+        {
+            "Q": "Which boxes have median values exceed 84.46 %? Please list the boxes and corresponding values.",
+            "A": "{Greenwood Academy} has {84.64500000000001} % , {Redwood Prep} has {86.81} % "
+        },
+        {
+            "Q": "Which boxes have median values below 84.46 %? Please list the boxes and corresponding values.",
+            "A": "{Silverton High} has {79.095} % , {Riverdale High} has {79.405} % , {Pinecrest Institute} has {84.27} % "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Riverdale High or Greenwood Academy ",
+            "A": "The median value of the {Greenwood Academy} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Silverton High, Greenwood Academy or Pinecrest Institute ",
+            "A": "The median value of the {Greenwood Academy} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Silverton High, Pinecrest Institute, Riverdale High or Greenwood Academy ",
+            "A": "The median value of the {Greenwood Academy} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Redwood Prep}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {3} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Horizon Enterprises relative to Vanguard Dynamics?",
+            "A": "Horizon Enterprises is {below} Vanguard Dynamics in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total customer acquisition cost?",
+            "A": "The series with the largest contribution is {Vanguard Dynamics}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total customer acquisition cost?",
+            "A": "The series with the smallest contribution is {Ironclad Ventures}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Ironclad Ventures's Customer Acquisition Cost in 2016?",
+            "A": "Ironclad Ventures's customer acquisition cost in 2016 is {124.58} $."
+        },
+        {
+            "Q": "What is Vanguard Dynamics's Customer Acquisition Cost in 2003?",
+            "A": "Vanguard Dynamics's customer acquisition cost in 2003 is {175.96} $."
+        },
+        {
+            "Q": "What is Ironclad Ventures's Customer Acquisition Cost in 1995?",
+            "A": "Ironclad Ventures's customer acquisition cost in 1995 is {96.85} $."
+        },
+        {
+            "Q": "What are the customer acquisition cost of Ironclad Ventures, Vanguard Dynamics, and Horizon Enterprises in 1998?",
+            "A": "Ironclad Ventures's customer acquisition cost is {85.17} $, Vanguard Dynamics's customer acquisition cost is {127.80} $, Horizon Enterprises's customer acquisition cost is {113.17} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Customer Acquisition Cost in the area chart?",
+            "A": "The global minimum customer acquisition cost is {67.49} $."
+        },
+        {
+            "Q": "What is the global maximum Customer Acquisition Cost in the area chart?",
+            "A": "The global maximum customer acquisition cost is {267.64} $."
+        },
+        {
+            "Q": "What is the highest Customer Acquisition Cost level recorded for Horizon Enterprises?",
+            "A": "Horizon Enterprises reached approximately {204.89} $ in {2016}."
+        },
+        {
+            "Q": "What is the lowest Customer Acquisition Cost level recorded for Horizon Enterprises?",
+            "A": "Horizon Enterprises's lowest recorded level is approximately {98.57} $ in {1995}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Customer Acquisition Cost?",
+            "A": "The average total customer acquisition cost is {436.77} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Customer Acquisition Cost go below 381.33 $? Please list the years and corresponding total values.",
+            "A": "{331.28} $ in {1999}, {290.55} $ in {1995}, {346.12} $ in {1997}."
+        },
+        {
+            "Q": "Which years did the total Customer Acquisition Cost fall between 410.68 and 453.91 $? Please list the years and corresponding total values.",
+            "A": "{423.24} $ in {2005}, {444.16} $ in {2009}."
+        },
+        {
+            "Q": "Which years did the total Customer Acquisition Cost exceed 483.27 $? Please list the years and corresponding total values.",
+            "A": "{483.63} $ in {2010}, {556.04} $ in {2015}, {597.11} $ in {2016}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1997 and 2015, was the average total Customer Acquisition Cost higher or lower than between 1998 and 2004?",
+            "A": "The average total customer acquisition cost between 1997 and 2015 was {higher} than between 1998 and 2004."
+        },
+        {
+            "Q": "Between 2004 and 2005, did the total Customer Acquisition Cost experience a larger or smaller change than between 2006 and 2011?",
+            "A": "The change in total customer acquisition cost between 2004 and 2005 was {smaller} than between 2006 and 2011."
+        },
+        {
+            "Q": "Was the total Customer Acquisition Cost in 2007 higher or lower than in 2016?",
+            "A": "The total customer acquisition cost in 2007 was {lower} than in 2016."
+        },
+        {
+            "Q": "Between 1997 and 2014, was the average total Customer Acquisition Cost higher or lower than between 2004 and 2014?",
+            "A": "The average total customer acquisition cost between 1997 and 2014 was {lower} than between 2004 and 2014."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Vanguard Dynamics} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Ironclad Ventures, Horizon Enterprises, Vanguard Dynamics}."
+        }
+    ]
+}

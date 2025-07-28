@@ -1,0 +1,123 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {3} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Dunvale}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Mapleton}."
+        },
+        {
+            "Q": "Which box is the first position to the right of the box Dunvale?",
+            "A": "The first position to the right of the box Dunvale is {Fairmont}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Dunvale relative to the box Fairmont in terms of horizontal (left/right) direction?",
+            "A": "Box Dunvale is to the {left} of the box Fairmont."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Dunvale}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Mapleton}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Dunvale}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Mapleton in the box plot?",
+            "A": "The median of Mapleton is {1085.0} Number."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Fairmont in the box plot?",
+            "A": "The upper quartile (Q3) of Fairmont is {1026.0} Number."
+        },
+        {
+            "Q": "What is the upper whisker limit of Mapleton in the box plot?",
+            "A": "The upper whisker limit of Mapleton is {1877} Number."
+        },
+        {
+            "Q": "What is the lowest upper outlier value in Dunvale in the box plot?",
+            "A": "The lowest upper outlier value in Dunvale is {343}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number value in the box plot?",
+            "A": "The global maximum Number value in the box plot is {2051.00} Number."
+        },
+        {
+            "Q": "What is the global minimum Number value in the box plot?",
+            "A": "The global minimum Number value in the box plot is {23.00} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Mapleton and Dunvale?",
+            "A": "The Median difference between box Mapleton and Dunvale is {47.0} Number."
+        },
+        {
+            "Q": "What is the toal Median value of box Dunvale and Mapleton?",
+            "A": "The total Median value of box Dunvale and Mapleton is {2217.0} Number."
+        },
+        {
+            "Q": "What is the average Q3 value of box Dunvale and Mapleton?",
+            "A": "The average Q3 value of box Dunvale and Mapleton is {1290.5} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 1845.9 Number?",
+            "A": "Box{Mapleton} have the outliers exceed 1845.9 Number."
+        },
+        {
+            "Q": "Which boxes have median values exceed 1108.50 Number? Please list the boxes and corresponding values.",
+            "A": "{Dunvale} has {1132.0} Number "
+        },
+        {
+            "Q": "Which boxes have median values below 950.00 Number? Please list the boxes and corresponding values.",
+            "A": "{Fairmont} has {815.0} Number "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Dunvale or Fairmont ",
+            "A": "The median value of the {Dunvale} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Dunvale, Mapleton or Fairmont ",
+            "A": "The median value of the {Dunvale} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Mapleton}."
+        }
+    ],
+    "VA": []
+}

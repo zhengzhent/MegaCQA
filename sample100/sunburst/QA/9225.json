@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Travel Services positioned outside, inside or on the same side as Fine Dining?",
+            "A": "Travel Services is positioned {inside} Fine Dining."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Travel Services}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Ziplining segment in this sunburst chart?",
+            "A": "The value of the Ziplining segment is {24.57}."
+        },
+        {
+            "Q": "What is the value of the Desert Safaris segment in this sunburst chart?",
+            "A": "The value of the Desert Safaris segment is {8.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {53.21}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {22.35}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {24.57}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.92}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Travel Services exceed 62%? Please list the category names and corresponding percentages.",
+            "A": "{Guided Tours} accounts for {73.13}%"
+        },
+        {
+            "Q": "Which categories in the segment Travel Services are below 38%? Please list the category names and corresponding percentages.",
+            "A": "{Transportation} accounts for {26.87}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Guided Tours, Adventure Tours, or Ziplining?",
+            "A": "The value of {Ziplining} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Travel Services, Guided Tours, Adventure Tours, or Hospitality Services?",
+            "A": "The value of {Travel Services} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Travel Services or Guided Tours?",
+            "A": "The value of {Travel Services} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Travel Services to Guided Tours to Adventure Tours to Ziplining}."
+        }
+    ],
+    "VA": []
+}

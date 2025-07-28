@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {7} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Glenhaven}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Fairmont}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin Fairmont?",
+            "A": "The first position to the left of the violin Fairmont is {Lakeview}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Fairmont relative to the violin Zephyr in terms of horizontal (left/right) direction?",
+            "A": "violin Fairmont is to the {right} of the violin Zephyr."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Mapleton}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Mapleton}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Pinehaven?",
+            "A": "The density distribution pattern of the Pinehaven shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Pinehaven in the violin plot?",
+            "A": "The median of Pinehaven is {4656.50} MWh."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Mapleton in the violin plot?",
+            "A": "The lower quartile (Q1) of Mapleton is {5331.25} MWh."
+        },
+        {
+            "Q": "What is the upper whisker limit of Creston in the violin plot?",
+            "A": "The upper whisker limit of Creston is {3407.00} MWh."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Creston in the violin plot?",
+            "A": "The lowest upper outlier value in Creston is {2368.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum MWh value in the violin plot?",
+            "A": "The global maximum MWh value in the violin plot is {6763.00} MWh."
+        },
+        {
+            "Q": "What is the global minimum MWh value in the violin plot?",
+            "A": "The global minimum MWh value in the violin plot is {1189.00} MWh."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin Pinehaven and Glenhaven?",
+            "A": "The Q1 difference between violin Pinehaven and Glenhaven is {43.50} MWh."
+        },
+        {
+            "Q": "What is the toal Median value of violin Mapleton and Creston?",
+            "A": "The total Median value of violin Mapleton and Fairmont is {8563.00} MWh."
+        },
+        {
+            "Q": "What is the average Median value of violin Pinehaven and Glenhaven?",
+            "A": "The average Median value of violin Pinehaven and Glenhaven is {4544.50} MWh."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 4544.50 MWh? Please list the violins and corresponding values.",
+            "A": "{Pinehaven} has {4656.50} MWh , {Mapleton} has {5650.00} MWh "
+        },
+        {
+            "Q": "Which violins have median values below 3550.50 MWh? Please list the violins and corresponding values.",
+            "A": "{Creston} has {2913.00} MWh , {Lakeview} has {2431.50} MWh , {Fairmont} has {2423.00} MWh "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 5166.70 MWh?",
+            "A": "Violin {Mapleton} has {5641.97} MWh have their highest density peak exceed 5166.70 MWh."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 2447.97 MWh?",
+            "A": "Violin {Fairmont} has {2435.06} MWh have their highest density peak below 2447.97 MWh."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Zephyr or Pinehaven ",
+            "A": "The median value of the {Pinehaven} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Creston, Glenhaven or Pinehaven ",
+            "A": "The median value of the {Pinehaven} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Pinehaven, Zephyr, Fairmont or Mapleton ",
+            "A": "The median value of the {Mapleton} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Mapleton}."
+        }
+    ],
+    "VA": []
+}

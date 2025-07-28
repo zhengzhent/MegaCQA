@@ -1,0 +1,10 @@
+Image Name: 8766.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\8766.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels for each type of house and the corresponding sales data. The use of a gradient color scheme adds visual interest without detracting from the data. The values are directly placed on top of each bar, making it easy to read the exact figures. The title and axis labels are clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and well-structured, with a straightforward bar chart format that effectively communicates the data on house sales. The use of a gradient color scheme is visually appealing, and the labels for each type of house are easy to read. The values on top of the bars provide precise information, enhancing the overall readability.

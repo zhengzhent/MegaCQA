@@ -1,0 +1,10 @@
+Image Name: 10002.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\10002.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with distinct bars for each city's R&D investment. The values are labeled directly on the bars, making it easy to compare the investments at a glance. The axis labels and title are clear and appropriately placed, enhancing the overall readability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart presents the data clearly with well-defined bars for each city, and the values are labeled directly on the bars, making it easy to read. The y-axis is appropriately scaled, and the title provides context. However, the font size of the labels could be slightly larger for improved legibility.

@@ -1,0 +1,10 @@
+Image Name: 3468.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\3468.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels and a straightforward layout. The use of a gradient color scheme helps in distinguishing the bars, and the values are directly placed at the end of each bar, making it easy to read the exact numbers. The title is descriptive, and the x-axis is clearly labeled, enhancing the overall readability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively uses horizontal bars to compare the number of students across different cities. The color gradient helps in distinguishing the bars, and the labels are easy to read. The numerical values are also clearly displayed, making it straightforward to interpret the data.

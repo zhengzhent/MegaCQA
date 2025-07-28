@@ -1,0 +1,20 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2021),%
+parent,child,value
+Root,Workplace Wellbeing,43.1
+Workplace Wellbeing,Work-Life Balance,29.1
+Work-Life Balance,Flexible Scheduling,20.99
+Flexible Scheduling,Compressed Weeks,10.02
+Flexible Scheduling,Hybrid Options,5.09
+Flexible Scheduling,Remote Work,5.88
+Work-Life Balance,Employee Assistance,8.11
+Workplace Wellbeing,Health & Safety,14.0
+Health & Safety,Emergency Response,7.48
+Health & Safety,Ergonomics,6.52
+Root,Employee Lifecycle,35.22
+Employee Lifecycle,Recruitment,13.94
+Recruitment,Candidate Evaluation,13.94
+Candidate Evaluation,Resume Screening,8.63
+Candidate Evaluation,Assessment Tests,5.31
+Employee Lifecycle,Onboarding,21.28
+Root,Employee Development,21.68
+Employee Development,Performance Management,21.68

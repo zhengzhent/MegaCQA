@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Real-Time Sync in this treemap?",
+            "A": "There are {2} child rectangles under the category Real-Time Sync."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Platform Architecture}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {ML-Based Prioritization}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Platform Architecture}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Delta Encoding rectangle in this treemap?",
+            "A": "The value of the Delta Encoding rectangle is {7.87}."
+        },
+        {
+            "Q": "What is the value of the Neural TTS rectangle in this treemap?",
+            "A": "The value of the Neural TTS rectangle is {32.57}."
+        },
+        {
+            "Q": "What is the value of the Storage Systems rectangle in this treemap?",
+            "A": "The value of the Storage Systems rectangle is {23.72}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.31}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Push Algorithm and Real-Time Sync?",
+            "A": "The difference between Push Algorithm and Real-Time Sync is {1.39}."
+        },
+        {
+            "Q": "What is the sum of the regions of Storage Systems and Accessibility?",
+            "A": "The sum of Storage Systems and Accessibility is {56.29}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Real-Time Sync category in the treemap, which rectangular labels have a value exceeded 7.53? Please list the labels and values.",
+            "A": "{Delta Encoding} has {7.87}"
+        },
+        {
+            "Q": "Under the Real-Time Sync category in the treemap, which rectangular labels have a value below 6.86? Please list the labels and values.",
+            "A": "{Conflict Resolution} has {6.52}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Platform Architecture, User Interface, or Interaction Design?",
+            "A": "The value of {Platform Architecture} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Interaction Design or Accessibility?",
+            "A": "The value of {Interaction Design} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

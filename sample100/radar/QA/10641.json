@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Gross Margin?",
+            "A": "The next dimension clockwise from Gross Margin is Return on Investment (ROI)"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Gross Margin?",
+            "A": "The next dimension counterclockwise from Gross Margin is Repurchase Rate."
+        },
+        {
+            "Q": "On the Repurchase Rate, is the point for King, Green and Cook inside or outside the point for Johnson, Snyder and Fry?",
+            "A": "On the Repurchase Rate, the point for King, Green and Cook is inside the point for Johnson, Snyder and Fry."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Inventory Turnover Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Johnson, Snyder and Fry?",
+            "A": "The strongest aspect is {Inventory Turnover Rate}, while the weakest aspect is{ Repurchase Rate}."
+        },
+        {
+            "Q": "On dimension Repurchase Rate, which label scores the highest?",
+            "A": "On Repurchase Rate, label {King, Green and Cook} scores the highest."
+        },
+        {
+            "Q": "On dimension Gross Margin, which label scores the highest?",
+            "A": "On Gross Margin, label {Johnson, Snyder and Fry} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of King, Green and Cook on the Inventory Turnover Rate in the radar chart?",
+            "A": "The value of King, Green and Cook on the Safety dimension is {23}."
+        },
+        {
+            "Q": "What is the value of Johnson, Snyder and Fry on the Inventory Turnover Rate in the radar chart?",
+            "A": "The value of Johnson, Snyder and Fry on the Safety dimension is {84}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Johnson, Snyder and Fry across all dimensions in the radar chart?",
+            "A": "The maximum value of Johnson, Snyder and Fry across all dimensions is {23}."
+        },
+        {
+            "Q": "What is the minimum value of label Johnson, Snyder and Fry across all dimensions in the radar chart?",
+            "A": "The minimum value of Johnson, Snyder and Fry across all dimensions is {52}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Traffic Conversion Rate",
+            "A": "The average value of Traffic Conversion Rate is {55.5}."
+        },
+        {
+            "Q": "What is the average value of King, Green and Cook",
+            "A": "The average value of King, Green and Cook is {41.5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For King, Green and Cook in the radar chart, which dimensions have scores between 43 and 53? Please list the dimensions and corresponding scores.",
+            "A": "None is between 43 and 53"
+        },
+        {
+            "Q": "For Johnson, Snyder and Fry in the radar chart, which dimensions have scores above 53? Please list the dimensions and corresponding scores.",
+            "A": "{Traffic Conversion Rate} is {59}, {Gross Margin} is {60}, {Self-Service Resolution Rate} is {57}"
+        },
+        {
+            "Q": "Which labels have scores above 58 for the Traffic Conversion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{King, Green and Cook} is {59}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Johnson, Snyder and Fry, which dimension has a higher score: Self-Service Resolution Rate or Inventory Turnover Rate?",
+            "A": "{Inventory Turnover Rate} has a higher score than Self-Service Resolution Rate for Johnson, Snyder and Fry."
+        },
+        {
+            "Q": "For King, Green and Cook, which dimension has a higher score: Repurchase Rate or Traffic Conversion Rate?",
+            "A": "{Traffic Conversion Rate} has a higher score than Repurchase Rate for King, Green and Cook."
+        },
+        {
+            "Q": "On Self-Service Resolution Rate, which label has a higher score: King, Green and Cook or the Johnson, Snyder and Fry?",
+            "A": "{King, Green and Cook} has a higher score on Self-Service Resolution Rate compared to Johnson, Snyder and Fry."
+        },
+        {
+            "Q": "On Repurchase Rate, which label has a higher score: Johnson, Snyder and Fry or the King, Green and Cook?",
+            "A": "{Johnson, Snyder and Fry} has a higher score on Repurchase Rate compared to King, Green and Cook."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Johnson, Snyder and Fry, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Johnson, Snyder and Fry most needs to improve its {Repurchase Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Johnson, Snyder and Fry}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {King, Green and Cook}."
+        }
+    ],
+    "VA": []
+}

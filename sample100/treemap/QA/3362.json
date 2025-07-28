@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Learning Systems in this treemap?",
+            "A": "There are {2} child rectangles under the category Learning Systems."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Learning Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Digital Platforms}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Learning Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Pedagogy rectangle in this treemap?",
+            "A": "The value of the Pedagogy rectangle is {41.96}."
+        },
+        {
+            "Q": "What is the value of the Experiential rectangle in this treemap?",
+            "A": "The value of the Experiential rectangle is {58.04}."
+        },
+        {
+            "Q": "What is the value of the Markerless Tracking rectangle in this treemap?",
+            "A": "The value of the Markerless Tracking rectangle is {12.84}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.84}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Competency-Based and Active Learning?",
+            "A": "The difference between Competency-Based and Active Learning is {15.6}."
+        },
+        {
+            "Q": "What is the sum of the regions of Fieldwork Tech and Mobile Sensing?",
+            "A": "The sum of Fieldwork Tech and Mobile Sensing is {18.42}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Learning Systems category in the treemap, which rectangular labels have a value exceeded 54.02? Please list the labels and values.",
+            "A": "{Experiential} has {58.04}"
+        },
+        {
+            "Q": "Under the Learning Systems category in the treemap, which rectangular labels have a value below 45.98? Please list the labels and values.",
+            "A": "{Pedagogy} has {41.96}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Experiential, Lab Simulations, or Pedagogy?",
+            "A": "The value of {Pedagogy} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Learning Systems or Experiential?",
+            "A": "The value of {Learning Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Lab Simulations or AR Labs?",
+            "A": "The value of {Lab Simulations} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

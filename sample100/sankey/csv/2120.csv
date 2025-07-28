@@ -1,0 +1,82 @@
+Cultural Trends and Influences,Cultural Products Influence Flow,Cultural Products,random,Audience Types,Impact Areas,Cultural Mediums,Cultural Origins,Art Forms
+Source,Target,Value
+General Public,Economy,102
+General Public,Innovation,66
+General Public,Tourism,152
+General Public,Social Integration,143
+General Public,Education,77
+Tourists,Economy,17
+Tourists,Innovation,159
+Tourists,Tourism,124
+Tourists,Social Integration,36
+Tourists,Education,133
+Artists,Economy,14
+Artists,Innovation,66
+Artists,Tourism,16
+Artists,Social Integration,27
+Artists,Education,89
+Scholars,Economy,48
+Scholars,Innovation,17
+Scholars,Tourism,40
+Scholars,Social Integration,87
+Scholars,Education,66
+Local Communities,Economy,137
+Local Communities,Innovation,65
+Local Communities,Tourism,121
+Local Communities,Social Integration,150
+Local Communities,Education,132
+Economy,Museums,20
+Economy,Workshops,87
+Economy,Digital Platforms,20
+Economy,Theaters,82
+Economy,Festivals,109
+Innovation,Museums,104
+Innovation,Workshops,91
+Innovation,Digital Platforms,85
+Innovation,Theaters,67
+Innovation,Festivals,26
+Tourism,Museums,128
+Tourism,Workshops,120
+Tourism,Digital Platforms,108
+Tourism,Theaters,19
+Tourism,Festivals,78
+Social Integration,Museums,100
+Social Integration,Workshops,104
+Social Integration,Digital Platforms,119
+Social Integration,Theaters,12
+Social Integration,Festivals,108
+Education,Museums,137
+Education,Workshops,20
+Education,Digital Platforms,117
+Education,Theaters,115
+Education,Festivals,108
+Museums,Europe,83
+Museums,Asia,59
+Museums,Americas,347
+Workshops,Europe,81
+Workshops,Asia,146
+Workshops,Americas,195
+Digital Platforms,Europe,164
+Digital Platforms,Asia,134
+Digital Platforms,Americas,151
+Theaters,Europe,89
+Theaters,Asia,124
+Theaters,Americas,82
+Festivals,Europe,153
+Festivals,Asia,63
+Festivals,Americas,213
+Europe,Music,140
+Europe,Dance,116
+Europe,Cinema,60
+Europe,Sculpture,102
+Europe,Painting,152
+Asia,Music,126
+Asia,Dance,29
+Asia,Cinema,156
+Asia,Sculpture,43
+Asia,Painting,172
+Americas,Music,37
+Americas,Dance,290
+Americas,Cinema,337
+Americas,Sculpture,94
+Americas,Painting,230

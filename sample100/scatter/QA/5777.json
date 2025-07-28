@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {31} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Development density in the scatter plot?",
+            "A": "The maximum observed value in the Development density dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Development density in the scatter plot?",
+            "A": "The minimum observed value in the Development density dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Property value in the scatter plot?",
+            "A": "The maximum observed value in the Property value dimension is {5000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Property value in the scatter plot?",
+            "A": "The minimum observed value in the Property value dimension is {50000.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Development density for all points?",
+            "A": "The average value of Development density for all points is {50.50}."
+        },
+        {
+            "Q": "What is the average value of the Property value for all points?",
+            "A": "The average value of Property value for all points is {2182076.00}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Property value values corresponding to the top 3 Development density values in the scatter plot?",
+            "A": "{5000000.00, 4252446.67, 3986970.90}."
+        },
+        {
+            "Q": "What are the Property value values corresponding to the bottom 3 Development density values in the scatter plot?",
+            "A": "{1304623.67, 403579.30, 986918.99}."
+        },
+        {
+            "Q": "What are the Development density values corresponding to the top 3 Property value values in the scatter plot?",
+            "A": "{100.00, 96.70, 83.50}."
+        },
+        {
+            "Q": "What are the Development density values corresponding to the bottom 3 Property value values in the scatter plot?",
+            "A": "{14.20, 4.30, 37.30}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 30.83 and 58.48 and Y coordinates between 3444615.62 and 4063387.02?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(14.20, 50000.00) and (100.00, 5000000.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(7.60, 986918.99) and (43.90, 986716.98)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [-10.55, 739216.98, 62.05, 1234418.99] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (7.60, 986918.99)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [69.93, 1837723.15, 94.79, 3077580.62]; Region B: [7.60, 366889.25, 43.90, 1606746.72]; Region C: [40.74, 2659254.43, 65.59, 3899111.89]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

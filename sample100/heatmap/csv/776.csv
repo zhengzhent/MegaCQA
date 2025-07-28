@@ -1,0 +1,65 @@
+Business and Finance,the Metrics of Business and Finance,8x8,central_cluster
+Accounting,Assets,0.18
+Auditing,Assets,0.23
+Banking,Assets,0.3
+Consulting,Assets,0.35
+Financial Tech,Assets,0.46
+Insurance,Assets,0.46
+Investments,Assets,0.48
+Risk Management,Assets,0.37
+Accounting,Expenses,0.2
+Auditing,Expenses,0.23
+Banking,Expenses,0.34
+Consulting,Expenses,0.45
+Financial Tech,Expenses,0.56
+Insurance,Expenses,0.61
+Investments,Expenses,0.6
+Risk Management,Expenses,0.52
+Accounting,Growth,0.21
+Auditing,Growth,0.27
+Banking,Growth,0.41
+Consulting,Growth,0.54
+Financial Tech,Growth,0.69
+Insurance,Growth,0.75
+Investments,Growth,0.75
+Risk Management,Growth,0.64
+Accounting,Liabilities,0.19
+Auditing,Liabilities,0.31
+Banking,Liabilities,0.42
+Consulting,Liabilities,0.57
+Financial Tech,Liabilities,0.72
+Insurance,Liabilities,0.81
+Investments,Liabilities,0.78
+Risk Management,Liabilities,0.64
+Accounting,Liquidity,0.22
+Auditing,Liquidity,0.3
+Banking,Liquidity,0.4
+Consulting,Liquidity,0.54
+Financial Tech,Liquidity,0.67
+Insurance,Liquidity,0.76
+Investments,Liquidity,0.69
+Risk Management,Liquidity,0.67
+Accounting,Market Share,0.18
+Auditing,Market Share,0.25
+Banking,Market Share,0.34
+Consulting,Market Share,0.43
+Financial Tech,Market Share,0.52
+Insurance,Market Share,0.6
+Investments,Market Share,0.57
+Risk Management,Market Share,0.53
+Accounting,Risk,0.17
+Auditing,Risk,0.23
+Banking,Risk,0.27
+Consulting,Risk,0.32
+Financial Tech,Risk,0.36
+Insurance,Risk,0.46
+Investments,Risk,0.39
+Risk Management,Risk,0.39
+Accounting,Valuation,0.2
+Auditing,Valuation,0.17
+Banking,Valuation,0.22
+Consulting,Valuation,0.24
+Financial Tech,Valuation,0.28
+Insurance,Valuation,0.31
+Investments,Valuation,0.31
+Risk Management,Valuation,0.29

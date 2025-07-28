@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {64} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {uniform} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Podcasts and Algorithms in the heatmap?",
+            "A": "The heat value is {0.52}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Online News and Algorithms in the heatmap?",
+            "A": "The heat value is {0.53}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.56}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.51}."
+        },
+        {
+            "Q": "What is the maximum heat value of label YouTube on the x-axis?",
+            "A": "The maximum heat value of YouTube on the x-axis is {0.55}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Creator Economy on the y-axis?",
+            "A": "The maximum heat value for Creator Economy on the y-axis is {0.56}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Creator Economy on the y-axis?",
+            "A": "The average heat value for Creator Economy on the y-axis is {0.54}."
+        },
+        {
+            "Q": "What is the average heat value for label Facebook on the x-axis?",
+            "A": "The average heat value for Facebook on the x-axis is {0.52}."
+        },
+        {
+            "Q": "What is the average heat value for label Platform Trends on the y-axis?",
+            "A": "The average heat value for Platform Trends on the y-axis is {0.53}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to TikTok and Creator Economy or the cell corresponding to Podcasts and Revenue?",
+            "A": "The cell corresponding to {TikTok} and {Creator Economy} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Gaming Platforms and Creator Economy or the cell corresponding to YouTube and Users?",
+            "A": "The cell corresponding to {YouTube} and {Users} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Facebook and Advertising or the cell corresponding to Facebook and Users?",
+            "A": "The heat values are {equal}."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.52 to 0.56?",
+            "A": "The cells are: {(Gaming Platforms, Advertising), (Netflix, Advertising), (Spotify, Advertising), (TikTok, Advertising), (YouTube, Advertising), (Gaming Platforms, Algorithms), (Netflix, Algorithms), (Online News, Algorithms), (Spotify, Algorithms), (TikTok, Algorithms), (YouTube, Algorithms), (Facebook, Content), (Gaming Platforms, Content), (Netflix, Content), (Online News, Content), (Podcasts, Content), (YouTube, Content), (Facebook, Creator Economy), (Gaming Platforms, Creator Economy), (Netflix, Creator Economy), (Online News, Creator Economy), (Podcasts, Creator Economy), (Spotify, Creator Economy), (YouTube, Creator Economy), (Gaming Platforms, Monetization), (Netflix, Monetization), (Online News, Monetization), (Podcasts, Monetization), (Spotify, Monetization), (TikTok, Monetization), (YouTube, Monetization), (Gaming Platforms, Platform Trends), (Online News, Platform Trends), (Podcasts, Platform Trends), (TikTok, Platform Trends), (Gaming Platforms, Revenue), (Netflix, Revenue), (Podcasts, Revenue), (TikTok, Revenue), (Gaming Platforms, Users), (Netflix, Users), (Online News, Users), (Podcasts, Users), (TikTok, Users), (YouTube, Users)}."
+        }
+    ],
+    "VA": []
+}

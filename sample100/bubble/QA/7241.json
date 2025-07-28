@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of shares of 4692.30 relative to the bubble with a Number of shares of 10.00 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of shares of 4692.30 is {below} and to the {right} of the bubble with a Number of shares of 10.00."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Follower count and Engagement rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {7895236.95} count and {4.81} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of shares of the largest bubble?",
+            "A": "The Number of shares of the largest bubble is {100000.00} count."
+        },
+        {
+            "Q": "What is the Number of shares of the smallest bubble?",
+            "A": "The Number of shares of the smallest bubble is {10.00} count."
+        },
+        {
+            "Q": "What are the Follower count and Engagement rate values of the largest bubble?",
+            "A": "The Follower count of the largest bubble is {1685968.57} count, and {Engagement rate} is {11.51} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of shares in the bubble chart?",
+            "A": "The global maximum Number of shares is {100000.00} count."
+        },
+        {
+            "Q": "What is the global minimum Number of shares in the bubble chart?",
+            "A": "The global minimum Number of shares is {10.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Follower count in the bubble chart?",
+            "A": "The maximum observed value in the Follower count dimension is {10180390.01} count."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Follower count in the bubble chart?",
+            "A": "The minimum observed value in the Follower count dimension is {882295.91} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Engagement rate in the bubble chart?",
+            "A": "The maximum observed value in the Engagement rate dimension is {18.75} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Engagement rate in the bubble chart?",
+            "A": "The minimum observed value in the Engagement rate dimension is {1.49} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of shares for all bubbles?",
+            "A": "The average value of the Number of shares for all bubbles is {39348.98} count."
+        },
+        {
+            "Q": "What is the average value of the Follower count for all bubbles?",
+            "A": "The average value of Follower count for all bubbles is {5933997.34} count."
+        },
+        {
+            "Q": "What is the average value of the Engagement rate for all bubbles?",
+            "A": "The average value of Engagement rate for all bubbles is {8.66} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of shares values in the bubble chart?",
+            "A": "{100000.00, 88019.15, 87619.65} count."
+        },
+        {
+            "Q": "What are the bottom 3 Number of shares values in the bubble chart?",
+            "A": "{10.00, 4692.30, 5681.77} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of shares value, the bubble with a Follower count of 2501294.9 count and a Engagement rate of 2.9 %, or the bubble with a Follower count of 9451436.9 count and a Engagement rate of 12.9 %?",
+            "A": "The bubble with a Follower count of {2501294.9} and a Engagement rate of {2.9} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of shares value of the bubble with the largest Engagement rate value?",
+            "A": "The Number of shares value of the bubble with the largest Engagement rate is {10.00}."
+        },
+        {
+            "Q": "What is the Number of shares value of the bubble with the largest Follower count value?",
+            "A": "The Number of shares value of the bubble with the largest Follower count is {10717.66}."
+        },
+        {
+            "Q": "Classify bubbles with a Engagement rate-coordinate greater than 16 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of shares for the high value group and the low value group?",
+            "A": "The difference between the total Number of shares of the high-value and low-value groups is {511516.71}."
+        }
+    ],
+    "VA": []
+}

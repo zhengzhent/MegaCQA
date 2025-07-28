@@ -1,0 +1,65 @@
+Human Resources and Employee Management,the Engagement of Human Resources and Employee Management,8x8,random
+Benefits,Absenteeism,0.69
+Compensation,Absenteeism,0.96
+Compliance,Absenteeism,0.89
+Employee Relations,Absenteeism,0.24
+HR Tech,Absenteeism,0.0
+Performance,Absenteeism,0.09
+Recruitment,Absenteeism,0.81
+Workplace Safety,Absenteeism,0.74
+Benefits,Culture,0.96
+Compensation,Culture,0.35
+Compliance,Culture,0.45
+Employee Relations,Culture,0.98
+HR Tech,Culture,0.62
+Performance,Culture,0.25
+Recruitment,Culture,0.84
+Workplace Safety,Culture,0.22
+Benefits,Diversity,0.47
+Compensation,Diversity,0.6
+Compliance,Diversity,0.42
+Employee Relations,Diversity,0.15
+HR Tech,Diversity,0.03
+Performance,Diversity,0.57
+Recruitment,Diversity,0.91
+Workplace Safety,Diversity,0.31
+Benefits,Engagement,0.21
+Compensation,Engagement,0.23
+Compliance,Engagement,0.96
+Employee Relations,Engagement,0.73
+HR Tech,Engagement,0.52
+Performance,Engagement,0.13
+Recruitment,Engagement,0.95
+Workplace Safety,Engagement,0.08
+Benefits,Leadership,0.6
+Compensation,Leadership,0.22
+Compliance,Leadership,0.85
+Employee Relations,Leadership,0.14
+HR Tech,Leadership,0.17
+Performance,Leadership,0.77
+Recruitment,Leadership,0.78
+Workplace Safety,Leadership,0.43
+Benefits,Productivity,0.42
+Compensation,Productivity,0.92
+Compliance,Productivity,0.78
+Employee Relations,Productivity,0.84
+HR Tech,Productivity,0.96
+Performance,Productivity,0.6
+Recruitment,Productivity,0.91
+Workplace Safety,Productivity,0.24
+Benefits,Turnover,0.67
+Compensation,Turnover,0.95
+Compliance,Turnover,0.28
+Employee Relations,Turnover,0.13
+HR Tech,Turnover,0.38
+Performance,Turnover,0.45
+Recruitment,Turnover,0.72
+Workplace Safety,Turnover,0.53
+Benefits,Wellbeing,0.72
+Compensation,Wellbeing,0.12
+Compliance,Wellbeing,0.9
+Employee Relations,Wellbeing,0.34
+HR Tech,Wellbeing,0.22
+Performance,Wellbeing,0.1
+Recruitment,Wellbeing,0.48
+Workplace Safety,Wellbeing,0.68

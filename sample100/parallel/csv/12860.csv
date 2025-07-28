@@ -1,0 +1,10 @@
+﻿Retail and E-commerce,Sales Performance of Different Company
+Pattern,Strong Correlation,Strong Correlation,Weak Correlation
+labels,Return rate (%),Gross margin (%),Average order value (USD),Conversion rate (%)
+"Green, Stafford and Ford",30.0,60.0,500.0,5.83
+"Ramirez, Everett and Porter",29.44,54.73,437.57,5.62
+"Avery, Thompson and Ramos",28.59,53.43,436.55,2.47
+"Barker, Johnson and Robinson",1.0,10.0,10.0,0.5
+Bolton-Juarez,4.66,14.41,104.93,5.55
+Smith Group,3.19,11.61,66.76,10.0
+Dawson-Simmons,21.17,42.35,367.22,6.81

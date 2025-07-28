@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {3} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {3} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Eddiehaven Panthers?",
+            "A": "The next arc clockwise from arc Eddiehaven Panthers is arc {Edwardsborough Bulls}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Rebeccaview Dolphins?",
+            "A": "The next arc counterclockwise from arc Rebeccaview Dolphins is arc {Edwardsborough Bulls}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Rebeccaview Dolphins} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Eddiehaven Panthers} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Eddiehaven Panthers to Edwardsborough Bulls in the chord chart?",
+            "A": "The flow value is {403}."
+        },
+        {
+            "Q": "What is the flow value from Edwardsborough Bulls to Eddiehaven Panthers in the chord chart?",
+            "A": "The flow value is {464}."
+        },
+        {
+            "Q": "What is the flow value from Edwardsborough Bulls to Rebeccaview Dolphins in the chord chart?",
+            "A": "The flow value is {287}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Rebeccaview Dolphins and Edwardsborough Bulls in the chord chart?",
+            "A": "The maximum flow value between Rebeccaview Dolphins and Edwardsborough Bulls is {474}."
+        },
+        {
+            "Q": "What is the minimum flow value between Edwardsborough Bulls and Eddiehaven Panthers in the chord chart?",
+            "A": "The minimum flow value between Edwardsborough Bulls and Eddiehaven Panthers is {403}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {706}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {155}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Eddiehaven Panthers?",
+            "A": "The total flow output from Eddiehaven Panthers is {558}."
+        },
+        {
+            "Q": "What is the total flow input by Eddiehaven Panthers?",
+            "A": "The total flow input by Eddiehaven Panthers is {1170}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 433? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {464} from {Edwardsborough Bulls} to {Eddiehaven Panthers}, a flow of {474} from {Rebeccaview Dolphins} to {Edwardsborough Bulls}, a flow of {706} from {Rebeccaview Dolphins} to {Eddiehaven Panthers}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 433? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {403} from {Eddiehaven Panthers} to {Edwardsborough Bulls}, a flow of {287} from {Edwardsborough Bulls} to {Rebeccaview Dolphins}, a flow of {155} from {Eddiehaven Panthers} to {Rebeccaview Dolphins}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 345 and 469? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {403} from {Eddiehaven Panthers} to {Edwardsborough Bulls}, a flow of {464} from {Edwardsborough Bulls} to {Eddiehaven Panthers}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Eddiehaven Panthers to Rebeccaview Dolphins or from Eddiehaven Panthers to Edwardsborough Bulls?",
+            "A": "The flow from {Eddiehaven Panthers} to {Edwardsborough Bulls} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Rebeccaview Dolphins to Eddiehaven Panthers, from Edwardsborough Bulls to Rebeccaview Dolphins, or from Eddiehaven Panthers to Edwardsborough Bulls?",
+            "A": "The flow from {Rebeccaview Dolphins} to {Eddiehaven Panthers} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Rebeccaview Dolphins}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Eddiehaven Panthers} and {Edwardsborough Bulls}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Eddiehaven Panthers, Arc Edwardsborough Bulls, Arc Rebeccaview Dolphins}."
+        }
+    ]
+}

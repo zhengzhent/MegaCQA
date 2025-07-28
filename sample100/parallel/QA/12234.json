@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Customer retention rate (%) dimension, what is the spatial relationship of Wood-Barrera relative to Nolan Inc in terms of vertical (above/below) direction?",
+            "A": "{Wood-Barrera} is {below} {Nolan Inc} on the Customer retention rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the third position to the left of dimension Inventory accuracy (%)?",
+            "A": "The third position to the left of Inventory accuracy (%) is {Return rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Cart abandonment rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Customer retention rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Average order value (USD)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Average order value (USD) and dimension Cart abandonment rate (%)",
+            "A": "There is {Weak Correlation} between Average order value (USD) and Cart abandonment rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Nolan Inc on the Inventory accuracy (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Nolan Inc on the Inventory accuracy (%) dimension is {94.05}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Thompson, Herrera and Franklin across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Thompson, Herrera and Franklin across all dimensions is {373.92}"
+        },
+        {
+            "Q": "What is the minimum value of label Thompson, Herrera and Franklin across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Thompson, Herrera and Franklin across all dimensions is {8.06}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Return rate (%)?",
+            "A": "The average value of Return rate (%) is {17.53}"
+        },
+        {
+            "Q": "What is the difference in coding Cart abandonment rate (%) between label Ford and Sons and label Thompson, Herrera and Franklin",
+            "A": "The difference in coding Cart abandonment rate (%) between Ford and Sons and Thompson, Herrera and Franklin is {41.65}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Gross margin (%) dimension in the parallel coordinates?",
+            "A": "{[60.0, 35.27, 32.74]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Conversion rate (%) dimension in the parallel coordinates?",
+            "A": "{[0.5, 2.82, 8.06]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Conversion rate (%), which label has a higher score: Wood-Barrera or Nolan Inc?",
+            "A": "{Nolan Inc} has a higher score on Conversion rate (%)."
+        },
+        {
+            "Q": "On Cart abandonment rate (%), which label has a higher score: Nolan Inc or Ford and Sons?",
+            "A": "{Ford and Sons} has a higher score on Cart abandonment rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Average order value (USD)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Gross margin (%) being greater than 36.87 and Gross margin (%) being less than 27.46?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Starfall Mart, what is the spatial relationship of the data point in 1988 relative to that in 1986 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Starfall Mart, the data point in 1988 is {above} and to the {right} of the data point in 1986."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Starfall Mart's Home Sales levels?",
+            "A": "Starfall Mart's home sales levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "Which line shows a periodic stable trend in Home Sales levels?",
+            "A": "{Starfall Mart}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Starfall Mart's Home Sales in 1985?",
+            "A": "Starfall Mart's home sales in 1985 is {1066.83} units/month."
+        },
+        {
+            "Q": "What is Starfall Mart's Home Sales in 1980?",
+            "A": "Starfall Mart's home sales in 1980 is {1049.71} units/month."
+        },
+        {
+            "Q": "What is Starfall Mart's Home Sales in 1978?",
+            "A": "Starfall Mart's home sales in 1978 is {920.67} units/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Home Sales in the line chart?",
+            "A": "The global minimum home sales is {695.42} units/month."
+        },
+        {
+            "Q": "What is the global maximum Home Sales in the line chart?",
+            "A": "The global maximum home sales is {1136.33} units/month."
+        },
+        {
+            "Q": "What is the highest Home Sales level recorded for Starfall Mart?",
+            "A": "Starfall Mart reached approximately {1136.33} units/month in {1989}."
+        },
+        {
+            "Q": "What is the lowest Home Sales level recorded for Starfall Mart?",
+            "A": "Starfall Mart's lowest recorded level is approximately {695.42} units/month in {1987}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Starfall Mart's Home Sales from the starting year to the final year?",
+            "A": "The rate of growth in Starfall Mart's home sales is {23.42}%."
+        },
+        {
+            "Q": "What is the average value of Starfall Mart's Home Sales?",
+            "A": "The average value of Starfall Mart's home sales is {935.26} units/month."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Starfall Mart's Home Sales exceed 1023 units/month? Please list the years and corresponding values.",
+            "A": "{1133.05} units/month in {1979} year, {1066.83} units/month in {1985} year, {1129.21} units/month in {1984} year."
+        },
+        {
+            "Q": "Which years did Starfall Mart's Home Sales between 808 and 1052 units/month? Please list the years and corresponding values.",
+            "A": "{920.67} units/month in {1978} year, {1049.71} units/month in {1980} year, {919.30} units/month in {1983} year."
+        },
+        {
+            "Q": "Which years did Starfall Mart's Home Sales below 778 units/month? Please list the years and corresponding values.",
+            "A": "{705.09} units/month in {1982} year, {777.79} units/month in {1981} year, {695.42} units/month in {1987} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Starfall Mart's Home Sales in 1980 higher or lower than in 1982?",
+            "A": "The home sales in 1980 was {higher} than in 1982."
+        },
+        {
+            "Q": "Was Starfall Mart's Home Sales in 1986 higher or lower than in 1987?",
+            "A": "The home sales in 1986 was {higher} than in 1987."
+        },
+        {
+            "Q": "Was Starfall Mart's Home Sales in 1980 higher or lower than in 1987?",
+            "A": "The home sales in 1980 was {higher} than in 1987."
+        },
+        {
+            "Q": "Was Starfall Mart's Home Sales in 1981 higher or lower than in 1988?",
+            "A": "The home sales in 1981 was {lower} than in 1988."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Starfall Mart. List the x-coordinates of data points to be preserved.(4 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1978, 1979, 1987, 1989}."
+        }
+    ]
+}

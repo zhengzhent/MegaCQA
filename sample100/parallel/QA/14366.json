@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Customer satisfaction (1-10) dimension, what is the spatial relationship of Caitlinchester relative to Lake Amandaburgh in terms of vertical (above/below) direction?",
+            "A": "{Caitlinchester} is {below} {Lake Amandaburgh} on the Customer satisfaction (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Cultural immersion index (1-10)?",
+            "A": "The first position to the left of Cultural immersion index (1-10) is {Booking lead time (days)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Repeat visitor rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Booking lead time (days)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Booking lead time (days)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Accessibility score (1-5) and dimension Repeat visitor rate (%)",
+            "A": "There is {Clustering} between Accessibility score (1-5) and Repeat visitor rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Susanberg on the Customer satisfaction (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Susanberg on the Customer satisfaction (1-10) dimension is {5.17}"
+        },
+        {
+            "Q": "What is the value of North Heatherport on the Accessibility score (1-5) dimension in the parallel-coordinates chart?",
+            "A": "The value of North Heatherport on the Accessibility score (1-5) dimension is {1.64}"
+        },
+        {
+            "Q": "What is the value of Caitlinchester on the Customer satisfaction (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Caitlinchester on the Customer satisfaction (1-10) dimension is {7.77}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Caitlinchester across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Caitlinchester across all dimensions is {188.05}"
+        },
+        {
+            "Q": "What is the minimum value of label New Elizabeth across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of New Elizabeth across all dimensions is {3.91}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Booking lead time (days)?",
+            "A": "The average value of Booking lead time (days) is {188.16}"
+        },
+        {
+            "Q": "What is the difference in coding Repeat visitor rate (%) between label Cruzshire and label Susanberg",
+            "A": "The difference in coding Repeat visitor rate (%) between Cruzshire and Susanberg is {51.59}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Repeat visitor rate (%) dimension in the parallel coordinates?",
+            "A": "{[60.0, 58.12, 19.78]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Booking lead time (days) dimension in the parallel coordinates?",
+            "A": "{[0.0, 67.47, 155.96]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Booking lead time (days), which label has a higher score: Port Rebeccafurt or Caitlinchester?",
+            "A": "{Port Rebeccafurt} has a higher score on Booking lead time (days)."
+        },
+        {
+            "Q": "On Booking lead time (days), which label has a higher score: Cruzshire or New Elizabeth?",
+            "A": "{New Elizabeth} has a higher score on Booking lead time (days)."
+        },
+        {
+            "Q": "On Accessibility score (1-5), which label has a higher score: New Elizabeth or Cruzshire?",
+            "A": "{New Elizabeth} has a higher score on Accessibility score (1-5)."
+        },
+        {
+            "Q": "On Repeat visitor rate (%), which label has a higher score: Cruzshire or Lake Amandaburgh?",
+            "A": "{Cruzshire} has a higher score on Repeat visitor rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Booking lead time (days)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Booking lead time (days) being greater than 161.83 and Booking lead time (days) being less than 227.16?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

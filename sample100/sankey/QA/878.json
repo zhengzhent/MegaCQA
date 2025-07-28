@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow into the node Irrigation in this sankey chart?",
+            "A": "There are {5} links flowing into the node Irrigation."
+        },
+        {
+            "Q": "How many links flow out of the node Import Inspection in this sankey chart?",
+            "A": "There are {5} links flowing out of the node Import Inspection."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Distribution}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Farming}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Retail Delivery} and {Retail Purchase}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {International Shipping} and {Fertilization}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Retail Delivery to the node Retail Purchase?",
+            "A": "The flow value from the node Retail Delivery to the node Retail Purchase is {33781}."
+        },
+        {
+            "Q": "What is the flow value from the node Retail Purchase to the node Trade Agreements?",
+            "A": "The flow value from the node Retail Purchase to the node Trade Agreements is {12346}."
+        },
+        {
+            "Q": "What is the flow value from the node Retail Purchase to the node Import Inspection?",
+            "A": "The flow value from the node Retail Purchase to the node Import Inspection is {6695}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Food Preparation to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Food Preparation to the next stage is {4531}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Retail Delivery to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Retail Delivery to the next stage is {6414}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Retail Purchase?",
+            "A": "The total flow output from node Retail Purchase is {40207}."
+        },
+        {
+            "Q": "What is the total flow input by node Food Preparation?",
+            "A": "The total flow input by node Food Preparation is {14698}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Distribution of the sankey chart, which nodes have an outflow exceeded 8140? Please list the node labels and their corresponding outflow values.",
+            "A": "{Retail Delivery} has an outflow of {33781}, {Retail Delivery} has an outflow of {9087}, {Transportation} has an outflow of {8259}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Consumption and column Import & Export is the flow between 3552 and 3804? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {3741} from node {Consumption} to {Trade Agreements}, a flow of {3633} from node {Consumption} to {Export Certification}, a flow of {3750} from node {Food Preparation} to {Import Inspection}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 3856 and 3940? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {3858} from node {Retail Purchase} to {Customs Clearance}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Retail Delivery to node Food Preparation and from node Import Inspection to node Seeding, which path has a larger flow?",
+            "A": "The flow from node {Retail Delivery} to node {Food Preparation} is larger."
+        },
+        {
+            "Q": "Among the flows from node Transportation to node Consumption, from node Consumption to node Trade Agreements, and from node Consumption to node International Shipping, which path has the largest flow?",
+            "A": "The flow from node {Transportation} to node {Consumption} is the largest."
+        },
+        {
+            "Q": "Among the flows from node International Shipping to node Soil Preparation, from node Food Waste to node Import Inspection, and from node International Shipping to node Fertilization, which path has the largest flow?",
+            "A": "The flow from node {International Shipping} to node {Soil Preparation} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Import & Export of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Import & Export is {Export Certification}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Retail Delivery to target node Fertilization? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Retail Delivery to node Fertilization is: {Retail Delivery, Retail Purchase, Export Certification, Fertilization}."
+        }
+    ],
+    "VA": []
+}

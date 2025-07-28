@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {5} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Rosewood}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Zephyr}."
+        },
+        {
+            "Q": "Which violin is the second position to the left of the violin Springfield?",
+            "A": "The second position to the left of the violin Springfield is {Glenhaven}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Zephyr relative to the violin Rosewood in terms of horizontal (left/right) direction?",
+            "A": "violin Zephyr is to the {right} of the violin Rosewood."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Zephyr}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Zephyr}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Glenhaven?",
+            "A": "The density distribution pattern of the Glenhaven shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Fairmont in the violin plot?",
+            "A": "The median of Fairmont is {475.00} million USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Rosewood in the violin plot?",
+            "A": "The upper quartile (Q3) of Rosewood is {582.00} million USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Springfield in the violin plot?",
+            "A": "The upper whisker limit of Springfield is {1014.00} million USD."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Springfield in the violin plot?",
+            "A": "The lowest upper outlier value in Springfield is {180.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the violin plot?",
+            "A": "The global maximum million USD value in the violin plot is {1204.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the violin plot?",
+            "A": "The global minimum million USD value in the violin plot is {15.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Glenhaven and Fairmont?",
+            "A": "The Q3 difference between violin Glenhaven and Fairmont is {54.50} million USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Glenhaven and Springfield?",
+            "A": "The total Q1 value of violin Glenhaven and Zephyr is {948.50} million USD."
+        },
+        {
+            "Q": "What is the average Q3 value of violin Springfield and Zephyr?",
+            "A": "The average Q3 value of violin Springfield and Zephyr is {792.25} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 667.50 million USD? Please list the violins and corresponding values.",
+            "A": "{Zephyr} has {688.00} million USD "
+        },
+        {
+            "Q": "Which violins have median values below 466.00 million USD? Please list the violins and corresponding values.",
+            "A": "{Rosewood} has {457.00} million USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 369.75 million USD and the upper quartile (Q3) below 702.00 million USD?",
+            "A": "Violin {Glenhaven} has the Q1 above 369.75 million USD and the Q3 below 702.0 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 705.10 million USD?",
+            "A": "Violin {Zephyr} has {732.86} million USD have their highest density peak exceed 705.10 million USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 580.75 million USD?",
+            "A": "Violin {Rosewood} has {455.86} million USD ,{Glenhaven} has {484.15} million USD ,{Fairmont} has {384.98} million USD have their highest density peak below 580.75 million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Rosewood or Zephyr ",
+            "A": "The median value of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Glenhaven, Zephyr or Rosewood ",
+            "A": "The median value of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Rosewood, Fairmont, Zephyr or Glenhaven ",
+            "A": "The median value of the {Zephyr} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Zephyr}."
+        }
+    ],
+    "VA": []
+}

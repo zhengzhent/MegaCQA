@@ -1,0 +1,71 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node Energy Innovation Lab?",
+            "A": "There are {3} nodes link with node Energy Innovation Lab."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Global Policy Institute and node Climate Research Center in this node-link chart?",
+            "A": "The relationship between node Global Policy Institute and node Climate Research Center is {patent_sharing}."
+        },
+        {
+            "Q": "What is the relationship between node Climate Research Center and node Energy Innovation Lab in this node-link chart?",
+            "A": "The relationship between node Climate Research Center and node Energy Innovation Lab is {patent_sharing}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type patent_sharing?",
+            "A": "There are {6} links with the relation type patent_sharing."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Institute of Robotics and AI, how many links are of type patent_sharing?",
+            "A": "Node Institute of Robotics and AI has {2} links of type patent_sharing."
+        },
+        {
+            "Q": "Under node Global Policy Institute, how many links are of type tech_transfer?",
+            "A": "Node Global Policy Institute has {2} links of type tech_transfer."
+        },
+        {
+            "Q": "Under node Climate Research Center, how many links are of type co_authorship?",
+            "A": "Node Climate Research Center has {1} links of type co_authorship."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Climate Research Center}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Climate Research Center with a degree of 7}, {node Institute of Robotics and AI with a degree of 6}, {node Global Policy Institute with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Energy Innovation Lab to node Cultural Heritage Institute in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Energy Innovation Lab to node Cultural Heritage Institute is: {Energy Innovation Lab to Global Policy Institute to Cultural Heritage Institute}."
+        }
+    ],
+    "VA": []
+}

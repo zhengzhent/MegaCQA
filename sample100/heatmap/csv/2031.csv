@@ -1,0 +1,91 @@
+Education and Academics,the Correlations of Education and Academics,9x10,uniform
+Arts,Admin,0.51
+Biology,Admin,0.5
+Chemistry,Admin,0.51
+Computer Science,Admin,0.5
+Economics,Admin,0.51
+Engineering,Admin,0.53
+Geography,Admin,0.5
+History,Admin,0.49
+Mathematics,Admin,0.53
+Arts,Faculty,0.52
+Biology,Faculty,0.51
+Chemistry,Faculty,0.52
+Computer Science,Faculty,0.5
+Economics,Faculty,0.52
+Engineering,Faculty,0.5
+Geography,Faculty,0.52
+History,Faculty,0.51
+Mathematics,Faculty,0.52
+Arts,Freshman,0.52
+Biology,Freshman,0.52
+Chemistry,Freshman,0.52
+Computer Science,Freshman,0.5
+Economics,Freshman,0.52
+Engineering,Freshman,0.51
+Geography,Freshman,0.5
+History,Freshman,0.51
+Mathematics,Freshman,0.51
+Arts,Graduate,0.51
+Biology,Graduate,0.51
+Chemistry,Graduate,0.52
+Computer Science,Graduate,0.51
+Economics,Graduate,0.52
+Engineering,Graduate,0.53
+Geography,Graduate,0.52
+History,Graduate,0.52
+Mathematics,Graduate,0.53
+Arts,Junior,0.53
+Biology,Junior,0.5
+Chemistry,Junior,0.52
+Computer Science,Junior,0.53
+Economics,Junior,0.51
+Engineering,Junior,0.51
+Geography,Junior,0.51
+History,Junior,0.51
+Mathematics,Junior,0.5
+Arts,PhD,0.53
+Biology,PhD,0.52
+Chemistry,PhD,0.51
+Computer Science,PhD,0.52
+Economics,PhD,0.5
+Engineering,PhD,0.52
+Geography,PhD,0.52
+History,PhD,0.52
+Mathematics,PhD,0.5
+Arts,Postdoc,0.51
+Biology,Postdoc,0.5
+Chemistry,Postdoc,0.54
+Computer Science,Postdoc,0.51
+Economics,Postdoc,0.5
+Engineering,Postdoc,0.5
+Geography,Postdoc,0.51
+History,Postdoc,0.52
+Mathematics,Postdoc,0.5
+Arts,Researcher,0.51
+Biology,Researcher,0.53
+Chemistry,Researcher,0.52
+Computer Science,Researcher,0.52
+Economics,Researcher,0.5
+Engineering,Researcher,0.51
+Geography,Researcher,0.49
+History,Researcher,0.52
+Mathematics,Researcher,0.52
+Arts,Senior,0.52
+Biology,Senior,0.51
+Chemistry,Senior,0.52
+Computer Science,Senior,0.49
+Economics,Senior,0.52
+Engineering,Senior,0.54
+Geography,Senior,0.52
+History,Senior,0.51
+Mathematics,Senior,0.51
+Arts,Staff,0.51
+Biology,Staff,0.5
+Chemistry,Staff,0.51
+Computer Science,Staff,0.49
+Economics,Staff,0.53
+Engineering,Staff,0.51
+Geography,Staff,0.52
+History,Staff,0.5
+Mathematics,Staff,0.53

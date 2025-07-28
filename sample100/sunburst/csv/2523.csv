@@ -1,0 +1,20 @@
+Energy and Utilities,Energy Distribution by Category (2020),%
+parent,child,value
+Root,Energy Consumption,33.24
+Energy Consumption,Industrial,25.91
+Industrial,Manufacturing,6.97
+Industrial,Mining,18.94
+Mining,Ore Processing,11.03
+Mining,Pumping Systems,7.91
+Energy Consumption,Residential,7.33
+Root,Energy Sources,34.06
+Energy Sources,Renewables,9.77
+Energy Sources,Fossil Fuels,24.29
+Fossil Fuels,Oil,9.01
+Fossil Fuels,Coal,15.28
+Coal,Underground Mining,6.45
+Coal,Surface Mining,8.83
+Root,Energy Infrastructure,32.7
+Energy Infrastructure,Generation,32.7
+Generation,Thermal Plants,32.7
+Thermal Plants,Steam Boilers,32.7

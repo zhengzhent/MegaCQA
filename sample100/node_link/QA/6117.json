@@ -1,0 +1,75 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node DailyStyle Apparel?",
+            "A": "There are {3} nodes link with node DailyStyle Apparel."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node TechHive Electronics and node DailyStyle Apparel in this node-link chart?",
+            "A": "The relationship between node TechHive Electronics and node DailyStyle Apparel is {logistics_flow}."
+        },
+        {
+            "Q": "What is the relationship between node TechHive Electronics and node OfficeDen Supplies in this node-link chart?",
+            "A": "The relationship between node TechHive Electronics and node OfficeDen Supplies is {product_bundle}."
+        },
+        {
+            "Q": "What is the relationship between node UrbanMart Superstore and node GreenBasket Grocery in this node-link chart?",
+            "A": "The relationship between node UrbanMart Superstore and node GreenBasket Grocery is {logistics_flow}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type product_bundle?",
+            "A": "There are {5} links with the relation type product_bundle."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node TechHive Electronics, how many links are of type affiliate_link?",
+            "A": "Node TechHive Electronics has {1} links of type affiliate_link."
+        },
+        {
+            "Q": "Under node FashionLane Boutique, how many links are of type product_bundle?",
+            "A": "Node FashionLane Boutique has {2} links of type product_bundle."
+        },
+        {
+            "Q": "Under node UrbanMart Superstore, how many links are of type product_bundle?",
+            "A": "Node UrbanMart Superstore has {1} links of type product_bundle."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {UrbanMart Superstore}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node UrbanMart Superstore with a degree of 6}, {node FashionLane Boutique with a degree of 6}, {node TechHive Electronics with a degree of 6}."
+        },
+        {
+            "Q": "What is the shortest path from node SmartBuy Hypermart to node NextStep Shoe Center in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node SmartBuy Hypermart to node NextStep Shoe Center is: {SmartBuy Hypermart to FashionLane Boutique to NextStep Shoe Center}."
+        }
+    ],
+    "VA": []
+}

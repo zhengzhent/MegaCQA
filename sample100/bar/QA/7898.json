@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {8} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {PrimeVue}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {NextGen}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar NextGen relative to the bar BrightWave in terms of horizontal (left/right) direction?",
+            "A": "Bar NextGen is to the {right} of the bar BrightWave."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {NextGen}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {PrimeVue}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar PureSync?",
+            "A": "The value of PureSync is {97614} number of employees."
+        },
+        {
+            "Q": "What is the value of bar EcoCore?",
+            "A": "The value of EcoCore is {140775} number of employees."
+        },
+        {
+            "Q": "What is the value of bar NextGen?",
+            "A": "The value of NextGen is {184074} number of employees."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum number of employees in the bar chart?",
+            "A": "The maximum number of employees is {184074} number of employees."
+        },
+        {
+            "Q": "What is the minimum number of employees in the bar chart?",
+            "A": "The minimum number of employees is {50659} number of employees."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of PrimeVue and TrueNorth?",
+            "A": "The total value of PrimeVue and TrueNorth is {142112} number of employees."
+        },
+        {
+            "Q": "What is the average value of NextGen and TechNova?",
+            "A": "The average value of NextGen and TechNova is {172941.0} number of employees."
+        },
+        {
+            "Q": "What is the difference between PeakPoint and TrueNorth?",
+            "A": "The difference between PeakPoint and TrueNorth is {3679} number of employees."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have number of employees values exceed 165952.50 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{BrightWave} has {170097} number of employees, {NextGen} has {184074} number of employees."
+        },
+        {
+            "Q": "Which bars have {number of employees} values below 96373.00 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{PrimeVue} has {50659} number of employees, {TrueNorth} has {91453} number of employees, {PeakPoint} has {95132} number of employees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, NextGen or PrimeVue ",
+            "A": "The value of the {NextGen} is larger?"
+        },
+        {
+            "Q": "Which is larger, PureSync, BrightWave or NextGen ",
+            "A": "The value of the {NextGen} is larger?"
+        },
+        {
+            "Q": "Which is larger, TrueNorth, PeakPoint, PureSync or BrightWave ",
+            "A": "The value of the {BrightWave} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {4} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {PureSync} and {TechNova}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {NextGen}, {BrightWave}, and {TechNova}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by number of employees values in descending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value descending: {NextGen}, {BrightWave}, {TechNova}, {EcoCore}, {PureSync}, {PeakPoint}, {TrueNorth}, and {PrimeVue}."
+        },
+        {
+            "Q": "Sort the bars by number of employees values in ascending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value ascending: {PrimeVue}, {TrueNorth}, {PeakPoint}, {PureSync}, {EcoCore}, {TechNova}, {BrightWave}, and {NextGen}."
+        }
+    ]
+}

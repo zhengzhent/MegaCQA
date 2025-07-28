@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {2} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Quarryville}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Oakridge}."
+        },
+        {
+            "Q": "Which box is the first position to the right of the box Quarryville?",
+            "A": "The first position to the right of the box Quarryville is {Oakridge}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Quarryville relative to the box Oakridge in terms of horizontal (left/right) direction?",
+            "A": "Box Quarryville is to the {left} of the box Oakridge."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Oakridge}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Oakridge}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Quarryville}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Oakridge in the box plot?",
+            "A": "The median of Oakridge is {612.5} million USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Quarryville in the box plot?",
+            "A": "The lower quartile (Q1) of Quarryville is {506.25} million USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Oakridge in the box plot?",
+            "A": "The upper whisker limit of Oakridge is {823} million USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Oakridge in the box plot?",
+            "A": "The largest upper outlier value in Oakridge is {938} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the box plot?",
+            "A": "The global maximum million USD value in the box plot is {938.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the box plot?",
+            "A": "The global minimum million USD value in the box plot is {42.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box Quarryville and Oakridge?",
+            "A": "The Q1 difference between box Quarryville and Oakridge is {38.25} million USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of box Oakridge and Quarryville?",
+            "A": "The total Q3 value of box Oakridge and Quarryville is {1314.5} million USD."
+        },
+        {
+            "Q": "What is the average Median value of box Quarryville and Oakridge?",
+            "A": "The average Median value of box Quarryville and Oakridge is {589.75} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 844.2 million USD?",
+            "A": "Box{Oakridge} have the outliers exceed 844.2 million USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 589.75 million USD? Please list the boxes and corresponding values.",
+            "A": "{Oakridge} has {612.5} million USD "
+        },
+        {
+            "Q": "Which boxes have median values below 589.75 million USD? Please list the boxes and corresponding values.",
+            "A": "{Quarryville} has {567.0} million USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Oakridge or Quarryville ",
+            "A": "The median value of the {Oakridge} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Oakridge}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,18 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2021),%
+parent,child,value
+Root,Workplace Wellbeing,23.3
+Workplace Wellbeing,Work-Life Balance,16.61
+Work-Life Balance,Employee Assistance,10.63
+Work-Life Balance,Flexible Scheduling,5.98
+Workplace Wellbeing,Health & Safety,6.69
+Root,Employee Lifecycle,21.49
+Employee Lifecycle,Recruitment,6.99
+Employee Lifecycle,Onboarding,14.5
+Onboarding,Orientation,9.37
+Onboarding,Mentorship,5.13
+Root,Employee Development,55.21
+Employee Development,Training Programs,55.21
+Training Programs,Skill Workshops,55.21
+Skill Workshops,Technical Skills,20.5
+Skill Workshops,Leadership,11.64
+Skill Workshops,Soft Skills,23.07

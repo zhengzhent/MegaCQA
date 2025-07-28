@@ -1,0 +1,10 @@
+Image Name: 8380.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\8380.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and well-organized, with each bar representing a different type of house and its corresponding sales value in thousand USD. The labels are legible, and the values are directly placed on top of each bar, making it easy to understand the data at a glance. The use of a consistent pattern for all bars maintains uniformity and avoids visual clutter.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 3/5
+Score Reason: The chart presents the data clearly with distinct bars for each type of house sale. However, the use of a grid pattern on the bars may distract from the actual values, and the labels are somewhat cramped, making it slightly difficult to read. Overall, the information is still interpretable, but improvements could enhance clarity.

@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Graduation Rate?",
+            "A": "The next dimension clockwise from Graduation Rate is Research Investment Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Graduation Rate?",
+            "A": "The next dimension counterclockwise from Graduation Rate is Discipline Coverage Rate."
+        },
+        {
+            "Q": "On the Research Investment Rate, is the point for Lake Adamchester University inside or outside the point for East Kimberlymouth Academy?",
+            "A": "On the Research Investment Rate, the point for Lake Adamchester University is inside the point for East Kimberlymouth Academy."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Discipline Coverage Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of East Kimberlymouth Academy?",
+            "A": "The strongest aspect is {Discipline Coverage Rate}, while the weakest aspect is{ Graduation Rate}."
+        },
+        {
+            "Q": "On dimension Discipline Coverage Rate, which label scores the highest?",
+            "A": "On Discipline Coverage Rate, label {Lake Adamchester University} scores the highest."
+        },
+        {
+            "Q": "On dimension Graduation Rate, which label scores the highest?",
+            "A": "On Graduation Rate, label {Lake Adamchester University} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of East Kimberlymouth Academy on the Paper Publication Rate in the radar chart?",
+            "A": "The value of East Kimberlymouth Academy on the Safety dimension is {69}."
+        },
+        {
+            "Q": "What is the value of East Kimberlymouth Academy on the Discipline Coverage Rate in the radar chart?",
+            "A": "The value of East Kimberlymouth Academy on the Safety dimension is {84}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Lake Adamchester University across all dimensions in the radar chart?",
+            "A": "The maximum value of Lake Adamchester University across all dimensions is {84}."
+        },
+        {
+            "Q": "What is the minimum value of label Lake Adamchester University across all dimensions in the radar chart?",
+            "A": "The minimum value of Lake Adamchester University across all dimensions is {69}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Research Investment Rate",
+            "A": "The average value of Research Investment Rate is {48.5}."
+        },
+        {
+            "Q": "What is the average value of Lake Adamchester University",
+            "A": "The average value of Lake Adamchester University is {49.25}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 31 for the Graduation Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{East Kimberlymouth Academy} is {31}"
+        },
+        {
+            "Q": "Which labels have scores below 77 for the Discipline Coverage Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Lake Adamchester University} is {75}"
+        },
+        {
+            "Q": "For East Kimberlymouth Academy in the radar chart, which dimensions have scores below 38? Please list the dimensions and corresponding scores.",
+            "A": "{Graduation Rate} is {29}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Lake Adamchester University, which dimension has a higher score: Research Investment Rate or Paper Publication Rate?",
+            "A": "{Paper Publication Rate} has a higher score than Research Investment Rate for Lake Adamchester University."
+        },
+        {
+            "Q": "For East Kimberlymouth Academy, which dimension has a higher score: Discipline Coverage Rate or Paper Publication Rate?",
+            "A": "{Discipline Coverage Rate} has a higher score than Paper Publication Rate for East Kimberlymouth Academy."
+        },
+        {
+            "Q": "On Research Investment Rate, which label has a higher score: Lake Adamchester University or the East Kimberlymouth Academy?",
+            "A": "{East Kimberlymouth Academy} has a higher score on Research Investment Rate compared to Lake Adamchester University."
+        },
+        {
+            "Q": "For Lake Adamchester University, which dimension has a higher score: Paper Publication Rate or Graduation Rate or Research Investment Rate?",
+            "A": "{Paper Publication Rate} has a higher score for Lake Adamchester University."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For East Kimberlymouth Academy, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "East Kimberlymouth Academy most needs to improve its {Graduation Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {East Kimberlymouth Academy}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Lake Adamchester University}."
+        }
+    ],
+    "VA": []
+}

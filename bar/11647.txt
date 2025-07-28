@@ -1,0 +1,10 @@
+Image Name: 11647.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\11647.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and straightforward, with distinct colors for each platform making it easy to differentiate between them. The values are directly labeled on top of each bar, which aids in quick comprehension. The axes are well-defined, and the title clearly states the purpose of the chart. There is no clutter, and the data is presented in a logical order.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the number of plays across different video platforms. The use of distinct colors for each bar helps in differentiating the platforms, and the numerical values on top of the bars provide immediate insight into the data. The axis labels are also clear, making it easy for the viewer to understand the context of the data presented.

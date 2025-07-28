@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Workplace Wellbeing positioned outside, inside or on the same side as Performance Management?",
+            "A": "Workplace Wellbeing is positioned {inside} Performance Management."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Workplace Wellbeing}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Skill Workshops segment in this sunburst chart?",
+            "A": "The value of the Skill Workshops segment is {9.78}."
+        },
+        {
+            "Q": "What is the value of the Remote Work segment in this sunburst chart?",
+            "A": "The value of the Remote Work segment is {9.5}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {44.35}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {20.64}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {34.85}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Workplace Wellbeing exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Workplace Wellbeing are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Work-Life Balance, Flexible Scheduling, or Employee Development?",
+            "A": "The value of {Employee Development} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Workplace Wellbeing, Work-Life Balance, Flexible Scheduling, or Hybrid Options?",
+            "A": "The value of {Workplace Wellbeing} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Workplace Wellbeing, Work-Life Balance, or Flexible Scheduling?",
+            "A": "The value of {Workplace Wellbeing} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Workplace Wellbeing or Work-Life Balance?",
+            "A": "The value of {Workplace Wellbeing} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Workplace Wellbeing to Work-Life Balance to Flexible Scheduling to Hybrid Options}."
+        }
+    ],
+    "VA": []
+}

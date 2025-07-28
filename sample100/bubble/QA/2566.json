@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Total student enrollment of 100.00 relative to the bubble with a Total student enrollment of 3349.82 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Total student enrollment of 100.00 is {above} and to the {right} of the bubble with a Total student enrollment of 3349.82."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of School funding and Graduation rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {17282.05} $ per student and {100.90} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Total student enrollment of the largest bubble?",
+            "A": "The Total student enrollment of the largest bubble is {5000.00} students."
+        },
+        {
+            "Q": "What is the Total student enrollment of the smallest bubble?",
+            "A": "The Total student enrollment of the smallest bubble is {100.00} students."
+        },
+        {
+            "Q": "What are the School funding and Graduation rate values of the largest bubble?",
+            "A": "The School funding of the largest bubble is {8076.83} $ per student, and {Graduation rate} is {50.00} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Total student enrollment in the bubble chart?",
+            "A": "The global maximum Total student enrollment is {5000.00} students."
+        },
+        {
+            "Q": "What is the global minimum Total student enrollment in the bubble chart?",
+            "A": "The global minimum Total student enrollment is {100.00} students."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension School funding in the bubble chart?",
+            "A": "The maximum observed value in the School funding dimension is {19312.11} $ per student."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension School funding in the bubble chart?",
+            "A": "The minimum observed value in the School funding dimension is {2329.52} $ per student."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Graduation rate in the bubble chart?",
+            "A": "The maximum observed value in the Graduation rate dimension is {100.90} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Graduation rate in the bubble chart?",
+            "A": "The minimum observed value in the Graduation rate dimension is {50.00} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Total student enrollment for all bubbles?",
+            "A": "The average value of the Total student enrollment for all bubbles is {1995.54} students."
+        },
+        {
+            "Q": "What is the average value of the School funding for all bubbles?",
+            "A": "The average value of School funding for all bubbles is {11484.17} $ per student."
+        },
+        {
+            "Q": "What is the average value of the Graduation rate for all bubbles?",
+            "A": "The average value of Graduation rate for all bubbles is {76.60} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Total student enrollment values in the bubble chart?",
+            "A": "{5000.00, 3486.36, 3349.82} students."
+        },
+        {
+            "Q": "What are the bottom 3 Total student enrollment values in the bubble chart?",
+            "A": "{100.00, 449.92, 897.97} students."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Total student enrollment value, the bubble with a School funding of 13089.7 $ per student and a Graduation rate of 95.9 %, or the bubble with a School funding of 14297.4 $ per student and a Graduation rate of 89.5 %?",
+            "A": "The bubble with a School funding of {14297.4} and a Graduation rate of {89.5} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Total student enrollment value of the bubble with the largest Graduation rate value?",
+            "A": "The Total student enrollment value of the bubble with the largest Graduation rate is {1902.39}."
+        },
+        {
+            "Q": "What is the Total student enrollment value of the bubble with the largest School funding value?",
+            "A": "The Total student enrollment value of the bubble with the largest School funding is {1345.57}."
+        },
+        {
+            "Q": "Classify bubbles with a Graduation rate-coordinate greater than 60 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Total student enrollment for the high value group and the low value group?",
+            "A": "The difference between the total Total student enrollment of the high-value and low-value groups is {2856.61}."
+        }
+    ],
+    "VA": []
+}

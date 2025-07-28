@@ -1,0 +1,101 @@
+Tourism and Hospitality,the Engagement of Tourism and Hospitality,10x10,diagonal
+Attractions,Adventure,0.94
+Cruises,Adventure,0.73
+Destinations,Adventure,0.57
+Events,Adventure,0.36
+Hotels,Adventure,0.18
+Marketing,Adventure,0.19
+Online Booking,Adventure,0.35
+Service Quality,Adventure,0.57
+Tour Operators,Adventure,0.74
+Transport,Adventure,0.94
+Attractions,Budget,0.73
+Cruises,Budget,0.88
+Destinations,Budget,0.72
+Events,Budget,0.56
+Hotels,Budget,0.36
+Marketing,Budget,0.36
+Online Booking,Budget,0.55
+Service Quality,Budget,0.72
+Tour Operators,Budget,0.88
+Transport,Budget,0.74
+Attractions,Business,0.58
+Cruises,Business,0.72
+Destinations,Business,0.88
+Events,Business,0.72
+Hotels,Business,0.57
+Marketing,Business,0.58
+Online Booking,Business,0.72
+Service Quality,Business,0.88
+Tour Operators,Business,0.72
+Transport,Business,0.58
+Attractions,Cultural,0.36
+Cruises,Cultural,0.55
+Destinations,Cultural,0.72
+Events,Cultural,0.88
+Hotels,Cultural,0.73
+Marketing,Cultural,0.74
+Online Booking,Cultural,0.88
+Service Quality,Cultural,0.72
+Tour Operators,Cultural,0.55
+Transport,Cultural,0.36
+Attractions,Eco-tourism,0.19
+Cruises,Eco-tourism,0.35
+Destinations,Eco-tourism,0.57
+Events,Eco-tourism,0.73
+Hotels,Eco-tourism,0.93
+Marketing,Eco-tourism,0.93
+Online Booking,Eco-tourism,0.74
+Service Quality,Eco-tourism,0.57
+Tour Operators,Eco-tourism,0.36
+Transport,Eco-tourism,0.19
+Attractions,Family,0.19
+Cruises,Family,0.36
+Destinations,Family,0.57
+Events,Family,0.74
+Hotels,Family,0.94
+Marketing,Family,0.93
+Online Booking,Family,0.74
+Service Quality,Family,0.57
+Tour Operators,Family,0.36
+Transport,Family,0.19
+Attractions,Luxury,0.36
+Cruises,Luxury,0.55
+Destinations,Luxury,0.72
+Events,Luxury,0.88
+Hotels,Luxury,0.73
+Marketing,Luxury,0.73
+Online Booking,Luxury,0.88
+Service Quality,Luxury,0.72
+Tour Operators,Luxury,0.56
+Transport,Luxury,0.36
+Attractions,Rural,0.58
+Cruises,Rural,0.72
+Destinations,Rural,0.88
+Events,Rural,0.72
+Hotels,Rural,0.57
+Marketing,Rural,0.57
+Online Booking,Rural,0.71
+Service Quality,Rural,0.88
+Tour Operators,Rural,0.72
+Transport,Rural,0.58
+Attractions,Seasonal,0.74
+Cruises,Seasonal,0.88
+Destinations,Seasonal,0.72
+Events,Seasonal,0.55
+Hotels,Seasonal,0.36
+Marketing,Seasonal,0.36
+Online Booking,Seasonal,0.55
+Service Quality,Seasonal,0.72
+Tour Operators,Seasonal,0.88
+Transport,Seasonal,0.73
+Attractions,Wellness,0.94
+Cruises,Wellness,0.74
+Destinations,Wellness,0.58
+Events,Wellness,0.35
+Hotels,Wellness,0.19
+Marketing,Wellness,0.19
+Online Booking,Wellness,0.35
+Service Quality,Wellness,0.57
+Tour Operators,Wellness,0.74
+Transport,Wellness,0.94

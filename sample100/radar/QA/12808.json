@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Follower Growth Rate?",
+            "A": "The next dimension clockwise from Follower Growth Rate is Influencer Collaboration ROI Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Follower Growth Rate?",
+            "A": "The next dimension counterclockwise from Follower Growth Rate is Social Commerce Conversion Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Influencer Collaboration ROI Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Moss-Doyle Media?",
+            "A": "The strongest aspect is {Influencer Collaboration ROI Rate}, while the weakest aspect is{ Ad Click-Through Rate (CTR)}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Moss-Doyle Media on the Influencer Collaboration ROI Rate in the radar chart?",
+            "A": "The value of Moss-Doyle Media on the Safety dimension is {68}."
+        },
+        {
+            "Q": "What is the value of Moss-Doyle Media on the Content Sharing Rate in the radar chart?",
+            "A": "The value of Moss-Doyle Media on the Safety dimension is {31}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Moss-Doyle Media across all dimensions in the radar chart?",
+            "A": "The maximum value of Moss-Doyle Media across all dimensions is {31}."
+        },
+        {
+            "Q": "What is the minimum value of label Moss-Doyle Media across all dimensions in the radar chart?",
+            "A": "The minimum value of Moss-Doyle Media across all dimensions is {31}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Content Sharing Rate",
+            "A": "The average value of Content Sharing Rate is {31.0}."
+        },
+        {
+            "Q": "What is the average value of Moss-Doyle Media",
+            "A": "The average value of Moss-Doyle Media is {44.4}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 67 for the Social Commerce Conversion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Moss-Doyle Media} is {67}"
+        },
+        {
+            "Q": "Which labels have scores above 67 for the Social Commerce Conversion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Moss-Doyle Media} is {67}"
+        },
+        {
+            "Q": "For Moss-Doyle Media in the radar chart, which dimensions have scores between 36 and 60? Please list the dimensions and corresponding scores.",
+            "A": "None is between 36 and 60"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Moss-Doyle Media, which dimension has a higher score: Content Sharing Rate or Influencer Collaboration ROI Rate?",
+            "A": "{Influencer Collaboration ROI Rate} has a higher score than Content Sharing Rate for Moss-Doyle Media."
+        },
+        {
+            "Q": "For Moss-Doyle Media, which dimension has a higher score: Content Sharing Rate or Social Commerce Conversion Rate?",
+            "A": "{Social Commerce Conversion Rate} has a higher score than Content Sharing Rate for Moss-Doyle Media."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Moss-Doyle Media, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Moss-Doyle Media most needs to improve its {Ad Click-Through Rate (CTR)}."
+        }
+    ],
+    "VA": []
+}

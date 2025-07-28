@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {3} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {3} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Adriantown College?",
+            "A": "The next arc clockwise from arc Adriantown College is arc {NIT}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Adriantown College?",
+            "A": "The next arc counterclockwise from arc Adriantown College is arc {Parker University}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{NIT} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Parker University} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from NIT to Adriantown College in the chord chart?",
+            "A": "The flow value is {17}."
+        },
+        {
+            "Q": "What is the flow value from Parker University to Adriantown College in the chord chart?",
+            "A": "The flow value is {22}."
+        },
+        {
+            "Q": "What is the flow value from Parker University to NIT in the chord chart?",
+            "A": "The flow value is {35}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between NIT and Adriantown College in the chord chart?",
+            "A": "The maximum flow value between NIT and Adriantown College is {17}."
+        },
+        {
+            "Q": "What is the minimum flow value between Adriantown College and Parker University in the chord chart?",
+            "A": "The minimum flow value between Adriantown College and Parker University is {22}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {41}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {12}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Parker University?",
+            "A": "The total flow output from Parker University is {57}."
+        },
+        {
+            "Q": "What is the total flow input by NIT?",
+            "A": "The total flow input by NIT is {47}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 38? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {41} from {NIT} to {Parker University}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 19? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {17} from {NIT} to {Adriantown College}, a flow of {12} from {Adriantown College} to {NIT}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 19 and 31? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {27} from {Adriantown College} to {Parker University}, a flow of {22} from {Parker University} to {Adriantown College}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from NIT to Parker University or from NIT to Adriantown College?",
+            "A": "The flow from {NIT} to {Parker University} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from NIT to Adriantown College, from NIT to Parker University, or from Adriantown College to Parker University?",
+            "A": "The flow from {NIT} to {Parker University} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {NIT}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {NIT} and {Parker University}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Parker University, Arc NIT, Arc Adriantown College}."
+        }
+    ]
+}

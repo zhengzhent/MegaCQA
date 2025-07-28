@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Yearly Price Growth Rate?",
+            "A": "The next dimension clockwise from Yearly Price Growth Rate is Transaction Volume Growth"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Yearly Price Growth Rate?",
+            "A": "The next dimension counterclockwise from Yearly Price Growth Rate is Rate of Newly Built Homes."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Rental Yield} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of port?",
+            "A": "The strongest aspect is {Rental Yield}, while the weakest aspect is{ Transaction Volume Growth}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of port on the Mortgage Payment as Rate of Income in the radar chart?",
+            "A": "The value of port on the Safety dimension is {65}."
+        },
+        {
+            "Q": "What is the value of port on the Yearly Price Growth Rate in the radar chart?",
+            "A": "The value of port on the Safety dimension is {61}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label port across all dimensions in the radar chart?",
+            "A": "The maximum value of port across all dimensions is {97}."
+        },
+        {
+            "Q": "What is the minimum value of label port across all dimensions in the radar chart?",
+            "A": "The minimum value of port across all dimensions is {97}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Transaction Volume Growth",
+            "A": "The average value of Transaction Volume Growth is {33.0}."
+        },
+        {
+            "Q": "What is the average value of port",
+            "A": "The average value of port is {66.8}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 97 for the Rental Yield dimension? Please list the labels and corresponding scores.",
+            "A": "{port} is {97}"
+        },
+        {
+            "Q": "For port in the radar chart, which dimensions have scores below 46? Please list the dimensions and corresponding scores.",
+            "A": "{Transaction Volume Growth} is {33}"
+        },
+        {
+            "Q": "Which labels have scores below 61 for the Yearly Price Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{port} is {61}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For port, which dimension has a higher score: Rental Yield or Rate of Newly Built Homes?",
+            "A": "{Rental Yield} has a higher score than Rate of Newly Built Homes for port."
+        },
+        {
+            "Q": "For port, which dimension has a higher score: Mortgage Payment as Rate of Income or Rate of Newly Built Homes or Rental Yield?",
+            "A": "{Rental Yield} has a higher score for port."
+        },
+        {
+            "Q": "For port, which dimension has a higher score: Rate of Newly Built Homes or Rental Yield or Transaction Volume Growth?",
+            "A": "{Rental Yield} has a higher score for port."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For port, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "port most needs to improve its {Transaction Volume Growth}."
+        }
+    ],
+    "VA": []
+}

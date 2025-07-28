@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Revisit Rate ?",
+            "A": "The next dimension clockwise from Revisit Rate  is Attraction Capacity Utilization Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Tourist Conversion Rate?",
+            "A": "The next dimension counterclockwise from Revisit Rate  is Tourist Satisfaction Rate ."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Hotel Occupancy Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Wuside?",
+            "A": "The strongest aspect is {Hotel Occupancy Rate}, while the weakest aspect is{ Attraction Capacity Utilization Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Wuside on the Revisit Rate  in the radar chart?",
+            "A": "The value of Wuside on the Safety dimension is {61}."
+        },
+        {
+            "Q": "What is the value of Wuside on the Tourist Satisfaction Rate  in the radar chart?",
+            "A": "The value of Wuside on the Safety dimension is {82}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Wuside across all dimensions in the radar chart?",
+            "A": "The maximum value of Wuside across all dimensions is {86}."
+        },
+        {
+            "Q": "What is the minimum value of label Wuside across all dimensions in the radar chart?",
+            "A": "The minimum value of Wuside across all dimensions is {86}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Attraction Capacity Utilization Rate",
+            "A": "The average value of Attraction Capacity Utilization Rate is {23.0}."
+        },
+        {
+            "Q": "What is the average value of Wuside",
+            "A": "The average value of Wuside is {54.86}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 61 for the Revisit Rate  dimension? Please list the labels and corresponding scores.",
+            "A": "{Wuside} is {61}"
+        },
+        {
+            "Q": "Which labels have scores above 86 for the Hotel Occupancy Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Wuside} is {86}"
+        },
+        {
+            "Q": "For Wuside in the radar chart, which dimensions have scores between 36 and 73? Please list the dimensions and corresponding scores.",
+            "A": "{Revisit Rate } is {61}, {Tourist Growth Rate} is {67}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Wuside, which dimension has a higher score: Tourist Growth Rate or Attraction Capacity Utilization Rate?",
+            "A": "{Tourist Growth Rate} has a higher score than Attraction Capacity Utilization Rate for Wuside."
+        },
+        {
+            "Q": "For Wuside, which dimension has a higher score: Revisit Rate  or Tourist Growth Rate or Return on Investment (ROI)Local Community Engagement Rate?",
+            "A": "{Tourist Growth Rate} has a higher score for Wuside."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Wuside, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Wuside most needs to improve its {Attraction Capacity Utilization Rate}."
+        }
+    ],
+    "VA": []
+}

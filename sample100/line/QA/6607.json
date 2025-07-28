@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1982, what is the vertical (above/below) relationship of the line representing Seasonal Goods relative to Beauty Products?",
+            "A": "In 1982, Seasonal Goods is {below} Beauty Products in the vertical direction."
+        },
+        {
+            "Q": "On Seasonal Goods, what is the spatial relationship of the data point in 1983 relative to that in 1976 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Seasonal Goods, the data point in 1983 is {below} and to the {right} of the data point in 1976."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Furniture Sellers's Return Rate levels?",
+            "A": "Furniture Sellers's return rate levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "What is the trend of Beauty Products's Return Rate levels?",
+            "A": "Beauty Products's return rate levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Seasonal Goods's Return Rate levels?",
+            "A": "Seasonal Goods's return rate levels show a {single valley} trend."
+        },
+        {
+            "Q": "Which line shows a exponential rising trend in Return Rate levels?",
+            "A": "{Furniture Sellers}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Seasonal Goods's Return Rate in 1982?",
+            "A": "Seasonal Goods's return rate in 1982 is {3.15} %."
+        },
+        {
+            "Q": "What is Beauty Products's Return Rate in 1981?",
+            "A": "Beauty Products's return rate in 1981 is {7.07} %."
+        },
+        {
+            "Q": "What is Seasonal Goods's Return Rate in 1984?",
+            "A": "Seasonal Goods's return rate in 1984 is {4.11} %."
+        },
+        {
+            "Q": "What are the return rate of Furniture Sellers, Seasonal Goods, and Beauty Products in 1978?",
+            "A": "Furniture Sellers's return rate is {6.46} %, Seasonal Goods's return rate is {4.78} %, Beauty Products's return rate is {9.40} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Return Rate in the line chart?",
+            "A": "The global minimum return rate is {3.11} %."
+        },
+        {
+            "Q": "What is the global maximum Return Rate in the line chart?",
+            "A": "The global maximum return rate is {13.86} %."
+        },
+        {
+            "Q": "What is the highest Return Rate level recorded for Beauty Products?",
+            "A": "Beauty Products reached approximately {11.90} % in {1976}."
+        },
+        {
+            "Q": "What is the lowest Return Rate level recorded for Beauty Products?",
+            "A": "Beauty Products's lowest recorded level is approximately {4.45} % in {1985}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Seasonal Goods's Return Rate from the starting year to the final year?",
+            "A": "The rate of growth in Seasonal Goods's return rate is {9.09}%."
+        },
+        {
+            "Q": "What is the average value of Seasonal Goods's Return Rate?",
+            "A": "The average value of Seasonal Goods's return rate is {4.40} %."
+        },
+        {
+            "Q": "What is the rate of change in Furniture Sellers's Return Rate from the starting year to the final year?",
+            "A": "The rate of growth in Furniture Sellers's return rate is {158.10}%."
+        },
+        {
+            "Q": "What is the average value of Beauty Products's Return Rate?",
+            "A": "The average value of Beauty Products's return rate is {7.38} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Seasonal Goods's Return Rate between 4 and 5 %? Please list the years and corresponding values.",
+            "A": "{4.11} % in {1984} year, {4.01} % in {1983} year."
+        },
+        {
+            "Q": "In the year 1982, which lines had Return Rate below 5 %? Please list the lines and corresponding values.",
+            "A": "{Seasonal Goods} had {3} %."
+        },
+        {
+            "Q": "Which years did Beauty Products's Return Rate below 5 %? Please list the years and corresponding values.",
+            "A": "{4.92} % in {1984} year, {4.49} % in {1986} year, {4.45} % in {1985} year."
+        },
+        {
+            "Q": "Which years did Furniture Sellers's Return Rate below 7 %? Please list the years and corresponding values.",
+            "A": "{5.37} % in {1976} year, {6.46} % in {1978} year, {5.93} % in {1977} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Beauty Products's Return Rate in 1976 higher or lower than in 1981?",
+            "A": "The return rate in 1976 was {higher} than in 1981."
+        },
+        {
+            "Q": "Was Seasonal Goods's Return Rate in 1978 higher or lower than in 1980?",
+            "A": "The return rate in 1978 was {higher} than in 1980."
+        },
+        {
+            "Q": "Was Seasonal Goods's Return Rate in 1981 higher or lower than in 1983?",
+            "A": "The return rate in 1981 was {lower} than in 1983."
+        },
+        {
+            "Q": "Between 1981 and 1984, which line had the highest average Return Rate, Seasonal Goods, Furniture Sellers, or Beauty Products?",
+            "A": "{Furniture Sellers} had the highest average return rate."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Furniture Sellers}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1981 and 1985?",
+            "A": "{Furniture Sellers} has the fastest average growth rate between 1981 and 1985."
+        },
+        {
+            "Q": "In which year did Furniture Sellers first surpass Beauty Products?",
+            "A": "Furniture Sellers first surpassed Beauty Products in the year {1980}."
+        },
+        {
+            "Q": "Which label had the leading return rate since 1981?",
+            "A": "Since 1981, {Furniture Sellers} had the leading return rate."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Furniture Sellers. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1976, 1982, 1986}."
+        }
+    ]
+}

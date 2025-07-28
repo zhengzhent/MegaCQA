@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Land Utilization Rate?",
+            "A": "The next dimension clockwise from Land Utilization Rate is Smart Equipment Coverage Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Land Utilization Rate?",
+            "A": "The next dimension counterclockwise from Land Utilization Rate is Profit MarginSustainable Farming Adoption Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Profit MarginSustainable Farming Adoption Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Gilbert and SonsFarm?",
+            "A": "The strongest aspect is {Profit MarginSustainable Farming Adoption Rate}, while the weakest aspect is{ Yield Growth Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Gilbert and SonsFarm on the Yield Growth Rate in the radar chart?",
+            "A": "The value of Gilbert and SonsFarm on the Safety dimension is {38}."
+        },
+        {
+            "Q": "What is the value of Gilbert and SonsFarm on the Profit MarginSustainable Farming Adoption Rate in the radar chart?",
+            "A": "The value of Gilbert and SonsFarm on the Safety dimension is {82}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Gilbert and SonsFarm across all dimensions in the radar chart?",
+            "A": "The maximum value of Gilbert and SonsFarm across all dimensions is {38}."
+        },
+        {
+            "Q": "What is the minimum value of label Gilbert and SonsFarm across all dimensions in the radar chart?",
+            "A": "The minimum value of Gilbert and SonsFarm across all dimensions is {38}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Smart Equipment Coverage Rate",
+            "A": "The average value of Smart Equipment Coverage Rate is {41.0}."
+        },
+        {
+            "Q": "What is the average value of Gilbert and SonsFarm",
+            "A": "The average value of Gilbert and SonsFarm is {60.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 41 for the Smart Equipment Coverage Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Gilbert and SonsFarm} is {41}"
+        },
+        {
+            "Q": "For Gilbert and SonsFarm in the radar chart, which dimensions have scores between 47 and 73? Please list the dimensions and corresponding scores.",
+            "A": "None is between 47 and 73"
+        },
+        {
+            "Q": "Which labels have scores below 38 for the Yield Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Gilbert and SonsFarm} is {38}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Gilbert and SonsFarm, which dimension has a higher score: Yield Growth Rate or Smart Equipment Coverage Rate?",
+            "A": "{Smart Equipment Coverage Rate} has a higher score than Yield Growth Rate for Gilbert and SonsFarm."
+        },
+        {
+            "Q": "For Gilbert and SonsFarm, which dimension has a higher score: Smart Equipment Coverage Rate or Profit MarginSustainable Farming Adoption Rate or Yield Growth Rate?",
+            "A": "{Profit MarginSustainable Farming Adoption Rate} has a higher score for Gilbert and SonsFarm."
+        },
+        {
+            "Q": "For Gilbert and SonsFarm, which dimension has a higher score: Smart Equipment Coverage Rate or Yield Growth Rate or Land Utilization Rate?",
+            "A": "{Land Utilization Rate} has a higher score for Gilbert and SonsFarm."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Gilbert and SonsFarm, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Gilbert and SonsFarm most needs to improve its {Yield Growth Rate}."
+        }
+    ],
+    "VA": []
+}

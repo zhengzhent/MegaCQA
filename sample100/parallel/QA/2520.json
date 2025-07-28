@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Daily active users (millions) dimension, what is the spatial relationship of GhostPic relative to FaceLink in terms of vertical (above/below) direction?",
+            "A": "{GhostPic} is {above} {FaceLink} on the Daily active users (millions) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Click-through rate (%)?",
+            "A": "The first position to the left of Click-through rate (%) is {Daily active users (millions)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Time spent (minutes/day)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Follower growth rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Daily active users (millions)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Click-through rate (%) and dimension Time spent (minutes/day)",
+            "A": "There is {No Correlation} between Click-through rate (%) and Time spent (minutes/day)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of ViewTube on the Follower growth rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of ViewTube on the Follower growth rate (%) dimension is {-5.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label FaceLink across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of FaceLink across all dimensions is {317.82}"
+        },
+        {
+            "Q": "What is the minimum value of label FaceLink across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of FaceLink across all dimensions is {0.1}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Daily active users (millions)?",
+            "A": "The average value of Daily active users (millions) is {690.22}"
+        },
+        {
+            "Q": "What is the difference in coding Daily active users (millions) between label GhostPic and label FaceLink",
+            "A": "The difference in coding Daily active users (millions) between GhostPic and FaceLink is {764.1}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Click-through rate (%) dimension in the parallel coordinates?",
+            "A": "{[10.0, 8.12, 6.11]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Time spent (minutes/day) dimension in the parallel coordinates?",
+            "A": "{[1.0, 165.16, 208.01]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Click-through rate (%), which label has a higher score: FaceLink or ViewTube?",
+            "A": "{ViewTube} has a higher score on Click-through rate (%)."
+        },
+        {
+            "Q": "On Time spent (minutes/day), which label has a higher score: GhostPic or FaceLink?",
+            "A": "{FaceLink} has a higher score on Time spent (minutes/day)."
+        },
+        {
+            "Q": "On Daily active users (millions), which label has a higher score: ViewTube or GhostPic?",
+            "A": "{ViewTube} has a higher score on Daily active users (millions)."
+        },
+        {
+            "Q": "On Click-through rate (%), which label has a higher score: GhostPic or FaceLink?",
+            "A": "{GhostPic} has a higher score on Click-through rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Daily active users (millions)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Follower growth rate (%) being greater than 24.59 and Daily active users (millions) being less than 648.36?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

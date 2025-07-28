@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {7} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Research Grant?",
+            "A": "The next slice clockwise from slice Research Grant is {Patent}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Research Grant?",
+            "A": "The next slice counterclockwise from slice Research Grant is {Publication}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which discipline-wise has the largest proportion in this pie chart?",
+            "A": "The discipline-wise with the largest proportion is {Patent}."
+        },
+        {
+            "Q": "Which discipline-wise has the smallest proportion in this pie chart?",
+            "A": "The discipline-wise with the smallest proportion is {Innovative Solution}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Innovative Solution slice in this pie chart?",
+            "A": "The value of the Innovative Solution slice is {8}%."
+        },
+        {
+            "Q": "What is the value of the Research Grant slice in this pie chart?",
+            "A": "The value of the Research Grant slice is {14}%."
+        },
+        {
+            "Q": "What is the value of the Conference Paper slice in this pie chart?",
+            "A": "The value of the Conference Paper slice is {11}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {21}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {8}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Publication and Innovative Solution in this pie chart?",
+            "A": "The difference between Publication and Innovative Solution is {8}%."
+        },
+        {
+            "Q": "What is the sum of the values of PhD Thesis and Patent in this pie chart?",
+            "A": "The sum of PhD Thesis and Patent is {40}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 17.5%? Please list the category names and corresponding percentages.",
+            "A": "{Patent} accounts for {21}% and {PhD Thesis} accounts for {19}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 11.0%? Please list the category names and corresponding percentages.",
+            "A": "{Innovative Solution} accounts for {8}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Patent, PhD Thesis, Publication, or Collaborative Research?",
+            "A": "The value of {Patent} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Patent, PhD Thesis, or Publication?",
+            "A": "The value of {Patent} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of PhD Thesis, Publication, or Research Grant?",
+            "A": "The value of {Research Grant} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Patent or PhD Thesis?",
+            "A": "The value of {Patent} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 3% and 15%?",
+            "A": "There are {4} sectors that have a percentage between 3% and 15%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 40%? List all possible combinations.",
+            "A": "The possible combinations are: {(PhD Thesis, Collaborative Research, Innovative Solution), (PhD Thesis, Conference Paper, Innovative Solution), (Publication, Research Grant, Innovative Solution), (Publication, Collaborative Research, Conference Paper), (Publication, Collaborative Research, Innovative Solution), (Publication, Conference Paper, Innovative Solution), (Research Grant, Collaborative Research, Conference Paper), (Research Grant, Collaborative Research, Innovative Solution), (Research Grant, Conference Paper, Innovative Solution), (Collaborative Research, Conference Paper, Innovative Solution)}."
+        }
+    ],
+    "VA": []
+}

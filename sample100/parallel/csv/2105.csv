@@ -1,0 +1,7 @@
+﻿Social Media and Digital Media and Streaming,Engagement Metrics
+Pattern,Weak Correlation,No Correlation,Strong Correlation,Weak Correlation
+labels,Virality coefficient (shares/view),Click-through rate (%),Follower growth rate (%),Share rate (%),Time spent (minutes/day)
+FaceLink,1.66,0.78,-5.0,0.1,72.86
+ProfConnect,0.47,10.0,50.0,20.0,181.58
+ProfConnect,5.0,6.9,19.59,10.88,240.0
+SnapFrame,0.1,0.1,9.48,3.87,1.0

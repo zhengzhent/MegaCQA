@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {5} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Biotechnology relative to the peak of Quantum Computing in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Biotechnology is to the {left} of the peak of Quantum Computing."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Nanotechnology show?",
+            "A": "The ridgeline representing Nanotechnology shows a {Random fluctuation}."
+        },
+        {
+            "Q": "At what value do  Space Exploration reach its peaks?",
+            "A": "At {10410410.41}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Space Exploration} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =26919194.9?",
+            "A": "At X =26919194.9,the label with the highest density is {Medical Research}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 46334421? Please list the countries and corresponding peak values.",
+            "A": "{Nanotechnology}'s peak at {71771772}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 32675686? Please list the countries and corresponding peak values.",
+            "A": "{Biotechnology}'s peak at {13167239},{Space Exploration}'s peak at {10410410},{Quantum Computing}'s peak at {27027027},{Medical Research}'s peak at {11911912}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Biotechnology or Quantum Computing?",
+            "A": "{Quantum Computing} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Space Exploration or Quantum Computing?",
+            "A": "{Quantum Computing} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Space Exploration or Quantum Computing?",
+            "A": "{Quantum Computing} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Space Exploration}"
+        }
+    ],
+    "VA": []
+}

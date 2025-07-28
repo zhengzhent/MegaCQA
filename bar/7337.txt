@@ -1,0 +1,10 @@
+Image Name: 7337.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\7337.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is straightforward and easy to interpret. Each bar is clearly labeled with the company name and the number of employees. The use of distinct colors for each company helps in differentiating them easily. The y-axis is well-defined, and the title clearly states the purpose of the chart.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization effectively presents the number of employees across different companies using a bar chart format. The colors are distinct and help differentiate the companies, while the numerical values on top of the bars provide clear information. The axis labels are legible, and the overall layout is uncluttered, making it easy to interpret the data at a glance.

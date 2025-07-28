@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {80} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Patent count in the scatter plot?",
+            "A": "The maximum observed value in the Patent count dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Patent count in the scatter plot?",
+            "A": "The minimum observed value in the Patent count dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Startup success rate in the scatter plot?",
+            "A": "The maximum observed value in the Startup success rate dimension is {50.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Startup success rate in the scatter plot?",
+            "A": "The minimum observed value in the Startup success rate dimension is {5.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Patent count for all points?",
+            "A": "The average value of Patent count for all points is {500.50}."
+        },
+        {
+            "Q": "What is the average value of the Startup success rate for all points?",
+            "A": "The average value of Startup success rate for all points is {28.96}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Startup success rate values corresponding to the top 3 Patent count values in the scatter plot?",
+            "A": "{25.19, 38.35, 48.07}."
+        },
+        {
+            "Q": "What are the Startup success rate values corresponding to the bottom 3 Patent count values in the scatter plot?",
+            "A": "{13.43, 25.48, 31.27}."
+        },
+        {
+            "Q": "What are the Patent count values corresponding to the top 3 Startup success rate values in the scatter plot?",
+            "A": "{860.90, 974.71, 949.42}."
+        },
+        {
+            "Q": "What are the Patent count values corresponding to the bottom 3 Startup success rate values in the scatter plot?",
+            "A": "{380.37, 430.95, 1.00}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 322.94 and 607.70 and Y coordinates between 38.61 and 47.79?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1.00, 13.43) and (1000.00, 25.19)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(468.89, 25.64) and (481.53, 25.60)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [418.94, 23.35, 531.48, 27.89] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (468.89, 25.64)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [336.15, 20.52, 614.27, 30.72]; Region B: [432.23, 9.80, 710.36, 20.00]; Region C: [15.56, 36.04, 293.68, 46.24]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

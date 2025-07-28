@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category ML Models in this treemap?",
+            "A": "There are {2} child rectangles under the category ML Models."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Platform Architecture}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Vaultless Systems}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Platform Architecture}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the PCI Compliance rectangle in this treemap?",
+            "A": "The value of the PCI Compliance rectangle is {15.32}."
+        },
+        {
+            "Q": "What is the value of the Platform Architecture rectangle in this treemap?",
+            "A": "The value of the Platform Architecture rectangle is {100.0}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.47}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Anomaly Detection and Stream Processing?",
+            "A": "The difference between Anomaly Detection and Stream Processing is {26.11}."
+        },
+        {
+            "Q": "What is the sum of the regions of Real-Time Prediction and Stateful Operators?",
+            "A": "The sum of Real-Time Prediction and Stateful Operators is {57.07}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the ML Models category in the treemap, which rectangular labels have a value exceeded 6.47? Please list the labels and values.",
+            "A": "{Behavior Analysis} has {6.60}"
+        },
+        {
+            "Q": "Under the ML Models category in the treemap, which rectangular labels have a value below 6.21? Please list the labels and values.",
+            "A": "{Anomaly Detection} has {6.08}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Collaborative Filtering or SVD Algorithms?",
+            "A": "The value of {Collaborative Filtering} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Platform Architecture or Recommendation Engines?",
+            "A": "The value of {Platform Architecture} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {8} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

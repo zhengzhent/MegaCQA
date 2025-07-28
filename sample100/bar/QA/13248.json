@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {9} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Star Plateau}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Sunset Cliff}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Sun Harbor relative to the bar Thunder Canyon in terms of horizontal (left/right) direction?",
+            "A": "Bar Sun Harbor is to the {right} of the bar Thunder Canyon."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Star Plateau}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Sunset Cliff}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Lotus Temple?",
+            "A": "The value of Lotus Temple is {1669.1} thousand visitors."
+        },
+        {
+            "Q": "What is the value of bar Misty Trail?",
+            "A": "The value of Misty Trail is {1475.7} thousand visitors."
+        },
+        {
+            "Q": "What is the value of bar Sunset Cliff?",
+            "A": "The value of Sunset Cliff is {700.2} thousand visitors."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand visitors in the bar chart?",
+            "A": "The maximum thousand visitors is {2542.1} thousand visitors."
+        },
+        {
+            "Q": "What is the minimum thousand visitors in the bar chart?",
+            "A": "The minimum thousand visitors is {700.2} thousand visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Thunder Canyon and Silver Grove?",
+            "A": "The total value of Thunder Canyon and Silver Grove is {4161.8} thousand visitors."
+        },
+        {
+            "Q": "What is the average value of Sunset Cliff and Lotus Temple?",
+            "A": "The average value of Sunset Cliff and Lotus Temple is {1184.65} thousand visitors."
+        },
+        {
+            "Q": "What is the difference between Lotus Temple and Misty Trail?",
+            "A": "The difference between Lotus Temple and Misty Trail is {193.39999999999986} thousand visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand visitors values exceed 2080.90 thousand visitors? Please list the bars and corresponding thousand visitors values?",
+            "A": "{Thunder Canyon} has {2138.3} thousand visitors, {Star Plateau} has {2542.1} thousand visitors."
+        },
+        {
+            "Q": "Which bars have {thousand visitors} values below 880.35 thousand visitors? Please list the bars and corresponding thousand visitors values?",
+            "A": "{Sunset Cliff} has {700.2} thousand visitors."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Star Plateau or Sunset Cliff ",
+            "A": "The value of the {Star Plateau} is larger?"
+        },
+        {
+            "Q": "Which is larger, Star Plateau, Misty Trail or Sunset Cliff ",
+            "A": "The value of the {Star Plateau} is larger?"
+        },
+        {
+            "Q": "Which is larger, Sunset Cliff, Hidden Valley, Willow Grove or Lotus Temple ",
+            "A": "The value of the {Lotus Temple} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {4} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Sun Harbor} and {Sunset Cliff}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Star Plateau}, {Thunder Canyon}, and {Silver Grove}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand visitors values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand visitors value descending: {Star Plateau}, {Thunder Canyon}, {Silver Grove}, {Sun Harbor}, {Lotus Temple}, {Hidden Valley}, {Misty Trail}, {Willow Grove}, and {Sunset Cliff}."
+        },
+        {
+            "Q": "Sort the bars by thousand visitors values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand visitors value ascending: {Sunset Cliff}, {Willow Grove}, {Misty Trail}, {Hidden Valley}, {Lotus Temple}, {Sun Harbor}, {Silver Grove}, {Thunder Canyon}, and {Star Plateau}."
+        }
+    ]
+}

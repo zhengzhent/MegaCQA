@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {5} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {BluePeak}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {PureSync}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin BrightEdge?",
+            "A": "The first position to the left of the violin BrightEdge is {BluePeak}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin BluePeak relative to the violin PureSync in terms of horizontal (left/right) direction?",
+            "A": "violin BluePeak is to the {left} of the violin PureSync."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {CoreLogic}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {CoreLogic}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing BluePeak?",
+            "A": "The density distribution pattern of the BluePeak shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of PureSync in the violin plot?",
+            "A": "The median of PureSync is {49464.50} USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of BluePeak in the violin plot?",
+            "A": "The upper quartile (Q3) of BluePeak is {54706.25} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of PureSync in the violin plot?",
+            "A": "The upper whisker limit of PureSync is {74548.00} USD."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in CoreLogic in the violin plot?",
+            "A": "The lowest upper outlier value in CoreLogic is {4175.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {103168.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {3120.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin CoreLogic and TechNova?",
+            "A": "The Q1 difference between violin CoreLogic and TechNova is {1604.25} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin TechNova and BluePeak?",
+            "A": "The total Q3 value of violin TechNova and PureSync is {113263.50} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of violin TechNova and CoreLogic?",
+            "A": "The average Q1 value of violin TechNova and CoreLogic is {42401.38} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 45817.75 USD? Please list the violins and corresponding values.",
+            "A": "{TechNova} has {49946.00} USD , {CoreLogic} has {55780.50} USD , {PureSync} has {49464.50} USD "
+        },
+        {
+            "Q": "Which violins have median values below 45817.75 USD? Please list the violins and corresponding values.",
+            "A": "{BluePeak} has {42171.00} USD , {BrightEdge} has {41010.50} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 38176.50 USD and the upper quartile (Q3) below 57561.50 USD?",
+            "A": "Violin {PureSync} has the Q1 above 38176.50 USD and the Q3 below 57561.5 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 49476.23 USD?",
+            "A": "Violin {CoreLogic} has {56495.62} USD ,{PureSync} has {50214.93} USD have their highest density peak exceed 49476.23 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 45109.81 USD?",
+            "A": "Violin {BluePeak} has {39923.46} USD ,{BrightEdge} has {41482.09} USD have their highest density peak below 45109.81 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of BrightEdge or PureSync ",
+            "A": "The median value of the {PureSync} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of BrightEdge, CoreLogic or PureSync ",
+            "A": "The median value of the {CoreLogic} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of TechNova, PureSync, CoreLogic or BrightEdge ",
+            "A": "The median value of the {CoreLogic} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {CoreLogic}."
+        }
+    ],
+    "VA": []
+}

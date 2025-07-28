@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Market share (%) dimension, what is the spatial relationship of Brewer and Sons relative to Sanchez-Moore in terms of vertical (above/below) direction?",
+            "A": "{Brewer and Sons} is {below} {Sanchez-Moore} on the Market share (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Product differentiation score (1-10)?",
+            "A": "The first position to the left of Product differentiation score (1-10) is {Market growth rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Market share (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Market growth rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Customer lifetime value (USD)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Product differentiation score (1-10) and dimension Customer lifetime value (USD)",
+            "A": "There is {Clustering} between Product differentiation score (1-10) and Customer lifetime value (USD)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Smith, Rivera and Johns on the Market growth rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Smith, Rivera and Johns on the Market growth rate (%) dimension is {13.74}"
+        },
+        {
+            "Q": "What is the value of Johnson, Martin and Lyons on the Product differentiation score (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Johnson, Martin and Lyons on the Product differentiation score (1-10) dimension is {6.27}"
+        },
+        {
+            "Q": "What is the value of Johnson, Martin and Lyons on the Market share (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Johnson, Martin and Lyons on the Market share (%) dimension is {18.31}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Smith, Rivera and Johns across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Smith, Rivera and Johns across all dimensions is {10000.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Brewer and Sons across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Brewer and Sons across all dimensions is {0.1}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Product differentiation score (1-10)?",
+            "A": "The average value of Product differentiation score (1-10) is {5.58}"
+        },
+        {
+            "Q": "What is the difference in coding Market share (%) between label Quinn, Washington and Stewart and label Johnson, Martin and Lyons",
+            "A": "The difference in coding Market share (%) between Quinn, Washington and Stewart and Johnson, Martin and Lyons is {9.23}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Market share (%) dimension in the parallel coordinates?",
+            "A": "{[50.0, 27.54, 24.24]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Customer lifetime value (USD) dimension in the parallel coordinates?",
+            "A": "{[100.0, 4742.16, 6222.19]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Customer lifetime value (USD), which label has a higher score: Sanchez-Moore or Smith, Rivera and Johns?",
+            "A": "{Smith, Rivera and Johns} has a higher score on Customer lifetime value (USD)."
+        },
+        {
+            "Q": "On Market growth rate (%), which label has a higher score: Smith, Rivera and Johns or Johnson, Martin and Lyons?",
+            "A": "{Johnson, Martin and Lyons} has a higher score on Market growth rate (%)."
+        },
+        {
+            "Q": "On Customer lifetime value (USD), which label has a higher score: Brewer and Sons or King Group?",
+            "A": "{King Group} has a higher score on Customer lifetime value (USD)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Customer lifetime value (USD)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Market share (%) being greater than 22.55 and Market share (%) being less than 15.43?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

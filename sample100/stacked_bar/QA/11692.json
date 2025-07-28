@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {4} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Twitter of this stacked bar chart?",
+            "A": "There are {6} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Crunchyroll}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Twitter}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Crunchyroll relative to the bar Periscope in terms of horizontal (left/right) direction?",
+            "A": "Bar Crunchyroll is to the {left} of the bar Periscope."
+        },
+        {
+            "Q": "In the stacked bar of Crunchyroll, What is the spatial relationship of segment Entertainment relative to the segment Comedy in terms of vertical (above/below) direction?",
+            "A": "Entertainment segment is positioned {above} the Comedy segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Video Platform has the highest bar in this stacked bar chart?",
+            "A": "The Video Platform with the highest bar is {Periscope}."
+        },
+        {
+            "Q": "Which Video Platform has the lowest bar in this stacked bar chart?",
+            "A": "The Video Platform with the lowest bar is {Crunchyroll}."
+        },
+        {
+            "Q": "In the stacked bar representing Crunchyroll, which segment has the highest value?",
+            "A": "The segment with the highest value is {Entertainment}."
+        },
+        {
+            "Q": "In the stacked bar representing Vimeo, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Vlogs}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Education segment within the Periscope bar in the stacked bar chart?",
+            "A": "The value of the Education segment is {95.00} million views."
+        },
+        {
+            "Q": "What is the value of the Entertainment segment within the Crunchyroll bar in the stacked bar chart?",
+            "A": "The value of the Entertainment segment is {16.92} million views."
+        },
+        {
+            "Q": "What is the value of the Comedy segment within the Vimeo bar in the stacked bar chart?",
+            "A": "The value of the Comedy segment is {28.13} million views."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million views among the stacked segments of bar Vimeo?",
+            "A": "The maximum million views among the stacked segments of bar Vimeo is {28.13} million views."
+        },
+        {
+            "Q": "What is the minimum million views among the stacked segments of bar Periscope?",
+            "A": "The minimum million views among the stacked segments of bar Periscope is {15.0} million views."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum million views of the segment Comedy among the bars?",
+            "A": "The maximum million views among the bars of segment Comedy is {28.13} million views."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum million views of the segment Education among the bars?",
+            "A": "The minimum million views among the bars of segment Education is {15.0} million views."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Crunchyroll?",
+            "A": "The total value of bar Crunchyroll is {92.87} million views."
+        },
+        {
+            "Q": "What is the total value of the bar Twitter?",
+            "A": "The total value of bar Twitter is {102.59} million views."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {526.5500000000001} million views."
+        },
+        {
+            "Q": "What is the difference between total value of bar Periscope and Crunchyroll?",
+            "A": "The difference between between total value of bar Periscope and Crunchyroll is {132.95000000000002} million views."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total million views values exceed 165.55 million views? Please list the bar and corresponding values.",
+            "A": "{Periscope} has {225.82000000000002} million views"
+        },
+        {
+            "Q": "Which bars have total million views values below 165.55 million views? Please list the bar and corresponding values.",
+            "A": "{Crunchyroll} has {92.87} million views, {Twitter} has {102.59} million views, {Vimeo} has {105.27} million views"
+        },
+        {
+            "Q": "For bar Crunchyroll in the stacked bar chart, which segment have million views value between 15.0 and 15.184999999999999? Please list the segment and corresponding values.",
+            "A": "."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total million views of Vimeo or Periscope?",
+            "A": "The total million views of the {Periscope} is larger."
+        },
+        {
+            "Q": "Which is larger, the total million views of Vimeo, Crunchyroll or Twitter?",
+            "A": "The total million views of the {Vimeo} is larger."
+        },
+        {
+            "Q": "In the bar Crunchyroll, which has a larger million views value: Comedy or Education?",
+            "A": "{Comedy} has the larger million views value."
+        },
+        {
+            "Q": "In the bar Periscope, which has a larger million views value: Entertainment, Vlogs or News?",
+            "A": "{Vlogs} has the larger million views value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Education in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Education are: {Periscope}, {Crunchyroll}, {Vimeo}."
+        }
+    ],
+    "VA": []
+}

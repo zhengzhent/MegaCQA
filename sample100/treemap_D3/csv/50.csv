@@ -1,0 +1,17 @@
+Healthcare and Health,Healthcare Distribution by Category (2022),%
+parent,child,value
+Root,Healthcare Policy,20.0
+Healthcare Policy,Insurance Models,10.92
+Healthcare Policy,Regulatory Frameworks,9.08
+Root,Health Education,20.0
+Health Education,Patient Awareness,12.31
+Health Education,Professional Training,7.69
+Root,Health Technologies,20.0
+Health Technologies,Medical Devices,5.43
+Health Technologies,Health Informatics,14.57
+Root,Public Health Systems,20.0
+Public Health Systems,Government Programs,6.46
+Public Health Systems,Health Surveillance,13.54
+Root,Medical Services,20.0
+Medical Services,Specialized Care,6.27
+Medical Services,Primary Care,13.73

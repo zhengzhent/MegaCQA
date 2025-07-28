@@ -1,0 +1,95 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {6} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Search Transport Options stage positioned above or below the Select Carrier or Service stage?",
+            "A": "The Search Transport Options stage is positioned {above} the Select Carrier or Service stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {logarithmic} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Prepare for Pickup?",
+            "A": "The value of stage Prepare for Pickup is {936}."
+        },
+        {
+            "Q": "What is the value of stage Book Transport Service?",
+            "A": "The value of stage Book Transport Service is {1601}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Search Transport Options, with a value of {4139}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Complete Delivery, with a value of {661}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Prepare for Pickup to stage Begin Transportation?",
+            "A": "Decreased by {122} Thousand Shipments from stage Prepare for Pickup to stage Begin Transportation."
+        },
+        {
+            "Q": "How much did it decrease from stage Book Transport Service to stage Prepare for Pickup?",
+            "A": "Decreased by {665} Thousand Shipments from stage Book Transport Service to stage Prepare for Pickup."
+        },
+        {
+            "Q": "How much did it decrease from stage Begin Transportation to stage Complete Delivery?",
+            "A": "Decreased by {153} Thousand Shipments from stage Begin Transportation to stage Complete Delivery."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 2069? Please list the stage labels and corresponding values.",
+            "A": "The {Search Transport Options} stage has {4139}, the {Select Carrier or Service} stage has {2537}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 1268? Please list the stage labels and corresponding values.",
+            "A": "The {Prepare for Pickup} stage has {936}, the {Begin Transportation} stage has {814}, the {Complete Delivery} stage has {661}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 875 and 2069? Please list the stage labels and corresponding values.",
+            "A": "The {Book Transport Service} stage has {1601}, the {Prepare for Pickup} stage has {936}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Prepare for Pickup to Begin Transportation, or from stage Begin Transportation to Complete Delivery?",
+            "A": "The reduction from stage {Begin Transportation} to {Complete Delivery} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Search Transport Options to Select Carrier or Service, from stage Select Carrier or Service to Book Transport Service, or from stage Book Transport Service to Prepare for Pickup?",
+            "A": "The reduction from stage {Search Transport Options} to stage {Select Carrier or Service} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Search Transport Options} and {Select Carrier or Service} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Prepare for Pickup} and {Begin Transportation} stages."
+        }
+    ],
+    "VA": []
+}

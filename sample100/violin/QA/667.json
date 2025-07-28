@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {4} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Hemp}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Oats}."
+        },
+        {
+            "Q": "Which violin is the second position to the left of the violin Oats?",
+            "A": "The second position to the left of the violin Oats is {Tobacco}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Sorghum relative to the violin Oats in terms of horizontal (left/right) direction?",
+            "A": "violin Sorghum is to the {left} of the violin Oats."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Hemp}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Hemp}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Hemp?",
+            "A": "The density distribution pattern of the Hemp shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Sorghum in the violin plot?",
+            "A": "The median of Sorghum is {4983.50} kilograms per hectare."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Oats in the violin plot?",
+            "A": "The lower quartile (Q1) of Oats is {6549.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper whisker limit of Hemp in the violin plot?",
+            "A": "The upper whisker limit of Hemp is {10700.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Tobacco in the violin plot?",
+            "A": "The largest upper outlier value in Tobacco is {8016.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum kilograms per hectare value in the violin plot?",
+            "A": "The global maximum kilograms per hectare value in the violin plot is {10700.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the global minimum kilograms per hectare value in the violin plot?",
+            "A": "The global minimum kilograms per hectare value in the violin plot is {210.00} kilograms per hectare."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Oats and Sorghum?",
+            "A": "The Median difference between violin Oats and Sorghum is {2257.50} kilograms per hectare."
+        },
+        {
+            "Q": "What is the toal Median value of violin Tobacco and Oats?",
+            "A": "The total Median value of violin Tobacco and Oats is {11557.50} kilograms per hectare."
+        },
+        {
+            "Q": "What is the average Median value of violin Hemp and Sorghum?",
+            "A": "The average Median value of violin Hemp and Sorghum is {6467.50} kilograms per hectare."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 4650.00 kilograms per hectare? Please list the violins and corresponding values.",
+            "A": "{Hemp} has {7951.50} kilograms per hectare , {Sorghum} has {4983.50} kilograms per hectare , {Oats} has {7241.00} kilograms per hectare "
+        },
+        {
+            "Q": "Which violins have median values below 7596.25 kilograms per hectare? Please list the violins and corresponding values.",
+            "A": "{Tobacco} has {4316.50} kilograms per hectare , {Sorghum} has {4983.50} kilograms per hectare , {Oats} has {7241.00} kilograms per hectare "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 3894.62 kilograms per hectare and the upper quartile (Q3) below 8313.25 kilograms per hectare?",
+            "A": "Violin {Sorghum},{Oats} has the Q1 above 3894.62 kilograms per hectare and the Q3 below 8313.25 kilograms per hectare."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 4642.26 kilograms per hectare?",
+            "A": "Violin {Hemp} has {8366.12} kilograms per hectare ,{Sorghum} has {4939.86} kilograms per hectare ,{Oats} has {7156.92} kilograms per hectare have their highest density peak exceed 4642.26 kilograms per hectare."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 4642.26 kilograms per hectare?",
+            "A": "Violin {Tobacco} has {4344.65} kilograms per hectare have their highest density peak below 4642.26 kilograms per hectare."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Tobacco or Hemp ",
+            "A": "The median value of the {Hemp} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Sorghum, Tobacco or Hemp ",
+            "A": "The median value of the {Hemp} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Hemp, Oats, Tobacco or Sorghum ",
+            "A": "The median value of the {Hemp} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Hemp}."
+        }
+    ],
+    "VA": []
+}

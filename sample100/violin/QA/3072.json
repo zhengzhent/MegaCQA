@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {3} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Glenhaven Academy}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Fairview School}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin Lakewood Institute?",
+            "A": "The first position to the right of the violin Lakewood Institute is {Fairview School}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Fairview School relative to the violin Glenhaven Academy in terms of horizontal (left/right) direction?",
+            "A": "violin Fairview School is to the {right} of the violin Glenhaven Academy."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Lakewood Institute}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Lakewood Institute}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Fairview School?",
+            "A": "The density distribution pattern of the Fairview School shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Fairview School in the violin plot?",
+            "A": "The median of Fairview School is {79.81} %."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Glenhaven Academy in the violin plot?",
+            "A": "The upper quartile (Q3) of Glenhaven Academy is {89.66} %."
+        },
+        {
+            "Q": "What is the upper whisker limit of Fairview School in the violin plot?",
+            "A": "The upper whisker limit of Fairview School is {97.71} %."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Fairview School in the violin plot?",
+            "A": "The largest upper outlier value in Fairview School is {109.47}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum % value in the violin plot?",
+            "A": "The global maximum % value in the violin plot is {139.95} %."
+        },
+        {
+            "Q": "What is the global minimum % value in the violin plot?",
+            "A": "The global minimum % value in the violin plot is {71.16} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin Glenhaven Academy and Lakewood Institute?",
+            "A": "The Q1 difference between violin Glenhaven Academy and Lakewood Institute is {0.29} %."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin Lakewood Institute and Glenhaven Academy?",
+            "A": "The total Q3 value of violin Lakewood Institute and Fairview School is {179.76} %."
+        },
+        {
+            "Q": "What is the average Median value of violin Fairview School and Glenhaven Academy?",
+            "A": "The average Median value of violin Fairview School and Glenhaven Academy is {81.57} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 81.57 %? Please list the violins and corresponding values.",
+            "A": "{Glenhaven Academy} has {83.32} % , {Lakewood Institute} has {84.39} % "
+        },
+        {
+            "Q": "Which violins have median values below 81.57 %? Please list the violins and corresponding values.",
+            "A": "{Fairview School} has {79.81} % "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 77.45 % and the upper quartile (Q3) below 89.88 %?",
+            "A": "Violin {Glenhaven Academy} has the Q1 above 77.45 % and the Q3 below 89.8825 %."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 79.42 %?",
+            "A": "Violin {Glenhaven Academy} has {82.01} % ,{Lakewood Institute} has {82.83} % have their highest density peak exceed 79.42 %."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 82.42 %?",
+            "A": "Violin {Glenhaven Academy} has {82.01} % ,{Fairview School} has {76.84} % have their highest density peak below 82.42 %."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Lakewood Institute or Glenhaven Academy ",
+            "A": "The median value of the {Lakewood Institute} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Glenhaven Academy, Lakewood Institute or Fairview School ",
+            "A": "The median value of the {Lakewood Institute} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Lakewood Institute}."
+        }
+    ],
+    "VA": []
+}

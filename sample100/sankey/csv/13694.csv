@@ -1,0 +1,79 @@
+Tourism and Hospitality,Global Tourism Value Chain,Million Tourists,random,Spending Types,Source Continents,Hotels,Travel Purposes,Attractions
+Source,Target,Value
+Transportation,Asia,1993
+Transportation,North America,2374
+Transportation,South America,3180
+Transportation,Oceania,5209
+Transportation,Africa,1863
+Transportation,Europe,1987
+Shopping,Asia,275
+Shopping,North America,346
+Shopping,South America,366
+Shopping,Oceania,64
+Shopping,Africa,501
+Shopping,Europe,553
+Tours,Asia,3607
+Tours,North America,4120
+Tours,South America,3133
+Tours,Oceania,678
+Tours,Africa,2524
+Tours,Europe,431
+Accommodation,Asia,1678
+Accommodation,North America,1791
+Accommodation,South America,2172
+Accommodation,Oceania,2985
+Accommodation,Africa,3021
+Accommodation,Europe,2323
+Entertainment,Asia,3211
+Entertainment,North America,676
+Entertainment,South America,2084
+Entertainment,Oceania,1973
+Entertainment,Africa,3779
+Entertainment,Europe,1209
+Asia,Luxury Hotel,8463
+Asia,Boutique Hotel,2301
+North America,Luxury Hotel,906
+North America,Boutique Hotel,8401
+South America,Luxury Hotel,5872
+South America,Boutique Hotel,5063
+Oceania,Luxury Hotel,7734
+Oceania,Boutique Hotel,3175
+Africa,Luxury Hotel,4637
+Africa,Boutique Hotel,7051
+Europe,Luxury Hotel,1806
+Europe,Boutique Hotel,4697
+Luxury Hotel,Religious Pilgrimage,6501
+Luxury Hotel,Education,7656
+Luxury Hotel,Adventure,8326
+Luxury Hotel,Business,1705
+Luxury Hotel,Medical,5230
+Boutique Hotel,Religious Pilgrimage,9290
+Boutique Hotel,Education,5935
+Boutique Hotel,Adventure,5741
+Boutique Hotel,Business,1083
+Boutique Hotel,Medical,8639
+Religious Pilgrimage,Historical Site,2234
+Religious Pilgrimage,Museum,3982
+Religious Pilgrimage,Beach,2254
+Religious Pilgrimage,Cultural Festival,3354
+Religious Pilgrimage,Hiking Trail,3967
+Education,Historical Site,4529
+Education,Museum,2275
+Education,Beach,729
+Education,Cultural Festival,614
+Education,Hiking Trail,5444
+Adventure,Historical Site,4792
+Adventure,Museum,886
+Adventure,Beach,1600
+Adventure,Cultural Festival,3595
+Adventure,Hiking Trail,3194
+Business,Historical Site,143
+Business,Museum,726
+Business,Beach,618
+Business,Cultural Festival,354
+Business,Hiking Trail,947
+Medical,Historical Site,5180
+Medical,Museum,999
+Medical,Beach,3137
+Medical,Cultural Festival,3090
+Medical,Hiking Trail,1463

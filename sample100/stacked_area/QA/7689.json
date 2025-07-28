@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {3} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing CrimsonLink relative to AetherNet?",
+            "A": "CrimsonLink is {below} AetherNet in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total ad revenue?",
+            "A": "The series with the largest contribution is {AetherNet}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total ad revenue?",
+            "A": "The series with the smallest contribution is {CrimsonLink}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is AetherNet's Ad Revenue in 1982?",
+            "A": "AetherNet's ad revenue in 1982 is {580234800.50} $."
+        },
+        {
+            "Q": "What is OracleFeed's Ad Revenue in 1979?",
+            "A": "OracleFeed's ad revenue in 1979 is {671081337.65} $."
+        },
+        {
+            "Q": "What is CrimsonLink's Ad Revenue in 1980?",
+            "A": "CrimsonLink's ad revenue in 1980 is {421558734.52} $."
+        },
+        {
+            "Q": "What are the ad revenue of AetherNet, OracleFeed, and CrimsonLink in 1981?",
+            "A": "AetherNet's ad revenue is {573522730.06} $, OracleFeed's ad revenue is {457161403.37} $, CrimsonLink's ad revenue is {314618626.38} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Ad Revenue in the area chart?",
+            "A": "The global minimum ad revenue is {225637183.55} $."
+        },
+        {
+            "Q": "What is the global maximum Ad Revenue in the area chart?",
+            "A": "The global maximum ad revenue is {671081337.65} $."
+        },
+        {
+            "Q": "What is the highest Ad Revenue level recorded for AetherNet?",
+            "A": "AetherNet reached approximately {666665650.22} $ in {1983}."
+        },
+        {
+            "Q": "What is the lowest Ad Revenue level recorded for AetherNet?",
+            "A": "AetherNet's lowest recorded level is approximately {517447141.08} $ in {1978}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Ad Revenue?",
+            "A": "The average total ad revenue is {1536759071.35} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Ad Revenue go below 1456985201.19 $? Please list the years and corresponding total values.",
+            "A": "{1345302759.81} $ in {1981}, {1447359974.55} $ in {1982}, {1370620045.73} $ in {1983}."
+        },
+        {
+            "Q": "Which years did the total Ad Revenue fall between 1442309470.03 and 1594131519.50 $? Please list the years and corresponding total values.",
+            "A": "{1554901731.24} $ in {1985}, {1543612240.98} $ in {1980}, {1582184016.90} $ in {1978}."
+        },
+        {
+            "Q": "Which years did the total Ad Revenue exceed 1579455788.33 $? Please list the years and corresponding total values.",
+            "A": "{1582184016.90} $ in {1978}, {1828875653.03} $ in {1979}, {1621216148.54} $ in {1984}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1982 and 1984, did the total Ad Revenue experience a larger or smaller change than between 1981 and 1983?",
+            "A": "The change in total ad revenue between 1982 and 1984 was {larger} than between 1981 and 1983."
+        },
+        {
+            "Q": "Was the total Ad Revenue in 1980 higher or lower than in 1982?",
+            "A": "The total ad revenue in 1980 was {higher} than in 1982."
+        },
+        {
+            "Q": "Was the total Ad Revenue in 1978 higher or lower than in 1982?",
+            "A": "The total ad revenue in 1978 was {higher} than in 1982."
+        },
+        {
+            "Q": "Between 1980 and 1981, did the total Ad Revenue experience a larger or smaller change than between 1983 and 1985?",
+            "A": "The change in total ad revenue between 1980 and 1981 was {larger} than between 1983 and 1985."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{AetherNet} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {CrimsonLink, OracleFeed, AetherNet}."
+        }
+    ]
+}

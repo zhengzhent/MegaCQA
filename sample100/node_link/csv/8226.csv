@@ -1,0 +1,19 @@
+Sports and Entertainment,Key Stakeholders in Global Sports Events
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Alpha Research Team,13,Draco Robotics Team,broadcast_right
+0,Alpha Research Team,1,Beta Operations Group,broadcast_right
+0,Alpha Research Team,6,Omega Testing Division,league_affiliation
+0,Alpha Research Team,11,Sierra Survey Team,ticket_sharing
+0,Alpha Research Team,8,Lynx Data Science Team,ticket_sharing
+1,Beta Operations Group,4,Epsilon Design Team,venue_booking
+1,Beta Operations Group,11,Sierra Survey Team,broadcast_right
+1,Beta Operations Group,7,Phoenix Rescue Squad,ticket_sharing
+1,Beta Operations Group,3,Delta Innovation Crew,ticket_sharing
+1,Beta Operations Group,2,Gamma Security Unit,broadcast_right
+2,Gamma Security Unit,8,Lynx Data Science Team,broadcast_right
+2,Gamma Security Unit,0,Alpha Research Team,match_schedule
+2,Gamma Security Unit,5,Zeta Strategy Panel,league_affiliation
+2,Gamma Security Unit,3,Delta Innovation Crew,match_schedule
+2,Gamma Security Unit,10,Atlas Engineering Unit,broadcast_right
+9,Falcon Deployment Crew,11,Sierra Survey Team,ticket_sharing
+12,Nova Creative Taskforce,9,Falcon Deployment Crew,ticket_sharing

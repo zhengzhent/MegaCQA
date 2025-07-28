@@ -1,0 +1,10 @@
+Image Name: 3472.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\3472.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with each city's student population represented by a distinct bar. The bars are labeled with their respective values, making it easy to compare the number of students across different cities. The title and axis labels are clear and provide context for the data. The use of a single color for all bars keeps the chart simple and uncluttered.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and straightforward, with a well-defined title and labeled axes. The use of bars to represent the number of students in different cities allows for easy comparison. The values on top of each bar enhance readability, making it simple to interpret the data at a glance.

@@ -1,0 +1,10 @@
+Image Name: 783.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\783.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels and a straightforward layout. The use of a gradient color scheme adds visual interest without compromising clarity. The values are directly labeled on the bars, making it easy to read the exact production numbers for each crop. The title and axis labels are clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The visualization is clear and effectively uses a horizontal bar chart to display the production of different crops. The labels are easy to read, and the color gradient helps to differentiate the values. However, the scale of the peanut crop is significantly larger than the others, which may distract from the overall comparison. Despite this, the chart remains understandable and conveys the information well.

@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {4} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Brookfield}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Mapleton}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Brookfield relative to the bar Mapleton in terms of horizontal (left/right) direction?",
+            "A": "Bar Brookfield is to the {left} of the bar Mapleton."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Westport}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Mapleton}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Westport?",
+            "A": "The value of Westport is {1677.07} million USD."
+        },
+        {
+            "Q": "What is the value of bar Oakridge?",
+            "A": "The value of Oakridge is {1425.62} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {1677.07} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {433.36} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Westport and Mapleton?",
+            "A": "The total value of Westport and Mapleton is {2110.43} million USD."
+        },
+        {
+            "Q": "What is the average value of Brookfield and Mapleton?",
+            "A": "The average value of Brookfield and Mapleton is {644.865} million USD."
+        },
+        {
+            "Q": "What is the difference between Oakridge and Westport?",
+            "A": "The difference between Oakridge and Westport is {251.45000000000005} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 1140.99 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Oakridge} has {1425.62} million USD, {Westport} has {1677.07} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 1140.99 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Mapleton} has {433.36} million USD, {Brookfield} has {856.37} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Oakridge or Mapleton ",
+            "A": "The value of the {Oakridge} is larger?"
+        },
+        {
+            "Q": "Which is larger, Oakridge, Westport or Mapleton ",
+            "A": "The value of the {Westport} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {2} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Westport} and {Mapleton}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Westport}, {Oakridge}, and {Brookfield}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {Westport}, {Oakridge}, {Brookfield}, and {Mapleton}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {Mapleton}, {Brookfield}, {Oakridge}, and {Westport}."
+        }
+    ]
+}

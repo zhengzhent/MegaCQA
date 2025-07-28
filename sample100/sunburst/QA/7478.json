@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Luxury Brands positioned outside, inside or on the same side as Fast Fashion?",
+            "A": "Luxury Brands is positioned {on the same side} Fast Fashion."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Marketplace Platforms}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Payment & Logistics segment in this sunburst chart?",
+            "A": "The value of the Payment & Logistics segment is {32.1}."
+        },
+        {
+            "Q": "What is the value of the Luxury Brands segment in this sunburst chart?",
+            "A": "The value of the Luxury Brands segment is {10.28}."
+        },
+        {
+            "Q": "What is the value of the Fast Fashion segment in this sunburst chart?",
+            "A": "The value of the Fast Fashion segment is {5.51}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {42.57}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {25.33}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {18.94}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.51}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Marketplace Platforms exceed 66%? Please list the category names and corresponding percentages.",
+            "A": "{B2C Platforms} accounts for {81.56}%"
+        },
+        {
+            "Q": "Which categories in the segment Marketplace Platforms are below 34%? Please list the category names and corresponding percentages.",
+            "A": "{C2C Marketplaces} accounts for {18.44}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Marketplace Platforms, B2C Platforms, Fashion Retailers, or Customer Engagement?",
+            "A": "The value of {Marketplace Platforms} is the largest."
+        },
+        {
+            "Q": "Which is smaller, the value of B2C Platforms, Fashion Retailers, or Payment & Logistics?",
+            "A": "The value of {Payment & Logistics} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Marketplace Platforms or B2C Platforms?",
+            "A": "The value of {Marketplace Platforms} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Marketplace Platforms, B2C Platforms, or Fashion Retailers?",
+            "A": "The value of {Marketplace Platforms} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Marketplace Platforms to B2C Platforms to Fashion Retailers to Ethical Apparel}."
+        }
+    ],
+    "VA": []
+}

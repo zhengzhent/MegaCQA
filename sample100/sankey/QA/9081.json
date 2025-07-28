@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow into the node Third-Party Marketplace in this sankey chart?",
+            "A": "There are {7} links flowing into the node Third-Party Marketplace."
+        },
+        {
+            "Q": "How many nodes are in the column Regions of this sankey chart?",
+            "A": "There are {7} nodes in the column Regions."
+        },
+        {
+            "Q": "How many links flow out of column Regions of this sankey chart?",
+            "A": "There are {14} links flow out of column Regions."
+        },
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {9} nodes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Regions}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Channels}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {North America} and {Physical Store}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Middle East} and {Third-Party Marketplace}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Europe to the node Third-Party Marketplace?",
+            "A": "The flow value from the node Europe to the node Third-Party Marketplace is {1686}."
+        },
+        {
+            "Q": "What is the flow value from the node South America to the node Third-Party Marketplace?",
+            "A": "The flow value from the node South America to the node Third-Party Marketplace is {20686}."
+        },
+        {
+            "Q": "What is the flow value from the node Africa to the node Physical Store?",
+            "A": "The flow value from the node Africa to the node Physical Store is {12470}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node South America to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node South America to the next stage is {20686}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Africa to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Africa to the next stage is {10276}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Africa?",
+            "A": "The total flow output from node Africa is {22746}."
+        },
+        {
+            "Q": "What is the total flow input by node Physical Store?",
+            "A": "The total flow input by node Physical Store is {81006}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Regions of the sankey chart, which nodes have an outflow exceeded 19784? Please list the node labels and their corresponding outflow values.",
+            "A": "{South America} has an outflow of {20686}, {North America} has an outflow of {21183}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Regions and column Channels is the flow between 7244 and 11373? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {7845} from node {Asia} to {Third-Party Marketplace}, a flow of {8916} from node {Oceania} to {Third-Party Marketplace}, a flow of {10276} from node {Africa} to {Third-Party Marketplace}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 7244 and 11373? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {7845} from node {Asia} to {Third-Party Marketplace}, a flow of {8916} from node {Oceania} to {Third-Party Marketplace}, a flow of {10276} from node {Africa} to {Third-Party Marketplace}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Africa to node Third-Party Marketplace and from node Middle East to node Third-Party Marketplace, which path has a larger flow?",
+            "A": "The flow from node {Africa} to node {Third-Party Marketplace} is larger."
+        },
+        {
+            "Q": "Among the flows from node Oceania to node Third-Party Marketplace, from node Middle East to node Physical Store, and from node Oceania to node Physical Store, which path has the largest flow?",
+            "A": "The flow from node {Oceania} to node {Third-Party Marketplace} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Middle East to node Third-Party Marketplace, from node Asia to node Physical Store, and from node Africa to node Third-Party Marketplace, which path has the largest flow?",
+            "A": "The flow from node {Asia} to node {Physical Store} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Regions of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Regions is {North America}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node North America to target node Third-Party Marketplace? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node North America to node Third-Party Marketplace is: {North America, Third-Party Marketplace}."
+        }
+    ],
+    "VA": []
+}

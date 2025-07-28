@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On The Verdant Hall, what is the spatial relationship of the data point in 2006 relative to that in 1997 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On The Verdant Hall, the data point in 2006 is {below} and to the {right} of the data point in 1997."
+        },
+        {
+            "Q": "In 2000, what is the vertical (above/below) relationship of the line representing Aethelgard Historical Archive relative to The Verdant Hall?",
+            "A": "In 2000, Aethelgard Historical Archive is {above} The Verdant Hall in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Museum of Stellar Artifice's Museum Visitors levels?",
+            "A": "Museum of Stellar Artifice's museum visitors levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Echoes of Ages Collection's Museum Visitors levels?",
+            "A": "Echoes of Ages Collection's museum visitors levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of Aethelgard Historical Archive's Museum Visitors levels?",
+            "A": "Aethelgard Historical Archive's museum visitors levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of The Verdant Hall's Museum Visitors levels?",
+            "A": "The Verdant Hall's museum visitors levels show a {volatile falling} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Echoes of Ages Collection's Museum Visitors in 1994?",
+            "A": "Echoes of Ages Collection's museum visitors in 1994 is {764761.49} visits/month."
+        },
+        {
+            "Q": "What is The Verdant Hall's Museum Visitors in 2005?",
+            "A": "The Verdant Hall's museum visitors in 2005 is {176410.87} visits/month."
+        },
+        {
+            "Q": "What is Museum of Stellar Artifice's Museum Visitors in 2009?",
+            "A": "Museum of Stellar Artifice's museum visitors in 2009 is {2461940.34} visits/month."
+        },
+        {
+            "Q": "What are the museum visitors of The Verdant Hall, Aethelgard Historical Archive, and Museum of Stellar Artifice in 1998?",
+            "A": "The Verdant Hall's museum visitors is {388863.68} visits/month, Aethelgard Historical Archive's museum visitors is {818124.91} visits/month, Museum of Stellar Artifice's museum visitors is {1731575.12} visits/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Museum Visitors in the line chart?",
+            "A": "The global minimum museum visitors is {5111.98} visits/month."
+        },
+        {
+            "Q": "What is the global maximum Museum Visitors in the line chart?",
+            "A": "The global maximum museum visitors is {2601248.37} visits/month."
+        },
+        {
+            "Q": "What is the highest Museum Visitors level recorded for Aethelgard Historical Archive?",
+            "A": "Aethelgard Historical Archive reached approximately {1474219.19} visits/month in {2011}."
+        },
+        {
+            "Q": "What is the lowest Museum Visitors level recorded for Aethelgard Historical Archive?",
+            "A": "Aethelgard Historical Archive's lowest recorded level is approximately {634593.49} visits/month in {1994}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Museum of Stellar Artifice's Museum Visitors?",
+            "A": "The average value of Museum of Stellar Artifice's museum visitors is {2019275.45} visits/month."
+        },
+        {
+            "Q": "What is the average value of The Verdant Hall's Museum Visitors?",
+            "A": "The average value of The Verdant Hall's museum visitors is {251618.46} visits/month."
+        },
+        {
+            "Q": "What is the rate of change in Aethelgard Historical Archive's Museum Visitors from the starting year to the final year?",
+            "A": "The rate of growth in Aethelgard Historical Archive's museum visitors is {132.31}%."
+        },
+        {
+            "Q": "What is the rate of change in Echoes of Ages Collection's Museum Visitors from the starting year to the final year?",
+            "A": "The rate of growth in Echoes of Ages Collection's museum visitors is {133.87}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1999, which lines had Museum Visitors below 750620 visits/month? Please list the lines and corresponding values.",
+            "A": "{The Verdant Hall} had {357157} visits/month."
+        },
+        {
+            "Q": "In the year 2001, which lines had Museum Visitors between 854720 and 1298110 visits/month? Please list the lines and corresponding values.",
+            "A": "{Echoes of Ages Collection} had {1171244} visits/month, {Aethelgard Historical Archive} had {967186} visits/month."
+        },
+        {
+            "Q": "Which years did Echoes of Ages Collection's Museum Visitors exceed 1530272 visits/month? Please list the years and corresponding values.",
+            "A": "{1543654.54} visits/month in {2007} year, {1601875.63} visits/month in {2008} year, {1730119.51} visits/month in {2010} year."
+        },
+        {
+            "Q": "Which years did Aethelgard Historical Archive's Museum Visitors exceed 1272300 visits/month? Please list the years and corresponding values.",
+            "A": "{1474219.19} visits/month in {2011} year, {1332630.27} visits/month in {2008} year, {1416997.69} visits/month in {2010} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1996 and 1999, which line had the highest average Museum Visitors, Echoes of Ages Collection, The Verdant Hall, Aethelgard Historical Archive, or Museum of Stellar Artifice?",
+            "A": "{Museum of Stellar Artifice} had the highest average museum visitors."
+        },
+        {
+            "Q": "Between 1999 and 2007, which line had a higher average Museum Visitors, Echoes of Ages Collection or The Verdant Hall?",
+            "A": "{Echoes of Ages Collection} had a higher average museum visitors."
+        },
+        {
+            "Q": "Between 2001 and 2003, which line had the highest average Museum Visitors, Echoes of Ages Collection, The Verdant Hall, or Museum of Stellar Artifice?",
+            "A": "{Museum of Stellar Artifice} had the highest average museum visitors."
+        },
+        {
+            "Q": "In 2004, which line had the highest Museum Visitors, Museum of Stellar Artifice, The Verdant Hall, Aethelgard Historical Archive, or Echoes of Ages Collection?",
+            "A": "In 2004, {Museum of Stellar Artifice} had the highest museum visitors."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Museum of Stellar Artifice}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2009 and 2011?",
+            "A": "{Museum of Stellar Artifice} has the fastest average growth rate between 2009 and 2011."
+        },
+        {
+            "Q": "Which label had the leading museum visitors since 2005?",
+            "A": "Since 2005, {Museum of Stellar Artifice} had the leading museum visitors."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Aethelgard Historical Archive. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1994, 2011}."
+        }
+    ]
+}

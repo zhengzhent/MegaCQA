@@ -1,0 +1,160 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {7} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1967, what is the vertical (above/below) relationship of the line representing Aethelgard School of Arts relative to Meridian Academy?",
+            "A": "In 1967, Aethelgard School of Arts is {below} Meridian Academy in the vertical direction."
+        },
+        {
+            "Q": "On Borealis Graduate School, what is the spatial relationship of the data point in 1969 relative to that in 1967 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Borealis Graduate School, the data point in 1969 is {above} and to the {right} of the data point in 1967."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Borealis Graduate School's Research Funding levels?",
+            "A": "Borealis Graduate School's research funding levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Meridian Academy's Research Funding levels?",
+            "A": "Meridian Academy's research funding levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Celestial College's Research Funding levels?",
+            "A": "Celestial College's research funding levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "What is the trend of Aethelgard School of Arts's Research Funding levels?",
+            "A": "Aethelgard School of Arts's research funding levels show a {single valley} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Zenith Institute of Technology's Research Funding in 1964?",
+            "A": "Zenith Institute of Technology's research funding in 1964 is {650112.30} $."
+        },
+        {
+            "Q": "What is Borealis Graduate School's Research Funding in 1955?",
+            "A": "Borealis Graduate School's research funding in 1955 is {619794.47} $."
+        },
+        {
+            "Q": "What is Aethelgard School of Arts's Research Funding in 1966?",
+            "A": "Aethelgard School of Arts's research funding in 1966 is {183336.51} $."
+        },
+        {
+            "Q": "What are the research funding of Meridian Academy, Arcane University, and Silverhaven Polytechnic in 1975?",
+            "A": "Meridian Academy's research funding is {1178353.92} $, Arcane University's research funding is {370668.41} $, Silverhaven Polytechnic's research funding is {218856.68} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Research Funding in the line chart?",
+            "A": "The global minimum research funding is {5366.75} $."
+        },
+        {
+            "Q": "What is the global maximum Research Funding in the line chart?",
+            "A": "The global maximum research funding is {1328312.98} $."
+        },
+        {
+            "Q": "What is the highest Research Funding level recorded for Aethelgard School of Arts?",
+            "A": "Aethelgard School of Arts reached approximately {620482.18} $ in {1978}."
+        },
+        {
+            "Q": "What is the lowest Research Funding level recorded for Aethelgard School of Arts?",
+            "A": "Aethelgard School of Arts's lowest recorded level is approximately {183336.51} $ in {1966}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Celestial College's Research Funding?",
+            "A": "The average value of Celestial College's research funding is {197118.04} $."
+        },
+        {
+            "Q": "What is the rate of change in Celestial College's Research Funding from the starting year to the final year?",
+            "A": "The rate of decline in Celestial College's research funding is {-99.02}%."
+        },
+        {
+            "Q": "What is the rate of change in Borealis Graduate School's Research Funding from the starting year to the final year?",
+            "A": "The rate of growth in Borealis Graduate School's research funding is {114.32}%."
+        },
+        {
+            "Q": "What is the average value of Meridian Academy's Research Funding?",
+            "A": "The average value of Meridian Academy's research funding is {996015.49} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Zenith Institute of Technology's Research Funding below 606894 $? Please list the years and corresponding values.",
+            "A": "{541894.85} $ in {1957} year, {559987.27} $ in {1958} year, {516011.75} $ in {1955} year."
+        },
+        {
+            "Q": "Which years did Borealis Graduate School's Research Funding exceed 1144769 $? Please list the years and corresponding values.",
+            "A": "{1267568.42} $ in {1976} year, {1294240.47} $ in {1977} year, {1172637.43} $ in {1973} year."
+        },
+        {
+            "Q": "Which years did Celestial College's Research Funding below 5903 $? Please list the years and corresponding values.",
+            "A": "{5366.75} $ in {1978} year, {5366.75} $ in {1974} year, {5366.75} $ in {1976} year."
+        },
+        {
+            "Q": "In the year 1956, which lines had Research Funding between 452910 and 597561 $? Please list the lines and corresponding values.",
+            "A": "{Aethelgard School of Arts} had {583292} $, {Zenith Institute of Technology} had {523401} $, {Celestial College} had {469091} $."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1955 and 1975, which line had the highest average Research Funding, Arcane University, Meridian Academy, Aethelgard School of Arts, or Zenith Institute of Technology?",
+            "A": "{Meridian Academy} had the highest average research funding."
+        },
+        {
+            "Q": "In 1956, which line had the highest Research Funding, Silverhaven Polytechnic, Meridian Academy, Zenith Institute of Technology, or Aethelgard School of Arts?",
+            "A": "In 1956, {Meridian Academy} had the highest research funding."
+        },
+        {
+            "Q": "Between 1956 and 1965, which line had a higher average Research Funding, Aethelgard School of Arts or Meridian Academy?",
+            "A": "{Meridian Academy} had a higher average research funding."
+        },
+        {
+            "Q": "Between 1971 and 1975, which line had the highest average Research Funding, Celestial College, Arcane University, or Aethelgard School of Arts?",
+            "A": "{Aethelgard School of Arts} had the highest average research funding."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Borealis Graduate School}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1969 and 1978?",
+            "A": "{Aethelgard School of Arts} has the fastest average growth rate between 1969 and 1978."
+        },
+        {
+            "Q": "In which year did Celestial College first surpass Aethelgard School of Arts?",
+            "A": "Celestial College first surpassed Aethelgard School of Arts in the year {1964}."
+        },
+        {
+            "Q": "In which year did Aethelgard School of Arts first surpass Celestial College?",
+            "A": "Aethelgard School of Arts first surpassed Celestial College in the year {1966}."
+        },
+        {
+            "Q": "Which label had the leading research funding since 1968?",
+            "A": "Since 1968, {Borealis Graduate School} had the leading research funding."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Silverhaven Polytechnic. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1955, 1972, 1978}."
+        }
+    ]
+}

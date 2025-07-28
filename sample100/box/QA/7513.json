@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {2} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Fairmont}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Elmhurst}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Elmhurst?",
+            "A": "The first position to the left of the box Elmhurst is {Fairmont}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Fairmont relative to the box Elmhurst in terms of horizontal (left/right) direction?",
+            "A": "Box Fairmont is to the {left} of the box Elmhurst."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Elmhurst}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Elmhurst}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Fairmont}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Elmhurst in the box plot?",
+            "A": "The median of Elmhurst is {68243.5} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Elmhurst in the box plot?",
+            "A": "The lower quartile (Q1) of Elmhurst is {50833.0} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Elmhurst in the box plot?",
+            "A": "The upper whisker limit of Elmhurst is {132277} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Fairmont in the box plot?",
+            "A": "The largest upper outlier value in Fairmont is {111596} USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the box plot?",
+            "A": "The global maximum USD value in the box plot is {159346.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the box plot?",
+            "A": "The global minimum USD value in the box plot is {23752.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box Fairmont and Elmhurst?",
+            "A": "The Q1 difference between box Fairmont and Elmhurst is {6373.25} USD."
+        },
+        {
+            "Q": "What is the toal Median value of box Fairmont and Elmhurst?",
+            "A": "The total Median value of box Fairmont and Elmhurst is {126910.5} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of box Elmhurst and Fairmont?",
+            "A": "The average Q1 value of box Elmhurst and Fairmont is {47646.375} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 100436.40000000001 USD?",
+            "A": "Box{Fairmont},{Elmhurst} have the outliers exceed 100436.40000000001 USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 63455.25 USD? Please list the boxes and corresponding values.",
+            "A": "{Elmhurst} has {68243.5} USD "
+        },
+        {
+            "Q": "Which boxes have median values below 63455.25 USD? Please list the boxes and corresponding values.",
+            "A": "{Fairmont} has {58667.0} USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Elmhurst or Fairmont ",
+            "A": "The median value of the {Elmhurst} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Elmhurst}."
+        }
+    ],
+    "VA": []
+}

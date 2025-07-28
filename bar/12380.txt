@@ -1,0 +1,10 @@
+Image Name: 12380.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\12380.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and well-organized, with a straightforward bar graph that effectively displays the box office earnings of different movies. The use of a gradient color scheme adds visual interest without detracting from the data. The labels are legible, and the values are directly placed on top of each bar, making it easy to understand the earnings at a glance.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization effectively uses a bar chart to represent the box office earnings of different movies. The color gradient is visually appealing and helps to differentiate the bars, while the labels for both the movies and the corresponding earnings are clear and legible. The scale on the y-axis is appropriately labeled, making it easy to interpret the data at a glance.

@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Heatmap Layers in this treemap?",
+            "A": "There are {2} child rectangles under the category Heatmap Layers."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Valuation Models}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Walking Accessibility}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Valuation Models}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Data Scraping rectangle in this treemap?",
+            "A": "The value of the Data Scraping rectangle is {5.49}."
+        },
+        {
+            "Q": "What is the value of the Temporal Smoothing rectangle in this treemap?",
+            "A": "The value of the Temporal Smoothing rectangle is {21.25}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.37}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Spatial Features and Hedonic Pricing?",
+            "A": "The difference between Spatial Features and Hedonic Pricing is {31.08}."
+        },
+        {
+            "Q": "What is the sum of the regions of Geospatial Regression and Getis-Ord Gi*?",
+            "A": "The sum of Geospatial Regression and Getis-Ord Gi* is {58.96}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Heatmap Layers category in the treemap, which rectangular labels have a value exceeded 11.46? Please list the labels and values.",
+            "A": "{Kernel Density} has {11.77}"
+        },
+        {
+            "Q": "Under the Heatmap Layers category in the treemap, which rectangular labels have a value below 10.86? Please list the labels and values.",
+            "A": "{Hexagonal Binning} has {10.55}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Hedonic Pricing, Spatial Features, or Crime Statistics?",
+            "A": "The value of {Crime Statistics} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Spatial Features or Hotspot Analysis?",
+            "A": "The value of {Spatial Features} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Valuation Models or Hedonic Pricing?",
+            "A": "The value of {Valuation Models} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

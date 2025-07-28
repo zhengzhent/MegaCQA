@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {100} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {10} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {10} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {uniform} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Produce and Safety in the heatmap?",
+            "A": "The heat value is {0.47}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Frozen and Sustainability in the heatmap?",
+            "A": "The heat value is {0.48}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.51}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.46}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Confectionery on the x-axis?",
+            "A": "The maximum heat value of Confectionery on the x-axis is {0.49}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Prices on the y-axis?",
+            "A": "The maximum heat value for Prices on the y-axis is {0.51}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Safety on the y-axis?",
+            "A": "The average heat value for Safety on the y-axis is {0.48}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Frozen and Consumption or the cell corresponding to Confectionery and Prices?",
+            "A": "The heat values are {equal}."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Meat and Innovation or the cell corresponding to Bakery and Safety?",
+            "A": "The cell corresponding to {Meat} and {Innovation} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.46 to 0.50?",
+            "A": "The cells are: {(Bakery, Consumption), (Confectionery, Consumption), (Frozen, Consumption), (Ingredients, Consumption), (Meat, Consumption), (Processed Foods, Consumption), (Produce, Consumption), (Seafood, Consumption), (Snacks, Consumption), (Bakery, Distribution), (Beverages, Distribution), (Confectionery, Distribution), (Frozen, Distribution), (Ingredients, Distribution), (Meat, Distribution), (Processed Foods, Distribution), (Produce, Distribution), (Seafood, Distribution), (Snacks, Distribution), (Bakery, Imports), (Beverages, Imports), (Confectionery, Imports), (Frozen, Imports), (Ingredients, Imports), (Meat, Imports), (Processed Foods, Imports), (Produce, Imports), (Seafood, Imports), (Snacks, Imports), (Bakery, Innovation), (Beverages, Innovation), (Confectionery, Innovation), (Frozen, Innovation), (Ingredients, Innovation), (Meat, Innovation), (Processed Foods, Innovation), (Produce, Innovation), (Seafood, Innovation), (Snacks, Innovation), (Bakery, Marketing), (Beverages, Marketing), (Confectionery, Marketing), (Frozen, Marketing), (Ingredients, Marketing), (Meat, Marketing), (Processed Foods, Marketing), (Produce, Marketing), (Seafood, Marketing), (Snacks, Marketing), (Bakery, Prices), (Beverages, Prices), (Confectionery, Prices), (Frozen, Prices), (Ingredients, Prices), (Meat, Prices), (Processed Foods, Prices), (Seafood, Prices), (Snacks, Prices), (Bakery, Production), (Confectionery, Production), (Frozen, Production), (Ingredients, Production), (Processed Foods, Production), (Produce, Production), (Seafood, Production), (Snacks, Production), (Bakery, Regulations), (Beverages, Regulations), (Confectionery, Regulations), (Frozen, Regulations), (Ingredients, Regulations), (Meat, Regulations), (Processed Foods, Regulations), (Produce, Regulations), (Seafood, Regulations), (Snacks, Regulations), (Beverages, Safety), (Confectionery, Safety), (Frozen, Safety), (Ingredients, Safety), (Processed Foods, Safety), (Produce, Safety), (Seafood, Safety), (Snacks, Safety), (Bakery, Sustainability), (Beverages, Sustainability), (Confectionery, Sustainability), (Frozen, Sustainability), (Ingredients, Sustainability), (Meat, Sustainability), (Processed Foods, Sustainability), (Produce, Sustainability), (Seafood, Sustainability), (Snacks, Sustainability)}."
+        }
+    ],
+    "VA": []
+}

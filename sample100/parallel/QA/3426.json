@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {3} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {3} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Water usage (liters/kg) dimension, what is the spatial relationship of left  Soybean relative to under  Corn in terms of vertical (above/below) direction?",
+            "A": "{left  Soybean} is {below} {under  Corn} on the Water usage (liters/kg) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Equipment utilization (%)?",
+            "A": "The first position to the left of Equipment utilization (%) is {Soil health index (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Water usage (liters/kg)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Soil health index (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Water usage (liters/kg)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Equipment utilization (%) and dimension Water usage (liters/kg)",
+            "A": "There is {No Correlation} between Equipment utilization (%) and Water usage (liters/kg)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of under  Corn on the Equipment utilization (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of under  Corn on the Equipment utilization (%) dimension is {100.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label left  Soybean across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of left  Soybean across all dimensions is {91.82}"
+        },
+        {
+            "Q": "What is the minimum value of label instead  Rice across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of instead  Rice across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Equipment utilization (%)?",
+            "A": "The average value of Equipment utilization (%) is {73.94}"
+        },
+        {
+            "Q": "What is the difference in coding Water usage (liters/kg) between label left  Soybean and label under  Corn",
+            "A": "The difference in coding Water usage (liters/kg) between left  Soybean and under  Corn is {161.17}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Water usage (liters/kg) dimension in the parallel coordinates?",
+            "A": "{[1000.0, 162.17, 1.0]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Soil health index (1-10) dimension in the parallel coordinates?",
+            "A": "{[1.0, 8.08, 10.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: instead  Rice or under  Corn?",
+            "A": "{under  Corn} has a higher score on Equipment utilization (%)."
+        },
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: under  Corn or left  Soybean?",
+            "A": "{under  Corn} has a higher score on Equipment utilization (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Water usage (liters/kg)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Soil health index (1-10) being greater than 3.96 and Equipment utilization (%) being less than 78.83?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

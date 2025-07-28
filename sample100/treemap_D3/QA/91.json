@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {21} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Travel Services}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Budget Hotels}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Nature Tourism rectangle in this treemap?",
+            "A": "The value of the Nature Tourism rectangle is {11.65}."
+        },
+        {
+            "Q": "What is the value of the Budget Hotels rectangle in this treemap?",
+            "A": "The value of the Budget Hotels rectangle is {5.01}."
+        },
+        {
+            "Q": "What is the value of the Dining Experiences rectangle in this treemap?",
+            "A": "The value of the Dining Experiences rectangle is {23.22}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.01}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Destination Types and Urban Tourism?",
+            "A": "The difference between Destination Types and Urban Tourism is {11.65}."
+        },
+        {
+            "Q": "What is the sum of the regions of Mountain Destinations and Rail & Road?",
+            "A": "The sum of Mountain Destinations and Rail & Road is {19.34}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Urban Tourism category in the treemap, which rectangular labels have a value exceeded 8.12? Please list the labels and values.",
+            "A": "{City Landmarks} has {8.18}"
+        },
+        {
+            "Q": "Under the Urban Tourism category in the treemap, which rectangular labels have a value below 8.00? Please list the labels and values.",
+            "A": "{Shopping Districts} has {7.94}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Travel Services or Hospitality Services?",
+            "A": "The value of {Travel Services} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Travel Services, Hospitality Services, or Destination Types?",
+            "A": "The value of {Travel Services} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

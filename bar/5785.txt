@@ -1,0 +1,10 @@
+Image Name: 5785.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\5785.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and well-organized, with distinct categories and values easily identifiable. The use of consistent patterns and spacing between bars aids in distinguishing different food categories. The labels are legible, and the numerical values are provided for each category, enhancing the chart's interpretability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The visualization effectively uses horizontal bars to represent sales figures, making it easy to compare different food categories. However, the use of diagonal lines within the bars can create some visual clutter, and the numbers at the end of the bars are not clearly aligned, which may lead to misinterpretation. Overall, it is fairly readable but could be improved.

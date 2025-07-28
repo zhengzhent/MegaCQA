@@ -1,0 +1,97 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {72} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {9} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {vertical gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Marketing and Seasonal in the heatmap?",
+            "A": "The heat value is {0.24}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Destinations and Cultural in the heatmap?",
+            "A": "The heat value is {0.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.83}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.18}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Marketing on the x-axis?",
+            "A": "The maximum heat value of Marketing on the x-axis is {0.80}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Seasonal on the y-axis?",
+            "A": "The maximum heat value for Seasonal on the y-axis is {0.26}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Wellness on the y-axis?",
+            "A": "The average heat value for Wellness on the y-axis is {0.22}."
+        },
+        {
+            "Q": "What is the average heat value for label Service Quality on the x-axis?",
+            "A": "The average heat value for Service Quality on the x-axis is {0.43}."
+        },
+        {
+            "Q": "What is the average heat value for label Cruises on the x-axis?",
+            "A": "The average heat value for Cruises on the x-axis is {0.43}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Service Quality and Business or the cell corresponding to Tour Operators and Business?",
+            "A": "The cell corresponding to {Tour Operators} and {Business} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Marketing and Adventure or the cell corresponding to Events and Wellness?",
+            "A": "The cell corresponding to {Marketing} and {Adventure} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Attractions and Budget or the cell corresponding to Cruises and Seasonal?",
+            "A": "The cell corresponding to {Attractions} and {Budget} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Destinations and Adventure or the cell corresponding to Destinations and Luxury?",
+            "A": "The cell corresponding to {Destinations} and {Adventure} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.31 to 0.38?",
+            "A": "The cells are: {(Restaurants, Cultural), (Attractions, Family), (Cruises, Family), (Destinations, Family), (Events, Family), (Marketing, Family), (Online Booking, Family), (Restaurants, Family), (Service Quality, Family)}."
+        }
+    ],
+    "VA": []
+}

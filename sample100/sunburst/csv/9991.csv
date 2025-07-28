@@ -1,0 +1,18 @@
+Transportation and Logistics,Transportation Distribution by Category (2021),%
+parent,child,value
+Root,Freight and Logistics,37.44
+Freight and Logistics,Road Freight,25.88
+Road Freight,Highway Networks,16.74
+Highway Networks,Expressways,6.53
+Highway Networks,Logistics Parks,5.15
+Highway Networks,Toll Roads,5.06
+Road Freight,Trucking Fleets,9.14
+Freight and Logistics,Rail Freight,11.56
+Rail Freight,Intermodal Hubs,6.5
+Rail Freight,Cargo Trains,5.06
+Root,Air Transport,22.94
+Air Transport,Commercial Airlines,5.83
+Commercial Airlines,Passenger Flights,5.83
+Air Transport,Air Cargo,17.11
+Root,Urban Mobility,39.62
+Urban Mobility,Micromobility,39.62

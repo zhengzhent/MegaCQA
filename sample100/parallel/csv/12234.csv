@@ -1,0 +1,9 @@
+﻿Retail and E-commerce,Sales Performance of Different Company
+Pattern,Clustering,Clustering,Clustering,Clustering,Clustering,Weak Correlation
+labels,Customer retention rate (%),Return rate (%),Conversion rate (%),Gross margin (%),Inventory accuracy (%),Average order value (USD),Cart abandonment rate (%)
+"Thompson, Herrera and Franklin",50.0,18.47,8.06,60.0,100.0,373.92,48.35
+Ford and Sons,13.09,1.07,0.5,10.0,92.26,500.0,90.0
+"Warner, Barnes and Thomas",5.0,26.39,8.14,29.52,90.18,195.36,49.19
+Nolan Inc,48.42,28.24,10.0,35.27,94.05,306.97,71.02
+Wood-Barrera,43.78,1.0,2.82,32.74,97.81,476.51,58.58
+"Kirk, Schmidt and Cole",36.45,30.0,8.11,13.9,80.0,10.0,40.0

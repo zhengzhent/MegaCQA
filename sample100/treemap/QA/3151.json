@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Learning Systems in this treemap?",
+            "A": "There are {2} child rectangles under the category Learning Systems."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Learning Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Edge Computing}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Learning Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Blockchain Issuance rectangle in this treemap?",
+            "A": "The value of the Blockchain Issuance rectangle is {20.45}."
+        },
+        {
+            "Q": "What is the value of the Experiential rectangle in this treemap?",
+            "A": "The value of the Experiential rectangle is {70.03}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {7.37}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Spatial Anchors and Smart Contracts?",
+            "A": "The difference between Spatial Anchors and Smart Contracts is {3.04}."
+        },
+        {
+            "Q": "What is the sum of the regions of Learning Systems and Active Learning?",
+            "A": "The sum of Learning Systems and Active Learning is {109.52}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Learning Systems category in the treemap, which rectangular labels have a value exceeded 60.02? Please list the labels and values.",
+            "A": "{Experiential} has {70.03}"
+        },
+        {
+            "Q": "Under the Learning Systems category in the treemap, which rectangular labels have a value below 39.98? Please list the labels and values.",
+            "A": "{Pedagogy} has {29.97}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Learning Systems, Experiential, or Lab Simulations?",
+            "A": "The value of {Learning Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Learning Systems or Experiential?",
+            "A": "The value of {Learning Systems} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Experiential, Lab Simulations, or VR Environments?",
+            "A": "The value of {VR Environments} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Lab Simulations or Haptic Feedback?",
+            "A": "The value of {Lab Simulations} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {8} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in the column Regions of this sankey chart?",
+            "A": "There are {6} nodes in the column Regions."
+        },
+        {
+            "Q": "How many links are in this sankey chart?",
+            "A": "There are {36} links."
+        },
+        {
+            "Q": "How many links flow out of the node Influencer Campaign in this sankey chart?",
+            "A": "There are {3} links flowing out of the node Influencer Campaign."
+        },
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {15} nodes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Channels}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Regions}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Influencer Campaign} and {Adults}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Teens} and {Oceania}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Adults to the node North America?",
+            "A": "The flow value from the node Adults to the node North America is {9424}."
+        },
+        {
+            "Q": "What is the flow value from the node Physical Store to the node Social Media Ad?",
+            "A": "The flow value from the node Physical Store to the node Social Media Ad is {1853}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Social Media Ad to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Social Media Ad to the next stage is {10808}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Online Store to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Online Store to the next stage is {4264}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Adults?",
+            "A": "The total flow output from node Adults is {39320}."
+        },
+        {
+            "Q": "What is the total flow input by node Africa?",
+            "A": "The total flow input by node Africa is {11910}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Channels of the sankey chart, which nodes have an outflow exceeded 10074? Please list the node labels and their corresponding outflow values.",
+            "A": "{Online Store} has an outflow of {10885}, {Physical Store} has an outflow of {14259}, {Physical Store} has an outflow of {10472}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Channels and column Marketing Campaigns is the flow between 9407 and 9551? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {9427} from node {Third-Party Marketplace} to {Social Media Ad}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 5478 and 5984? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {5854} from node {Adults} to {Oceania}, a flow of {5714} from node {Teens} to {Asia}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Teens to node Oceania and from node Social Media Ad to node Teens, which path has a larger flow?",
+            "A": "The flow from node {Social Media Ad} to node {Teens} is larger."
+        },
+        {
+            "Q": "Among the flows from node Teens to node Oceania, from node Third-Party Marketplace to node Referral Program, and from node Social Media Ad to node Young Adults, which path has the largest flow?",
+            "A": "The flow from node {Third-Party Marketplace} to node {Referral Program} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Referral Program to node Adults, from node Influencer Campaign to node Adults, and from node Influencer Campaign to node Young Adults, which path has the largest flow?",
+            "A": "The flow from node {Influencer Campaign} to node {Adults} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Customer Segments of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Customer Segments is {Adults}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Physical Store to target node South America? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Physical Store to node South America is: {Physical Store, Influencer Campaign, Adults, South America}."
+        }
+    ],
+    "VA": []
+}

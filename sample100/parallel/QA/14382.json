@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Average stay duration (nights) dimension, what is the spatial relationship of South Mike relative to North Destinymouth in terms of vertical (above/below) direction?",
+            "A": "{South Mike} is {above} {North Destinymouth} on the Average stay duration (nights) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Average stay duration (nights)?",
+            "A": "The first position to the left of Average stay duration (nights) is {Cultural immersion index (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Average stay duration (nights)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Customer satisfaction (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Average stay duration (nights)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Cultural immersion index (1-10) and dimension Average stay duration (nights)",
+            "A": "There is {Strong Correlation} between Cultural immersion index (1-10) and Average stay duration (nights)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Cherylfurt on the Accessibility score (1-5) dimension in the parallel-coordinates chart?",
+            "A": "The value of Cherylfurt on the Accessibility score (1-5) dimension is {2.69}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label North Destinymouth across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of North Destinymouth across all dimensions is {8.64}"
+        },
+        {
+            "Q": "What is the minimum value of label Mendozaberg across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Mendozaberg across all dimensions is {2.2}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Customer satisfaction (1-10)?",
+            "A": "The average value of Customer satisfaction (1-10) is {6.71}"
+        },
+        {
+            "Q": "What is the difference in coding Accessibility score (1-5) between label North Samantha and label Summersfort",
+            "A": "The difference in coding Accessibility score (1-5) between North Samantha and Summersfort is {0.5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Customer satisfaction (1-10) dimension in the parallel coordinates?",
+            "A": "{[10.0, 8.64, 7.81]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Cultural immersion index (1-10) dimension in the parallel coordinates?",
+            "A": "{[1.0, 2.37, 3.23]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Customer satisfaction (1-10), which label has a higher score: North Samantha or Mendozaberg?",
+            "A": "{North Samantha} has a higher score on Customer satisfaction (1-10)."
+        },
+        {
+            "Q": "On Average stay duration (nights), which label has a higher score: North Destinymouth or Cherylfurt?",
+            "A": "{Cherylfurt} has a higher score on Average stay duration (nights)."
+        },
+        {
+            "Q": "On Customer satisfaction (1-10), which label has a higher score: North Destinymouth or Mendozaberg?",
+            "A": "{North Destinymouth} has a higher score on Customer satisfaction (1-10)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Average stay duration (nights)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Accessibility score (1-5) being greater than 3.76 and Customer satisfaction (1-10) being less than 7.88?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

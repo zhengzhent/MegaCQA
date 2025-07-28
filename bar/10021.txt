@@ -1,0 +1,10 @@
+Image Name: 10021.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\10021.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with each city's R&D investment easily identifiable. The use of distinct colors for each city helps in distinguishing them, and the values are directly labeled on top of each bar, making it easy to read. However, the uniform value across all cities might make the chart less informative for comparative analysis.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 2/5
+Score Reason: The chart presents a uniform value across all cities, which makes it visually monotonous and lacks informative value. The colors are distinct, but since all bars represent the same amount, it does not effectively convey any comparative insights. Additionally, the y-axis labels could be clearer, and the title could provide more context about the data.

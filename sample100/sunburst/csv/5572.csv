@@ -1,0 +1,18 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2021),%
+parent,child,value
+Root,Employee Lifecycle,22.33
+Employee Lifecycle,Recruitment,10.5
+Recruitment,Candidate Evaluation,5.05
+Recruitment,Job Posting,5.45
+Employee Lifecycle,Onboarding,11.83
+Onboarding,Mentorship,5.19
+Onboarding,Orientation,6.64
+Root,Workplace Wellbeing,26.27
+Workplace Wellbeing,Health & Safety,20.5
+Health & Safety,Ergonomics,20.5
+Ergonomics,Workstation Setup,5.03
+Ergonomics,Posture Training,6.64
+Ergonomics,Eye Care,8.83
+Workplace Wellbeing,Work-Life Balance,5.77
+Root,Employee Development,51.4
+Employee Development,Performance Management,51.4

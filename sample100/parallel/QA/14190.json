@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Repeat visitor rate (%) dimension, what is the spatial relationship of West Colton relative to Moralesfurt in terms of vertical (above/below) direction?",
+            "A": "{West Colton} is {above} {Moralesfurt} on the Repeat visitor rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Repeat visitor rate (%)?",
+            "A": "The second position to the left of Repeat visitor rate (%) is {Cultural immersion index (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Repeat visitor rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Attraction visit rate (per day)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Repeat visitor rate (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Accessibility score (1-5) and dimension Repeat visitor rate (%)",
+            "A": "There is {Clustering} between Accessibility score (1-5) and Repeat visitor rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of West Colton on the Repeat visitor rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of West Colton on the Repeat visitor rate (%) dimension is {60.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Staffordhaven across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Staffordhaven across all dimensions is {10.0}"
+        },
+        {
+            "Q": "What is the minimum value of label West Colton across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of West Colton across all dimensions is {2.16}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Attraction visit rate (per day)?",
+            "A": "The average value of Attraction visit rate (per day) is {2.87}"
+        },
+        {
+            "Q": "What is the difference in coding Accessibility score (1-5) between label West Colton and label Staffordhaven",
+            "A": "The difference in coding Accessibility score (1-5) between West Colton and Staffordhaven is {1.11}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Repeat visitor rate (%) dimension in the parallel coordinates?",
+            "A": "{[60.0, 50.0, 44.1]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Accessibility score (1-5) dimension in the parallel coordinates?",
+            "A": "{[1.0, 1.04, 3.89]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Cultural immersion index (1-10), which label has a higher score: Josephfort or Staffordhaven?",
+            "A": "{Staffordhaven} has a higher score on Cultural immersion index (1-10)."
+        },
+        {
+            "Q": "On Accessibility score (1-5), which label has a higher score: Josephfort or West Colton?",
+            "A": "{West Colton} has a higher score on Accessibility score (1-5)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Repeat visitor rate (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Accessibility score (1-5) being greater than 3.11 and Attraction visit rate (per day) being less than 2.3?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

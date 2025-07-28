@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {4} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Budget Shoppers relative to the peak of Tech-savvy Consumers in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Budget Shoppers is to the {left} of the peak of Tech-savvy Consumers."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Tech-savvy Consumers show?",
+            "A": "The ridgeline representing Tech-savvy Consumers shows a {Single Peak Distribution}."
+        },
+        {
+            "Q": "At what value do  Tech-savvy Consumers reach its peaks?",
+            "A": "At {9.51}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Budget Shoppers} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =57.5?",
+            "A": "At X =57.5,the label with the highest density is {Convenience-Oriented}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 42? Please list the countries and corresponding peak values.",
+            "A": "{Convenience-Oriented}'s peak at {57}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 32? Please list the countries and corresponding peak values.",
+            "A": "{Budget Shoppers}'s peak at {9},{Premium Brands}'s peak at {16},{Tech-savvy Consumers}'s peak at {10}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Tech-savvy Consumers or Budget Shoppers?",
+            "A": "{Tech-savvy Consumers} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Tech-savvy Consumers or Convenience-Oriented?",
+            "A": "{Convenience-Oriented} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Convenience-Oriented or Tech-savvy Consumers?",
+            "A": "{Convenience-Oriented} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Budget Shoppers}"
+        }
+    ],
+    "VA": []
+}

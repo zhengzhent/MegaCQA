@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {6} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Kathy's Pizzas?",
+            "A": "The next arc clockwise from arc Kathy's Pizzas is arc {Cisnerosfurt Sandwich}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Danielle's Chicken?",
+            "A": "The next arc counterclockwise from arc Danielle's Chicken is arc {Cisnerosfurt Sandwich}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Kathy's Pizzas} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Cisnerosfurt Sandwich} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Kyle's Salads to Kathy's Pizzas in the chord chart?",
+            "A": "The flow value is {113}."
+        },
+        {
+            "Q": "What is the flow value from Cisnerosfurt Sandwich to Danielle's Chicken in the chord chart?",
+            "A": "The flow value is {146}."
+        },
+        {
+            "Q": "What is the flow value from Kathy's Pizzas to Kyle's Salads in the chord chart?",
+            "A": "The flow value is {99}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Crystalbury Coffee and Danielle's Chicken in the chord chart?",
+            "A": "The maximum flow value between Crystalbury Coffee and Danielle's Chicken is {139}."
+        },
+        {
+            "Q": "What is the minimum flow value between Kyle's Salads and Cisnerosfurt Sandwich in the chord chart?",
+            "A": "The minimum flow value between Kyle's Salads and Cisnerosfurt Sandwich is {79}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {179}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {53}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Danielle's Chicken?",
+            "A": "The total flow output from Danielle's Chicken is {341}."
+        },
+        {
+            "Q": "What is the total flow input by Crystalbury Coffee?",
+            "A": "The total flow input by Crystalbury Coffee is {128}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 153? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {179} from {Kathy's Pizzas} to {Cisnerosfurt Sandwich}, a flow of {168} from {Cisnerosfurt Sandwich} to {Kathy's Pizzas}, a flow of {160} from {Danielle's Chicken} to {Cisnerosfurt Sandwich}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 85? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {79} from {Cisnerosfurt Sandwich} to {Kyle's Salads}, a flow of {62} from {Kathy's Pizzas} to {Danielle's Chicken}, a flow of {53} from {Danielle's Chicken} to {Kathy's Pizzas}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 106 and 133? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {128} from {Danielle's Chicken} to {Crystalbury Coffee}, a flow of {113} from {Kyle's Salads} to {Kathy's Pizzas}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Cisnerosfurt Sandwich to Kyle's Salads or from Crystalbury Coffee to Danielle's Chicken?",
+            "A": "The flow from {Crystalbury Coffee} to {Danielle's Chicken} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Cisnerosfurt Sandwich to Kathy's Pizzas, from Kyle's Salads to Cisnerosfurt Sandwich, or from Kathy's Pizzas to Cisnerosfurt Sandwich?",
+            "A": "The flow from {Kathy's Pizzas} to {Cisnerosfurt Sandwich} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Kyle's Salads}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Cisnerosfurt Sandwich} and {Kathy's Pizzas}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Crystalbury Coffee, Arc Danielle's Chicken, Arc Cisnerosfurt Sandwich, Arc Kathy's Pizzas, Arc Kyle's Salads}."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {90} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {10} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {uniform} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Travel and Critique in the heatmap?",
+            "A": "The heat value is {0.52}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Gaming and Critique in the heatmap?",
+            "A": "The heat value is {0.52}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Art and Adoption in the heatmap?",
+            "A": "The heat value is {0.53}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.53}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.49}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Cuisine on the x-axis?",
+            "A": "The maximum heat value of Cuisine on the x-axis is {0.52}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Accessibility on the y-axis?",
+            "A": "The maximum heat value for Accessibility on the y-axis is {0.53}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Cuisine on the x-axis?",
+            "A": "The average heat value for Cuisine on the x-axis is {0.51}."
+        },
+        {
+            "Q": "What is the average heat value for label TV Shows on the x-axis?",
+            "A": "The average heat value for TV Shows on the x-axis is {0.51}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Gaming and Accessibility or the cell corresponding to Gaming and Globalization?",
+            "A": "The cell corresponding to {Gaming} and {Accessibility} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Art and Critique or the cell corresponding to Literature and Popularity?",
+            "A": "The cell corresponding to {Art} and {Critique} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to TV Shows and Innovation or the cell corresponding to Music and Popularity?",
+            "A": "The cell corresponding to {TV Shows} and {Innovation} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.50 to 0.53?",
+            "A": "The cells are: {(Art, Accessibility), (Cuisine, Accessibility), (Fashion, Accessibility), (Gaming, Accessibility), (Literature, Accessibility), (Music, Accessibility), (Social Media, Accessibility), (Travel, Accessibility), (Cuisine, Adoption), (Fashion, Adoption), (Gaming, Adoption), (Literature, Adoption), (Movies, Adoption), (Music, Adoption), (Social Media, Adoption), (TV Shows, Adoption), (Travel, Adoption), (Art, Critique), (Cuisine, Critique), (Gaming, Critique), (Literature, Critique), (Movies, Critique), (Music, Critique), (Social Media, Critique), (TV Shows, Critique), (Travel, Critique), (Cuisine, Diversity), (Fashion, Diversity), (Literature, Diversity), (Movies, Diversity), (Music, Diversity), (Social Media, Diversity), (TV Shows, Diversity), (Travel, Diversity), (Art, Globalization), (Cuisine, Globalization), (Literature, Globalization), (Movies, Globalization), (Music, Globalization), (Social Media, Globalization), (TV Shows, Globalization), (Travel, Globalization), (Cuisine, Influence), (Fashion, Influence), (Gaming, Influence), (Movies, Influence), (Music, Influence), (Social Media, Influence), (TV Shows, Influence), (Travel, Influence), (Art, Innovation), (Cuisine, Innovation), (Fashion, Innovation), (Gaming, Innovation), (Literature, Innovation), (Movies, Innovation), (Music, Innovation), (Social Media, Innovation), (Travel, Innovation), (Art, Localization), (Cuisine, Localization), (Fashion, Localization), (Gaming, Localization), (Literature, Localization), (Movies, Localization), (Music, Localization), (Social Media, Localization), (TV Shows, Localization), (Travel, Localization), (Art, Popularity), (Cuisine, Popularity), (Fashion, Popularity), (Gaming, Popularity), (Literature, Popularity), (Movies, Popularity), (Music, Popularity), (Social Media, Popularity), (TV Shows, Popularity)}."
+        }
+    ],
+    "VA": []
+}

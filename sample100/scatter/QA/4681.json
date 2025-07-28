@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {44} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Commute time in the scatter plot?",
+            "A": "The maximum observed value in the Commute time dimension is {90.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Commute time in the scatter plot?",
+            "A": "The minimum observed value in the Commute time dimension is {5.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Productivity in the scatter plot?",
+            "A": "The maximum observed value in the Productivity dimension is {150.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Productivity in the scatter plot?",
+            "A": "The minimum observed value in the Productivity dimension is {50.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Commute time for all points?",
+            "A": "The average value of Commute time for all points is {47.50}."
+        },
+        {
+            "Q": "What is the average value of the Productivity for all points?",
+            "A": "The average value of Productivity for all points is {99.56}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Productivity values corresponding to the top 3 Commute time values in the scatter plot?",
+            "A": "{107.80, 64.37, 107.12}."
+        },
+        {
+            "Q": "What are the Productivity values corresponding to the bottom 3 Commute time values in the scatter plot?",
+            "A": "{50.50, 117.60, 103.53}."
+        },
+        {
+            "Q": "What are the Commute time values corresponding to the top 3 Productivity values in the scatter plot?",
+            "A": "{26.74, 68.26, 56.40}."
+        },
+        {
+            "Q": "What are the Commute time values corresponding to the bottom 3 Productivity values in the scatter plot?",
+            "A": "{42.56, 5.00, 88.02}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 8.70 and 22.91 and Y coordinates between 53.44 and 80.47?",
+            "A": "There are {1} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(5.00, 50.50) and (68.26, 144.92)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(44.53, 112.24) and (46.51, 113.14)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [40.28, 107.24, 50.76, 118.14] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (44.53, 112.24)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [35.46, 100.49, 55.58, 124.89]; Region B: [56.06, 73.68, 76.19, 98.08]; Region C: [64.03, 102.52, 84.16, 126.92]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

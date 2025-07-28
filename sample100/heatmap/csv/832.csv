@@ -1,0 +1,73 @@
+Business and Finance,the Metrics of Business and Finance,8x9,horizontal_gradient
+Auditing,Assets,0.13
+Banking,Assets,0.14
+Capital Markets,Assets,0.18
+Financial Tech,Assets,0.28
+Insurance,Assets,0.38
+Investments,Assets,0.5
+Risk Management,Assets,0.66
+Tax,Assets,0.92
+Auditing,Equity,0.13
+Banking,Equity,0.13
+Capital Markets,Equity,0.16
+Financial Tech,Equity,0.24
+Insurance,Equity,0.35
+Investments,Equity,0.52
+Risk Management,Equity,0.65
+Tax,Equity,0.9
+Auditing,Expenses,0.11
+Banking,Expenses,0.13
+Capital Markets,Expenses,0.19
+Financial Tech,Expenses,0.28
+Insurance,Expenses,0.39
+Investments,Expenses,0.5
+Risk Management,Expenses,0.71
+Tax,Expenses,0.87
+Auditing,Growth,0.11
+Banking,Growth,0.09
+Capital Markets,Growth,0.17
+Financial Tech,Growth,0.26
+Insurance,Growth,0.38
+Investments,Growth,0.54
+Risk Management,Growth,0.68
+Tax,Growth,0.88
+Auditing,Liquidity,0.17
+Banking,Liquidity,0.14
+Capital Markets,Liquidity,0.2
+Financial Tech,Liquidity,0.25
+Insurance,Liquidity,0.35
+Investments,Liquidity,0.47
+Risk Management,Liquidity,0.65
+Tax,Liquidity,0.85
+Auditing,Market Share,0.13
+Banking,Market Share,0.13
+Capital Markets,Market Share,0.21
+Financial Tech,Market Share,0.23
+Insurance,Market Share,0.36
+Investments,Market Share,0.48
+Risk Management,Market Share,0.66
+Tax,Market Share,0.88
+Auditing,Profit,0.12
+Banking,Profit,0.13
+Capital Markets,Profit,0.18
+Financial Tech,Profit,0.27
+Insurance,Profit,0.39
+Investments,Profit,0.49
+Risk Management,Profit,0.71
+Tax,Profit,0.88
+Auditing,Risk,0.11
+Banking,Risk,0.15
+Capital Markets,Risk,0.22
+Financial Tech,Risk,0.26
+Insurance,Risk,0.37
+Investments,Risk,0.51
+Risk Management,Risk,0.66
+Tax,Risk,0.88
+Auditing,Valuation,0.12
+Banking,Valuation,0.14
+Capital Markets,Valuation,0.17
+Financial Tech,Valuation,0.26
+Insurance,Valuation,0.36
+Investments,Valuation,0.49
+Risk Management,Valuation,0.67
+Tax,Valuation,0.87

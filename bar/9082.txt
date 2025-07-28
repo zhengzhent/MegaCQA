@@ -1,0 +1,10 @@
+Image Name: 9082.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\9082.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with distinct colors for each bar that make it easy to differentiate between months. The values are directly labeled on top of each bar, which enhances readability. However, the months are not in chronological order, which might cause a slight confusion for the reader. Overall, the chart is quite easy to interpret.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The chart presents monthly online sales figures clearly, with distinct colors for each month and easily readable labels. The values are prominently displayed on the bars, making it straightforward to compare sales across months. The overall layout is clean and organized, contributing to high readability.

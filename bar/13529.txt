@@ -1,0 +1,10 @@
+Image Name: 13529.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\13529.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels and distinct colors for each attraction. The horizontal bar format makes it easy to compare the number of visitors at a glance. The values are also directly labeled on the bars, which enhances readability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the data regarding annual visitors to famous attractions. The use of distinct colors for each bar helps differentiate the attractions, and the labels are easy to read. The numerical values are prominently displayed, allowing for quick comparisons between the attractions.

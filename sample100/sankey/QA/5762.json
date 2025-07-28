@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow out of column Consumption Venues of this sankey chart?",
+            "A": "There are {15} links flow out of column Consumption Venues."
+        },
+        {
+            "Q": "How many links flow out of the node Restaurants in this sankey chart?",
+            "A": "There are {3} links flowing out of the node Restaurants."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Consumption Venues}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Waste Management}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Retailers} and {Landfills}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Restaurants} and {Retailers}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Farmers' Markets to the node Landfills?",
+            "A": "The flow value from the node Farmers' Markets to the node Landfills is {18173}."
+        },
+        {
+            "Q": "What is the flow value from the node Workplaces to the node Retailers?",
+            "A": "The flow value from the node Workplaces to the node Retailers is {20402}."
+        },
+        {
+            "Q": "What is the flow value from the node Restaurants to the node Retailers?",
+            "A": "The flow value from the node Restaurants to the node Retailers is {1401}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Restaurants to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Restaurants to the next stage is {13500}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Homes to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Homes to the next stage is {2997}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Restaurants?",
+            "A": "The total flow output from node Restaurants is {25847}."
+        },
+        {
+            "Q": "What is the total flow input by node Retailers?",
+            "A": "The total flow input by node Retailers is {67061}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Distribution Channels of the sankey chart, which nodes have an outflow exceeded 17550? Please list the node labels and their corresponding outflow values.",
+            "A": "{Farmers' Markets} has an outflow of {18173}, {Retailers} has an outflow of {22429}, {Retailers} has an outflow of {25951}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Consumption Venues and column Distribution Channels is the flow between 9071 and 13557? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {10976} from node {Workplaces} to {Wholesalers}, a flow of {13500} from node {Restaurants} to {Farmers' Markets}, a flow of {10946} from node {Restaurants} to {Wholesalers}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 10910 and 10961? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {10946} from node {Restaurants} to {Wholesalers}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Retailers to node Food Banks and from node Workplaces to node Farmers' Markets, which path has a larger flow?",
+            "A": "The flow from node {Retailers} to node {Food Banks} is larger."
+        },
+        {
+            "Q": "Among the flows from node Schools to node Farmers' Markets, from node Farmers' Markets to node Animal Feed, and from node Farmers' Markets to node Composting, which path has the largest flow?",
+            "A": "The flow from node {Farmers' Markets} to node {Animal Feed} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Workplaces to node Farmers' Markets, from node Workplaces to node Retailers, and from node Restaurants to node Farmers' Markets, which path has the largest flow?",
+            "A": "The flow from node {Workplaces} to node {Retailers} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Consumption Venues of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Consumption Venues is {Homes}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Homes to target node Landfills? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Homes to node Landfills is: {Homes, Farmers' Markets, Landfills}."
+        }
+    ],
+    "VA": []
+}

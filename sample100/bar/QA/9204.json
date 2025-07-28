@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {12} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Nov}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Jun}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Sep relative to the bar Jun in terms of horizontal (left/right) direction?",
+            "A": "Bar Sep is to the {left} of the bar Jun."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Nov}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Mar}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Apr?",
+            "A": "The value of Apr is {82220} thousand USD."
+        },
+        {
+            "Q": "What is the value of bar Jun?",
+            "A": "The value of Jun is {151711} thousand USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand USD in the bar chart?",
+            "A": "The maximum thousand USD is {200000} thousand USD."
+        },
+        {
+            "Q": "What is the minimum thousand USD in the bar chart?",
+            "A": "The minimum thousand USD is {50000} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Oct and Aug?",
+            "A": "The total value of Oct and Aug is {217205} thousand USD."
+        },
+        {
+            "Q": "What is the average value of Nov and Feb?",
+            "A": "The average value of Nov and Feb is {159080.0} thousand USD."
+        },
+        {
+            "Q": "What is the difference between Mar and Apr?",
+            "A": "The difference between Mar and Apr is {32220} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand USD values exceed 195321.50 thousand USD? Please list the bars and corresponding thousand USD values?",
+            "A": "{Nov} has {200000} thousand USD."
+        },
+        {
+            "Q": "Which bars have {thousand USD} values below 65223.50 thousand USD? Please list the bars and corresponding thousand USD values?",
+            "A": "{Mar} has {50000} thousand USD, {Dec} has {60270} thousand USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Dec or Nov ",
+            "A": "The value of the {Nov} is larger?"
+        },
+        {
+            "Q": "Which is larger, Dec, Mar or May ",
+            "A": "The value of the {May} is larger?"
+        },
+        {
+            "Q": "Which is larger, Dec, Sep, Jan or Mar ",
+            "A": "The value of the {Jan} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Jan} and {Mar}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Nov}, {Jan}, and {Sep}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand USD value descending: {Nov}, {Jan}, {Sep}, {Jun}, {Oct}, {Jul}, {May}, {Feb}, {Apr}, {Aug}, {Dec}, and {Mar}."
+        },
+        {
+            "Q": "Sort the bars by thousand USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand USD value ascending: {Mar}, {Dec}, {Aug}, {Apr}, {Feb}, {May}, {Jul}, {Oct}, {Jun}, {Sep}, {Jan}, and {Nov}."
+        }
+    ]
+}

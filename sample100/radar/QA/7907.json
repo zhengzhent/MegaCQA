@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Chronic Disease Management Compliance Rate?",
+            "A": "The next dimension clockwise from Chronic Disease Management Compliance Rate is Vaccination Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Disease Incidence Rate?",
+            "A": "The next dimension counterclockwise from Chronic Disease Management Compliance Rate is Disease Incidence Rate."
+        },
+        {
+            "Q": "On the Hospital Bed Utilization Rate, is the point for Timor-Leste inside or outside the point for Bosnia and Herzegovina?",
+            "A": "On the Hospital Bed Utilization Rate, the point for Timor-Leste is outside the point for Bosnia and Herzegovina."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Hospital Bed Utilization Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Timor-Leste?",
+            "A": "The strongest aspect is {Hospital Bed Utilization Rate}, while the weakest aspect is{ Chronic Disease Management Compliance Rate}."
+        },
+        {
+            "Q": "On dimension Chronic Disease Management Compliance Rate, which label scores the highest?",
+            "A": "On Chronic Disease Management Compliance Rate, label {Timor-Leste} scores the highest."
+        },
+        {
+            "Q": "On dimension Disease Incidence Rate, which label scores the highest?",
+            "A": "On Disease Incidence Rate, label {Timor-Leste} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Timor-Leste on the Vaccination Rate in the radar chart?",
+            "A": "The value of Timor-Leste on the Safety dimension is {31}."
+        },
+        {
+            "Q": "What is the value of Bosnia and Herzegovina on the Hospital Bed Utilization Rate in the radar chart?",
+            "A": "The value of Bosnia and Herzegovina on the Safety dimension is {25}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Bosnia and Herzegovina across all dimensions in the radar chart?",
+            "A": "The maximum value of Bosnia and Herzegovina across all dimensions is {55}."
+        },
+        {
+            "Q": "What is the minimum value of label Timor-Leste across all dimensions in the radar chart?",
+            "A": "The minimum value of Timor-Leste across all dimensions is {60}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Hospital Bed Utilization Rate",
+            "A": "The average value of Hospital Bed Utilization Rate is {56.0}."
+        },
+        {
+            "Q": "What is the average value of Timor-Leste",
+            "A": "The average value of Timor-Leste is {54.5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Timor-Leste in the radar chart, which dimensions have scores between 38 and 82? Please list the dimensions and corresponding scores.",
+            "A": "{Primary Healthcare Institutions Ratio} is {55}, {Disease Incidence Rate} is {56}, {Electronic Medical Record Adoption Rate} is {71}"
+        },
+        {
+            "Q": "Which labels have scores above 61 for the Electronic Medical Record Adoption Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Timor-Leste} is {71}"
+        },
+        {
+            "Q": "For Bosnia and Herzegovina in the radar chart, which dimensions have scores above 82? Please list the dimensions and corresponding scores.",
+            "A": "{Disease Incidence Rate} is {97}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Bosnia and Herzegovina, which dimension has a higher score: Hospital Bed Utilization Rate or Disease Incidence Rate?",
+            "A": "{Disease Incidence Rate} has a higher score than Hospital Bed Utilization Rate for Bosnia and Herzegovina."
+        },
+        {
+            "Q": "On Vaccination Rate, which label has a higher score: Bosnia and Herzegovina or the Timor-Leste?",
+            "A": "{Bosnia and Herzegovina} has a higher score on Vaccination Rate compared to Timor-Leste."
+        },
+        {
+            "Q": "On Electronic Medical Record Adoption Rate, which label has a higher score: Timor-Leste or the Bosnia and Herzegovina?",
+            "A": "{Timor-Leste} has a higher score on Electronic Medical Record Adoption Rate compared to Bosnia and Herzegovina."
+        },
+        {
+            "Q": "For Bosnia and Herzegovina, which dimension has a higher score: Vaccination Rate or Electronic Medical Record Adoption Rate or Chronic Disease Management Compliance Rate?",
+            "A": "{Chronic Disease Management Compliance Rate} has a higher score for Bosnia and Herzegovina."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Bosnia and Herzegovina, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Bosnia and Herzegovina most needs to improve its {Electronic Medical Record Adoption Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Timor-Leste}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Bosnia and Herzegovina}."
+        }
+    ],
+    "VA": []
+}

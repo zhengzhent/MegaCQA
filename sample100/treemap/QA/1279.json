@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category ABC Analysis in this treemap?",
+            "A": "There are {2} child rectangles under the category ABC Analysis."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Supply Chain}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Metaheuristics}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Supply Chain}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Sentiment Analysis rectangle in this treemap?",
+            "A": "The value of the Sentiment Analysis rectangle is {47.79}."
+        },
+        {
+            "Q": "What is the value of the Pareto Thresholds rectangle in this treemap?",
+            "A": "The value of the Pareto Thresholds rectangle is {9.66}."
+        },
+        {
+            "Q": "What is the value of the Transport Modes rectangle in this treemap?",
+            "A": "The value of the Transport Modes rectangle is {10.79}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.26}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Slotting Algorithms and Real-Time Locating?",
+            "A": "The difference between Slotting Algorithms and Real-Time Locating is {0.8}."
+        },
+        {
+            "Q": "What is the sum of the regions of Demand Sensing and RSSI Mapping?",
+            "A": "The sum of Demand Sensing and RSSI Mapping is {55.29}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the ABC Analysis category in the treemap, which rectangular labels have a value exceeded 9.45? Please list the labels and values.",
+            "A": "{Pareto Thresholds} has {9.66}"
+        },
+        {
+            "Q": "Under the ABC Analysis category in the treemap, which rectangular labels have a value below 9.03? Please list the labels and values.",
+            "A": "{Velocity Profiling} has {8.82}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Supply Chain, Inventory Control, or Demand Sensing?",
+            "A": "The value of {Supply Chain} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Demand Sensing or Sentiment Analysis?",
+            "A": "The value of {Demand Sensing} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {8} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

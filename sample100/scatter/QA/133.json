@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {32} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Irrigation amount in the scatter plot?",
+            "A": "The maximum observed value in the Irrigation amount dimension is {2000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Irrigation amount in the scatter plot?",
+            "A": "The minimum observed value in the Irrigation amount dimension is {100.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Livestock health in the scatter plot?",
+            "A": "The maximum observed value in the Livestock health dimension is {5.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Livestock health in the scatter plot?",
+            "A": "The minimum observed value in the Livestock health dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Irrigation amount for all points?",
+            "A": "The average value of Irrigation amount for all points is {1050.00}."
+        },
+        {
+            "Q": "What is the average value of the Livestock health for all points?",
+            "A": "The average value of Livestock health for all points is {3.08}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Livestock health values corresponding to the top 3 Irrigation amount values in the scatter plot?",
+            "A": "{3.63, 4.47, 2.90}."
+        },
+        {
+            "Q": "What are the Livestock health values corresponding to the bottom 3 Irrigation amount values in the scatter plot?",
+            "A": "{3.67, 4.70, 1.27}."
+        },
+        {
+            "Q": "What are the Irrigation amount values corresponding to the top 3 Livestock health values in the scatter plot?",
+            "A": "{896.77, 283.87, 406.45}."
+        },
+        {
+            "Q": "What are the Irrigation amount values corresponding to the bottom 3 Livestock health values in the scatter plot?",
+            "A": "{590.32, 222.58, 467.74}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 359.39 and 557.14 and Y coordinates between 3.34 and 3.84?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(100.00, 3.67) and (2000.00, 3.63)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(1387.10, 3.57) and (1448.39, 3.57)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [1292.10, 3.37, 1543.39, 3.77] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (1387.10, 3.57)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [1442.74, 1.63, 1941.59, 2.42]; Region B: [233.87, 2.66, 732.71, 3.45]; Region C: [1168.32, 3.17, 1667.17, 3.97]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

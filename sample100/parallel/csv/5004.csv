@@ -1,0 +1,9 @@
+﻿Cultural Trends and Influences,Influence Metrics of Different Cultural
+Pattern,Strong Correlation,Clustering,Clustering,No Correlation,Clustering
+labels,Behavior change rate (%),Historical significance (1-10),Media coverage (articles/month),Language adoption (new words),Policy influence index (1-10),Opinion leader count(verified accounts)
+great  Culture,50.0,10.0,1000.0,100.0,1.44,360.04
+available  Culture,30.75,7.21,89.47,16.08,10.0,155.8
+front  Civilization,10.16,2.85,471.19,70.83,7.26,1.0
+someone  Civilization,19.61,5.8,669.37,0.0,1.2,1000.0
+cause  Culture,2.71,2.21,898.37,15.76,1.0,557.18
+material  Civilization,1.0,1.0,1.0,6.75,5.67,310.87

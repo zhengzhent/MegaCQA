@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Publication count (papers) dimension, what is the spatial relationship of Bond, Kelly and Woods  Lab relative to Beltran, Adams and Arias  Research Institute in terms of vertical (above/below) direction?",
+            "A": "{Bond, Kelly and Woods  Lab} is {below} {Beltran, Adams and Arias  Research Institute} on the Publication count (papers) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Citation index (citations/paper)?",
+            "A": "The first position to the left of Citation index (citations/paper) is {Publication count (papers)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Research funding (USD millions)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Collaboration index (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Citation index (citations/paper)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Experiment success rate (%) and dimension Publication count (papers)",
+            "A": "There is {Weak Correlation} between Experiment success rate (%) and Publication count (papers)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Bond, Kelly and Woods  Lab on the Research funding (USD millions) dimension in the parallel-coordinates chart?",
+            "A": "The value of Bond, Kelly and Woods  Lab on the Research funding (USD millions) dimension is {75.25}"
+        },
+        {
+            "Q": "What is the value of Wilson-Foster  Research Institute on the Publication count (papers) dimension in the parallel-coordinates chart?",
+            "A": "The value of Wilson-Foster  Research Institute on the Publication count (papers) dimension is {0.0}"
+        },
+        {
+            "Q": "What is the value of Sherman Inc  Lab on the Publication count (papers) dimension in the parallel-coordinates chart?",
+            "A": "The value of Sherman Inc  Lab on the Publication count (papers) dimension is {100.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Beltran, Adams and Arias  Research Institute across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Beltran, Adams and Arias  Research Institute across all dimensions is {663.74}"
+        },
+        {
+            "Q": "What is the minimum value of label Bond, Kelly and Woods  Lab across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Bond, Kelly and Woods  Lab across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Collaboration index (1-10)?",
+            "A": "The average value of Collaboration index (1-10) is {4.79}"
+        },
+        {
+            "Q": "What is the difference in coding Collaboration index (1-10) between label Beltran, Adams and Arias  Research Institute and label Wilson-Foster  Research Institute",
+            "A": "The difference in coding Collaboration index (1-10) between Beltran, Adams and Arias  Research Institute and Wilson-Foster  Research Institute is {7.13}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Research funding (USD millions) dimension in the parallel coordinates?",
+            "A": "{[100.0, 75.25, 54.49]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Experiment success rate (%) dimension in the parallel coordinates?",
+            "A": "{[10.0, 28.97, 69.36]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Citation index (citations/paper), which label has a higher score: Sherman Inc  Lab or Beltran, Adams and Arias  Research Institute?",
+            "A": "{Sherman Inc  Lab} has a higher score on Citation index (citations/paper)."
+        },
+        {
+            "Q": "On Research funding (USD millions), which label has a higher score: Sherman Inc  Lab or Bond, Kelly and Woods  Lab?",
+            "A": "{Sherman Inc  Lab} has a higher score on Research funding (USD millions)."
+        },
+        {
+            "Q": "On Lab efficiency (%), which label has a higher score: Wilson-Foster  Research Institute or Sherman Inc  Lab?",
+            "A": "{Wilson-Foster  Research Institute} has a higher score on Lab efficiency (%)."
+        },
+        {
+            "Q": "On Citation index (citations/paper), which label has a higher score: Wilson-Foster  Research Institute or Beltran, Adams and Arias  Research Institute?",
+            "A": "{Beltran, Adams and Arias  Research Institute} has a higher score on Citation index (citations/paper)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Citation index (citations/paper)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Collaboration index (1-10) being greater than 5.24 and Experiment success rate (%) being less than 71.26?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

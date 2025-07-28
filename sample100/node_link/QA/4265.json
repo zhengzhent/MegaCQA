@@ -1,0 +1,79 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {14} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {16} links."
+        },
+        {
+            "Q": "How many nodes link with node Pinecrest Regional Hospital?",
+            "A": "There are {3} nodes link with node Pinecrest Regional Hospital."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Cityview Children's Hospital and node Providence Women's Hospital in this node-link chart?",
+            "A": "The relationship between node Cityview Children's Hospital and node Providence Women's Hospital is {referral_path}."
+        },
+        {
+            "Q": "What is the relationship between node Cityview Children's Hospital and node Hope Valley Hospital in this node-link chart?",
+            "A": "The relationship between node Cityview Children's Hospital and node Hope Valley Hospital is {specialty_sharing}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type healthcare_network?",
+            "A": "There are {3} links with the relation type healthcare_network."
+        },
+        {
+            "Q": "How many links have the relation type specialty_sharing?",
+            "A": "There are {4} links with the relation type specialty_sharing."
+        },
+        {
+            "Q": "How many links have the relation type medical_collaboration?",
+            "A": "There are {3} links with the relation type medical_collaboration."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Evercare Medical Center, how many links are of type patient_transfer?",
+            "A": "Node Evercare Medical Center has {1} links of type patient_transfer."
+        },
+        {
+            "Q": "Under node Cityview Children's Hospital, how many links are of type referral_path?",
+            "A": "Node Cityview Children's Hospital has {1} links of type referral_path."
+        },
+        {
+            "Q": "Under node Global Health Clinic, how many links are of type healthcare_network?",
+            "A": "Node Global Health Clinic has {1} links of type healthcare_network."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Cityview Children's Hospital}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Cityview Children's Hospital with a degree of 6}, {node St. Mary's General Hospital with a degree of 5}, {node Evercare Medical Center with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Mercy Heart Institute to node Pinecrest Regional Hospital in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Mercy Heart Institute to node Pinecrest Regional Hospital is: {Mercy Heart Institute to Cityview Children's Hospital to St. Mary's General Hospital to Pinecrest Regional Hospital}."
+        }
+    ],
+    "VA": []
+}

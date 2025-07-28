@@ -1,0 +1,17 @@
+Energy and Utilities,Energy Consumption per Capita,MWh/person
+trend,exponential_falling,volatile_falling,exponential_falling,volatile_rising,periodic_stable,stable_rising,stable_falling
+Year,Silverhaven District,Borealis Township,Stellar Expanse,Azure Coast,Zenith Metropolis,Meridian Territory,Aethelgard City
+1977,5.06,5.15,5.02,4.64,5.09,4.98,4.92
+1978,4.58,4.47,4.4,5.13,6.12,5.15,5.26
+1979,4.25,4.54,4.0,5.74,5.56,5.3,5.37
+1980,3.39,4.13,3.69,6.19,4.31,6.03,5.53
+1981,3.43,3.87,3.48,6.73,3.79,5.74,5.8
+1982,3.04,3.53,2.75,6.87,5.03,6.31,5.93
+1983,2.71,3.31,2.86,7.34,6.03,6.63,6.03
+1984,2.23,2.82,2.46,7.5,5.73,6.83,6.01
+1985,2.22,2.37,2.15,8.06,4.32,7.02,6.26
+1986,1.96,2.31,2.0,8.29,3.84,7.17,6.12
+1987,2.0,1.85,1.67,8.93,5.03,7.68,6.79
+1988,1.62,1.45,1.58,9.67,6.22,7.93,6.64
+1989,1.28,1.42,1.78,9.83,5.58,8.25,6.98
+1990,1.18,1.1,1.38,10.56,4.18,8.51,7.11

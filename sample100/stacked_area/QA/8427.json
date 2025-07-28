@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Apex Athletics relative to Aura Apparel?",
+            "A": "Apex Athletics is {above} Aura Apparel in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total merchandise sales?",
+            "A": "The series with the largest contribution is {Emerald Sports Co.}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total merchandise sales?",
+            "A": "The series with the smallest contribution is {Apex Athletics}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Apex Athletics's Merchandise Sales in 1956?",
+            "A": "Apex Athletics's merchandise sales in 1956 is {920169.92} $."
+        },
+        {
+            "Q": "What is Emerald Sports Co.'s Merchandise Sales in 1955?",
+            "A": "Emerald Sports Co.'s merchandise sales in 1955 is {1076357.41} $."
+        },
+        {
+            "Q": "What is Horizon Wear's Merchandise Sales in 1955?",
+            "A": "Horizon Wear's merchandise sales in 1955 is {1011972.65} $."
+        },
+        {
+            "Q": "What are the merchandise sales of Horizon Wear, Apex Athletics, and Emerald Sports Co. in 1957?",
+            "A": "Horizon Wear's merchandise sales is {1122598.66} $, Apex Athletics's merchandise sales is {929864.59} $, Emerald Sports Co.'s merchandise sales is {1094638.43} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Merchandise Sales in the area chart?",
+            "A": "The global minimum merchandise sales is {920169.92} $."
+        },
+        {
+            "Q": "What is the global maximum Merchandise Sales in the area chart?",
+            "A": "The global maximum merchandise sales is {1141467.72} $."
+        },
+        {
+            "Q": "What is the highest Merchandise Sales level recorded for Apex Athletics?",
+            "A": "Apex Athletics reached approximately {988061.86} $ in {1955}."
+        },
+        {
+            "Q": "What is the lowest Merchandise Sales level recorded for Apex Athletics?",
+            "A": "Apex Athletics's lowest recorded level is approximately {920169.92} $ in {1956}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Merchandise Sales?",
+            "A": "The average total merchandise sales is {4139410.70} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Merchandise Sales exceed 4183423.94 $? Please list the years and corresponding total values.",
+            "A": "{4288569.40} $ in {1957}."
+        },
+        {
+            "Q": "Which years did the total Merchandise Sales go below 4074530.47 $? Please list the years and corresponding total values.",
+            "A": "{4016335.73} $ in {1955}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1955 and 1957, did the total Merchandise Sales experience a larger or smaller change than between 1956 and 1957?",
+            "A": "The change in total merchandise sales between 1955 and 1957 was {larger} than between 1956 and 1957."
+        },
+        {
+            "Q": "Was the total Merchandise Sales in 1955 higher or lower than in 1956?",
+            "A": "The total merchandise sales in 1955 was {lower} than in 1956."
+        },
+        {
+            "Q": "Between 1955 and 1957, was the average total Merchandise Sales higher or lower than between 1956 and 1957?",
+            "A": "The average total merchandise sales between 1955 and 1957 was {lower} than between 1956 and 1957."
+        },
+        {
+            "Q": "Between 1955 and 1956, did the total Merchandise Sales experience a larger or smaller change than between 1956 and 1957?",
+            "A": "The change in total merchandise sales between 1955 and 1956 was {smaller} than between 1956 and 1957."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Emerald Sports Co.} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Apex Athletics, Emerald Sports Co., Horizon Wear, Aura Apparel}."
+        }
+    ]
+}

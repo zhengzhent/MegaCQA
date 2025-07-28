@@ -1,0 +1,63 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node DailyStyle Apparel?",
+            "A": "There are {3} nodes link with node DailyStyle Apparel."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node FashionLane Boutique and node DailyStyle Apparel in this node-link chart?",
+            "A": "The relationship between node FashionLane Boutique and node DailyStyle Apparel is {product_bundle}."
+        },
+        {
+            "Q": "What is the relationship between node UrbanMart Superstore and node FashionLane Boutique in this node-link chart?",
+            "A": "The relationship between node UrbanMart Superstore and node FashionLane Boutique is {payment_channel}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type product_bundle?",
+            "A": "There are {3} links with the relation type product_bundle."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node FashionLane Boutique, how many links are of type product_bundle?",
+            "A": "Node FashionLane Boutique has {2} links of type product_bundle."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {TechHive Electronics}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node TechHive Electronics with a degree of 7}, {node FashionLane Boutique with a degree of 6}, {node UrbanMart Superstore with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node SmartBuy Hypermart to node TechHive Electronics in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node SmartBuy Hypermart to node TechHive Electronics is: {SmartBuy Hypermart to TechHive Electronics}."
+        }
+    ],
+    "VA": []
+}

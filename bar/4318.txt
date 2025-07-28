@@ -1,0 +1,10 @@
+Image Name: 4318.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\4318.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is straightforward and uses distinct colors for different energy sources, which aids in distinguishing them. The values are clearly labeled on top of each bar, and the axis labels are legible. The title provides a clear context for the data being presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the data on energy consumption. The bars are distinct and color-coded, making it easy to differentiate between the energy types. The values are labeled directly on the bars, which enhances readability. The title is informative, and the axes are clearly labeled, contributing to an overall easy interpretation of the chart.

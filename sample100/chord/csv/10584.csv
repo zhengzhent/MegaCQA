@@ -1,0 +1,12 @@
+Science and Engineering, Research Institution Collaboration Flow, Collaborations, normal
+Source,Target,Value
+Royal Academy,Herman Research Center,4
+Herman Research Center,Royal Academy,9
+NIT,Royal Academy,17
+Royal Academy,NIT,25
+Alex Laboratory,NIT,33
+NIT,Alex Laboratory,34
+NIT,Herman Research Center,32
+Herman Research Center,NIT,24
+Alex Laboratory,Royal Academy,19
+Royal Academy,Alex Laboratory,12

@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Current Ratio?",
+            "A": "The next dimension clockwise from Current Ratio is P/E Ratio vs. Industry Average Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from P/E Ratio vs. Industry Average Rate?",
+            "A": "The next dimension counterclockwise from Current Ratio is Operating Cost Ratio."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {ROI} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Wilson-Velasquez?",
+            "A": "The strongest aspect is {ROI}, while the weakest aspect is{ Capacity Utilization Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Wilson-Velasquez on the Net Profit Margin in the radar chart?",
+            "A": "The value of Wilson-Velasquez on the Safety dimension is {34}."
+        },
+        {
+            "Q": "What is the value of Wilson-Velasquez on the Capacity Utilization Rate in the radar chart?",
+            "A": "The value of Wilson-Velasquez on the Safety dimension is {21}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Wilson-Velasquez across all dimensions in the radar chart?",
+            "A": "The maximum value of Wilson-Velasquez across all dimensions is {21}."
+        },
+        {
+            "Q": "What is the minimum value of label Wilson-Velasquez across all dimensions in the radar chart?",
+            "A": "The minimum value of Wilson-Velasquez across all dimensions is {21}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of ROI",
+            "A": "The average value of ROI is {99.0}."
+        },
+        {
+            "Q": "What is the average value of Wilson-Velasquez",
+            "A": "The average value of Wilson-Velasquez is {43.43}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Wilson-Velasquez in the radar chart, which dimensions have scores below 37? Please list the dimensions and corresponding scores.",
+            "A": "{Capacity Utilization Rate} is {21}, {Operating Cost Ratio} is {31}, {P/E Ratio vs. Industry Average Rate} is {26}, {Net Profit Margin} is {34}"
+        },
+        {
+            "Q": "Which labels have scores above 55 for the Market Share Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Wilson-Velasquez} is {55}"
+        },
+        {
+            "Q": "For Wilson-Velasquez in the radar chart, which dimensions have scores between 37 and 83? Please list the dimensions and corresponding scores.",
+            "A": "{Current Ratio} is {38}, {Market Share Rate} is {55}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Wilson-Velasquez, which dimension has a higher score: Capacity Utilization Rate or P/E Ratio vs. Industry Average Rate?",
+            "A": "{P/E Ratio vs. Industry Average Rate} has a higher score than Capacity Utilization Rate for Wilson-Velasquez."
+        },
+        {
+            "Q": "For Wilson-Velasquez, which dimension has a higher score: Market Share Rate or ROI or Capacity Utilization Rate?",
+            "A": "{ROI} has a higher score for Wilson-Velasquez."
+        },
+        {
+            "Q": "For Wilson-Velasquez, which dimension has a higher score: Market Share Rate or Current Ratio or Operating Cost Ratio?",
+            "A": "{Market Share Rate} has a higher score for Wilson-Velasquez."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Wilson-Velasquez, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Wilson-Velasquez most needs to improve its {Capacity Utilization Rate}."
+        }
+    ],
+    "VA": []
+}

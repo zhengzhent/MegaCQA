@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Rail Networks, what is the spatial relationship of the data point in 2013 relative to that in 1999 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Rail Networks, the data point in 2013 is {below} and to the {right} of the data point in 1999."
+        },
+        {
+            "Q": "In 2015, what is the vertical (above/below) relationship of the line representing QuickShip Logistics relative to Rail Networks?",
+            "A": "In 2015, QuickShip Logistics is {below} Rail Networks in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Oceanic Carriers's Cargo Shipments levels?",
+            "A": "Oceanic Carriers's cargo shipments levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "What is the trend of Rail Networks's Cargo Shipments levels?",
+            "A": "Rail Networks's cargo shipments levels show a {bimodal valley} trend."
+        },
+        {
+            "Q": "What is the trend of QuickShip Logistics's Cargo Shipments levels?",
+            "A": "QuickShip Logistics's cargo shipments levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "What is the trend of Parcel Services's Cargo Shipments levels?",
+            "A": "Parcel Services's cargo shipments levels show a {single peak} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Parcel Services's Cargo Shipments in 2001?",
+            "A": "Parcel Services's cargo shipments in 2001 is {176657.15} tons/month."
+        },
+        {
+            "Q": "What is Rail Networks's Cargo Shipments in 2004?",
+            "A": "Rail Networks's cargo shipments in 2004 is {30002.31} tons/month."
+        },
+        {
+            "Q": "What is Rail Networks's Cargo Shipments in 2008?",
+            "A": "Rail Networks's cargo shipments in 2008 is {33201.29} tons/month."
+        },
+        {
+            "Q": "What are the cargo shipments of Oceanic Carriers, Parcel Services, and QuickShip Logistics in 2014?",
+            "A": "Oceanic Carriers's cargo shipments is {169655.37} tons/month, Parcel Services's cargo shipments is {191581.83} tons/month, QuickShip Logistics's cargo shipments is {973.19} tons/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Cargo Shipments in the line chart?",
+            "A": "The global minimum cargo shipments is {973.19} tons/month."
+        },
+        {
+            "Q": "What is the global maximum Cargo Shipments in the line chart?",
+            "A": "The global maximum cargo shipments is {243884.45} tons/month."
+        },
+        {
+            "Q": "What is the highest Cargo Shipments level recorded for Oceanic Carriers?",
+            "A": "Oceanic Carriers reached approximately {171312.60} tons/month in {2004}."
+        },
+        {
+            "Q": "What is the lowest Cargo Shipments level recorded for Oceanic Carriers?",
+            "A": "Oceanic Carriers's lowest recorded level is approximately {138822.13} tons/month in {1997}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Oceanic Carriers's Cargo Shipments?",
+            "A": "The average value of Oceanic Carriers's cargo shipments is {161343.02} tons/month."
+        },
+        {
+            "Q": "What is the rate of change in Parcel Services's Cargo Shipments from the starting year to the final year?",
+            "A": "The rate of growth in Parcel Services's cargo shipments is {1.89}%."
+        },
+        {
+            "Q": "What is the average value of Parcel Services's Cargo Shipments?",
+            "A": "The average value of Parcel Services's cargo shipments is {197219.90} tons/month."
+        },
+        {
+            "Q": "What is the average value of Rail Networks's Cargo Shipments?",
+            "A": "The average value of Rail Networks's cargo shipments is {40055.88} tons/month."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2009, which line had Cargo Shipments exceed 182361 tons/month? Please list the lines and corresponding values.",
+            "A": "{Parcel Services} had {239015} tons/month."
+        },
+        {
+            "Q": "In the year 2005, which lines had Cargo Shipments between 56868 and 169344 tons/month? Please list the lines and corresponding values.",
+            "A": "{Oceanic Carriers} had {168295} tons/month."
+        },
+        {
+            "Q": "Which years did Parcel Services's Cargo Shipments between 172715 and 224591 tons/month? Please list the years and corresponding values.",
+            "A": "{205443.44} tons/month in {2003} year, {191581.83} tons/month in {2014} year, {216381.40} tons/month in {2012} year."
+        },
+        {
+            "Q": "Which years did Parcel Services's Cargo Shipments exceed 219496 tons/month? Please list the years and corresponding values.",
+            "A": "{242379.17} tons/month in {2006} year, {237335.47} tons/month in {2010} year, {236610.44} tons/month in {2011} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2017, which line had a higher Cargo Shipments, {Rail Networks} or {Oceanic Carriers}?",
+            "A": "In 2017, {Oceanic Carriers} had a higher cargo shipments."
+        },
+        {
+            "Q": "Was Oceanic Carriers's Cargo Shipments in 2000 higher or lower than in 2008?",
+            "A": "The cargo shipments in 2000 was {higher} than in 2008."
+        },
+        {
+            "Q": "Between 2005 and 2019, which line experienced the largest change in Cargo Shipments, Oceanic Carriers, Rail Networks, Parcel Services, or QuickShip Logistics?",
+            "A": "{Parcel Services} experienced the largest change in cargo shipments."
+        },
+        {
+            "Q": "Between 1998 and 2019, which line experienced the largest change in Cargo Shipments, Parcel Services, Rail Networks, or Oceanic Carriers?",
+            "A": "{Rail Networks} experienced the largest change in cargo shipments."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {QuickShip Logistics}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2001 and 2002?",
+            "A": "{Parcel Services} has the fastest average growth rate between 2001 and 2002."
+        },
+        {
+            "Q": "In which year did Rail Networks first surpass QuickShip Logistics?",
+            "A": "Rail Networks first surpassed QuickShip Logistics in the year {2009}."
+        },
+        {
+            "Q": "Which label had the leading cargo shipments since 1999?",
+            "A": "Since 1999, {Parcel Services} had the leading cargo shipments."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Oceanic Carriers. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1997, 2004, 2019}."
+        }
+    ]
+}

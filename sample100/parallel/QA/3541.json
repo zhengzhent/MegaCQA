@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Equipment utilization (%) dimension, what is the spatial relationship of out  Wheat relative to stand  Potato in terms of vertical (above/below) direction?",
+            "A": "{out  Wheat} is {above} {stand  Potato} on the Equipment utilization (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Water usage (liters/kg)?",
+            "A": "The first position to the left of Water usage (liters/kg) is {Yield per acre (tons)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Equipment utilization (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Yield per acre (tons)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Water usage (liters/kg)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Yield per acre (tons) and dimension Water usage (liters/kg)",
+            "A": "There is {No Correlation} between Yield per acre (tons) and Water usage (liters/kg)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of thousand  Corn on the Yield per acre (tons) dimension in the parallel-coordinates chart?",
+            "A": "The value of thousand  Corn on the Yield per acre (tons) dimension is {50.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label capital  Wheat across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of capital  Wheat across all dimensions is {295.81}"
+        },
+        {
+            "Q": "What is the minimum value of label out  Wheat across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of out  Wheat across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Equipment utilization (%)?",
+            "A": "The average value of Equipment utilization (%) is {54.19}"
+        },
+        {
+            "Q": "What is the difference in coding Water usage (liters/kg) between label thousand  Corn and label capital  Wheat",
+            "A": "The difference in coding Water usage (liters/kg) between thousand  Corn and capital  Wheat is {704.19}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Harvest frequency (per year) dimension in the parallel coordinates?",
+            "A": "{[4.0, 2.16, 1.61]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Yield per acre (tons) dimension in the parallel coordinates?",
+            "A": "{[0.5, 6.37, 15.38]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Water usage (liters/kg), which label has a higher score: capital  Wheat or out  Wheat?",
+            "A": "{capital  Wheat} has a higher score on Water usage (liters/kg)."
+        },
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: stand  Potato or thousand  Corn?",
+            "A": "{stand  Potato} has a higher score on Equipment utilization (%)."
+        },
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: stand  Potato or capital  Wheat?",
+            "A": "{stand  Potato} has a higher score on Equipment utilization (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Water usage (liters/kg)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Water usage (liters/kg) being greater than 476.18 and Soil health index (1-10) being less than 6.49?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

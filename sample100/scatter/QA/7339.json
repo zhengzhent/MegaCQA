@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {95} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Posting frequency in the scatter plot?",
+            "A": "The maximum observed value in the Posting frequency dimension is {20.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Posting frequency in the scatter plot?",
+            "A": "The minimum observed value in the Posting frequency dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension View count in the scatter plot?",
+            "A": "The maximum observed value in the View count dimension is {10000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension View count in the scatter plot?",
+            "A": "The minimum observed value in the View count dimension is {100.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Posting frequency for all points?",
+            "A": "The average value of Posting frequency for all points is {10.50}."
+        },
+        {
+            "Q": "What is the average value of the View count for all points?",
+            "A": "The average value of View count for all points is {5411336.12}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the View count values corresponding to the top 3 Posting frequency values in the scatter plot?",
+            "A": "{2796854.26, 3840891.05, 8028032.11}."
+        },
+        {
+            "Q": "What are the View count values corresponding to the bottom 3 Posting frequency values in the scatter plot?",
+            "A": "{6478439.43, 1871505.12, 4593477.26}."
+        },
+        {
+            "Q": "What are the Posting frequency values corresponding to the top 3 View count values in the scatter plot?",
+            "A": "{15.96, 3.02, 9.09}."
+        },
+        {
+            "Q": "What are the Posting frequency values corresponding to the bottom 3 View count values in the scatter plot?",
+            "A": "{11.71, 19.19, 17.37}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 7.29 and 11.83 and Y coordinates between 4085952.29 and 6531000.54?",
+            "A": "There are {8} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(11.71, 100.00) and (15.96, 10000000.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(9.29, 5102733.02) and (12.72, 5100856.37)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [7.57, 4600861.37, 14.44, 5602728.02] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (9.29, 5102733.02)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [5.29, 6777474.26, 10.28, 8704741.00]; Region B: [8.51, 4138161.32, 13.50, 6065428.07]; Region C: [8.49, 288802.30, 13.49, 2216069.05]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

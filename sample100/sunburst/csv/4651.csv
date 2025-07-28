@@ -1,0 +1,18 @@
+Healthcare and Health,Healthcare Distribution by Category (2022),%
+parent,child,value
+Root,Medical Services,49.5
+Medical Services,Primary Care,16.75
+Primary Care,Family Physicians,11.65
+Primary Care,Walk-in Clinics,5.1
+Medical Services,Specialized Care,32.75
+Specialized Care,Oncology,12.81
+Specialized Care,Cardiology,19.94
+Cardiology,Arrhythmia Clinics,8.13
+Cardiology,Heart Disease,6.48
+Cardiology,Blood Pressure,5.34
+Root,Health Technologies,20.55
+Health Technologies,Medical Devices,9.27
+Medical Devices,Monitoring Wearables,9.27
+Health Technologies,Health Informatics,11.28
+Root,Public Health Systems,29.95
+Public Health Systems,Health Surveillance,29.95

@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing New Users relative to Mobile Users?",
+            "A": "New Users is {below} Mobile Users in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total average watch time?",
+            "A": "The series with the largest contribution is {Mobile Users}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total average watch time?",
+            "A": "The series with the smallest contribution is {New Users}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Mobile Users's Average Watch Time in 2011?",
+            "A": "Mobile Users's average watch time in 2011 is {53.38} minutes."
+        },
+        {
+            "Q": "What is Desktop Users's Average Watch Time in 2006?",
+            "A": "Desktop Users's average watch time in 2006 is {37.16} minutes."
+        },
+        {
+            "Q": "What is Desktop Users's Average Watch Time in 2012?",
+            "A": "Desktop Users's average watch time in 2012 is {33.71} minutes."
+        },
+        {
+            "Q": "What are the average watch time of Free Users, Desktop Users, and New Users in 2007?",
+            "A": "Free Users's average watch time is {28.68} minutes, Desktop Users's average watch time is {32.66} minutes, New Users's average watch time is {28.03} minutes."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Average Watch Time in the area chart?",
+            "A": "The global minimum average watch time is {7.82} minutes."
+        },
+        {
+            "Q": "What is the global maximum Average Watch Time in the area chart?",
+            "A": "The global maximum average watch time is {104.34} minutes."
+        },
+        {
+            "Q": "What is the highest Average Watch Time level recorded for Desktop Users?",
+            "A": "Desktop Users reached approximately {37.54} minutes in {2016}."
+        },
+        {
+            "Q": "What is the lowest Average Watch Time level recorded for Desktop Users?",
+            "A": "Desktop Users's lowest recorded level is approximately {21.67} minutes in {2009}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Average Watch Time?",
+            "A": "The average total average watch time is {133.01} minutes."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Average Watch Time exceed 135.47 minutes? Please list the years and corresponding total values.",
+            "A": "{155.55} minutes in {2018}, {155.95} minutes in {2016}, {139.58} minutes in {2015}."
+        },
+        {
+            "Q": "Which years did the total Average Watch Time fall between 124.21 and 137.29 minutes? Please list the years and corresponding total values.",
+            "A": "{135.01} minutes in {2012}, {126.19} minutes in {2006}, {130.52} minutes in {2010}."
+        },
+        {
+            "Q": "Which years did the total Average Watch Time go below 126.03 minutes? Please list the years and corresponding total values.",
+            "A": "{114.71} minutes in {2009}, {124.60} minutes in {2007}, {117.31} minutes in {2005}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2013 and 2018, was the average total Average Watch Time higher or lower than between 2010 and 2012?",
+            "A": "The average total average watch time between 2013 and 2018 was {higher} than between 2010 and 2012."
+        },
+        {
+            "Q": "Between 2010 and 2018, was the average total Average Watch Time higher or lower than between 2009 and 2016?",
+            "A": "The average total average watch time between 2010 and 2018 was {higher} than between 2009 and 2016."
+        },
+        {
+            "Q": "Between 2007 and 2015, was the average total Average Watch Time higher or lower than between 2014 and 2017?",
+            "A": "The average total average watch time between 2007 and 2015 was {lower} than between 2014 and 2017."
+        },
+        {
+            "Q": "Between 2006 and 2014, was the average total Average Watch Time higher or lower than between 2006 and 2011?",
+            "A": "The average total average watch time between 2006 and 2014 was {higher} than between 2006 and 2011."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Mobile Users} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {New Users, Free Users, Desktop Users, Mobile Users}."
+        }
+    ]
+}

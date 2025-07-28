@@ -1,0 +1,89 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {64} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {uniform} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Service Quality and Rural in the heatmap?",
+            "A": "The heat value is {0.46}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Cruises and Adventure in the heatmap?",
+            "A": "The heat value is {0.46}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Transport and Family in the heatmap?",
+            "A": "The heat value is {0.46}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.49}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.44}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Wellness on the y-axis?",
+            "A": "The maximum heat value for Wellness on the y-axis is {0.49}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Business on the y-axis?",
+            "A": "The maximum heat value for Business on the y-axis is {0.47}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Transport on the x-axis?",
+            "A": "The average heat value for Transport on the x-axis is {0.46}."
+        },
+        {
+            "Q": "What is the average heat value for label Rural on the y-axis?",
+            "A": "The average heat value for Rural on the y-axis is {0.47}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Transport and Family or the cell corresponding to Destinations and Luxury?",
+            "A": "The heat values are {equal}."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Destinations and Adventure or the cell corresponding to Service Quality and Wellness?",
+            "A": "The cell corresponding to {Service Quality} and {Wellness} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.44 to 0.49?",
+            "A": "The cells are: {(Attractions, Adventure), (Cruises, Adventure), (Destinations, Adventure), (Events, Adventure), (Restaurants, Adventure), (Service Quality, Adventure), (Tour Operators, Adventure), (Transport, Adventure), (Attractions, Budget), (Cruises, Budget), (Destinations, Budget), (Events, Budget), (Restaurants, Budget), (Service Quality, Budget), (Tour Operators, Budget), (Transport, Budget), (Attractions, Business), (Cruises, Business), (Destinations, Business), (Events, Business), (Restaurants, Business), (Service Quality, Business), (Tour Operators, Business), (Transport, Business), (Attractions, Family), (Cruises, Family), (Destinations, Family), (Events, Family), (Restaurants, Family), (Service Quality, Family), (Tour Operators, Family), (Transport, Family), (Attractions, Luxury), (Cruises, Luxury), (Destinations, Luxury), (Events, Luxury), (Restaurants, Luxury), (Service Quality, Luxury), (Tour Operators, Luxury), (Transport, Luxury), (Attractions, Rural), (Cruises, Rural), (Destinations, Rural), (Events, Rural), (Restaurants, Rural), (Service Quality, Rural), (Tour Operators, Rural), (Transport, Rural), (Attractions, Urban), (Cruises, Urban), (Destinations, Urban), (Events, Urban), (Restaurants, Urban), (Service Quality, Urban), (Tour Operators, Urban), (Transport, Urban), (Attractions, Wellness), (Destinations, Wellness), (Events, Wellness), (Restaurants, Wellness), (Service Quality, Wellness), (Tour Operators, Wellness)}."
+        }
+    ],
+    "VA": []
+}

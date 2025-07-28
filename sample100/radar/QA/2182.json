@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Cultural Funding Utilization Rate?",
+            "A": "The next dimension clockwise from Cultural Funding Utilization Rate is Digital Content Creation Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Cultural Funding Utilization Rate?",
+            "A": "The next dimension counterclockwise from Cultural Funding Utilization Rate is Local Heritage Awareness Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Streaming Media Cultural Content Consumption Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Masonchester Cultural Center?",
+            "A": "The strongest aspect is {Streaming Media Cultural Content Consumption Rate}, while the weakest aspect is{ Cultural Funding Utilization Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Masonchester Cultural Center on the Streaming Media Cultural Content Consumption Rate in the radar chart?",
+            "A": "The value of Masonchester Cultural Center on the Safety dimension is {85}."
+        },
+        {
+            "Q": "What is the value of Masonchester Cultural Center on the Local Heritage Awareness Rate in the radar chart?",
+            "A": "The value of Masonchester Cultural Center on the Safety dimension is {53}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Masonchester Cultural Center across all dimensions in the radar chart?",
+            "A": "The maximum value of Masonchester Cultural Center across all dimensions is {85}."
+        },
+        {
+            "Q": "What is the minimum value of label Masonchester Cultural Center across all dimensions in the radar chart?",
+            "A": "The minimum value of Masonchester Cultural Center across all dimensions is {85}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Cultural Funding Utilization Rate",
+            "A": "The average value of Cultural Funding Utilization Rate is {25.0}."
+        },
+        {
+            "Q": "What is the average value of Masonchester Cultural Center",
+            "A": "The average value of Masonchester Cultural Center is {48.5}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Masonchester Cultural Center in the radar chart, which dimensions have scores between 37 and 73? Please list the dimensions and corresponding scores.",
+            "A": "{Local Heritage Awareness Rate} is {53}"
+        },
+        {
+            "Q": "Which labels have scores below 53 for the Local Heritage Awareness Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Masonchester Cultural Center} is {53}"
+        },
+        {
+            "Q": "For Masonchester Cultural Center in the radar chart, which dimensions have scores below 37? Please list the dimensions and corresponding scores.",
+            "A": "{Cultural Funding Utilization Rate} is {25}, {Digital Content Creation Rate} is {31}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Masonchester Cultural Center, which dimension has a higher score: Streaming Media Cultural Content Consumption Rate or Local Heritage Awareness Rate?",
+            "A": "{Streaming Media Cultural Content Consumption Rate} has a higher score than Local Heritage Awareness Rate for Masonchester Cultural Center."
+        },
+        {
+            "Q": "For Masonchester Cultural Center, which dimension has a higher score: Digital Content Creation Rate or Local Heritage Awareness Rate or Cultural Funding Utilization Rate?",
+            "A": "{Local Heritage Awareness Rate} has a higher score for Masonchester Cultural Center."
+        },
+        {
+            "Q": "For Masonchester Cultural Center, which dimension has a higher score: Digital Content Creation Rate or Cultural Funding Utilization Rate or Local Heritage Awareness Rate?",
+            "A": "{Local Heritage Awareness Rate} has a higher score for Masonchester Cultural Center."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Masonchester Cultural Center, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Masonchester Cultural Center most needs to improve its {Cultural Funding Utilization Rate}."
+        }
+    ],
+    "VA": []
+}

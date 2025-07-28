@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {3} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Year built (year) dimension, what is the spatial relationship of call Mansion relative to talk Mansion in terms of vertical (above/below) direction?",
+            "A": "{call Mansion} is {below} {talk Mansion} on the Year built (year) dimension."
+        },
+        {
+            "Q": "Which dimension is the fourth position to the left of dimension Bathroom count (units)?",
+            "A": "The fourth position to the left of Bathroom count (units) is {Days on market (days)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Bedroom count (units)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Days on market (days)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Square footage (sq ft)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Bathroom count (units) and dimension Bedroom count (units)",
+            "A": "There is {Strong Correlation} between Bathroom count (units) and Bedroom count (units)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of talk Mansion on the Square footage (sq ft) dimension in the parallel-coordinates chart?",
+            "A": "The value of talk Mansion on the Square footage (sq ft) dimension is {7748.91}"
+        },
+        {
+            "Q": "What is the value of call Mansion on the Walk score (0-100) dimension in the parallel-coordinates chart?",
+            "A": "The value of call Mansion on the Walk score (0-100) dimension is {0.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label six Villa across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of six Villa across all dimensions is {10000.0}"
+        },
+        {
+            "Q": "What is the minimum value of label call Mansion across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of call Mansion across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Square footage (sq ft)?",
+            "A": "The average value of Square footage (sq ft) is {6082.97}"
+        },
+        {
+            "Q": "What is the difference in coding Days on market (days) between label call Mansion and label six Villa",
+            "A": "The difference in coding Days on market (days) between call Mansion and six Villa is {261.64}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Square footage (sq ft) dimension in the parallel coordinates?",
+            "A": "{[10000.0, 7748.91, 500.0]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Year built (year) dimension in the parallel coordinates?",
+            "A": "{[1800.0, 1828.7, 2023.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Square footage (sq ft), which label has a higher score: talk Mansion or six Villa?",
+            "A": "{six Villa} has a higher score on Square footage (sq ft)."
+        },
+        {
+            "Q": "On Days on market (days), which label has a higher score: call Mansion or talk Mansion?",
+            "A": "{call Mansion} has a higher score on Days on market (days)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Square footage (sq ft)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Days on market (days) being greater than 118.74 and Square footage (sq ft) being less than 7020.81?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

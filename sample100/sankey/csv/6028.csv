@@ -1,0 +1,50 @@
+Healthcare and Health,Healthcare Service Ecosystem,Patients,random,Outcomes,Healthcare Providers,Patient Demographics,Medical Specialties
+Source,Target,Value
+Improved Condition,Clinics,5730
+Improved Condition,Nursing Homes,3728
+Improved Condition,Rehabilitation Centers,2483
+Improved Condition,Hospitals,4376
+Stable Condition,Clinics,402
+Stable Condition,Nursing Homes,2306
+Stable Condition,Rehabilitation Centers,1128
+Stable Condition,Hospitals,2586
+Deceased,Clinics,379
+Deceased,Nursing Homes,3401
+Deceased,Rehabilitation Centers,3128
+Deceased,Hospitals,1846
+Full Recovery,Clinics,2545
+Full Recovery,Nursing Homes,1814
+Full Recovery,Rehabilitation Centers,1146
+Full Recovery,Hospitals,733
+Clinics,Seniors,471
+Clinics,Adults,3343
+Clinics,Children,1416
+Clinics,Pregnant Women,3826
+Nursing Homes,Seniors,3590
+Nursing Homes,Adults,2255
+Nursing Homes,Children,3475
+Nursing Homes,Pregnant Women,1929
+Rehabilitation Centers,Seniors,1025
+Rehabilitation Centers,Adults,772
+Rehabilitation Centers,Children,3119
+Rehabilitation Centers,Pregnant Women,2969
+Hospitals,Seniors,342
+Hospitals,Adults,3100
+Hospitals,Children,3131
+Hospitals,Pregnant Women,2968
+Seniors,Dermatology,2314
+Seniors,Oncology,2280
+Seniors,Pediatrics,538
+Seniors,Orthopedics,296
+Adults,Dermatology,2963
+Adults,Oncology,1216
+Adults,Pediatrics,1668
+Adults,Orthopedics,3623
+Children,Dermatology,2728
+Children,Oncology,4210
+Children,Pediatrics,3358
+Children,Orthopedics,845
+Pregnant Women,Dermatology,2253
+Pregnant Women,Oncology,3032
+Pregnant Women,Pediatrics,5628
+Pregnant Women,Orthopedics,779

@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On @StarburstTV, what is the spatial relationship of the data point in 1961 relative to that in 1963 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On @StarburstTV, the data point in 1961 is {above} and to the {left} of the data point in 1963."
+        },
+        {
+            "Q": "In 1962, what is the vertical (above/below) relationship of the line representing @NovaGamesLive relative to @StarburstTV?",
+            "A": "In 1962, @NovaGamesLive is {above} @StarburstTV in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of @StarburstTV's Social Media Followers levels?",
+            "A": "@StarburstTV's social media followers levels show a {single valley} trend."
+        },
+        {
+            "Q": "What is the trend of @CrimsonCometsOfficial's Social Media Followers levels?",
+            "A": "@CrimsonCometsOfficial's social media followers levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "What is the trend of @NovaGamesLive's Social Media Followers levels?",
+            "A": "@NovaGamesLive's social media followers levels show a {single valley} trend."
+        },
+        {
+            "Q": "What is the trend of @AetherNetSports's Social Media Followers levels?",
+            "A": "@AetherNetSports's social media followers levels show a {volatile falling} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is @NovaGamesLive's Social Media Followers in 1967?",
+            "A": "@NovaGamesLive's social media followers in 1967 is {7321980.99} followers."
+        },
+        {
+            "Q": "What is @NovaGamesLive's Social Media Followers in 1963?",
+            "A": "@NovaGamesLive's social media followers in 1963 is {4046020.50} followers."
+        },
+        {
+            "Q": "What is @StarburstTV's Social Media Followers in 1964?",
+            "A": "@StarburstTV's social media followers in 1964 is {3842263.14} followers."
+        },
+        {
+            "Q": "What are the social media followers of @StarburstTV, @NovaGamesLive, and @CrimsonCometsOfficial in 1960?",
+            "A": "@StarburstTV's social media followers is {4646273.88} followers, @NovaGamesLive's social media followers is {5506561.59} followers, @CrimsonCometsOfficial's social media followers is {12063787.90} followers."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Social Media Followers in the line chart?",
+            "A": "The global minimum social media followers is {3201348.71} followers."
+        },
+        {
+            "Q": "What is the global maximum Social Media Followers in the line chart?",
+            "A": "The global maximum social media followers is {14158247.65} followers."
+        },
+        {
+            "Q": "What is the highest Social Media Followers level recorded for @AetherNetSports?",
+            "A": "@AetherNetSports reached approximately {14158247.65} followers in {1960}."
+        },
+        {
+            "Q": "What is the lowest Social Media Followers level recorded for @AetherNetSports?",
+            "A": "@AetherNetSports's lowest recorded level is approximately {8744138.93} followers in {1967}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in @StarburstTV's Social Media Followers from the starting year to the final year?",
+            "A": "The rate of growth in @StarburstTV's social media followers is {36.00}%."
+        },
+        {
+            "Q": "What is the average value of @CrimsonCometsOfficial's Social Media Followers?",
+            "A": "The average value of @CrimsonCometsOfficial's social media followers is {13135668.36} followers."
+        },
+        {
+            "Q": "What is the rate of change in @AetherNetSports's Social Media Followers from the starting year to the final year?",
+            "A": "The rate of decline in @AetherNetSports's social media followers is {-38.24}%."
+        },
+        {
+            "Q": "What is the average value of @NovaGamesLive's Social Media Followers?",
+            "A": "The average value of @NovaGamesLive's social media followers is {4939949.30} followers."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1964, which lines had Social Media Followers below 4226489 followers? Please list the lines and corresponding values.",
+            "A": "{@NovaGamesLive} had {3844216} followers, {@StarburstTV} had {3842263} followers."
+        },
+        {
+            "Q": "Which years did @NovaGamesLive's Social Media Followers exceed 5479060 followers? Please list the years and corresponding values.",
+            "A": "{5506561.59} followers in {1960} year, {7321980.99} followers in {1967} year."
+        },
+        {
+            "Q": "In the year 1961, which lines had Social Media Followers below 4540220 followers? Please list the lines and corresponding values.",
+            "A": "{@StarburstTV} had {3942280} followers."
+        },
+        {
+            "Q": "Which years did @NovaGamesLive's Social Media Followers between 4143918 and 5330711 followers? Please list the years and corresponding values.",
+            "A": "{4739533.46} followers in {1961} year, {5067199} followers in {1965} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 1965, which line had the highest Social Media Followers, @CrimsonCometsOfficial, @StarburstTV, @AetherNetSports, or @NovaGamesLive?",
+            "A": "In 1965, {@CrimsonCometsOfficial} had the highest social media followers."
+        },
+        {
+            "Q": "Between 1963 and 1964, which line experienced the largest change in Social Media Followers, @StarburstTV, @AetherNetSports, @NovaGamesLive, or @CrimsonCometsOfficial?",
+            "A": "{@AetherNetSports} experienced the largest change in social media followers."
+        },
+        {
+            "Q": "In 1960, which line had the highest Social Media Followers, @AetherNetSports, @CrimsonCometsOfficial, @NovaGamesLive, or @StarburstTV?",
+            "A": "In 1960, {@AetherNetSports} had the highest social media followers."
+        },
+        {
+            "Q": "In 1964, which line had the highest Social Media Followers, @AetherNetSports, @NovaGamesLive, @CrimsonCometsOfficial, or @StarburstTV?",
+            "A": "In 1964, {@CrimsonCometsOfficial} had the highest social media followers."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {@AetherNetSports}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1963 and 1965?",
+            "A": "{@NovaGamesLive} has the fastest average growth rate between 1963 and 1965."
+        },
+        {
+            "Q": "In which year did @CrimsonCometsOfficial first surpass @AetherNetSports?",
+            "A": "@CrimsonCometsOfficial first surpassed @AetherNetSports in the year {1962}."
+        },
+        {
+            "Q": "Which label had the leading social media followers since 1966?",
+            "A": "Since 1966, {@CrimsonCometsOfficial} had the leading social media followers."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the @CrimsonCometsOfficial. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1960, 1965, 1967}."
+        }
+    ]
+}

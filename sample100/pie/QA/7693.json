@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which 2024 has the largest proportion in this pie chart?",
+            "A": "The 2024 with the largest proportion is {Facebook}."
+        },
+        {
+            "Q": "Which 2024 has the smallest proportion in this pie chart?",
+            "A": "The 2024 with the smallest proportion is {LinkedIn}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the LinkedIn slice in this pie chart?",
+            "A": "The value of the LinkedIn slice is {33}%."
+        },
+        {
+            "Q": "What is the value of the Facebook slice in this pie chart?",
+            "A": "The value of the Facebook slice is {67}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {67}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {33}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 58.5%? Please list the category names and corresponding percentages.",
+            "A": "{Facebook} accounts for {67}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 41.5%? Please list the category names and corresponding percentages.",
+            "A": "{LinkedIn} accounts for {33}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Facebook or LinkedIn?",
+            "A": "The value of {Facebook} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

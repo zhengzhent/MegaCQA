@@ -1,0 +1,123 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {2} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {PrimeVue}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {EcoCore}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin EcoCore?",
+            "A": "The first position to the left of the violin EcoCore is {PrimeVue}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin EcoCore relative to the violin PrimeVue in terms of horizontal (left/right) direction?",
+            "A": "violin EcoCore is to the {right} of the violin PrimeVue."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {PrimeVue}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {EcoCore}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing PrimeVue?",
+            "A": "The density distribution pattern of the PrimeVue shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of EcoCore in the violin plot?",
+            "A": "The median of EcoCore is {44072.00} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of PrimeVue in the violin plot?",
+            "A": "The lower quartile (Q1) of PrimeVue is {35001.50} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of PrimeVue in the violin plot?",
+            "A": "The upper whisker limit of PrimeVue is {76348.00} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in EcoCore in the violin plot?",
+            "A": "The largest upper outlier value in EcoCore is {105063.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {105063.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {428.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin EcoCore and PrimeVue?",
+            "A": "The Q3 difference between violin EcoCore and PrimeVue is {624.00} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin EcoCore and PrimeVue?",
+            "A": "The total Q3 value of violin EcoCore and EcoCore is {106245.00} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of violin EcoCore and PrimeVue?",
+            "A": "The average Q1 value of violin EcoCore and PrimeVue is {34440.25} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 44124.50 USD? Please list the violins and corresponding values.",
+            "A": "{PrimeVue} has {44177.00} USD "
+        },
+        {
+            "Q": "Which violins have median values below 44124.50 USD? Please list the violins and corresponding values.",
+            "A": "{EcoCore} has {44072.00} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 34440.25 USD and the upper quartile (Q3) below 53122.50 USD?",
+            "A": "Violin {PrimeVue} has the Q1 above 34440.25 USD and the Q3 below 53122.5 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 45183.54 USD?",
+            "A": "Violin {EcoCore} has {47162.66} USD have their highest density peak exceed 45183.54 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 45183.54 USD?",
+            "A": "Violin {PrimeVue} has {43204.41} USD have their highest density peak below 45183.54 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of PrimeVue or EcoCore ",
+            "A": "The median value of the {PrimeVue} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {EcoCore}."
+        }
+    ],
+    "VA": []
+}

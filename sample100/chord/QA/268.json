@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {5} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Oats?",
+            "A": "The next arc clockwise from arc Oats is arc {Sugarcane}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Soybeans?",
+            "A": "The next arc counterclockwise from arc Soybeans is arc {Potatoes}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Corn} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Oats} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Potatoes to Soybeans in the chord chart?",
+            "A": "The flow value is {102}."
+        },
+        {
+            "Q": "What is the flow value from Sugarcane to Potatoes in the chord chart?",
+            "A": "The flow value is {272}."
+        },
+        {
+            "Q": "What is the flow value from Sugarcane to Corn in the chord chart?",
+            "A": "The flow value is {143}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Sugarcane and Corn in the chord chart?",
+            "A": "The maximum flow value between Sugarcane and Corn is {181}."
+        },
+        {
+            "Q": "What is the minimum flow value between Corn and Soybeans in the chord chart?",
+            "A": "The minimum flow value between Corn and Soybeans is {192}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {318}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {102}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Sugarcane?",
+            "A": "The total flow output from Sugarcane is {415}."
+        },
+        {
+            "Q": "What is the total flow input by Oats?",
+            "A": "The total flow input by Oats is {318}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 285? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {318} from {Corn} to {Oats}, a flow of {299} from {Oats} to {Corn}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 131? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {119} from {Soybeans} to {Potatoes}, a flow of {102} from {Potatoes} to {Soybeans}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 186 and 235? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {225} from {Soybeans} to {Corn}, a flow of {192} from {Corn} to {Soybeans}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Potatoes to Soybeans or from Sugarcane to Corn?",
+            "A": "The flow from {Sugarcane} to {Corn} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Corn to Oats, from Sugarcane to Corn, or from Potatoes to Soybeans?",
+            "A": "The flow from {Corn} to {Oats} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Soybeans}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Corn} and {Oats}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Oats, Arc Corn, Arc Soybeans, Arc Sugarcane, Arc Potatoes}."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+Agriculture and Food Production,Agriculture Production Distribution by Category (2024),%
+parent,child,value
+Root,Crop Production,42.24
+Crop Production,Oilseeds,26.77
+Oilseeds,Canola,19.49
+Canola,Hybrid Varieties,7.1
+Canola,Open-Pollinated,12.39
+Oilseeds,Soybean,7.28
+Crop Production,Grains,15.47
+Grains,Wheat,8.75
+Grains,Rice,6.72
+Root,Agricultural Inputs,32.17
+Agricultural Inputs,Seeds,7.69
+Seeds,Heirloom Seeds,7.69
+Agricultural Inputs,Fertilizers,24.48
+Root,Livestock,25.6
+Livestock,Poultry,25.6

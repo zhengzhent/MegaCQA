@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Recruitment positioned outside, inside or on the same side as Emergency Response?",
+            "A": "Recruitment is positioned {inside} Emergency Response."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Workplace Wellbeing}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Workplace Wellbeing segment in this sunburst chart?",
+            "A": "The value of the Workplace Wellbeing segment is {43.1}."
+        },
+        {
+            "Q": "What is the value of the Candidate Evaluation segment in this sunburst chart?",
+            "A": "The value of the Candidate Evaluation segment is {13.94}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {43.1}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {21.68}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {10.02}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.09}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Workplace Wellbeing exceed 59%? Please list the category names and corresponding percentages.",
+            "A": "{Work-Life Balance} accounts for {67.52}%"
+        },
+        {
+            "Q": "Which categories in the segment Workplace Wellbeing are below 41%? Please list the category names and corresponding percentages.",
+            "A": "{Health & Safety} accounts for {32.48}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Employee Lifecycle, Work-Life Balance, or Employee Development?",
+            "A": "The value of {Employee Development} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Workplace Wellbeing, Employee Lifecycle, Work-Life Balance, or Performance Management?",
+            "A": "The value of {Workplace Wellbeing} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Workplace Wellbeing or Employee Lifecycle?",
+            "A": "The value of {Workplace Wellbeing} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Workplace Wellbeing to Work-Life Balance to Flexible Scheduling to Compressed Weeks}."
+        }
+    ],
+    "VA": []
+}

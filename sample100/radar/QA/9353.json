@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Mortgage Payment as Rate of Income?",
+            "A": "The next dimension clockwise from Mortgage Payment as Rate of Income is Rate of Newly Built Homes"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Price-to-Income Ratio?",
+            "A": "The next dimension counterclockwise from Mortgage Payment as Rate of Income is Yearly Price Growth Rate."
+        },
+        {
+            "Q": "On the Price Volatility Index, is the point for mouth inside or outside the point for stad?",
+            "A": "On the Price Volatility Index, the point for mouth is outside the point for stad."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Capital Appreciation Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of mouth?",
+            "A": "The strongest aspect is {Capital Appreciation Rate}, while the weakest aspect is{ Mortgage Payment as Rate of Income}."
+        },
+        {
+            "Q": "On dimension Capital Appreciation Rate, which label scores the highest?",
+            "A": "On Capital Appreciation Rate, label {stad} scores the highest."
+        },
+        {
+            "Q": "On dimension Price Volatility Index, which label scores the highest?",
+            "A": "On Price Volatility Index, label {stad} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stad on the Capital Appreciation Rate in the radar chart?",
+            "A": "The value of stad on the Safety dimension is {82}."
+        },
+        {
+            "Q": "What is the value of stad on the Price Volatility Index in the radar chart?",
+            "A": "The value of stad on the Safety dimension is {53}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label stad across all dimensions in the radar chart?",
+            "A": "The maximum value of stad across all dimensions is {53}."
+        },
+        {
+            "Q": "What is the minimum value of label mouth across all dimensions in the radar chart?",
+            "A": "The minimum value of mouth across all dimensions is {40}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Price Volatility Index",
+            "A": "The average value of Price Volatility Index is {61.5}."
+        },
+        {
+            "Q": "What is the average value of mouth",
+            "A": "The average value of mouth is {72.67}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 63 for the Mortgage Payment as Rate of Income dimension? Please list the labels and corresponding scores.",
+            "A": "{stad} is {71}"
+        },
+        {
+            "Q": "For stad in the radar chart, which dimensions have scores above 74? Please list the dimensions and corresponding scores.",
+            "A": "{Rate of Newly Built Homes} is {83}, {Capital Appreciation Rate} is {82}"
+        },
+        {
+            "Q": "For stad in the radar chart, which dimensions have scores below 49? Please list the dimensions and corresponding scores.",
+            "A": "{Yearly Price Growth Rate} is {40}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For stad, which dimension has a higher score: Price-to-Income Ratio or Mortgage Payment as Rate of Income?",
+            "A": "{Price-to-Income Ratio} has a higher score than Mortgage Payment as Rate of Income for stad."
+        },
+        {
+            "Q": "On Mortgage Payment as Rate of Income, which label has a higher score: mouth or the stad?",
+            "A": "{stad} has a higher score on Mortgage Payment as Rate of Income compared to mouth."
+        },
+        {
+            "Q": "For stad, which dimension has a higher score: Yearly Price Growth Rate or Price-to-Income Ratio or Capital Appreciation Rate?",
+            "A": "{Capital Appreciation Rate} has a higher score for stad."
+        },
+        {
+            "Q": "For stad, which dimension has a higher score: Capital Appreciation Rate or Rate of Newly Built Homes or Yearly Price Growth Rate?",
+            "A": "{Rate of Newly Built Homes} has a higher score for stad."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For mouth, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "mouth most needs to improve its {Mortgage Payment as Rate of Income}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {mouth}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {stad}."
+        }
+    ],
+    "VA": []
+}

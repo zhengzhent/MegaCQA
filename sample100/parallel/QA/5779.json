@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {3} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Artistic references (cultural citations) dimension, what is the spatial relationship of subject  Civilization relative to TV  Culture in terms of vertical (above/below) direction?",
+            "A": "{subject  Civilization} is {above} {TV  Culture} on the Artistic references (cultural citations) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Media coverage (articles/month)?",
+            "A": "The first position to the left of Media coverage (articles/month) is {Artistic references (cultural citations)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Behavior change rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Artistic references (cultural citations)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Media coverage (articles/month)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Artistic references (cultural citations) and dimension Media coverage (articles/month)",
+            "A": "There is {Strong Correlation} between Artistic references (cultural citations) and Media coverage (articles/month)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of subject  Civilization on the Historical significance (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of subject  Civilization on the Historical significance (1-10) dimension is {1.0}"
+        },
+        {
+            "Q": "What is the value of TV  Culture on the Artistic references (cultural citations) dimension in the parallel-coordinates chart?",
+            "A": "The value of TV  Culture on the Artistic references (cultural citations) dimension is {52.74}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label far  Culture across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of far  Culture across all dimensions is {4.91}"
+        },
+        {
+            "Q": "What is the minimum value of label far  Culture across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of far  Culture across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Opinion leader count(verified accounts)?",
+            "A": "The average value of Opinion leader count(verified accounts) is {456.68}"
+        },
+        {
+            "Q": "What is the difference in coding Policy influence index (1-10) between label far  Culture and label subject  Civilization",
+            "A": "The difference in coding Policy influence index (1-10) between far  Culture and subject  Civilization is {7.56}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Language adoption (new words) dimension in the parallel coordinates?",
+            "A": "{[100.0, 65.5, 0.0]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Artistic references (cultural citations) dimension in the parallel coordinates?",
+            "A": "{[0.0, 52.74, 1000.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Behavior change rate (%), which label has a higher score: far  Culture or TV  Culture?",
+            "A": "{TV  Culture} has a higher score on Behavior change rate (%)."
+        },
+        {
+            "Q": "On Policy influence index (1-10), which label has a higher score: far  Culture or TV  Culture?",
+            "A": "{TV  Culture} has a higher score on Policy influence index (1-10)."
+        },
+        {
+            "Q": "On Media coverage (articles/month), which label has a higher score: subject  Civilization or TV  Culture?",
+            "A": "{subject  Civilization} has a higher score on Media coverage (articles/month)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Media coverage (articles/month)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Language adoption (new words) being greater than 30.59 and Language adoption (new words) being less than 63.19?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

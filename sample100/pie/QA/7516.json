@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {3} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Instagram?",
+            "A": "The next slice clockwise from slice Instagram is {Facebook}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Instagram?",
+            "A": "The next slice counterclockwise from slice Instagram is {TikTok}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which 2024 has the largest proportion in this pie chart?",
+            "A": "The 2024 with the largest proportion is {TikTok}."
+        },
+        {
+            "Q": "Which 2024 has the smallest proportion in this pie chart?",
+            "A": "The 2024 with the smallest proportion is {Instagram}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the TikTok slice in this pie chart?",
+            "A": "The value of the TikTok slice is {38}%."
+        },
+        {
+            "Q": "What is the value of the Instagram slice in this pie chart?",
+            "A": "The value of the Instagram slice is {30}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {38}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {30}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 35.0%? Please list the category names and corresponding percentages.",
+            "A": "{TikTok} accounts for {38}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 31.0%? Please list the category names and corresponding percentages.",
+            "A": "{Instagram} accounts for {30}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of TikTok or Facebook?",
+            "A": "The value of {TikTok} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of TikTok, Facebook, or Instagram?",
+            "A": "The value of {TikTok} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

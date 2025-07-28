@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from High-value Crop Cultivation Ratio?",
+            "A": "The next dimension clockwise from High-value Crop Cultivation Ratio is Agricultural Product Market Share"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from High-value Crop Cultivation Ratio?",
+            "A": "The next dimension counterclockwise from High-value Crop Cultivation Ratio is Land Utilization Rate."
+        },
+        {
+            "Q": "On the Agricultural Product Market Share, is the point for Hines, Thomas and SandersFarm inside or outside the point for Price-WrightFarm?",
+            "A": "On the Agricultural Product Market Share, the point for Hines, Thomas and SandersFarm is inside the point for Price-WrightFarm."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Agricultural Product Market Share} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Middleton, Taylor and HarrisFarm?",
+            "A": "The strongest aspect is {Agricultural Product Market Share}, while the weakest aspect is{ Profit MarginSustainable Farming Adoption Rate}."
+        },
+        {
+            "Q": "On dimension Agricultural Product Market Share, which label scores the highest?",
+            "A": "On Agricultural Product Market Share, label {Hines, Thomas and SandersFarm} scores the highest."
+        },
+        {
+            "Q": "On dimension High-value Crop Cultivation Ratio, which label scores the highest?",
+            "A": "On High-value Crop Cultivation Ratio, label {Middleton, Taylor and HarrisFarm} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Middleton, Taylor and HarrisFarm on the Agricultural Product Market Share in the radar chart?",
+            "A": "The value of Middleton, Taylor and HarrisFarm on the Safety dimension is {92}."
+        },
+        {
+            "Q": "What is the value of Price-WrightFarm on the Profit MarginSustainable Farming Adoption Rate in the radar chart?",
+            "A": "The value of Price-WrightFarm on the Safety dimension is {48}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Hines, Thomas and SandersFarm across all dimensions in the radar chart?",
+            "A": "The maximum value of Hines, Thomas and SandersFarm across all dimensions is {80}."
+        },
+        {
+            "Q": "What is the minimum value of label Middleton, Taylor and HarrisFarm across all dimensions in the radar chart?",
+            "A": "The minimum value of Middleton, Taylor and HarrisFarm across all dimensions is {48}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Profit MarginSustainable Farming Adoption Rate",
+            "A": "The average value of Profit MarginSustainable Farming Adoption Rate is {39.0}."
+        },
+        {
+            "Q": "What is the average value of Middleton, Taylor and HarrisFarm",
+            "A": "The average value of Middleton, Taylor and HarrisFarm is {68.25}."
+        },
+        {
+            "Q": "What is the difference in Profit MarginSustainable Farming Adoption Rate between Hines, Thomas and SandersFarm and Middleton, Taylor and HarrisFarm?",
+            "A": "The difference in Profit MarginSustainable Farming Adoption Rate between Hines, Thomas and SandersFarm and Middleton, Taylor and HarrisFarm is {19}."
+        },
+        {
+            "Q": "What is the difference in Profit MarginSustainable Farming Adoption Rate between Middleton, Taylor and HarrisFarm and Price-WrightFarm?",
+            "A": "The difference in Profit MarginSustainable Farming Adoption Rate between Middleton, Taylor and HarrisFarm and Price-WrightFarm is {23}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Middleton, Taylor and HarrisFarm in the radar chart, which dimensions have scores between 38 and 79? Please list the dimensions and corresponding scores.",
+            "A": "{High-value Crop Cultivation Ratio} is {76}"
+        },
+        {
+            "Q": "For Middleton, Taylor and HarrisFarm in the radar chart, which dimensions have scores below 38? Please list the dimensions and corresponding scores.",
+            "A": "{Profit MarginSustainable Farming Adoption Rate} is {25}"
+        },
+        {
+            "Q": "For Middleton, Taylor and HarrisFarm in the radar chart, which dimensions have scores above 79? Please list the dimensions and corresponding scores.",
+            "A": "{Land Utilization Rate} is {80}, {Agricultural Product Market Share} is {92}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Middleton, Taylor and HarrisFarm, which dimension has a higher score: High-value Crop Cultivation Ratio or Profit MarginSustainable Farming Adoption Rate?",
+            "A": "{High-value Crop Cultivation Ratio} has a higher score than Profit MarginSustainable Farming Adoption Rate for Middleton, Taylor and HarrisFarm."
+        },
+        {
+            "Q": "For Middleton, Taylor and HarrisFarm, which dimension has a higher score: High-value Crop Cultivation Ratio or Profit MarginSustainable Farming Adoption Rate?",
+            "A": "{High-value Crop Cultivation Ratio} has a higher score than Profit MarginSustainable Farming Adoption Rate for Middleton, Taylor and HarrisFarm."
+        },
+        {
+            "Q": "On Agricultural Product Market Share, which label has a higher score: Middleton, Taylor and HarrisFarm or the Price-WrightFarm?",
+            "A": "{Middleton, Taylor and HarrisFarm} has a higher score on Agricultural Product Market Share compared to Price-WrightFarm."
+        },
+        {
+            "Q": "On Land Utilization Rate, which label has a higher score: Middleton, Taylor and HarrisFarm or the Price-WrightFarm?",
+            "A": "{Middleton, Taylor and HarrisFarm} has a higher score on Land Utilization Rate compared to Price-WrightFarm."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Hines, Thomas and SandersFarm, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Hines, Thomas and SandersFarm most needs to improve its {Profit MarginSustainable Farming Adoption Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Hines, Thomas and SandersFarm}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Price-WrightFarm}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Vegetable Hybrids positioned outside, inside or on the same side as Agricultural Inputs?",
+            "A": "Vegetable Hybrids is positioned {outside} Agricultural Inputs."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Agricultural Inputs}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Hybrid Seeds segment in this sunburst chart?",
+            "A": "The value of the Hybrid Seeds segment is {25.13}."
+        },
+        {
+            "Q": "What is the value of the Seeds segment in this sunburst chart?",
+            "A": "The value of the Seeds segment is {44.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {52.03}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {23.85}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {17.37}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {7.61}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {99.99}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Agricultural Inputs exceed 68%? Please list the category names and corresponding percentages.",
+            "A": "{Seeds} accounts for {85.37}%"
+        },
+        {
+            "Q": "Which categories in the segment Agricultural Inputs are below 32%? Please list the category names and corresponding percentages.",
+            "A": "{Fertilizers} accounts for {14.63}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Agricultural Inputs or Seeds?",
+            "A": "The value of {Agricultural Inputs} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Agricultural Inputs, Seeds, Hybrid Seeds, or Cattle?",
+            "A": "The value of {Agricultural Inputs} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Agricultural Inputs to Seeds to Hybrid Seeds to Maize Hybrids}."
+        }
+    ],
+    "VA": []
+}

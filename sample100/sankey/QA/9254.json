@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow into column Regions of this sankey chart?",
+            "A": "There are {12} links flow into column Regions."
+        },
+        {
+            "Q": "How many nodes are in this sankey chart?",
+            "A": "There are {8} nodes."
+        },
+        {
+            "Q": "How many links flow out of the node Electronics in this sankey chart?",
+            "A": "There are {6} links flowing out of the node Electronics."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Product Categories}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Regions}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Electronics} and {South America}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Electronics} and {North America}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Books to the node North America?",
+            "A": "The flow value from the node Books to the node North America is {3734}."
+        },
+        {
+            "Q": "What is the flow value from the node Electronics to the node Europe?",
+            "A": "The flow value from the node Electronics to the node Europe is {6632}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Books to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Books to the next stage is {15526}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Electronics to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Electronics to the next stage is {2182}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Electronics?",
+            "A": "The total flow output from node Electronics is {52469}."
+        },
+        {
+            "Q": "What is the total flow input by node Europe?",
+            "A": "The total flow input by node Europe is {19656}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Product Categories of the sankey chart, which nodes have an outflow exceeded 17396? Please list the node labels and their corresponding outflow values.",
+            "A": "{Electronics} has an outflow of {18795}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Product Categories and column Regions is the flow between 6656 and 12415? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {7532} from node {Books} to {Oceania}, a flow of {11807} from node {Books} to {Middle East}, a flow of {6681} from node {Electronics} to {Oceania}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 6656 and 12415? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {7532} from node {Books} to {Oceania}, a flow of {11807} from node {Books} to {Middle East}, a flow of {6681} from node {Electronics} to {Oceania}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Books to node Europe and from node Electronics to node North America, which path has a larger flow?",
+            "A": "The flow from node {Books} to node {Europe} is larger."
+        },
+        {
+            "Q": "Among the flows from node Books to node Middle East, from node Electronics to node Asia, and from node Electronics to node Oceania, which path has the largest flow?",
+            "A": "The flow from node {Electronics} to node {Asia} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Regions of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Regions is {South America}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Books to target node Oceania? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Books to node Oceania is: {Books, Oceania}."
+        }
+    ],
+    "VA": []
+}

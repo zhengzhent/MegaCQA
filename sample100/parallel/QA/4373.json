@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {3} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the College acceptance rate (%) dimension, what is the spatial relationship of Moran, Wang and Williamson  School relative to Griffith, Sanders and Wallace  School in terms of vertical (above/below) direction?",
+            "A": "{Moran, Wang and Williamson  School} is {above} {Griffith, Sanders and Wallace  School} on the College acceptance rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Graduation rate (%)?",
+            "A": "The second position to the left of Graduation rate (%) is {College acceptance rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Graduation rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {College acceptance rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {College acceptance rate (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between College acceptance rate (%) and dimension Alumni donation rate (%)",
+            "A": "There is {No Correlation} between College acceptance rate (%) and Alumni donation rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Moran, Wang and Williamson  School on the Alumni donation rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Moran, Wang and Williamson  School on the Alumni donation rate (%) dimension is {26.02}"
+        },
+        {
+            "Q": "What is the value of Moran, Wang and Williamson  School on the Graduation rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Moran, Wang and Williamson  School on the Graduation rate (%) dimension is {83.93}"
+        },
+        {
+            "Q": "What is the value of Griffith, Sanders and Wallace  School on the College acceptance rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Griffith, Sanders and Wallace  School on the College acceptance rate (%) dimension is {10.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Griffith, Sanders and Wallace  School across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Griffith, Sanders and Wallace  School across all dimensions is {100.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Gould PLC  Institute across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Gould PLC  Institute across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of College acceptance rate (%)?",
+            "A": "The average value of College acceptance rate (%) is {50.64}"
+        },
+        {
+            "Q": "What is the difference in coding Graduation rate (%) between label Church LLC  University and label Moran, Wang and Williamson  School",
+            "A": "The difference in coding Graduation rate (%) between Church LLC  University and Moran, Wang and Williamson  School is {6.63}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Alumni donation rate (%) dimension in the parallel coordinates?",
+            "A": "{[50.0, 26.02, 1.61]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for College acceptance rate (%) dimension in the parallel coordinates?",
+            "A": "{[10.0, 45.24, 47.3]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Graduation rate (%), which label has a higher score: Moran, Wang and Williamson  School or Griffith, Sanders and Wallace  School?",
+            "A": "{Griffith, Sanders and Wallace  School} has a higher score on Graduation rate (%)."
+        },
+        {
+            "Q": "On Alumni donation rate (%), which label has a higher score: Griffith, Sanders and Wallace  School or Church LLC  University?",
+            "A": "{Griffith, Sanders and Wallace  School} has a higher score on Alumni donation rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {College acceptance rate (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Alumni donation rate (%) being greater than 25.56 and College acceptance rate (%) being less than 51.06?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

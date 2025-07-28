@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {52} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Employee training hours in the scatter plot?",
+            "A": "The maximum observed value in the Employee training hours dimension is {50.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Employee training hours in the scatter plot?",
+            "A": "The minimum observed value in the Employee training hours dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Absenteeism in the scatter plot?",
+            "A": "The maximum observed value in the Absenteeism dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Absenteeism in the scatter plot?",
+            "A": "The minimum observed value in the Absenteeism dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Employee training hours for all points?",
+            "A": "The average value of Employee training hours for all points is {25.50}."
+        },
+        {
+            "Q": "What is the average value of the Absenteeism for all points?",
+            "A": "The average value of Absenteeism for all points is {5.51}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Absenteeism values corresponding to the top 3 Employee training hours values in the scatter plot?",
+            "A": "{8.84, 8.98, 5.38}."
+        },
+        {
+            "Q": "What are the Absenteeism values corresponding to the bottom 3 Employee training hours values in the scatter plot?",
+            "A": "{2.80, 6.41, 2.61}."
+        },
+        {
+            "Q": "What are the Employee training hours values corresponding to the top 3 Absenteeism values in the scatter plot?",
+            "A": "{44.24, 7.73, 49.04}."
+        },
+        {
+            "Q": "What are the Employee training hours values corresponding to the bottom 3 Absenteeism values in the scatter plot?",
+            "A": "{35.59, 42.31, 28.86}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 6.84 and 18.64 and Y coordinates between 0.62 and 3.25?",
+            "A": "There are {1} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1.00, 2.80) and (50.00, 8.84)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(11.57, 6.87) and (12.53, 6.83)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [9.12, 6.33, 14.98, 7.37] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (11.57, 6.87)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [6.52, 5.38, 17.58, 8.32]; Region B: [1.98, 2.41, 13.04, 5.35]; Region C: [23.84, 2.39, 34.89, 5.34]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

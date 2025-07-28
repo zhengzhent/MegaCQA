@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which discipline-wise has the largest proportion in this pie chart?",
+            "A": "The discipline-wise with the largest proportion is {Publication}."
+        },
+        {
+            "Q": "Which discipline-wise has the smallest proportion in this pie chart?",
+            "A": "The discipline-wise with the smallest proportion is {Patent}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Publication slice in this pie chart?",
+            "A": "The value of the Publication slice is {52}%."
+        },
+        {
+            "Q": "What is the value of the Patent slice in this pie chart?",
+            "A": "The value of the Patent slice is {48}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {52}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {48}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 51.0%? Please list the category names and corresponding percentages.",
+            "A": "{Publication} accounts for {52}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 49.0%? Please list the category names and corresponding percentages.",
+            "A": "{Patent} accounts for {48}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Publication or Patent?",
+            "A": "The value of {Publication} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

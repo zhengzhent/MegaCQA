@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {70} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Interest rate in the scatter plot?",
+            "A": "The maximum observed value in the Interest rate dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Interest rate in the scatter plot?",
+            "A": "The minimum observed value in the Interest rate dimension is {0.10}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Investment rate in the scatter plot?",
+            "A": "The maximum observed value in the Investment rate dimension is {50.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Investment rate in the scatter plot?",
+            "A": "The minimum observed value in the Investment rate dimension is {5.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Interest rate for all points?",
+            "A": "The average value of Interest rate for all points is {5.05}."
+        },
+        {
+            "Q": "What is the average value of the Investment rate for all points?",
+            "A": "The average value of Investment rate for all points is {18.59}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Investment rate values corresponding to the top 3 Interest rate values in the scatter plot?",
+            "A": "{10.87, 15.42, 11.59}."
+        },
+        {
+            "Q": "What are the Investment rate values corresponding to the bottom 3 Interest rate values in the scatter plot?",
+            "A": "{46.69, 50.00, 46.89}."
+        },
+        {
+            "Q": "What are the Interest rate values corresponding to the top 3 Investment rate values in the scatter plot?",
+            "A": "{0.24, 0.39, 0.10}."
+        },
+        {
+            "Q": "What are the Interest rate values corresponding to the bottom 3 Investment rate values in the scatter plot?",
+            "A": "{9.14, 4.40, 8.57}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 6.83 and 8.31 and Y coordinates between 22.56 and 30.43?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(0.24, 50.00) and (9.14, 5.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(9.43, 15.69) and (9.57, 15.84)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [8.94, 13.44, 10.06, 18.09] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (9.43, 15.69)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [1.65, 9.37, 4.53, 19.58]; Region B: [2.69, 21.34, 5.56, 31.55]; Region C: [7.12, 10.66, 10.00, 20.87]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

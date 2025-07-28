@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Historical significance (1-10) dimension, what is the spatial relationship of life  Civilization relative to season  Civilization in terms of vertical (above/below) direction?",
+            "A": "{life  Civilization} is {above} {season  Civilization} on the Historical significance (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Artistic references (cultural citations)?",
+            "A": "The first position to the left of Artistic references (cultural citations) is {Language adoption (new words)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Policy influence index (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Media coverage (articles/month)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Artistic references (cultural citations)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Opinion leader count(verified accounts) and dimension Behavior change rate (%)",
+            "A": "There is {Weak Correlation} between Opinion leader count(verified accounts) and Behavior change rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of or  Culture on the Media coverage (articles/month) dimension in the parallel-coordinates chart?",
+            "A": "The value of or  Culture on the Media coverage (articles/month) dimension is {69.72}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label teach  Civilization across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of teach  Civilization across all dimensions is {603.19}"
+        },
+        {
+            "Q": "What is the minimum value of label season  Civilization across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of season  Civilization across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Policy influence index (1-10)?",
+            "A": "The average value of Policy influence index (1-10) is {3.97}"
+        },
+        {
+            "Q": "What is the difference in coding Language adoption (new words) between label receive  Culture and label season  Civilization",
+            "A": "The difference in coding Language adoption (new words) between receive  Culture and season  Civilization is {54.87}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Artistic references (cultural citations) dimension in the parallel coordinates?",
+            "A": "{[1000.0, 930.81, 337.54]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Media coverage (articles/month) dimension in the parallel coordinates?",
+            "A": "{[1.0, 69.72, 603.19]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Media coverage (articles/month), which label has a higher score: season  Civilization or teach  Civilization?",
+            "A": "{teach  Civilization} has a higher score on Media coverage (articles/month)."
+        },
+        {
+            "Q": "On Artistic references (cultural citations), which label has a higher score: teach  Civilization or life  Civilization?",
+            "A": "{teach  Civilization} has a higher score on Artistic references (cultural citations)."
+        },
+        {
+            "Q": "On Behavior change rate (%), which label has a higher score: receive  Culture or teach  Civilization?",
+            "A": "{teach  Civilization} has a higher score on Behavior change rate (%)."
+        },
+        {
+            "Q": "On Opinion leader count(verified accounts), which label has a higher score: life  Civilization or or  Culture?",
+            "A": "{life  Civilization} has a higher score on Opinion leader count(verified accounts)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Artistic references (cultural citations)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Historical significance (1-10) being greater than 6.89 and Opinion leader count(verified accounts) being less than 343.88?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

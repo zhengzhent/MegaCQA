@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Renewable Energy Adoption Rate?",
+            "A": "The next dimension clockwise from Renewable Energy Adoption Rate is Waste-to-Energy Conversion Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Renewable Energy Adoption Rate?",
+            "A": "The next dimension counterclockwise from Renewable Energy Adoption Rate is Green Building Certification Rate."
+        },
+        {
+            "Q": "On the Renewable Energy Adoption Rate, is the point for Crawford and Sons Sustainability Initiative inside or outside the point for Lucas, Irwin and Lowery Sustainability Initiative?",
+            "A": "On the Renewable Energy Adoption Rate, the point for Crawford and Sons Sustainability Initiative is inside the point for Lucas, Irwin and Lowery Sustainability Initiative."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Waste-to-Energy Conversion Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Lucas, Irwin and Lowery Sustainability Initiative?",
+            "A": "The strongest aspect is {Waste-to-Energy Conversion Rate}, while the weakest aspect is{ Green Building Certification Rate}."
+        },
+        {
+            "Q": "On dimension Renewable Energy Adoption Rate, which label scores the highest?",
+            "A": "On Renewable Energy Adoption Rate, label {Crawford and Sons Sustainability Initiative} scores the highest."
+        },
+        {
+            "Q": "On dimension Green Building Certification Rate, which label scores the highest?",
+            "A": "On Green Building Certification Rate, label {Lucas, Irwin and Lowery Sustainability Initiative} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Crawford and Sons Sustainability Initiative on the Recycling Material Utilization Rate in the radar chart?",
+            "A": "The value of Crawford and Sons Sustainability Initiative on the Safety dimension is {31}."
+        },
+        {
+            "Q": "What is the value of Crawford and Sons Sustainability Initiative on the Renewable Energy Adoption Rate in the radar chart?",
+            "A": "The value of Crawford and Sons Sustainability Initiative on the Safety dimension is {67}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Crawford and Sons Sustainability Initiative across all dimensions in the radar chart?",
+            "A": "The maximum value of Crawford and Sons Sustainability Initiative across all dimensions is {63}."
+        },
+        {
+            "Q": "What is the minimum value of label Lucas, Irwin and Lowery Sustainability Initiative across all dimensions in the radar chart?",
+            "A": "The minimum value of Lucas, Irwin and Lowery Sustainability Initiative across all dimensions is {63}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Renewable Energy Adoption Rate",
+            "A": "The average value of Renewable Energy Adoption Rate is {78.0}."
+        },
+        {
+            "Q": "What is the average value of Crawford and Sons Sustainability Initiative",
+            "A": "The average value of Crawford and Sons Sustainability Initiative is {58.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Crawford and Sons Sustainability Initiative in the radar chart, which dimensions have scores below 39? Please list the dimensions and corresponding scores.",
+            "A": "{Recycling Material Utilization Rate} is {31}"
+        },
+        {
+            "Q": "For Crawford and Sons Sustainability Initiative in the radar chart, which dimensions have scores above 63? Please list the dimensions and corresponding scores.",
+            "A": "{Renewable Energy Adoption Rate} is {67}, {Waste-to-Energy Conversion Rate} is {71}"
+        },
+        {
+            "Q": "Which labels have scores above 85 for the Renewable Energy Adoption Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Lucas, Irwin and Lowery Sustainability Initiative} is {89}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Lucas, Irwin and Lowery Sustainability Initiative, which dimension has a higher score: Renewable Energy Adoption Rate or Waste-to-Energy Conversion Rate?",
+            "A": "{Waste-to-Energy Conversion Rate} has a higher score than Renewable Energy Adoption Rate for Lucas, Irwin and Lowery Sustainability Initiative."
+        },
+        {
+            "Q": "On Waste-to-Energy Conversion Rate, which label has a higher score: Crawford and Sons Sustainability Initiative or the Lucas, Irwin and Lowery Sustainability Initiative?",
+            "A": "{Lucas, Irwin and Lowery Sustainability Initiative} has a higher score on Waste-to-Energy Conversion Rate compared to Crawford and Sons Sustainability Initiative."
+        },
+        {
+            "Q": "For Lucas, Irwin and Lowery Sustainability Initiative, which dimension has a higher score: Recycling Material Utilization Rate or Green Building Certification Rate or Renewable Energy Adoption Rate?",
+            "A": "{Renewable Energy Adoption Rate} has a higher score for Lucas, Irwin and Lowery Sustainability Initiative."
+        },
+        {
+            "Q": "For Lucas, Irwin and Lowery Sustainability Initiative, which dimension has a higher score: Waste-to-Energy Conversion Rate or Green Building Certification Rate or Recycling Material Utilization Rate?",
+            "A": "{Waste-to-Energy Conversion Rate} has a higher score for Lucas, Irwin and Lowery Sustainability Initiative."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Crawford and Sons Sustainability Initiative, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Crawford and Sons Sustainability Initiative most needs to improve its {Recycling Material Utilization Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Lucas, Irwin and Lowery Sustainability Initiative}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Crawford and Sons Sustainability Initiative}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Attraction visit rate (per day) dimension, what is the spatial relationship of North Bethany relative to Melissaberg in terms of vertical (above/below) direction?",
+            "A": "{North Bethany} is {above} {Melissaberg} on the Attraction visit rate (per day) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Booking lead time (days)?",
+            "A": "The second position to the left of Booking lead time (days) is {Accessibility score (1-5)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Customer satisfaction (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Average stay duration (nights)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Booking lead time (days)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Average stay duration (nights) and dimension Accessibility score (1-5)",
+            "A": "There is {Clustering} between Average stay duration (nights) and Accessibility score (1-5)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Jasonton on the Average stay duration (nights) dimension in the parallel-coordinates chart?",
+            "A": "The value of Jasonton on the Average stay duration (nights) dimension is {1.0}"
+        },
+        {
+            "Q": "What is the value of Jasonton on the Booking lead time (days) dimension in the parallel-coordinates chart?",
+            "A": "The value of Jasonton on the Booking lead time (days) dimension is {42.68}"
+        },
+        {
+            "Q": "What is the value of Jasonton on the Attraction visit rate (per day) dimension in the parallel-coordinates chart?",
+            "A": "The value of Jasonton on the Attraction visit rate (per day) dimension is {4.65}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Rachelborough across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Rachelborough across all dimensions is {365.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Melissaberg across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Melissaberg across all dimensions is {0.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Booking lead time (days)?",
+            "A": "The average value of Booking lead time (days) is {198.0}"
+        },
+        {
+            "Q": "What is the difference in coding Repeat visitor rate (%) between label Rachelborough and label Danielstad",
+            "A": "The difference in coding Repeat visitor rate (%) between Rachelborough and Danielstad is {23.97}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Average stay duration (nights) dimension in the parallel coordinates?",
+            "A": "{[14.0, 11.61, 4.73]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Customer satisfaction (1-10) dimension in the parallel coordinates?",
+            "A": "{[4.0, 5.1, 8.56]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Average stay duration (nights), which label has a higher score: Jeffreyland or Melissaberg?",
+            "A": "{Melissaberg} has a higher score on Average stay duration (nights)."
+        },
+        {
+            "Q": "On Accessibility score (1-5), which label has a higher score: Jasonton or Danielstad?",
+            "A": "{Danielstad} has a higher score on Accessibility score (1-5)."
+        },
+        {
+            "Q": "On Booking lead time (days), which label has a higher score: Rachelborough or Jasonton?",
+            "A": "{Rachelborough} has a higher score on Booking lead time (days)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Booking lead time (days)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Customer satisfaction (1-10) being greater than 7.99 and Repeat visitor rate (%) being less than 33.81?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

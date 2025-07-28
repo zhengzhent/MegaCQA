@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Patent Commercialization Rate ?",
+            "A": "The next dimension clockwise from Patent Commercialization Rate  is R&D ROI (Return on Investment)"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Research Growth Rate?",
+            "A": "The next dimension counterclockwise from Patent Commercialization Rate  is Research Growth Rate."
+        },
+        {
+            "Q": "On the Green Technology Adoption Rate Technology Transfer Success Rate, is the point for Price, Walsh and Wright Energy inside or outside the point for Campbell Group Neuroscience?",
+            "A": "On the Green Technology Adoption Rate Technology Transfer Success Rate, the point for Price, Walsh and Wright Energy is inside the point for Campbell Group Neuroscience."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Research Growth Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Campbell Group Neuroscience?",
+            "A": "The strongest aspect is {Research Growth Rate}, while the weakest aspect is{ Innovation Rate}."
+        },
+        {
+            "Q": "On dimension Innovation Rate, which label scores the highest?",
+            "A": "On Innovation Rate, label {Campbell Group Neuroscience} scores the highest."
+        },
+        {
+            "Q": "On dimension Green Technology Adoption Rate Technology Transfer Success Rate, which label scores the highest?",
+            "A": "On Green Technology Adoption Rate Technology Transfer Success Rate, label {Price, Walsh and Wright Energy} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Price, Walsh and Wright Energy on the R&D ROI (Return on Investment) in the radar chart?",
+            "A": "The value of Price, Walsh and Wright Energy on the Safety dimension is {28}."
+        },
+        {
+            "Q": "What is the value of Campbell Group Neuroscience on the Innovation Rate in the radar chart?",
+            "A": "The value of Campbell Group Neuroscience on the Safety dimension is {25}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Campbell Group Neuroscience across all dimensions in the radar chart?",
+            "A": "The maximum value of Campbell Group Neuroscience across all dimensions is {32}."
+        },
+        {
+            "Q": "What is the minimum value of label Price, Walsh and Wright Energy across all dimensions in the radar chart?",
+            "A": "The minimum value of Price, Walsh and Wright Energy across all dimensions is {46}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Innovation Rate",
+            "A": "The average value of Innovation Rate is {28.5}."
+        },
+        {
+            "Q": "What is the average value of Campbell Group Neuroscience",
+            "A": "The average value of Campbell Group Neuroscience is {48.29}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Price, Walsh and Wright Energy in the radar chart, which dimensions have scores below 35? Please list the dimensions and corresponding scores.",
+            "A": "{Innovation Rate} is {25}, {Citation Rate} is {26}"
+        },
+        {
+            "Q": "For Price, Walsh and Wright Energy in the radar chart, which dimensions have scores between 35 and 69? Please list the dimensions and corresponding scores.",
+            "A": "{Patent Commercialization Rate } is {53}"
+        },
+        {
+            "Q": "Which labels have scores below 54 for the Patent Commercialization Rate  dimension? Please list the labels and corresponding scores.",
+            "A": "{Price, Walsh and Wright Energy} is {53}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Campbell Group Neuroscience, which dimension has a higher score: Interdisciplinary Collaboration Rate  or Citation Rate?",
+            "A": "{Interdisciplinary Collaboration Rate } has a higher score than Citation Rate for Campbell Group Neuroscience."
+        },
+        {
+            "Q": "For Campbell Group Neuroscience, which dimension has a higher score: Research Growth Rate or Patent Commercialization Rate ?",
+            "A": "{Research Growth Rate} has a higher score than Patent Commercialization Rate  for Campbell Group Neuroscience."
+        },
+        {
+            "Q": "On Citation Rate, which label has a higher score: Campbell Group Neuroscience or the Price, Walsh and Wright Energy?",
+            "A": "{Price, Walsh and Wright Energy} has a higher score on Citation Rate compared to Campbell Group Neuroscience."
+        },
+        {
+            "Q": "On Research Growth Rate, which label has a higher score: Campbell Group Neuroscience or the Price, Walsh and Wright Energy?",
+            "A": "{Campbell Group Neuroscience} has a higher score on Research Growth Rate compared to Price, Walsh and Wright Energy."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Campbell Group Neuroscience, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Campbell Group Neuroscience most needs to improve its {Innovation Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Campbell Group Neuroscience}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Price, Walsh and Wright Energy}."
+        }
+    ],
+    "VA": []
+}

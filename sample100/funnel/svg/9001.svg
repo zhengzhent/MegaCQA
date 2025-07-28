@@ -1,0 +1,26 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1391.5 292.3 1471.5 292.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1269.4 446.9 1349.4 446.9" fill="none" stroke="#000000"></polyline>
+<polyline points="1165.5 601.4 1245.5 601.4" fill="none" stroke="#000000"></polyline>
+<polyline points="1096.7 756 1176.7 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1050 910.6 1130 910.6" fill="none" stroke="#000000"></polyline>
+<polyline points="995.1 1065.1 1075.1 1065.1" fill="none" stroke="#000000"></polyline>
+<polyline points="986.8 1219.7 1066.8 1219.7" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1304.7 368.6 423.3 368.6" fill="#E9B9AA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="423.3 370.6 1304.7 370.6 1234.2 523.1 493.8 523.1" fill="#D98481" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="493.8 525.1 1234.2 525.1 1096.8 677.7 631.2 677.7" fill="#7892B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="631.2 679.7 1096.8 679.7 1096.7 832.3 631.3 832.3" fill="#8CB9C0" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="631.3 834.3 1096.7 834.3 1003.4 986.9 724.6 986.9" fill="#91B5A9" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="724.6 988.9 1003.4 988.9 986.8 1141.4 741.2 1141.4" fill="#EDCA7F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="741.2 1143.4 986.8 1143.4 986.8 1296 741.2 1296" fill="#A17CAB" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1476.544030808729" y="292.2857142857143" fill="#000000">Visit Product Page: 6232</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1354.4428754813864" y="446.85714285714283" fill="#000000">Add to Wishlist: 4470</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1250.4818998716305" y="601.4285714285713" fill="#000000">Add to Cart: 3755</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1181.7168164313223" y="756" fill="#000000">Initiate Checkout: 2361</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1135.0354300385109" y="910.5714285714284" fill="#000000">Enter Payment Information: 2360</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1080.121951219512" y="1065.142857142857" fill="#000000">Complete Purchase: 1414</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1071.8405648267008" y="1219.7142857142858" fill="#000000">Leave Product Review: 1246</text>
+<path d="M-348.1836 -5l696.3672 0l0 58l-696.3672 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">E-commerce User Purchase (Users)</text>
+</svg>

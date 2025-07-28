@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {7} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Convenience-Oriented relative to the peak of Ethical Consumers in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Convenience-Oriented is to the {right} of the peak of Ethical Consumers."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Budget Shoppers show?",
+            "A": "The ridgeline representing Budget Shoppers shows a {Single Peak Distribution}."
+        },
+        {
+            "Q": "At what value do  Organic Shoppers reach its peaks?",
+            "A": "At {81.48}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Budget Shoppers} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =90.5?",
+            "A": "At X =90.5,the label with the highest density is {Health-Conscious}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 28? Please list the countries and corresponding peak values.",
+            "A": "{Tech-savvy Consumers}'s peak at {84},{Health-Conscious}'s peak at {83},{Convenience-Oriented}'s peak at {29},{Organic Shoppers}'s peak at {81}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 52? Please list the countries and corresponding peak values.",
+            "A": "{Convenience-Oriented}'s peak at {29},{Budget Shoppers}'s peak at {13},{Premium Brands}'s peak at {14},{Ethical Consumers}'s peak at {12}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Tech-savvy Consumers or Organic Shoppers?",
+            "A": "{Tech-savvy Consumers} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Premium Brands or Budget Shoppers?",
+            "A": "{Premium Brands} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Convenience-Oriented or Premium Brands?",
+            "A": "{Convenience-Oriented} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {3} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Ethical Consumers}"
+        }
+    ],
+    "VA": []
+}

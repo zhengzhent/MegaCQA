@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {3} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {3} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Adriantown College?",
+            "A": "The next arc clockwise from arc Adriantown College is arc {Herman Research Center}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Jessicatown School?",
+            "A": "The next arc counterclockwise from arc Jessicatown School is arc {Herman Research Center}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Herman Research Center} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Jessicatown School} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Herman Research Center to Adriantown College in the chord chart?",
+            "A": "The flow value is {37}."
+        },
+        {
+            "Q": "What is the flow value from Herman Research Center to Jessicatown School in the chord chart?",
+            "A": "The flow value is {82}."
+        },
+        {
+            "Q": "What is the flow value from Jessicatown School to Adriantown College in the chord chart?",
+            "A": "The flow value is {65}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Herman Research Center and Adriantown College in the chord chart?",
+            "A": "The maximum flow value between Herman Research Center and Adriantown College is {78}."
+        },
+        {
+            "Q": "What is the minimum flow value between Jessicatown School and Herman Research Center in the chord chart?",
+            "A": "The minimum flow value between Jessicatown School and Herman Research Center is {21}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {82}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {21}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Herman Research Center?",
+            "A": "The total flow output from Herman Research Center is {119}."
+        },
+        {
+            "Q": "What is the total flow input by Herman Research Center?",
+            "A": "The total flow input by Herman Research Center is {99}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 79? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {80} from {Adriantown College} to {Jessicatown School}, a flow of {82} from {Herman Research Center} to {Jessicatown School}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 51? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {37} from {Herman Research Center} to {Adriantown College}, a flow of {21} from {Jessicatown School} to {Herman Research Center}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 51 and 71? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {65} from {Jessicatown School} to {Adriantown College}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Herman Research Center to Jessicatown School or from Herman Research Center to Adriantown College?",
+            "A": "The flow from {Herman Research Center} to {Jessicatown School} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Herman Research Center to Adriantown College, from Jessicatown School to Adriantown College, or from Jessicatown School to Herman Research Center?",
+            "A": "The flow from {Jessicatown School} to {Adriantown College} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Adriantown College}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Adriantown College} and {Jessicatown School}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Herman Research Center, Arc Adriantown College, Arc Jessicatown School}."
+        }
+    ]
+}

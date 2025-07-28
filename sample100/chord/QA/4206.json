@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {6} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Coal?",
+            "A": "The next arc clockwise from arc Coal is arc {Geothermal}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Hydropower?",
+            "A": "The next arc counterclockwise from arc Hydropower is arc {Solar}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Oil} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Solar} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Geothermal to Coal in the chord chart?",
+            "A": "The flow value is {69}."
+        },
+        {
+            "Q": "What is the flow value from Oil to Hydropower in the chord chart?",
+            "A": "The flow value is {188}."
+        },
+        {
+            "Q": "What is the flow value from Coal to Hydropower in the chord chart?",
+            "A": "The flow value is {166}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Oil and Solar in the chord chart?",
+            "A": "The maximum flow value between Oil and Solar is {226}."
+        },
+        {
+            "Q": "What is the minimum flow value between Geothermal and Coal in the chord chart?",
+            "A": "The minimum flow value between Geothermal and Coal is {69}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {226}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {69}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Coal?",
+            "A": "The total flow output from Coal is {251}."
+        },
+        {
+            "Q": "What is the total flow input by Geothermal?",
+            "A": "The total flow input by Geothermal is {230}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 218? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {226} from {Oil} to {Solar}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 90? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {85} from {Coal} to {Geothermal}, a flow of {69} from {Geothermal} to {Coal}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 136 and 162? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {158} from {Hydropower} to {Coal}, a flow of {145} from {Hydropower} to {Geothermal}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Hydropower to Coal or from Hydropower to Oil?",
+            "A": "The flow from {Hydropower} to {Oil} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Oil to Solar, from Coal to Geothermal, or from Solar to Oil?",
+            "A": "The flow from {Oil} to {Solar} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Coal}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Oil} and {Solar}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Geothermal, Arc Hydropower, Arc Coal, Arc Oil, Arc Solar}."
+        }
+    ]
+}

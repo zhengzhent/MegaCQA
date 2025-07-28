@@ -1,0 +1,20 @@
+Business and Finance,Business Distribution by Category (2021),%
+parent,child,value
+Root,Financial Management,28.03
+Financial Management,Investment Strategy,5.87
+Financial Management,Budgeting & Planning,22.16
+Budgeting & Planning,Operational Forecasting,15.01
+Operational Forecasting,Sales Forecasts,5.0
+Operational Forecasting,Scenario Planning,5.01
+Operational Forecasting,Cost Projections,5.0
+Budgeting & Planning,Capital Budgeting,7.15
+Root,Corporate Strategy,38.12
+Corporate Strategy,Growth Models,19.42
+Growth Models,Mergers & Acquisitions,9.95
+Growth Models,Market Expansion,9.47
+Corporate Strategy,Innovation Strategy,18.7
+Innovation Strategy,Product Innovation,18.7
+Product Innovation,Rapid Prototyping,12.65
+Product Innovation,User-Centric Design,6.05
+Root,Digital Transformation,33.85
+Digital Transformation,Technology Adoption,33.85

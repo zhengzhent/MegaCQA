@@ -1,0 +1,23 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1146.6 665.8 1226.6 665.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1079 846.2 1159 846.2" fill="none" stroke="#000000"></polyline>
+<polyline points="1407.7 305.2 1487.7 305.2" fill="none" stroke="#000000"></polyline>
+<polyline points="1269.5 485.5 1349.5 485.5" fill="none" stroke="#000000"></polyline>
+<polyline points="1048.3 1026.5 1128.3 1026.5" fill="none" stroke="#000000"></polyline>
+<polyline points="1029.9 1206.8 1109.9 1206.8" fill="none" stroke="#000000"></polyline>
+<polygon points="526.1 576.7 1201.9 576.7 1091.3 755 636.7 755" fill="#F47D85" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="636.7 757 1091.3 757 1066.8 935.3 661.2 935.3" fill="#DF4C5B" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1337.1 394.3 390.9 394.3" fill="#F0E6E4" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="390.9 396.3 1337.1 396.3 1201.9 574.7 526.1 574.7" fill="#F7D8DF" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="661.2 937.3 1066.8 937.3 1029.9 1115.7 698.1 1115.7" fill="#989E6A" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="698.1 1117.7 1029.9 1117.7 1029.9 1296 698.1 1296" fill="#6B8E23" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1231.624" y="665.8333333333335" fill="#000000">Displayed in Exhibition: 55%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1164.04" y="846.1666666666667" fill="#000000">Shortlisted for Acquisition: 37%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1492.7440000000001" y="305.1666666666667" fill="#000000">Submitted for Review: 100%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1354.5040000000001" y="485.50000000000006" fill="#000000">Approved for Exhibition: 77%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1133.32" y="1026.5" fill="#000000">Eligible for Acquisition: 33%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1114.888" y="1206.8333333333335" fill="#000000">Institutionally Acquired: 27%</text>
+<path d="M-329.6211 -5l659.2422 0l0 58l-659.2422 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Cultural Artwork Exhibitions (%)</text>
+</svg>

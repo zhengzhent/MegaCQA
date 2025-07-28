@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {8} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Corn}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Cotton}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Rapeseed relative to the bar Peanut in terms of horizontal (left/right) direction?",
+            "A": "Bar Rapeseed is to the {left} of the bar Peanut."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Cotton}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Rapeseed}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Tea?",
+            "A": "The value of Tea is {12918} metric tons."
+        },
+        {
+            "Q": "What is the value of bar Corn?",
+            "A": "The value of Corn is {6381} metric tons."
+        },
+        {
+            "Q": "What is the value of bar Rapeseed?",
+            "A": "The value of Rapeseed is {3767} metric tons."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum metric tons in the bar chart?",
+            "A": "The maximum metric tons is {18688} metric tons."
+        },
+        {
+            "Q": "What is the minimum metric tons in the bar chart?",
+            "A": "The minimum metric tons is {3767} metric tons."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Corn and Tea?",
+            "A": "The total value of Corn and Tea is {19299} metric tons."
+        },
+        {
+            "Q": "What is the average value of Apple and Rice?",
+            "A": "The average value of Apple and Rice is {5324.0} metric tons."
+        },
+        {
+            "Q": "What is the difference between Grape and Rapeseed?",
+            "A": "The difference between Grape and Rapeseed is {1017} metric tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have metric tons values exceed 11057.50 metric tons? Please list the bars and corresponding metric tons values?",
+            "A": "{Tea} has {12918} metric tons, {Cotton} has {18688} metric tons."
+        },
+        {
+            "Q": "Which bars have {metric tons} values below 4794.00 metric tons? Please list the bars and corresponding metric tons values?",
+            "A": "{Rapeseed} has {3767} metric tons, {Grape} has {4784} metric tons."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Apple or Peanut ",
+            "A": "The value of the {Peanut} is larger?"
+        },
+        {
+            "Q": "Which is larger, Rice, Apple or Cotton ",
+            "A": "The value of the {Cotton} is larger?"
+        },
+        {
+            "Q": "Which is larger, Rapeseed, Corn, Grape or Apple ",
+            "A": "The value of the {Corn} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {3} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Apple} and {Tea}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Cotton}, {Tea}, and {Peanut}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by metric tons values in descending order and list the labels from left to right.",
+            "A": "Sorted by metric tons value descending: {Cotton}, {Tea}, {Peanut}, {Corn}, {Apple}, {Rice}, {Grape}, and {Rapeseed}."
+        },
+        {
+            "Q": "Sort the bars by metric tons values in ascending order and list the labels from left to right.",
+            "A": "Sorted by metric tons value ascending: {Rapeseed}, {Grape}, {Rice}, {Apple}, {Corn}, {Peanut}, {Tea}, and {Cotton}."
+        }
+    ]
+}

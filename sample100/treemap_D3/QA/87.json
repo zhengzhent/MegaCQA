@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {20} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Sports Media and Tech}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Football}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Cycling Groups rectangle in this treemap?",
+            "A": "The value of the Cycling Groups rectangle is {12.68}."
+        },
+        {
+            "Q": "What is the value of the Television Coverage rectangle in this treemap?",
+            "A": "The value of the Television Coverage rectangle is {6.13}."
+        },
+        {
+            "Q": "What is the value of the Wearables rectangle in this treemap?",
+            "A": "The value of the Wearables rectangle is {9.88}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.08}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Outdoor Activities and Live Broadcasting?",
+            "A": "The difference between Outdoor Activities and Live Broadcasting is {1.35}."
+        },
+        {
+            "Q": "What is the sum of the regions of Basketball and Football?",
+            "A": "The sum of Basketball and Football is {11.82}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Sports Media and Tech category in the treemap, which rectangular labels have a value exceeded 21.00? Please list the labels and values.",
+            "A": "{Live Broadcasting} has {22.78}"
+        },
+        {
+            "Q": "Under the Sports Media and Tech category in the treemap, which rectangular labels have a value below 17.42? Please list the labels and values.",
+            "A": "{Sports Technology} has {15.64}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Sports Media and Tech or Fitness and Wellness?",
+            "A": "The value of {Sports Media and Tech} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Sports Media and Tech, Fitness and Wellness, or Competitive Sports?",
+            "A": "The value of {Sports Media and Tech} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

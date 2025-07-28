@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Behavior change rate (%) dimension, what is the spatial relationship of country  Civilization relative to likely  Civilization in terms of vertical (above/below) direction?",
+            "A": "{country  Civilization} is {below} {likely  Civilization} on the Behavior change rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the third position to the left of dimension Policy influence index (1-10)?",
+            "A": "The third position to the left of Policy influence index (1-10) is {Behavior change rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Language adoption (new words)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Behavior change rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Media coverage (articles/month)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Artistic references (cultural citations) and dimension Policy influence index (1-10)",
+            "A": "There is {Strong Correlation} between Artistic references (cultural citations) and Policy influence index (1-10)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of ok  Culture on the Artistic references (cultural citations) dimension in the parallel-coordinates chart?",
+            "A": "The value of ok  Culture on the Artistic references (cultural citations) dimension is {379.38}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label ok  Culture across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of ok  Culture across all dimensions is {379.38}"
+        },
+        {
+            "Q": "What is the minimum value of label seat  Civilization across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of seat  Civilization across all dimensions is {4.94}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Policy influence index (1-10)?",
+            "A": "The average value of Policy influence index (1-10) is {5.2}"
+        },
+        {
+            "Q": "What is the difference in coding Media coverage (articles/month) between label ok  Culture and label necessary  Civilization",
+            "A": "The difference in coding Media coverage (articles/month) between ok  Culture and necessary  Civilization is {89.66}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Media coverage (articles/month) dimension in the parallel coordinates?",
+            "A": "{[1000.0, 758.04, 520.84]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Behavior change rate (%) dimension in the parallel coordinates?",
+            "A": "{[1.0, 1.43, 16.27]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Artistic references (cultural citations), which label has a higher score: ok  Culture or likely  Civilization?",
+            "A": "{likely  Civilization} has a higher score on Artistic references (cultural citations)."
+        },
+        {
+            "Q": "On Artistic references (cultural citations), which label has a higher score: ok  Culture or necessary  Civilization?",
+            "A": "{ok  Culture} has a higher score on Artistic references (cultural citations)."
+        },
+        {
+            "Q": "On Behavior change rate (%), which label has a higher score: country  Civilization or ok  Culture?",
+            "A": "{ok  Culture} has a higher score on Behavior change rate (%)."
+        },
+        {
+            "Q": "On Artistic references (cultural citations), which label has a higher score: seat  Civilization or country  Civilization?",
+            "A": "{country  Civilization} has a higher score on Artistic references (cultural citations)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Media coverage (articles/month)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Artistic references (cultural citations) being greater than 575.98 and Artistic references (cultural citations) being less than 368.62?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

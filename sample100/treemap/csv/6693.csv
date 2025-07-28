@@ -1,0 +1,19 @@
+Real Estate and Housing Market,Housing Market Distribution by Category (2022),%
+parent,child,value
+,Valuation Models,100.0
+Valuation Models,Hedonic Pricing,12.27
+Hedonic Pricing,Spatial Features,6.28
+Hedonic Pricing,Crime Statistics,5.99
+Crime Statistics,Hotspot Analysis,5.99
+Hotspot Analysis,Getis-Ord Gi*,5.99
+Valuation Models,Amenity Scoring,87.73
+Amenity Scoring,POI Analysis,13.91
+POI Analysis,Network Buffers,7.53
+Network Buffers,Walking Accessibility,7.53
+POI Analysis,Data Scraping,6.38
+Data Scraping,APIs Integration,6.38
+Amenity Scoring,School Districts,73.82
+School Districts,Catchment Areas,73.82
+Catchment Areas,Voronoi Diagrams,73.82
+Voronoi Diagrams,Centroid Mapping,31.73
+Voronoi Diagrams,Weighted Polygons,42.09

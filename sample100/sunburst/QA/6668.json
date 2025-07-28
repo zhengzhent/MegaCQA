@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {3} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {13} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Multi-Family Homes positioned outside, inside or on the same side as Single Family Homes?",
+            "A": "Multi-Family Homes is positioned {on the same side} Single Family Homes."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Rental Market}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Office Buildings segment in this sunburst chart?",
+            "A": "The value of the Office Buildings segment is {20.59}."
+        },
+        {
+            "Q": "What is the value of the Multi-Family Homes segment in this sunburst chart?",
+            "A": "The value of the Multi-Family Homes segment is {7.14}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {39.88}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {26.64}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {14.29}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.74}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Rental Market exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Rental Market are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Rental Market, Long-Term Rentals, or Commercial Real Estate?",
+            "A": "The value of {Rental Market} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Rental Market, Long-Term Rentals, Commercial Real Estate, or Office Buildings?",
+            "A": "The value of {Rental Market} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Commercial Real Estate to Office Buildings to Suburban Offices}."
+        }
+    ],
+    "VA": []
+}

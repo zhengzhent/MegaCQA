@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {3} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Quarryville}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Lakeview}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Lakeview?",
+            "A": "The first position to the left of the box Lakeview is {Creston}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Quarryville relative to the box Creston in terms of horizontal (left/right) direction?",
+            "A": "Box Quarryville is to the {left} of the box Creston."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Creston}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Creston}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Creston}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Creston in the box plot?",
+            "A": "The median of Creston is {57237.5} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Creston in the box plot?",
+            "A": "The lower quartile (Q1) of Creston is {51522.75} USD."
+        },
+        {
+            "Q": "What is the lower whisker limit of Quarryville in the box plot?",
+            "A": "The lower whisker limit of Quarryville is {27719} USD."
+        },
+        {
+            "Q": "What is the lowest upper outlier value in Quarryville in the box plot?",
+            "A": "The lowest upper outlier value in Quarryville is {22364}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the box plot?",
+            "A": "The global maximum USD value in the box plot is {74965.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the box plot?",
+            "A": "The global minimum USD value in the box plot is {17169.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Creston and Lakeview?",
+            "A": "The Median difference between box Creston and Lakeview is {14704.5} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of box Quarryville and Lakeview?",
+            "A": "The total Q3 value of box Quarryville and Lakeview is {111429.25} USD."
+        },
+        {
+            "Q": "What is the average Q3 value of box Creston and Quarryville?",
+            "A": "The average Q3 value of box Creston and Quarryville is {62367.125} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes have median values exceed 55611.50 USD? Please list the boxes and corresponding values.",
+            "A": "{Creston} has {57237.5} USD "
+        },
+        {
+            "Q": "Which boxes have median values below 48259.25 USD? Please list the boxes and corresponding values.",
+            "A": "{Lakeview} has {42533.0} USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Lakeview or Quarryville ",
+            "A": "The median value of the {Quarryville} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Creston, Lakeview or Quarryville ",
+            "A": "The median value of the {Creston} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Quarryville}."
+        }
+    ],
+    "VA": []
+}

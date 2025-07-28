@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Arrhythmia Clinics positioned outside, inside or on the same side as Health Informatics?",
+            "A": "Arrhythmia Clinics is positioned {outside} Health Informatics."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Medical Services}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Heart Disease segment in this sunburst chart?",
+            "A": "The value of the Heart Disease segment is {6.48}."
+        },
+        {
+            "Q": "What is the value of the Specialized Care segment in this sunburst chart?",
+            "A": "The value of the Specialized Care segment is {32.75}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {49.5}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {20.55}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {8.13}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.34}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Medical Services exceed 57%? Please list the category names and corresponding percentages.",
+            "A": "{Specialized Care} accounts for {66.16}%"
+        },
+        {
+            "Q": "Which categories in the segment Medical Services are below 42%? Please list the category names and corresponding percentages.",
+            "A": "{Primary Care} accounts for {33.84}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Medical Services, Specialized Care, Public Health Systems, or Health Technologies?",
+            "A": "The value of {Medical Services} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Medical Services, Specialized Care, or Public Health Systems?",
+            "A": "The value of {Medical Services} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Medical Services to Specialized Care to Cardiology to Arrhythmia Clinics}."
+        }
+    ],
+    "VA": []
+}

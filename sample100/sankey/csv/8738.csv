@@ -1,0 +1,26 @@
+Real Estate and Housing Market,Real Estate Transaction Ecosystem,Properties,random,Property Types,Market Conditions,Buyer Types
+Source,Target,Value
+Condo,Buyer's Market,120
+Condo,Seller's Market,49
+Condo,Neutral Market,182
+Single Family Home,Buyer's Market,107
+Single Family Home,Seller's Market,102
+Single Family Home,Neutral Market,64
+Commercial Property,Buyer's Market,281
+Commercial Property,Seller's Market,80
+Commercial Property,Neutral Market,374
+Townhouse,Buyer's Market,116
+Townhouse,Seller's Market,204
+Townhouse,Neutral Market,29
+Multi-family Unit,Buyer's Market,261
+Multi-family Unit,Seller's Market,76
+Multi-family Unit,Neutral Market,226
+Buyer's Market,Retiree,336
+Buyer's Market,Investor,94
+Buyer's Market,Family,455
+Seller's Market,Retiree,105
+Seller's Market,Investor,88
+Seller's Market,Family,318
+Neutral Market,Retiree,327
+Neutral Market,Investor,56
+Neutral Market,Family,492

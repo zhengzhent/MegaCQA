@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {64} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {vertical gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Books and DTC in the heatmap?",
+            "A": "The heat value is {0.19}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Beauty and Brick&Mortar in the heatmap?",
+            "A": "The heat value is {0.18}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.86}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.14}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Marketplace on the y-axis?",
+            "A": "The maximum heat value for Marketplace on the y-axis is {0.41}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Brick&Mortar on the y-axis?",
+            "A": "The maximum heat value for Brick&Mortar on the y-axis is {0.22}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Online on the y-axis?",
+            "A": "The average heat value for Online on the y-axis is {0.66}."
+        },
+        {
+            "Q": "What is the average heat value for label Beauty on the x-axis?",
+            "A": "The average heat value for Beauty on the x-axis is {0.41}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Beauty and Online or the cell corresponding to Pet Supplies and Online?",
+            "A": "The cell corresponding to {Beauty} and {Online} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Apparel and Brick&Mortar or the cell corresponding to Jewelry and Brick&Mortar?",
+            "A": "The cell corresponding to {Apparel} and {Brick&Mortar} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Pet Supplies and Omnichannel or the cell corresponding to Apparel and Online?",
+            "A": "The cell corresponding to {Apparel} and {Online} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Beauty and Marketplace or the cell corresponding to Sports and Online?",
+            "A": "The cell corresponding to {Sports} and {Online} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.49 to 0.58?",
+            "A": "The cells are: {(Apparel, Omnichannel), (Books, Omnichannel), (Jewelry, Omnichannel), (Pet Supplies, Omnichannel), (Sports, Omnichannel), (Toys, Omnichannel)}."
+        }
+    ],
+    "VA": []
+}

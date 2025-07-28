@@ -1,0 +1,9 @@
+Image Name: 11118.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\11118.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with distinct bars for each platform and clear labeling of the number of views. The gradient color adds visual interest without detracting from the data. The title and axis labels are easy to understand, making the information accessible at a glance.
+--------------------------------------------------
+Model: gpt-4o-mini
+Test Failed: failure: not enough values to unpack (expected 3, got 2)

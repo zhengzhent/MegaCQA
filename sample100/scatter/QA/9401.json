@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {67} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Hotel price in the scatter plot?",
+            "A": "The maximum observed value in the Hotel price dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Hotel price in the scatter plot?",
+            "A": "The minimum observed value in the Hotel price dimension is {50.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Customer reviews score in the scatter plot?",
+            "A": "The maximum observed value in the Customer reviews score dimension is {5.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Customer reviews score in the scatter plot?",
+            "A": "The minimum observed value in the Customer reviews score dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Hotel price for all points?",
+            "A": "The average value of Hotel price for all points is {525.00}."
+        },
+        {
+            "Q": "What is the average value of the Customer reviews score for all points?",
+            "A": "The average value of Customer reviews score for all points is {3.08}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Customer reviews score values corresponding to the top 3 Hotel price values in the scatter plot?",
+            "A": "{3.71, 2.97, 3.02}."
+        },
+        {
+            "Q": "What are the Customer reviews score values corresponding to the bottom 3 Hotel price values in the scatter plot?",
+            "A": "{3.95, 2.01, 4.26}."
+        },
+        {
+            "Q": "What are the Hotel price values corresponding to the top 3 Customer reviews score values in the scatter plot?",
+            "A": "{337.88, 93.18, 409.85}."
+        },
+        {
+            "Q": "What are the Hotel price values corresponding to the bottom 3 Customer reviews score values in the scatter plot?",
+            "A": "{712.12, 568.18, 395.45}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 351.58 and 607.93 and Y coordinates between 3.28 and 4.46?",
+            "A": "There are {8} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(50.00, 3.95) and (1000.00, 3.71)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(481.82, 3.17) and (496.21, 3.17)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [434.32, 2.97, 543.71, 3.37] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (481.82, 3.17)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [105.55, 1.99, 299.76, 3.14]; Region B: [391.91, 2.60, 586.12, 3.74]; Region C: [327.76, 1.43, 521.97, 2.58]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+Tourism and Hospitality,the Patterns of Tourism and Hospitality,9x9,diagonal
+Attractions,Adventure,0.93
+Cruises,Adventure,0.74
+Destinations,Adventure,0.57
+Marketing,Adventure,0.36
+Online Booking,Adventure,0.21
+Restaurants,Adventure,0.37
+Service Quality,Adventure,0.57
+Tour Operators,Adventure,0.74
+Transport,Adventure,0.93
+Attractions,Budget,0.74
+Cruises,Budget,0.88
+Destinations,Budget,0.71
+Marketing,Budget,0.55
+Online Booking,Budget,0.38
+Restaurants,Budget,0.55
+Service Quality,Budget,0.72
+Tour Operators,Budget,0.88
+Transport,Budget,0.73
+Attractions,Business,0.57
+Cruises,Business,0.72
+Destinations,Business,0.88
+Marketing,Business,0.71
+Online Booking,Business,0.59
+Restaurants,Business,0.72
+Service Quality,Business,0.88
+Tour Operators,Business,0.72
+Transport,Business,0.57
+Attractions,Cultural,0.36
+Cruises,Cultural,0.55
+Destinations,Cultural,0.72
+Marketing,Cultural,0.88
+Online Booking,Cultural,0.76
+Restaurants,Cultural,0.88
+Service Quality,Cultural,0.72
+Tour Operators,Cultural,0.55
+Transport,Cultural,0.36
+Attractions,Eco-tourism,0.22
+Cruises,Eco-tourism,0.39
+Destinations,Eco-tourism,0.59
+Marketing,Eco-tourism,0.76
+Online Booking,Eco-tourism,0.89
+Restaurants,Eco-tourism,0.76
+Service Quality,Eco-tourism,0.59
+Tour Operators,Eco-tourism,0.38
+Transport,Eco-tourism,0.21
+Attractions,Family,0.36
+Cruises,Family,0.55
+Destinations,Family,0.72
+Marketing,Family,0.88
+Online Booking,Family,0.76
+Restaurants,Family,0.88
+Service Quality,Family,0.72
+Tour Operators,Family,0.56
+Transport,Family,0.36
+Attractions,Rural,0.58
+Cruises,Rural,0.72
+Destinations,Rural,0.88
+Marketing,Rural,0.72
+Online Booking,Rural,0.59
+Restaurants,Rural,0.72
+Service Quality,Rural,0.88
+Tour Operators,Rural,0.72
+Transport,Rural,0.58
+Attractions,Urban,0.74
+Cruises,Urban,0.88
+Destinations,Urban,0.72
+Marketing,Urban,0.55
+Online Booking,Urban,0.38
+Restaurants,Urban,0.55
+Service Quality,Urban,0.71
+Tour Operators,Urban,0.88
+Transport,Urban,0.74
+Attractions,Wellness,0.94
+Cruises,Wellness,0.74
+Destinations,Wellness,0.58
+Marketing,Wellness,0.36
+Online Booking,Wellness,0.21
+Restaurants,Wellness,0.36
+Service Quality,Wellness,0.58
+Tour Operators,Wellness,0.74
+Transport,Wellness,0.93

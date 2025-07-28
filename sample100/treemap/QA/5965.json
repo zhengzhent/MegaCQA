@@ -1,0 +1,98 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Graph Databases in this treemap?",
+            "A": "There are {1} child rectangles under the category Graph Databases."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Talent Development}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {NLP Analysis}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Talent Development}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the NLP Analysis rectangle in this treemap?",
+            "A": "The value of the NLP Analysis rectangle is {5.28}."
+        },
+        {
+            "Q": "What is the value of the 360 Feedback rectangle in this treemap?",
+            "A": "The value of the 360 Feedback rectangle is {50.71}."
+        },
+        {
+            "Q": "What is the value of the k-Anonymity rectangle in this treemap?",
+            "A": "The value of the k-Anonymity rectangle is {41.23}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.28}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Succession Planning and Talent Development?",
+            "A": "The difference between Succession Planning and Talent Development is {80.92}."
+        },
+        {
+            "Q": "What is the sum of the regions of Cypher Scripts and Path Algorithms?",
+            "A": "The sum of Cypher Scripts and Path Algorithms is {19.08}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Graph Databases category in the treemap, which rectangular labels have a value exceeded 19.07? Please list the labels and values.",
+            "A": "{Neo4j Queries} has {19.08}"
+        },
+        {
+            "Q": "Under the Graph Databases category in the treemap, which rectangular labels have a value below 19.09? Please list the labels and values.",
+            "A": "{Neo4j Queries} has {19.08}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Competency Models, 360 Feedback, or Peer Evaluation?",
+            "A": "The value of {Peer Evaluation} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Talent Development, Competency Models, or 360 Feedback?",
+            "A": "The value of {Talent Development} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Talent Development or Competency Models?",
+            "A": "The value of {Talent Development} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of 360 Feedback or Anonymization?",
+            "A": "The value of {360 Feedback} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

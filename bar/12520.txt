@@ -1,0 +1,10 @@
+Image Name: 12520.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\12520.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and straightforward, with distinct colors for each bar that make it easy to differentiate between the movies. The values are directly labeled on top of each bar, which aids in quick comprehension. The axis labels and title are clear and appropriately placed, enhancing the overall readability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively presents the box office earnings of different movies. The use of distinct colors for each bar helps in differentiating the movies easily. The labels are legible, and the values are displayed on top of the bars, making it straightforward to interpret the data at a glance.

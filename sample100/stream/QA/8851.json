@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {6} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing High-Speed Trains relative to Ferry Services?",
+            "A": "High-Speed Trains is {below} Ferry Services in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing High-Speed Trains relative to Car Rentals?",
+            "A": "High-Speed Trains is {below} Car Rentals in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing International Terminals relative to High-Speed Trains?",
+            "A": "International Terminals is {below} High-Speed Trains in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total luggage loss rate?",
+            "A": "The series with the largest contribution is {Ferry Services}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total luggage loss rate?",
+            "A": "The series with the smallest contribution is {Shared Ride}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is International Terminals's minimum Luggage Loss Rate in the streamgraph?",
+            "A": "International Terminals's minimum Luggage Loss Rate is in {2003}."
+        },
+        {
+            "Q": "Which year is High-Speed Trains's maximum Luggage Loss Rate in the streamgraph?",
+            "A": "High-Speed Trains's maximum Luggage Loss Rate is in {1996}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Was the total Luggage Loss Rate in 1993 higher or lower than in 2002?",
+            "A": "The total luggage loss rate in 1993 was {higher} than in 2002."
+        },
+        {
+            "Q": "Between 1991 and 1999, was the average total Luggage Loss Rate higher or lower than between 2005 and 2008?",
+            "A": "The average total luggage loss rate between 1991 and 1999 was {higher} than between 2005 and 2008."
+        },
+        {
+            "Q": "Between 1997 and 2006, was the average total Luggage Loss Rate higher or lower than between 2002 and 2010?",
+            "A": "The average total luggage loss rate between 1997 and 2006 was {higher} than between 2002 and 2010."
+        },
+        {
+            "Q": "Between 1999 and 2014, did the total Luggage Loss Rate experience a larger or smaller change than between 1991 and 1993?",
+            "A": "The change in total luggage loss rate between 1999 and 2014 was {larger} than between 1991 and 1993."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Ferry Services} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did Bus Stations and Car Rentals first exchange dominant positions?",
+            "A": "Bus Stations and Car Rentals first exchanged leading positions in {1992}."
+        }
+    ],
+    "VA": []
+}

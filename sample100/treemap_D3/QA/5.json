@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {17} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Agricultural Inputs}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Fertilizers}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Seeds rectangle in this treemap?",
+            "A": "The value of the Seeds rectangle is {33.14}."
+        },
+        {
+            "Q": "What is the value of the Heirloom Seeds rectangle in this treemap?",
+            "A": "The value of the Heirloom Seeds rectangle is {23.76}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.28}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Poultry and Hybrid Seeds?",
+            "A": "The difference between Poultry and Hybrid Seeds is {14.55}."
+        },
+        {
+            "Q": "What is the sum of the regions of Soybean and Fertilizers?",
+            "A": "The sum of Soybean and Fertilizers is {11.38}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Grains category in the treemap, which rectangular labels have a value exceeded 6.21? Please list the labels and values.",
+            "A": "{Rice} has {6.22}"
+        },
+        {
+            "Q": "Under the Grains category in the treemap, which rectangular labels have a value below 6.19? Please list the labels and values.",
+            "A": "{Wheat} has {6.18}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Seeds or Poultry?",
+            "A": "The value of {Seeds} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Livestock, Seeds, or Crop Production?",
+            "A": "The value of {Crop Production} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Agricultural Inputs, Livestock, or Seeds?",
+            "A": "The value of {Agricultural Inputs} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

@@ -1,0 +1,8 @@
+Energy and Utilities, Energy Production and Consumption Flow, Gigawatt-hours, random
+Source,Target,Value
+Nuclear,Hydropower,18
+Hydropower,Nuclear,288
+Nuclear,Biomass,388
+Biomass,Nuclear,43
+Biomass,Hydropower,113
+Hydropower,Biomass,273

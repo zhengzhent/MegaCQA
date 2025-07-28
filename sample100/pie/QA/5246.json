@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {3} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Executive?",
+            "A": "The next slice clockwise from slice Executive is {Internships}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Executive?",
+            "A": "The next slice counterclockwise from slice Executive is {Senior-Level}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which income has the largest proportion in this pie chart?",
+            "A": "The income with the largest proportion is {Internships}."
+        },
+        {
+            "Q": "Which income has the smallest proportion in this pie chart?",
+            "A": "The income with the smallest proportion is {Executive}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Senior-Level slice in this pie chart?",
+            "A": "The value of the Senior-Level slice is {35}%."
+        },
+        {
+            "Q": "What is the value of the Executive slice in this pie chart?",
+            "A": "The value of the Executive slice is {23}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {42}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {23}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 38.5%? Please list the category names and corresponding percentages.",
+            "A": "{Internships} accounts for {42}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 29.0%? Please list the category names and corresponding percentages.",
+            "A": "{Executive} accounts for {23}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Internships, Senior-Level, or Executive?",
+            "A": "The value of {Internships} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Internships or Senior-Level?",
+            "A": "The value of {Internships} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {49} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Pest control spending in the scatter plot?",
+            "A": "The maximum observed value in the Pest control spending dimension is {500.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Pest control spending in the scatter plot?",
+            "A": "The minimum observed value in the Pest control spending dimension is {10.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Product freshness in the scatter plot?",
+            "A": "The maximum observed value in the Product freshness dimension is {5.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Product freshness in the scatter plot?",
+            "A": "The minimum observed value in the Product freshness dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Pest control spending for all points?",
+            "A": "The average value of Pest control spending for all points is {255.00}."
+        },
+        {
+            "Q": "What is the average value of the Product freshness for all points?",
+            "A": "The average value of Product freshness for all points is {2.50}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Product freshness values corresponding to the top 3 Pest control spending values in the scatter plot?",
+            "A": "{4.65, 4.34, 4.34}."
+        },
+        {
+            "Q": "What are the Product freshness values corresponding to the bottom 3 Pest control spending values in the scatter plot?",
+            "A": "{5.00, 4.75, 4.03}."
+        },
+        {
+            "Q": "What are the Pest control spending values corresponding to the top 3 Product freshness values in the scatter plot?",
+            "A": "{10.00, 20.21, 500.00}."
+        },
+        {
+            "Q": "What are the Pest control spending values corresponding to the bottom 3 Product freshness values in the scatter plot?",
+            "A": "{275.42, 214.17, 244.79}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 197.72 and 299.46 and Y coordinates between 3.38 and 4.13?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(10.00, 5.00) and (500.00, 4.65)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(224.38, 1.65) and (234.58, 1.61)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [199.88, 1.41, 259.08, 1.85] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (224.38, 1.65)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [23.43, 3.50, 153.24, 4.46]; Region B: [307.42, 1.23, 437.23, 2.18]; Region C: [164.57, 1.15, 294.39, 2.11]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

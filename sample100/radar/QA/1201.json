@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from P/E Ratio vs. Industry Average Rate?",
+            "A": "The next dimension clockwise from P/E Ratio vs. Industry Average Rate is Market Share Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from P/E Ratio vs. Industry Average Rate?",
+            "A": "The next dimension counterclockwise from P/E Ratio vs. Industry Average Rate is Customer Retention Rate."
+        },
+        {
+            "Q": "On the Market Share Rate, is the point for King-Nielsen inside or outside the point for Morris, Hayes and Whitney?",
+            "A": "On the Market Share Rate, the point for King-Nielsen is inside the point for Morris, Hayes and Whitney."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Market Share Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Morris, Hayes and Whitney?",
+            "A": "The strongest aspect is {Market Share Rate}, while the weakest aspect is{ Customer Retention Rate}."
+        },
+        {
+            "Q": "On dimension Market Share Rate, which label scores the highest?",
+            "A": "On Market Share Rate, label {King-Nielsen} scores the highest."
+        },
+        {
+            "Q": "On dimension Market Share Rate, which label scores the highest?",
+            "A": "On Market Share Rate, label {King-Nielsen} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Lewis-Rivas on the P/E Ratio vs. Industry Average Rate in the radar chart?",
+            "A": "The value of Lewis-Rivas on the Safety dimension is {56}."
+        },
+        {
+            "Q": "What is the value of King-Nielsen on the Market Share Rate in the radar chart?",
+            "A": "The value of King-Nielsen on the Safety dimension is {81}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Lewis-Rivas across all dimensions in the radar chart?",
+            "A": "The maximum value of Lewis-Rivas across all dimensions is {37}."
+        },
+        {
+            "Q": "What is the minimum value of label Morris, Hayes and Whitney across all dimensions in the radar chart?",
+            "A": "The minimum value of Morris, Hayes and Whitney across all dimensions is {64}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Operating Cost Ratio",
+            "A": "The average value of Operating Cost Ratio is {45.67}."
+        },
+        {
+            "Q": "What is the average value of King-Nielsen",
+            "A": "The average value of King-Nielsen is {57.75}."
+        },
+        {
+            "Q": "What is the difference in Operating Cost Ratio between Morris, Hayes and Whitney and King-Nielsen?",
+            "A": "The difference in Operating Cost Ratio between Morris, Hayes and Whitney and King-Nielsen is {50}."
+        },
+        {
+            "Q": "What is the difference in Market Share Rate between Morris, Hayes and Whitney and Lewis-Rivas?",
+            "A": "The difference in Market Share Rate between Morris, Hayes and Whitney and Lewis-Rivas is {11}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For King-Nielsen in the radar chart, which dimensions have scores above 75? Please list the dimensions and corresponding scores.",
+            "A": "{Market Share Rate} is {85}"
+        },
+        {
+            "Q": "For Lewis-Rivas in the radar chart, which dimensions have scores below 36? Please list the dimensions and corresponding scores.",
+            "A": "{Operating Cost Ratio} is {25}"
+        },
+        {
+            "Q": "Which labels have scores above 63 for the P/E Ratio vs. Industry Average Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Morris, Hayes and Whitney} is {65}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Morris, Hayes and Whitney, which dimension has a higher score: Operating Cost Ratio or Market Share Rate?",
+            "A": "{Market Share Rate} has a higher score than Operating Cost Ratio for Morris, Hayes and Whitney."
+        },
+        {
+            "Q": "For Lewis-Rivas, which dimension has a higher score: Operating Cost Ratio or Customer Retention Rate?",
+            "A": "{Customer Retention Rate} has a higher score than Operating Cost Ratio for Lewis-Rivas."
+        },
+        {
+            "Q": "On Market Share Rate, which label has a higher score: Lewis-Rivas or the King-Nielsen?",
+            "A": "{Lewis-Rivas} has a higher score on Market Share Rate compared to King-Nielsen."
+        },
+        {
+            "Q": "On Operating Cost Ratio, which label has a higher score: Lewis-Rivas or the King-Nielsen?",
+            "A": "{Lewis-Rivas} has a higher score on Operating Cost Ratio compared to King-Nielsen."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Morris, Hayes and Whitney, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Morris, Hayes and Whitney most needs to improve its {Customer Retention Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Morris, Hayes and Whitney}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Lewis-Rivas}."
+        }
+    ],
+    "VA": []
+}

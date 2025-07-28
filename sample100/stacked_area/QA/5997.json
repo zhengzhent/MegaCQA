@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Veridian Plains relative to Crimson Peaks?",
+            "A": "Veridian Plains is {below} Crimson Peaks in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total construction starts?",
+            "A": "The series with the largest contribution is {Veridian Plains}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total construction starts?",
+            "A": "The series with the smallest contribution is {Crimson Peaks}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Shadowfen's Construction Starts in 2008?",
+            "A": "Shadowfen's construction starts in 2008 is {203.51} units/year."
+        },
+        {
+            "Q": "What is Crimson Peaks's Construction Starts in 2010?",
+            "A": "Crimson Peaks's construction starts in 2010 is {100.92} units/year."
+        },
+        {
+            "Q": "What is Crimson Peaks's Construction Starts in 2001?",
+            "A": "Crimson Peaks's construction starts in 2001 is {365.29} units/year."
+        },
+        {
+            "Q": "What are the construction starts of Shadowfen, Golden Delta, and Crimson Peaks in 2008?",
+            "A": "Shadowfen's construction starts is {203.51} units/year, Golden Delta's construction starts is {514.86} units/year, Crimson Peaks's construction starts is {173.36} units/year."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Construction Starts in the area chart?",
+            "A": "The global minimum construction starts is {5.00} units/year."
+        },
+        {
+            "Q": "What is the global maximum Construction Starts in the area chart?",
+            "A": "The global maximum construction starts is {1068.68} units/year."
+        },
+        {
+            "Q": "What is the highest Construction Starts level recorded for Crimson Peaks?",
+            "A": "Crimson Peaks reached approximately {525.83} units/year in {1998}."
+        },
+        {
+            "Q": "What is the lowest Construction Starts level recorded for Crimson Peaks?",
+            "A": "Crimson Peaks's lowest recorded level is approximately {5.00} units/year in {2016}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Construction Starts?",
+            "A": "The average total construction starts is {1656.14} units/year."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Construction Starts exceed 1747.90 units/year? Please list the years and corresponding total values.",
+            "A": "{1802.58} units/year in {2005}, {1911.39} units/year in {2004}, {1788.16} units/year in {2003}."
+        },
+        {
+            "Q": "Which years did the total Construction Starts fall between 1562.81 and 1727.32 units/year? Please list the years and corresponding total values.",
+            "A": "{1672.98} units/year in {2006}, {1653.96} units/year in {2020}, {1640.22} units/year in {2019}."
+        },
+        {
+            "Q": "Which years did the total Construction Starts go below 1542.24 units/year? Please list the years and corresponding total values.",
+            "A": "{1353.09} units/year in {2017}, {1382.21} units/year in {2016}, {1365.77} units/year in {2012}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2004 and 2019, did the total Construction Starts experience a larger or smaller change than between 2001 and 2008?",
+            "A": "The change in total construction starts between 2004 and 2019 was {larger} than between 2001 and 2008."
+        },
+        {
+            "Q": "Was the total Construction Starts in 2002 higher or lower than in 2016?",
+            "A": "The total construction starts in 2002 was {higher} than in 2016."
+        },
+        {
+            "Q": "Between 2015 and 2018, did the total Construction Starts experience a larger or smaller change than between 2005 and 2016?",
+            "A": "The change in total construction starts between 2015 and 2018 was {smaller} than between 2005 and 2016."
+        },
+        {
+            "Q": "Was the total Construction Starts in 2016 higher or lower than in 2021?",
+            "A": "The total construction starts in 2016 was {lower} than in 2021."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Veridian Plains} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Crimson Peaks, Shadowfen, Golden Delta, Veridian Plains}."
+        }
+    ]
+}

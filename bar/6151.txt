@@ -1,0 +1,10 @@
+Image Name: 6151.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\6151.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with distinct colors for each town, making it easy to differentiate between data sets. The labels are clear and legible, and the values are directly displayed on the bars, which aids in quick comprehension. The x-axis is appropriately scaled, and the title clearly states the data being represented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively uses horizontal bars to represent the number of hospital visits for each town. The color differentiation is helpful, and the labels are easy to read. The scale on the x-axis is appropriately marked, allowing for quick comparisons between towns.

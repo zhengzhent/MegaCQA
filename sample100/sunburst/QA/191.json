@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Intensive positioned outside, inside or on the same side as Cage-Free?",
+            "A": "Intensive is positioned {on the same side} Cage-Free."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Livestock}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Egg Layers segment in this sunburst chart?",
+            "A": "The value of the Egg Layers segment is {27.11}."
+        },
+        {
+            "Q": "What is the value of the Seeds segment in this sunburst chart?",
+            "A": "The value of the Seeds segment is {12.41}."
+        },
+        {
+            "Q": "What is the value of the Intensive segment in this sunburst chart?",
+            "A": "The value of the Intensive segment is {6.72}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {54.91}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {21.14}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {15.44}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {6.72}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Livestock exceed 68%? Please list the category names and corresponding percentages.",
+            "A": "{Poultry} accounts for {85.34}%"
+        },
+        {
+            "Q": "Which categories in the segment Livestock are below 32%? Please list the category names and corresponding percentages.",
+            "A": "{Cattle} accounts for {14.66}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Livestock, Poultry, or Egg Layers?",
+            "A": "The value of {Livestock} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Livestock, Poultry, Egg Layers, or Oilseeds?",
+            "A": "The value of {Livestock} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Livestock to Poultry to Egg Layers to Caged}."
+        }
+    ],
+    "VA": []
+}

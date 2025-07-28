@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {14} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of viewers of 10000000.00 relative to the bubble with a Number of viewers of 3228703.39 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of viewers of 10000000.00 is {above} and to the {right} of the bubble with a Number of viewers of 3228703.39."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Sponsorship amount and Revenue?",
+            "A": "The highest concentration of bubbles corresponds to approximately {4224041.77} $ and {702290387.71} $."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of viewers of the largest bubble?",
+            "A": "The Number of viewers of the largest bubble is {10000000.00} count."
+        },
+        {
+            "Q": "What is the Number of viewers of the smallest bubble?",
+            "A": "The Number of viewers of the smallest bubble is {10000.00} count."
+        },
+        {
+            "Q": "What are the Sponsorship amount and Revenue values of the largest bubble?",
+            "A": "The Sponsorship amount of the largest bubble is {8094825.73} $, and {Revenue} is {637473018.62} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of viewers in the bubble chart?",
+            "A": "The global maximum Number of viewers is {10000000.00} count."
+        },
+        {
+            "Q": "What is the global minimum Number of viewers in the bubble chart?",
+            "A": "The global minimum Number of viewers is {10000.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Sponsorship amount in the bubble chart?",
+            "A": "The maximum observed value in the Sponsorship amount dimension is {9317577.76} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Sponsorship amount in the bubble chart?",
+            "A": "The minimum observed value in the Sponsorship amount dimension is {650852.99} $."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Revenue in the bubble chart?",
+            "A": "The maximum observed value in the Revenue dimension is {766857925.52} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Revenue in the bubble chart?",
+            "A": "The minimum observed value in the Revenue dimension is {64017221.64} $."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of viewers for all bubbles?",
+            "A": "The average value of the Number of viewers for all bubbles is {4245673.66} count."
+        },
+        {
+            "Q": "What is the average value of the Sponsorship amount for all bubbles?",
+            "A": "The average value of Sponsorship amount for all bubbles is {4652112.88} $."
+        },
+        {
+            "Q": "What is the average value of the Revenue for all bubbles?",
+            "A": "The average value of Revenue for all bubbles is {479814984.66} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of viewers values in the bubble chart?",
+            "A": "{10000000.00, 8321824.48, 5618545.77} count."
+        },
+        {
+            "Q": "What are the bottom 3 Number of viewers values in the bubble chart?",
+            "A": "{10000.00, 656370.17, 827417.42} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of viewers value, the bubble with a Sponsorship amount of 3469052.7 $ and a Revenue of 426905216.9 $, or the bubble with a Sponsorship amount of 1110747.6 $ and a Revenue of 320444606.3 $?",
+            "A": "The bubble with a Sponsorship amount of {1110747.6} and a Revenue of {320444606.3} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of viewers value of the bubble with the largest Revenue value?",
+            "A": "The Number of viewers value of the bubble with the largest Revenue is {8321824.48}."
+        },
+        {
+            "Q": "What is the Number of viewers value of the bubble with the largest Sponsorship amount value?",
+            "A": "The Number of viewers value of the bubble with the largest Sponsorship amount is {5618545.77}."
+        },
+        {
+            "Q": "Classify bubbles with a Revenue-coordinate greater than 274569621 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of viewers for the high value group and the low value group?",
+            "A": "The difference between the total Number of viewers of the high-value and low-value groups is {53309286.32}."
+        }
+    ],
+    "VA": []
+}

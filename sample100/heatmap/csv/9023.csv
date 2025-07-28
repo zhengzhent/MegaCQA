@@ -1,0 +1,73 @@
+Tourism and Hospitality,the Comparison of Tourism and Hospitality,9x8,vertical_gradient
+Attractions,Adventure,0.8
+Cruises,Adventure,0.8
+Destinations,Adventure,0.78
+Events,Adventure,0.79
+Marketing,Adventure,0.8
+Online Booking,Adventure,0.79
+Restaurants,Adventure,0.81
+Service Quality,Adventure,0.83
+Tour Operators,Adventure,0.81
+Attractions,Budget,0.7
+Cruises,Budget,0.66
+Destinations,Budget,0.65
+Events,Budget,0.62
+Marketing,Budget,0.63
+Online Booking,Budget,0.64
+Restaurants,Budget,0.64
+Service Quality,Budget,0.66
+Tour Operators,Budget,0.67
+Attractions,Business,0.53
+Cruises,Business,0.5
+Destinations,Business,0.48
+Events,Business,0.54
+Marketing,Business,0.51
+Online Booking,Business,0.48
+Restaurants,Business,0.52
+Service Quality,Business,0.51
+Tour Operators,Business,0.54
+Attractions,Cultural,0.41
+Cruises,Cultural,0.44
+Destinations,Cultural,0.42
+Events,Cultural,0.42
+Marketing,Cultural,0.42
+Online Booking,Cultural,0.41
+Restaurants,Cultural,0.37
+Service Quality,Cultural,0.43
+Tour Operators,Cultural,0.42
+Attractions,Family,0.32
+Cruises,Family,0.31
+Destinations,Family,0.33
+Events,Family,0.34
+Marketing,Family,0.35
+Online Booking,Family,0.32
+Restaurants,Family,0.31
+Service Quality,Family,0.33
+Tour Operators,Family,0.29
+Attractions,Luxury,0.28
+Cruises,Luxury,0.27
+Destinations,Luxury,0.28
+Events,Luxury,0.28
+Marketing,Luxury,0.25
+Online Booking,Luxury,0.25
+Restaurants,Luxury,0.25
+Service Quality,Luxury,0.26
+Tour Operators,Luxury,0.2
+Attractions,Seasonal,0.24
+Cruises,Seasonal,0.21
+Destinations,Seasonal,0.23
+Events,Seasonal,0.26
+Marketing,Seasonal,0.24
+Online Booking,Seasonal,0.21
+Restaurants,Seasonal,0.23
+Service Quality,Seasonal,0.23
+Tour Operators,Seasonal,0.22
+Attractions,Wellness,0.23
+Cruises,Wellness,0.22
+Destinations,Wellness,0.21
+Events,Wellness,0.21
+Marketing,Wellness,0.25
+Online Booking,Wellness,0.22
+Restaurants,Wellness,0.21
+Service Quality,Wellness,0.18
+Tour Operators,Wellness,0.21

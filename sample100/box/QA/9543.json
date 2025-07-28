@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {5} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Home Decor}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Clothing}."
+        },
+        {
+            "Q": "Which box is the first position to the left of the box Books?",
+            "A": "The first position to the left of the box Books is {Home Decor}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Furniture relative to the box Books in terms of horizontal (left/right) direction?",
+            "A": "Box Furniture is to the {right} of the box Books."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Furniture}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Clothing}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Books}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Furniture in the box plot?",
+            "A": "The median of Furniture is {247.5} thousand USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Furniture in the box plot?",
+            "A": "The lower quartile (Q1) of Furniture is {164.25} thousand USD."
+        },
+        {
+            "Q": "What is the lower whisker limit of Clothing in the box plot?",
+            "A": "The lower whisker limit of Clothing is {87} thousand USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Home Decor in the box plot?",
+            "A": "The largest upper outlier value in Home Decor is {479} thousand USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum thousand USD value in the box plot?",
+            "A": "The global maximum thousand USD value in the box plot is {693.00} thousand USD."
+        },
+        {
+            "Q": "What is the global minimum thousand USD value in the box plot?",
+            "A": "The global minimum thousand USD value in the box plot is {65.00} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box Clothing and Books?",
+            "A": "The Q1 difference between box Clothing and Books is {29.0} thousand USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of box Books and Furniture?",
+            "A": "The total Q3 value of box Books and Furniture is {566.5} thousand USD."
+        },
+        {
+            "Q": "What is the average Median value of box Clothing and Home Decor?",
+            "A": "The average Median value of box Clothing and Home Decor is {222.75} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 426.6 thousand USD?",
+            "A": "Box{Home Decor},{Books},{Clothing} have the outliers exceed 426.6 thousand USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 222.75 thousand USD? Please list the boxes and corresponding values.",
+            "A": "{Furniture} has {247.5} thousand USD , {Clothing} has {247.5} thousand USD "
+        },
+        {
+            "Q": "Which boxes have median values below 193.25 thousand USD? Please list the boxes and corresponding values.",
+            "A": "{Books} has {188.5} thousand USD , {Pet Supplies} has {183.0} thousand USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Furniture or Pet Supplies ",
+            "A": "The median value of the {Furniture} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Furniture, Home Decor or Pet Supplies ",
+            "A": "The median value of the {Furniture} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Furniture, Home Decor, Clothing or Pet Supplies ",
+            "A": "The median value of the {Furniture} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Clothing}."
+        }
+    ],
+    "VA": []
+}

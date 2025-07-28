@@ -1,0 +1,6 @@
+﻿Transportation and Logistics,Transportation Efficiency Metrics
+Pattern,Strong Correlation,No Correlation,No Correlation,Weak Correlation,No Correlation
+labels,Route deviation rate (%),Average speed (km/h),Max speed (km/h),Moving time (hours),Total transit time (hours),Idling time (minutes)
+attorney train,0.68,48.25,64.61,1.0,7.48,60.0
+often Ferry,20.0,100.0,120.0,48.0,72.0,41.48
+service Cargo ship,0.0,30.0,60.0,7.9,2.0,5.0

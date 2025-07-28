@@ -1,0 +1,22 @@
+Agriculture and Food Production,Agricultural Value Chain,Crops,random,Distribution,Import & Export,Farming,Processing,Consumption
+Source,Target,Value
+Transportation,Trade Agreements,2565
+Transportation,Export Certification,4479
+Retail Delivery,Trade Agreements,4012
+Retail Delivery,Export Certification,2913
+Wholesale,Trade Agreements,311
+Wholesale,Export Certification,474
+Storage,Trade Agreements,425
+Storage,Export Certification,405
+Trade Agreements,Pest Control,1234
+Trade Agreements,Soil Preparation,6079
+Export Certification,Pest Control,3848
+Export Certification,Soil Preparation,4423
+Pest Control,Cleaning,702
+Pest Control,Freezing,4380
+Soil Preparation,Cleaning,9191
+Soil Preparation,Freezing,1311
+Cleaning,Retail Purchase,6406
+Cleaning,Food Preparation,3487
+Freezing,Retail Purchase,2928
+Freezing,Food Preparation,2763

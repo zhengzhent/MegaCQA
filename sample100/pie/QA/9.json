@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which crop has the largest proportion in this pie chart?",
+            "A": "The crop with the largest proportion is {Oats}."
+        },
+        {
+            "Q": "Which crop has the smallest proportion in this pie chart?",
+            "A": "The crop with the smallest proportion is {Soybeans}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Soybeans slice in this pie chart?",
+            "A": "The value of the Soybeans slice is {44}%."
+        },
+        {
+            "Q": "What is the value of the Oats slice in this pie chart?",
+            "A": "The value of the Oats slice is {56}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {56}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {44}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 53.0%? Please list the category names and corresponding percentages.",
+            "A": "{Oats} accounts for {56}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 47.0%? Please list the category names and corresponding percentages.",
+            "A": "{Soybeans} accounts for {44}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Oats or Soybeans?",
+            "A": "The value of {Oats} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

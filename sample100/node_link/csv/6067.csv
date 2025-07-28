@@ -1,0 +1,17 @@
+Retail and E-commerce,E-Commerce Platform Interactions and Partnerships
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,UrbanMart Superstore,8,SmartBuy Hypermart,product_bundle
+0,UrbanMart Superstore,3,GreenBasket Grocery,payment_channel
+0,UrbanMart Superstore,5,Sparkle Jewelry,payment_channel
+0,UrbanMart Superstore,7,DailyStyle Apparel,supplier_buyer
+0,UrbanMart Superstore,2,TechHive Electronics,payment_channel
+1,FashionLane Boutique,0,UrbanMart Superstore,logistics_flow
+1,FashionLane Boutique,5,Sparkle Jewelry,supplier_buyer
+1,FashionLane Boutique,9,OfficeDen Supplies,affiliate_link
+1,FashionLane Boutique,2,TechHive Electronics,affiliate_link
+1,FashionLane Boutique,4,FurnitureCo Home Store,supplier_buyer
+2,TechHive Electronics,6,NextStep Shoe Center,affiliate_link
+2,TechHive Electronics,3,GreenBasket Grocery,product_bundle
+2,TechHive Electronics,8,SmartBuy Hypermart,affiliate_link
+2,TechHive Electronics,4,FurnitureCo Home Store,supplier_buyer
+2,TechHive Electronics,9,OfficeDen Supplies,payment_channel

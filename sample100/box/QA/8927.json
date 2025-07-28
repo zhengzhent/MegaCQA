@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {2} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {horizontal} box plot."
+        },
+        {
+            "Q": "Which box does the bottom box represent?",
+            "A": "The bottom box represents {Single Family}"
+        },
+        {
+            "Q": "Which box does the topmost box represent?",
+            "A": "The topmost box represents {Beach House}."
+        },
+        {
+            "Q": "Which box is the first position above the box Single Family?",
+            "A": "The first position above the box Single Family is {Beach House}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Beach House relative to the box Single Family in terms of vertical (above/below) direction?",
+            "A": "Box Beach House is {above} the box Single Family."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Beach House}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Beach House}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Single Family}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Beach House in the box plot?",
+            "A": "The median of Beach House is {539.0} thousand USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Single Family in the box plot?",
+            "A": "The upper quartile (Q3) of Single Family is {549.0} thousand USD."
+        },
+        {
+            "Q": "What is the lower whisker limit of Beach House in the box plot?",
+            "A": "The lower whisker limit of Beach House is {163} thousand USD."
+        },
+        {
+            "Q": "What is the lowest upper outlier value in Beach House in the box plot?",
+            "A": "The lowest upper outlier value in Beach House is {117}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum thousand USD value in the box plot?",
+            "A": "The global maximum thousand USD value in the box plot is {869.00} thousand USD."
+        },
+        {
+            "Q": "What is the global minimum thousand USD value in the box plot?",
+            "A": "The global minimum thousand USD value in the box plot is {117.00} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Beach House and Single Family?",
+            "A": "The Q3 difference between box Beach House and Single Family is {89.0} thousand USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Single Family and Beach House?",
+            "A": "The total Q1 value of box Single Family and Beach House is {830.0} thousand USD."
+        },
+        {
+            "Q": "What is the average Q1 value of box Single Family and Beach House?",
+            "A": "The average Q1 value of box Single Family and Beach House is {415.0} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 725.4 thousand USD?",
+            "A": "Box{Single Family} have the outliers exceed 725.4 thousand USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 510.00 thousand USD? Please list the boxes and corresponding values.",
+            "A": "{Beach House} has {539.0} thousand USD "
+        },
+        {
+            "Q": "Which boxes have median values below 510.00 thousand USD? Please list the boxes and corresponding values.",
+            "A": "{Single Family} has {481.0} thousand USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Single Family or Beach House ",
+            "A": "The median value of the {Beach House} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Beach House}."
+        }
+    ],
+    "VA": []
+}

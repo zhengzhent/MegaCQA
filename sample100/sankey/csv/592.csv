@@ -1,0 +1,27 @@
+Agriculture and Food Production,Agricultural Value Chain,Crops,random,Distribution,Processing,Consumption
+Source,Target,Value
+Wholesale,Freezing,7056
+Wholesale,Grinding,4222
+Wholesale,Packaging,5664
+Wholesale,Canning,11907
+Wholesale,Sorting,1192
+Retail Delivery,Freezing,1575
+Retail Delivery,Grinding,5683
+Retail Delivery,Packaging,3510
+Retail Delivery,Canning,1575
+Retail Delivery,Sorting,5328
+Storage,Freezing,4458
+Storage,Grinding,3826
+Storage,Packaging,4034
+Storage,Canning,2424
+Storage,Sorting,5686
+Freezing,Food Preparation,6702
+Freezing,Food Waste,6387
+Grinding,Food Preparation,6772
+Grinding,Food Waste,6959
+Packaging,Food Preparation,6996
+Packaging,Food Waste,6212
+Canning,Food Preparation,3040
+Canning,Food Waste,12866
+Sorting,Food Preparation,1117
+Sorting,Food Waste,11089

@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {6} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Ferry Services relative to International Terminals?",
+            "A": "Ferry Services is {above} International Terminals in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total luggage loss rate?",
+            "A": "The series with the largest contribution is {International Terminals}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total luggage loss rate?",
+            "A": "The series with the smallest contribution is {Shared Ride}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Shared Ride's Luggage Loss Rate in 1990?",
+            "A": "Shared Ride's luggage loss rate in 1990 is {1.46} %."
+        },
+        {
+            "Q": "What is High-Speed Trains's Luggage Loss Rate in 2001?",
+            "A": "High-Speed Trains's luggage loss rate in 2001 is {0.61} %."
+        },
+        {
+            "Q": "What is Regional Airports's Luggage Loss Rate in 1991?",
+            "A": "Regional Airports's luggage loss rate in 1991 is {1.49} %."
+        },
+        {
+            "Q": "What are the luggage loss rate of International Terminals, Shared Ride, and Car Rentals in 1998?",
+            "A": "International Terminals's luggage loss rate is {2.33} %, Shared Ride's luggage loss rate is {0.81} %, Car Rentals's luggage loss rate is {1.13} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Luggage Loss Rate in the area chart?",
+            "A": "The global minimum luggage loss rate is {0.22} %."
+        },
+        {
+            "Q": "What is the global maximum Luggage Loss Rate in the area chart?",
+            "A": "The global maximum luggage loss rate is {3.33} %."
+        },
+        {
+            "Q": "What is the highest Luggage Loss Rate level recorded for Car Rentals?",
+            "A": "Car Rentals reached approximately {1.47} % in {1990}."
+        },
+        {
+            "Q": "What is the lowest Luggage Loss Rate level recorded for Car Rentals?",
+            "A": "Car Rentals's lowest recorded level is approximately {0.83} % in {2004}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Luggage Loss Rate?",
+            "A": "The average total luggage loss rate is {8.16} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Luggage Loss Rate exceed 8.46 %? Please list the years and corresponding total values.",
+            "A": "{8.92} % in {1991}, {8.65} % in {1993}, {8.80} % in {1992}."
+        },
+        {
+            "Q": "Which years did the total Luggage Loss Rate go below 7.72 %? Please list the years and corresponding total values.",
+            "A": "{7.43} % in {2004}, {7.65} % in {2000}, {7.46} % in {2002}."
+        },
+        {
+            "Q": "Which years did the total Luggage Loss Rate fall between 7.69 and 8.49 %? Please list the years and corresponding total values.",
+            "A": "{8.23} % in {1994}, {8.47} % in {1995}, {8.43} % in {1996}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1996 and 2002, was the average total Luggage Loss Rate higher or lower than between 1997 and 1998?",
+            "A": "The average total luggage loss rate between 1996 and 2002 was {lower} than between 1997 and 1998."
+        },
+        {
+            "Q": "Was the total Luggage Loss Rate in 2000 higher or lower than in 2001?",
+            "A": "The total luggage loss rate in 2000 was {higher} than in 2001."
+        },
+        {
+            "Q": "Was the total Luggage Loss Rate in 1991 higher or lower than in 1997?",
+            "A": "The total luggage loss rate in 1991 was {higher} than in 1997."
+        },
+        {
+            "Q": "Was the total Luggage Loss Rate in 1995 higher or lower than in 2003?",
+            "A": "The total luggage loss rate in 1995 was {higher} than in 2003."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{International Terminals} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Shared Ride, Regional Airports, High-Speed Trains, Car Rentals, Ferry Services, International Terminals}."
+        }
+    ]
+}

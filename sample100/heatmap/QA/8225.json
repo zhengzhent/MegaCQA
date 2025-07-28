@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {72} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {random} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Facebook and Engagement in the heatmap?",
+            "A": "The heat value is {0.28}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Online News and Data Privacy in the heatmap?",
+            "A": "The heat value is {0.16}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.98}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.00}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Data Privacy on the y-axis?",
+            "A": "The maximum heat value for Data Privacy on the y-axis is {0.71}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Netflix on the x-axis?",
+            "A": "The maximum heat value of Netflix on the x-axis is {0.98}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Blogs on the x-axis?",
+            "A": "The average heat value for Blogs on the x-axis is {0.44}."
+        },
+        {
+            "Q": "What is the average heat value for label Podcasts on the x-axis?",
+            "A": "The average heat value for Podcasts on the x-axis is {0.35}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Netflix and Content or the cell corresponding to YouTube and Revenue?",
+            "A": "The cell corresponding to {Netflix} and {Content} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Podcasts and Monetization or the cell corresponding to Podcasts and Revenue?",
+            "A": "The cell corresponding to {Podcasts} and {Monetization} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.26 to 0.52?",
+            "A": "The cells are: {(Instagram, Advertising), (Online News, Advertising), (YouTube, Advertising), (Online News, Algorithms), (Blogs, Content), (Netflix, Content), (TikTok, Content), (Netflix, Data Privacy), (Podcasts, Data Privacy), (YouTube, Data Privacy), (Facebook, Engagement), (TikTok, Engagement), (YouTube, Users)}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Interdisciplinary Collaboration Rate ?",
+            "A": "The next dimension clockwise from Interdisciplinary Collaboration Rate  is Research Growth Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from R&D ROI (Return on Investment)?",
+            "A": "The next dimension counterclockwise from Interdisciplinary Collaboration Rate  is R&D ROI (Return on Investment)."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Interdisciplinary Collaboration Rate } encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Gonzalez-Porter AI?",
+            "A": "The strongest aspect is {Interdisciplinary Collaboration Rate }, while the weakest aspect is{ Green Technology Adoption Rate Technology Transfer Success Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Gonzalez-Porter AI on the Interdisciplinary Collaboration Rate  in the radar chart?",
+            "A": "The value of Gonzalez-Porter AI on the Safety dimension is {78}."
+        },
+        {
+            "Q": "What is the value of Gonzalez-Porter AI on the R&D ROI (Return on Investment) in the radar chart?",
+            "A": "The value of Gonzalez-Porter AI on the Safety dimension is {74}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Gonzalez-Porter AI across all dimensions in the radar chart?",
+            "A": "The maximum value of Gonzalez-Porter AI across all dimensions is {22}."
+        },
+        {
+            "Q": "What is the minimum value of label Gonzalez-Porter AI across all dimensions in the radar chart?",
+            "A": "The minimum value of Gonzalez-Porter AI across all dimensions is {22}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Green Technology Adoption Rate Technology Transfer Success Rate",
+            "A": "The average value of Green Technology Adoption Rate Technology Transfer Success Rate is {22.0}."
+        },
+        {
+            "Q": "What is the average value of Gonzalez-Porter AI",
+            "A": "The average value of Gonzalez-Porter AI is {49.6}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 22 for the Green Technology Adoption Rate Technology Transfer Success Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Gonzalez-Porter AI} is {22}"
+        },
+        {
+            "Q": "For Gonzalez-Porter AI in the radar chart, which dimensions have scores below 33? Please list the dimensions and corresponding scores.",
+            "A": "{Green Technology Adoption Rate Technology Transfer Success Rate} is {22}, {Research Growth Rate} is {28}"
+        },
+        {
+            "Q": "Which labels have scores above 28 for the Research Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Gonzalez-Porter AI} is {28}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Gonzalez-Porter AI, which dimension has a higher score: Research Growth Rate or Green Technology Adoption Rate Technology Transfer Success Rate?",
+            "A": "{Research Growth Rate} has a higher score than Green Technology Adoption Rate Technology Transfer Success Rate for Gonzalez-Porter AI."
+        },
+        {
+            "Q": "For Gonzalez-Porter AI, which dimension has a higher score: Citation Rate or R&D ROI (Return on Investment) or Interdisciplinary Collaboration Rate ?",
+            "A": "{Interdisciplinary Collaboration Rate } has a higher score for Gonzalez-Porter AI."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Gonzalez-Porter AI, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Gonzalez-Porter AI most needs to improve its {Green Technology Adoption Rate Technology Transfer Success Rate}."
+        }
+    ],
+    "VA": []
+}

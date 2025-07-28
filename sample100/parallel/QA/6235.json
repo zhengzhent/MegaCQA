@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {3} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Market growth rate (%) dimension, what is the spatial relationship of Armstrong-Hayden relative to Smith and Sons in terms of vertical (above/below) direction?",
+            "A": "{Armstrong-Hayden} is {above} {Smith and Sons} on the Market growth rate (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Market share (%)?",
+            "A": "The second position to the left of Market share (%) is {Competitor count (number)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Market share (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Competitor count (number)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Market share (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Market growth rate (%) and dimension Market share (%)",
+            "A": "There is {No Correlation} between Market growth rate (%) and Market share (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Mahoney LLC on the Market share (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Mahoney LLC on the Market share (%) dimension is {50.0}"
+        },
+        {
+            "Q": "What is the value of Mahoney LLC on the Market growth rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Mahoney LLC on the Market growth rate (%) dimension is {16.21}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Armstrong-Hayden across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Armstrong-Hayden across all dimensions is {32.91}"
+        },
+        {
+            "Q": "What is the minimum value of label Smith and Sons across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Smith and Sons across all dimensions is {-5.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Competitor count (number)?",
+            "A": "The average value of Competitor count (number) is {12.81}"
+        },
+        {
+            "Q": "What is the difference in coding Market share (%) between label Armstrong-Hayden and label Smith and Sons",
+            "A": "The difference in coding Market share (%) between Armstrong-Hayden and Smith and Sons is {21.68}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Competitor count (number) dimension in the parallel coordinates?",
+            "A": "{[20.0, 19.43, 15.95]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Market share (%) dimension in the parallel coordinates?",
+            "A": "{[0.1, 11.23, 25.18]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Market growth rate (%), which label has a higher score: Mahoney LLC or Harris, Larsen and Long?",
+            "A": "{Harris, Larsen and Long} has a higher score on Market growth rate (%)."
+        },
+        {
+            "Q": "On Market share (%), which label has a higher score: Armstrong-Hayden or Lynch-Rodgers?",
+            "A": "{Armstrong-Hayden} has a higher score on Market share (%)."
+        },
+        {
+            "Q": "On Market share (%), which label has a higher score: Mahoney LLC or Smith and Sons?",
+            "A": "{Mahoney LLC} has a higher score on Market share (%)."
+        },
+        {
+            "Q": "On Market growth rate (%), which label has a higher score: Bell, Sellers and Collins or Burch, Daniel and Berry?",
+            "A": "{Burch, Daniel and Berry} has a higher score on Market growth rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Market share (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Market growth rate (%) being greater than 9.79 and Market share (%) being less than 33.64?",
+            "A": "There are {4} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

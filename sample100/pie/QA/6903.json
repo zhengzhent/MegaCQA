@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {7} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Discount Seeking?",
+            "A": "The next slice clockwise from slice Discount Seeking is {Planned Purchases}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Discount Seeking?",
+            "A": "The next slice counterclockwise from slice Discount Seeking is {Impulse Buying}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which 2024 has the largest proportion in this pie chart?",
+            "A": "The 2024 with the largest proportion is {Brand Loyalty}."
+        },
+        {
+            "Q": "Which 2024 has the smallest proportion in this pie chart?",
+            "A": "The 2024 with the smallest proportion is {Planned Purchases}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Planned Purchases slice in this pie chart?",
+            "A": "The value of the Planned Purchases slice is {7}%."
+        },
+        {
+            "Q": "What is the value of the Price Sensitivity slice in this pie chart?",
+            "A": "The value of the Price Sensitivity slice is {15}%."
+        },
+        {
+            "Q": "What is the value of the Online Shopping slice in this pie chart?",
+            "A": "The value of the Online Shopping slice is {13}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {21}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {7}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Online Shopping and Brand Loyalty in this pie chart?",
+            "A": "The difference between Online Shopping and Brand Loyalty is {8}%."
+        },
+        {
+            "Q": "What is the sum of the values of In-Store Purchases and Impulse Buying in this pie chart?",
+            "A": "The sum of In-Store Purchases and Impulse Buying is {25}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 18.0%? Please list the category names and corresponding percentages.",
+            "A": "{Brand Loyalty} accounts for {21}% and {Discount Seeking} accounts for {19}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 10.5%? Please list the category names and corresponding percentages.",
+            "A": "{In-Store Purchases} accounts for {8}% and {Planned Purchases} accounts for {7}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Brand Loyalty, Discount Seeking, or Impulse Buying?",
+            "A": "The value of {Brand Loyalty} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Brand Loyalty or Discount Seeking?",
+            "A": "The value of {Brand Loyalty} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Brand Loyalty, Discount Seeking, Impulse Buying, or Online Shopping?",
+            "A": "The value of {Brand Loyalty} is the largest."
+        },
+        {
+            "Q": "Which is smaller, the value of Discount Seeking, Impulse Buying, or Price Sensitivity?",
+            "A": "The value of {Price Sensitivity} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 3% and 15%?",
+            "A": "There are {4} sectors that have a percentage between 3% and 15%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 40%? List all possible combinations.",
+            "A": "The possible combinations are: {(Brand Loyalty, In-Store Purchases, Planned Purchases), (Discount Seeking, Online Shopping, Planned Purchases), (Discount Seeking, In-Store Purchases, Planned Purchases), (Impulse Buying, Price Sensitivity, Planned Purchases), (Impulse Buying, Online Shopping, In-Store Purchases), (Impulse Buying, Online Shopping, Planned Purchases), (Impulse Buying, In-Store Purchases, Planned Purchases), (Price Sensitivity, Online Shopping, In-Store Purchases), (Price Sensitivity, Online Shopping, Planned Purchases), (Price Sensitivity, In-Store Purchases, Planned Purchases), (Online Shopping, In-Store Purchases, Planned Purchases)}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Gallery Shows in this treemap?",
+            "A": "There are {2} child rectangles under the category Gallery Shows."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Cultural Activities}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Art Fairs}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Cultural Activities}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Community Projects rectangle in this treemap?",
+            "A": "The value of the Community Projects rectangle is {6.34}."
+        },
+        {
+            "Q": "What is the value of the Art Exhibitions rectangle in this treemap?",
+            "A": "The value of the Art Exhibitions rectangle is {35.95}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {63.06}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.06}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Urban Sculpture and Community Projects?",
+            "A": "The difference between Urban Sculpture and Community Projects is {14.43}."
+        },
+        {
+            "Q": "What is the sum of the regions of Art Funds and Modern Masters?",
+            "A": "The sum of Art Funds and Modern Masters is {18.37}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Gallery Shows category in the treemap, which rectangular labels have a value exceeded 6.76? Please list the labels and values.",
+            "A": "{Group Exhibitions} has {7.16}"
+        },
+        {
+            "Q": "Under the Gallery Shows category in the treemap, which rectangular labels have a value below 5.95? Please list the labels and values.",
+            "A": "{Solo Exhibitions} has {5.55}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Cultural Activities, Artwork Sales, or Art Exhibitions?",
+            "A": "The value of {Cultural Activities} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Artwork Sales, Art Exhibitions, or Public Art?",
+            "A": "The value of {Public Art} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {10} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

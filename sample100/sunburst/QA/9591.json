@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {16} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Public Transit positioned outside, inside or on the same side as E-Scooters?",
+            "A": "Public Transit is positioned {inside} E-Scooters."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Air Transport}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Subway Networks segment in this sunburst chart?",
+            "A": "The value of the Subway Networks segment is {6.11}."
+        },
+        {
+            "Q": "What is the value of the Bus Systems segment in this sunburst chart?",
+            "A": "The value of the Bus Systems segment is {5.17}."
+        },
+        {
+            "Q": "What is the value of the Rail Freight segment in this sunburst chart?",
+            "A": "The value of the Rail Freight segment is {17.31}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {41.35}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {22.8}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {7.36}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.03}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Air Transport exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Air Transport are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Air Transport, Air Cargo, or Urban Mobility?",
+            "A": "The value of {Air Transport} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Air Transport, Air Cargo, Urban Mobility, or Freight and Logistics?",
+            "A": "The value of {Air Transport} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Air Transport or Air Cargo?",
+            "A": "The value of {Air Transport} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Air Cargo, Urban Mobility, or Micromobility?",
+            "A": "The value of {Micromobility} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Urban Mobility to Micromobility to E-Scooters to Parking Zones}."
+        }
+    ],
+    "VA": []
+}

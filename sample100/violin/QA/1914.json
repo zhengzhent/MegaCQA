@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {7} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {SwiftLink}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {SkyBound}."
+        },
+        {
+            "Q": "Which violin is the third position to the right of the violin SmartHub?",
+            "A": "The third position to the right of the violin SmartHub is {TrueNorth}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin NovaEdge relative to the violin SmartHub in terms of horizontal (left/right) direction?",
+            "A": "violin NovaEdge is to the {left} of the violin SmartHub."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {SwiftLink}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {SwiftLink}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing CoreLogic?",
+            "A": "The density distribution pattern of the CoreLogic shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of NovaEdge in the violin plot?",
+            "A": "The median of NovaEdge is {40135.00} USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of SmartHub in the violin plot?",
+            "A": "The upper quartile (Q3) of SmartHub is {51924.00} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of CoreLogic in the violin plot?",
+            "A": "The upper whisker limit of CoreLogic is {69296.00} USD."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in MarketZen in the violin plot?",
+            "A": "The lowest upper outlier value in MarketZen is {22979.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {100401.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {4166.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin CoreLogic and SwiftLink?",
+            "A": "The Q1 difference between violin CoreLogic and SwiftLink is {18153.50} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin CoreLogic and SkyBound?",
+            "A": "The total Q3 value of violin CoreLogic and SkyBound is {99021.00} USD."
+        },
+        {
+            "Q": "What is the average Median value of violin CoreLogic and TrueNorth?",
+            "A": "The average Median value of violin CoreLogic and TrueNorth is {42441.00} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 53534.50 USD? Please list the violins and corresponding values.",
+            "A": "{SwiftLink} has {59970.00} USD , {MarketZen} has {58912.00} USD "
+        },
+        {
+            "Q": "Which violins have median values below 41295.00 USD? Please list the violins and corresponding values.",
+            "A": "{NovaEdge} has {40135.00} USD , {CoreLogic} has {36725.00} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 49778.76 USD?",
+            "A": "Violin {MarketZen} has {59152.33} USD ,{TrueNorth} has {51904.90} USD ,{SkyBound} has {49975.26} USD have their highest density peak exceed 49778.76 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 35383.56 USD?",
+            "A": "Violin {CoreLogic} has {34707.82} USD have their highest density peak below 35383.56 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of TrueNorth or MarketZen ",
+            "A": "The median value of the {MarketZen} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of CoreLogic, MarketZen or SkyBound ",
+            "A": "The median value of the {MarketZen} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of TrueNorth, SmartHub, SkyBound or CoreLogic ",
+            "A": "The median value of the {TrueNorth} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {NovaEdge}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,63 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {8} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {16} links."
+        },
+        {
+            "Q": "How many nodes link with node Golden Fields Farm?",
+            "A": "There are {4} nodes link with node Golden Fields Farm."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Green Acre Orchards and node Sunnydale Organic Farm in this node-link chart?",
+            "A": "The relationship between node Green Acre Orchards and node Sunnydale Organic Farm is {crop_rotation}."
+        },
+        {
+            "Q": "What is the relationship between node Sunnydale Organic Farm and node Blueberry Hill Estate in this node-link chart?",
+            "A": "The relationship between node Sunnydale Organic Farm and node Blueberry Hill Estate is {agro_supply_chain}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type processing_link?",
+            "A": "There are {4} links with the relation type processing_link."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Whispering Pines Farmstead, how many links are of type market_linkage?",
+            "A": "Node Whispering Pines Farmstead has {1} links of type market_linkage."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Sunnydale Organic Farm}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Sunnydale Organic Farm with a degree of 6}, {node Willow Valley Ranch with a degree of 6}, {node Green Acre Orchards with a degree of 6}."
+        },
+        {
+            "Q": "What is the shortest path from node Silver Creek Vineyard to node Sunrise Dairy Farm in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Silver Creek Vineyard to node Sunrise Dairy Farm is: {Silver Creek Vineyard to Willow Valley Ranch to Sunrise Dairy Farm}."
+        }
+    ],
+    "VA": []
+}

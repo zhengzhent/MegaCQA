@@ -1,0 +1,54 @@
+Cultural Trends and Influences,Cultural Products Influence Flow,Cultural Products,random,Art Forms,Cultural Origins,Impact Areas,Audience Types
+Source,Target,Value
+Dance,Oceania,164
+Dance,Americas,517
+Dance,Asia,544
+Dance,Africa,60
+Music,Oceania,192
+Music,Americas,205
+Music,Asia,475
+Music,Africa,311
+Literature,Oceania,197
+Literature,Americas,111
+Literature,Asia,520
+Literature,Africa,225
+Oceania,Education,62
+Oceania,Economy,32
+Oceania,Tourism,148
+Oceania,Social Integration,159
+Oceania,Innovation,152
+Americas,Education,306
+Americas,Economy,141
+Americas,Tourism,188
+Americas,Social Integration,141
+Americas,Innovation,57
+Asia,Education,295
+Asia,Economy,83
+Asia,Tourism,219
+Asia,Social Integration,357
+Asia,Innovation,585
+Africa,Education,87
+Africa,Economy,52
+Africa,Tourism,185
+Africa,Social Integration,148
+Africa,Innovation,124
+Education,Local Communities,148
+Education,Artists,213
+Education,Tourists,185
+Education,General Public,204
+Economy,Local Communities,23
+Economy,Artists,80
+Economy,Tourists,23
+Economy,General Public,182
+Tourism,Local Communities,53
+Tourism,Artists,342
+Tourism,Tourists,164
+Tourism,General Public,181
+Social Integration,Local Communities,150
+Social Integration,Artists,215
+Social Integration,Tourists,87
+Social Integration,General Public,353
+Innovation,Local Communities,111
+Innovation,Artists,111
+Innovation,Tourists,585
+Innovation,General Public,111

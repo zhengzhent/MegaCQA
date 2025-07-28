@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Railway Cars, what is the spatial relationship of the data point in 1964 relative to that in 1953 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Railway Cars, the data point in 1964 is {above} and to the {right} of the data point in 1953."
+        },
+        {
+            "Q": "In 1968, what is the vertical (above/below) relationship of the line representing Electric Trucks relative to Railway Cars?",
+            "A": "In 1968, Electric Trucks is {below} Railway Cars in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Railway Cars's Vehicle Maintenance Cost levels?",
+            "A": "Railway Cars's vehicle maintenance cost levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of Electric Trucks's Vehicle Maintenance Cost levels?",
+            "A": "Electric Trucks's vehicle maintenance cost levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Aircraft Engines's Vehicle Maintenance Cost levels?",
+            "A": "Aircraft Engines's vehicle maintenance cost levels show a {stable rising} trend."
+        },
+        {
+            "Q": "Which line shows a single peak trend in Vehicle Maintenance Cost levels?",
+            "A": "{Railway Cars}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Electric Trucks's Vehicle Maintenance Cost in 1964?",
+            "A": "Electric Trucks's vehicle maintenance cost in 1964 is {259.31} $/month."
+        },
+        {
+            "Q": "What is Aircraft Engines's Vehicle Maintenance Cost in 1963?",
+            "A": "Aircraft Engines's vehicle maintenance cost in 1963 is {3133.98} $/month."
+        },
+        {
+            "Q": "What is Aircraft Engines's Vehicle Maintenance Cost in 1955?",
+            "A": "Aircraft Engines's vehicle maintenance cost in 1955 is {2370.19} $/month."
+        },
+        {
+            "Q": "What are the vehicle maintenance cost of Railway Cars, Aircraft Engines, and Electric Trucks in 1971?",
+            "A": "Railway Cars's vehicle maintenance cost is {1440.80} $/month, Aircraft Engines's vehicle maintenance cost is {3900.81} $/month, Electric Trucks's vehicle maintenance cost is {94.96} $/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Vehicle Maintenance Cost in the line chart?",
+            "A": "The global minimum vehicle maintenance cost is {94.96} $/month."
+        },
+        {
+            "Q": "What is the global maximum Vehicle Maintenance Cost in the line chart?",
+            "A": "The global maximum vehicle maintenance cost is {3900.81} $/month."
+        },
+        {
+            "Q": "What is the highest Vehicle Maintenance Cost level recorded for Aircraft Engines?",
+            "A": "Aircraft Engines reached approximately {3900.81} $/month in {1971}."
+        },
+        {
+            "Q": "What is the lowest Vehicle Maintenance Cost level recorded for Aircraft Engines?",
+            "A": "Aircraft Engines's lowest recorded level is approximately {1902.08} $/month in {1950}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Aircraft Engines's Vehicle Maintenance Cost from the starting year to the final year?",
+            "A": "The rate of growth in Aircraft Engines's vehicle maintenance cost is {105.08}%."
+        },
+        {
+            "Q": "What is the rate of change in Railway Cars's Vehicle Maintenance Cost from the starting year to the final year?",
+            "A": "The rate of decline in Railway Cars's vehicle maintenance cost is {-2.19}%."
+        },
+        {
+            "Q": "What is the average value of Electric Trucks's Vehicle Maintenance Cost?",
+            "A": "The average value of Electric Trucks's vehicle maintenance cost is {470.07} $/month."
+        },
+        {
+            "Q": "What is the average value of Railway Cars's Vehicle Maintenance Cost?",
+            "A": "The average value of Railway Cars's vehicle maintenance cost is {1924.79} $/month."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1970, which lines had Vehicle Maintenance Cost between 999 and 2479 $/month? Please list the lines and corresponding values.",
+            "A": "{Railway Cars} had {1512} $/month."
+        },
+        {
+            "Q": "In the year 1954, which lines had Vehicle Maintenance Cost below 1316 $/month? Please list the lines and corresponding values.",
+            "A": "{Electric Trucks} had {768} $/month."
+        },
+        {
+            "Q": "In the year 1970, which lines had Vehicle Maintenance Cost below 814 $/month? Please list the lines and corresponding values.",
+            "A": "{Electric Trucks} had {117} $/month."
+        },
+        {
+            "Q": "In the year 1968, which lines had Vehicle Maintenance Cost between 1091 and 2449 $/month? Please list the lines and corresponding values.",
+            "A": "{Railway Cars} had {1636} $/month."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1955 and 1959, which line had the highest average Vehicle Maintenance Cost, Railway Cars, Aircraft Engines, or Electric Trucks?",
+            "A": "{Aircraft Engines} had the highest average vehicle maintenance cost."
+        },
+        {
+            "Q": "In 1953, which line had a higher Vehicle Maintenance Cost, {Electric Trucks} or {Railway Cars}?",
+            "A": "In 1953, {Railway Cars} had a higher vehicle maintenance cost."
+        },
+        {
+            "Q": "Was Aircraft Engines's Vehicle Maintenance Cost in 1950 higher or lower than in 1958?",
+            "A": "The vehicle maintenance cost in 1950 was {lower} than in 1958."
+        },
+        {
+            "Q": "Between 1956 and 1962, which line experienced the largest change in Vehicle Maintenance Cost, Aircraft Engines, Railway Cars, or Electric Trucks?",
+            "A": "{Aircraft Engines} experienced the largest change in vehicle maintenance cost."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Aircraft Engines}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1954 and 1970?",
+            "A": "{Aircraft Engines} has the fastest average growth rate between 1954 and 1970."
+        },
+        {
+            "Q": "Which label had the leading vehicle maintenance cost since 1963?",
+            "A": "Since 1963, {Aircraft Engines} had the leading vehicle maintenance cost."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Railway Cars. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1950, 1961, 1971}."
+        }
+    ]
+}

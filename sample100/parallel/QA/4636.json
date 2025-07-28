@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Student-teacher ratio (ratio) dimension, what is the spatial relationship of Foster-Wood  College relative to Berry-Harris  College in terms of vertical (above/below) direction?",
+            "A": "{Foster-Wood  College} is {above} {Berry-Harris  College} on the Student-teacher ratio (ratio) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Facility utilization (%)?",
+            "A": "The first position to the left of Facility utilization (%) is {Test scores (percentile)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Alumni donation rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Student-teacher ratio (ratio)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Research funding (USD millions)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Student-teacher ratio (ratio) and dimension College acceptance rate (%)",
+            "A": "There is {Strong Correlation} between Student-teacher ratio (ratio) and College acceptance rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Berry-Harris  College on the Student-teacher ratio (ratio) dimension in the parallel-coordinates chart?",
+            "A": "The value of Berry-Harris  College on the Student-teacher ratio (ratio) dimension is {10.9}"
+        },
+        {
+            "Q": "What is the value of Willis-Bradley  University on the Student-teacher ratio (ratio) dimension in the parallel-coordinates chart?",
+            "A": "The value of Willis-Bradley  University on the Student-teacher ratio (ratio) dimension is {10.82}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Perry Group  School across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Perry Group  School across all dimensions is {272.08}"
+        },
+        {
+            "Q": "What is the minimum value of label Watts-Barnes  University across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Watts-Barnes  University across all dimensions is {3.01}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Test scores (percentile)?",
+            "A": "The average value of Test scores (percentile) is {61.28}"
+        },
+        {
+            "Q": "What is the difference in coding Graduation rate (%) between label Foster-Wood  College and label Berry-Harris  College",
+            "A": "The difference in coding Graduation rate (%) between Foster-Wood  College and Berry-Harris  College is {6.55}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Alumni donation rate (%) dimension in the parallel coordinates?",
+            "A": "{[50.0, 45.28, 40.93]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Research funding (USD millions) dimension in the parallel coordinates?",
+            "A": "{[0.1, 115.58, 124.01]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Student-teacher ratio (ratio), which label has a higher score: Watts-Barnes  University or Berry-Harris  College?",
+            "A": "{Watts-Barnes  University} has a higher score on Student-teacher ratio (ratio)."
+        },
+        {
+            "Q": "On Facility utilization (%), which label has a higher score: Perry Group  School or Watts-Barnes  University?",
+            "A": "{Perry Group  School} has a higher score on Facility utilization (%)."
+        },
+        {
+            "Q": "On Research funding (USD millions), which label has a higher score: Berry-Harris  College or Watts-Barnes  University?",
+            "A": "{Watts-Barnes  University} has a higher score on Research funding (USD millions)."
+        },
+        {
+            "Q": "On Graduation rate (%), which label has a higher score: Perry Group  School or Berry-Harris  College?",
+            "A": "{Berry-Harris  College} has a higher score on Graduation rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Research funding (USD millions)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Graduation rate (%) being greater than 70.5 and Alumni donation rate (%) being less than 26.65?",
+            "A": "There are {3} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

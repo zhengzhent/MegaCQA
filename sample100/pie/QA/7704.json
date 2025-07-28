@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which 2024 has the largest proportion in this pie chart?",
+            "A": "The 2024 with the largest proportion is {YouTube}."
+        },
+        {
+            "Q": "Which 2024 has the smallest proportion in this pie chart?",
+            "A": "The 2024 with the smallest proportion is {Snapchat}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the YouTube slice in this pie chart?",
+            "A": "The value of the YouTube slice is {59}%."
+        },
+        {
+            "Q": "What is the value of the Snapchat slice in this pie chart?",
+            "A": "The value of the Snapchat slice is {41}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {59}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {41}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 54.5%? Please list the category names and corresponding percentages.",
+            "A": "{YouTube} accounts for {59}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 45.5%? Please list the category names and corresponding percentages.",
+            "A": "{Snapchat} accounts for {41}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of YouTube or Snapchat?",
+            "A": "The value of {YouTube} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

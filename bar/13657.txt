@@ -1,0 +1,10 @@
+Image Name: 13657.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\13657.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with a clear title and axis labels. The use of a gradient color scheme helps in visually distinguishing the number of visitors, with darker shades indicating higher visitor numbers. The labels for each bar are legible and placed directly on the bars, making it easy to read the exact number of visitors for each attraction. The chart avoids clutter and presents the data in a straightforward manner.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively uses a horizontal bar chart format to display the data. The color gradient helps to differentiate the values, and the labels for both the attractions and the number of visitors are legible. The overall layout is organized, making it easy to compare the annual visitors across different attractions at a glance.

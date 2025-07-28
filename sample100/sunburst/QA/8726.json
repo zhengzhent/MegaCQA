@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Fitness Trackers positioned outside, inside or on the same side as Outdoor Activities?",
+            "A": "Fitness Trackers is positioned {outside} Outdoor Activities."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Sports Media and Tech}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Sports Technology segment in this sunburst chart?",
+            "A": "The value of the Sports Technology segment is {28.61}."
+        },
+        {
+            "Q": "What is the value of the Personal Training segment in this sunburst chart?",
+            "A": "The value of the Personal Training segment is {21.35}."
+        },
+        {
+            "Q": "What is the value of the Individual Sports segment in this sunburst chart?",
+            "A": "The value of the Individual Sports segment is {31.45}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {40.39}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {28.16}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {8.71}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {6.14}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Sports Media and Tech exceed 60%? Please list the category names and corresponding percentages.",
+            "A": "{Sports Technology} accounts for {70.83}%"
+        },
+        {
+            "Q": "Which categories in the segment Sports Media and Tech are below 40%? Please list the category names and corresponding percentages.",
+            "A": "{Live Broadcasting} accounts for {29.17}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Sports Media and Tech, Competitive Sports, or Individual Sports?",
+            "A": "The value of {Sports Media and Tech} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Competitive Sports, Individual Sports, or Sports Technology?",
+            "A": "The value of {Sports Technology} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Sports Media and Tech or Competitive Sports?",
+            "A": "The value of {Sports Media and Tech} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Sports Media and Tech to Sports Technology to Wearables to Heart Rate Monitors}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {5} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Autonomous Vehicles relative to International Freight?",
+            "A": "Autonomous Vehicles is {below} International Freight in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing International Freight relative to Rural Logistics?",
+            "A": "International Freight is {above} Rural Logistics in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Drone Delivery relative to International Freight?",
+            "A": "Drone Delivery is {below} International Freight in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total delivery time?",
+            "A": "The series with the largest contribution is {Drone Delivery}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total delivery time?",
+            "A": "The series with the smallest contribution is {International Freight}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is Rural Logistics's maximum Delivery Time in the streamgraph?",
+            "A": "Rural Logistics's maximum Delivery Time is in {1968}."
+        },
+        {
+            "Q": "Which year is Rural Logistics's minimum Delivery Time in the streamgraph?",
+            "A": "Rural Logistics's minimum Delivery Time is in {1954}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Between 1951 and 1958, did the total Delivery Time experience a larger or smaller change than between 1952 and 1957?",
+            "A": "The change in total delivery time between 1951 and 1958 was {larger} than between 1952 and 1957."
+        },
+        {
+            "Q": "Between 1960 and 1965, did the total Delivery Time experience a larger or smaller change than between 1954 and 1965?",
+            "A": "The change in total delivery time between 1960 and 1965 was {smaller} than between 1954 and 1965."
+        },
+        {
+            "Q": "Between 1959 and 1968, did the total Delivery Time experience a larger or smaller change than between 1953 and 1965?",
+            "A": "The change in total delivery time between 1959 and 1968 was {larger} than between 1953 and 1965."
+        },
+        {
+            "Q": "Between 1952 and 1959, was the average total Delivery Time higher or lower than between 1956 and 1967?",
+            "A": "The average total delivery time between 1952 and 1959 was {lower} than between 1956 and 1967."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Autonomous Vehicles} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did Rural Logistics and International Freight first exchange dominant positions?",
+            "A": "Rural Logistics and International Freight first exchanged leading positions in {1952}."
+        }
+    ],
+    "VA": []
+}

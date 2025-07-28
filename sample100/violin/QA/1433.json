@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {5} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {NovaEdge}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {BrightEdge}."
+        },
+        {
+            "Q": "Which violin is the second position to the right of the violin NovaEdge?",
+            "A": "The second position to the right of the violin NovaEdge is {SkyBound}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin NovaEdge relative to the violin BrightEdge in terms of horizontal (left/right) direction?",
+            "A": "violin NovaEdge is to the {left} of the violin BrightEdge."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {BrightEdge}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {BrightEdge}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing SkyBound?",
+            "A": "The density distribution pattern of the SkyBound shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of TrueNorth in the violin plot?",
+            "A": "The median of TrueNorth is {47190.00} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of NovaEdge in the violin plot?",
+            "A": "The lower quartile (Q1) of NovaEdge is {38985.75} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of DataPulse in the violin plot?",
+            "A": "The upper whisker limit of DataPulse is {89911.00} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in TrueNorth in the violin plot?",
+            "A": "The largest upper outlier value in TrueNorth is {102985.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {126785.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {4220.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin SkyBound and TrueNorth?",
+            "A": "The Median difference between violin SkyBound and TrueNorth is {9853.50} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin SkyBound and BrightEdge?",
+            "A": "The total Q3 value of violin SkyBound and BrightEdge is {133136.00} USD."
+        },
+        {
+            "Q": "What is the average Median value of violin DataPulse and BrightEdge?",
+            "A": "The average Median value of violin DataPulse and BrightEdge is {55255.00} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 57241.50 USD? Please list the violins and corresponding values.",
+            "A": "{BrightEdge} has {57439.50} USD "
+        },
+        {
+            "Q": "Which violins have median values below 55057.00 USD? Please list the violins and corresponding values.",
+            "A": "{NovaEdge} has {48970.50} USD , {DataPulse} has {53070.50} USD , {TrueNorth} has {47190.00} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 40294.12 USD and the upper quartile (Q3) below 63712.50 USD?",
+            "A": "Violin {DataPulse} has the Q1 above 40294.12 USD and the Q3 below 63712.5 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 50620.43 USD?",
+            "A": "Violin {DataPulse} has {54001.75} USD ,{SkyBound} has {57496.55} USD ,{BrightEdge} has {54462.85} USD have their highest density peak exceed 50620.43 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 54232.30 USD?",
+            "A": "Violin {NovaEdge} has {47239.10} USD ,{DataPulse} has {54001.75} USD ,{TrueNorth} has {45841.69} USD have their highest density peak below 54232.30 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of DataPulse or NovaEdge ",
+            "A": "The median value of the {DataPulse} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of DataPulse, BrightEdge or NovaEdge ",
+            "A": "The median value of the {BrightEdge} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of BrightEdge, NovaEdge, TrueNorth or SkyBound ",
+            "A": "The median value of the {BrightEdge} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {SkyBound}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,82 @@
+Transportation and Logistics,the Analysis of Transportation and Logistics,9x9,radial_gradient
+Air,Capacity,0.23
+Intermodal,Capacity,0.21
+Last Mile,Capacity,0.21
+Maritime,Capacity,0.24
+Planning,Capacity,0.35
+Rail,Capacity,0.5
+Road,Capacity,0.75
+Tracking,Capacity,0.85
+Warehousing,Capacity,0.92
+Air,Compliance,0.18
+Intermodal,Compliance,0.11
+Last Mile,Compliance,0.08
+Maritime,Compliance,0.11
+Planning,Compliance,0.23
+Rail,Compliance,0.39
+Road,Compliance,0.67
+Tracking,Compliance,0.81
+Warehousing,Compliance,0.92
+Air,Cost,0.12
+Intermodal,Cost,0.07
+Last Mile,Cost,0.06
+Maritime,Cost,0.15
+Planning,Cost,0.18
+Rail,Cost,0.29
+Road,Cost,0.6
+Tracking,Cost,0.77
+Warehousing,Cost,0.87
+Air,Efficiency,0.17
+Intermodal,Efficiency,0.1
+Last Mile,Efficiency,0.11
+Maritime,Efficiency,0.11
+Planning,Efficiency,0.17
+Rail,Efficiency,0.34
+Road,Efficiency,0.56
+Tracking,Efficiency,0.81
+Warehousing,Efficiency,0.93
+Air,Labor,0.18
+Intermodal,Labor,0.13
+Last Mile,Labor,0.11
+Maritime,Labor,0.17
+Planning,Labor,0.19
+Rail,Labor,0.38
+Road,Labor,0.65
+Tracking,Labor,0.82
+Warehousing,Labor,0.93
+Air,Safety,0.25
+Intermodal,Safety,0.21
+Last Mile,Safety,0.19
+Maritime,Safety,0.23
+Planning,Safety,0.36
+Rail,Safety,0.52
+Road,Safety,0.74
+Tracking,Safety,0.88
+Warehousing,Safety,0.92
+Air,Speed,0.44
+Intermodal,Speed,0.39
+Last Mile,Speed,0.39
+Maritime,Speed,0.41
+Planning,Speed,0.49
+Rail,Speed,0.69
+Road,Speed,0.82
+Tracking,Speed,0.92
+Warehousing,Speed,0.94
+Air,Sustainability,0.66
+Intermodal,Sustainability,0.62
+Last Mile,Sustainability,0.65
+Maritime,Sustainability,0.69
+Planning,Sustainability,0.74
+Rail,Sustainability,0.82
+Road,Sustainability,0.89
+Tracking,Sustainability,1.0
+Warehousing,Sustainability,0.96
+Air,Technology,0.83
+Intermodal,Technology,0.86
+Last Mile,Technology,0.8
+Maritime,Technology,0.82
+Planning,Technology,0.83
+Rail,Technology,0.92
+Road,Technology,0.95
+Tracking,Technology,0.91
+Warehousing,Technology,0.93

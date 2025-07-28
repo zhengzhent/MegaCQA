@@ -1,0 +1,14 @@
+Food and Beverage Industry, Restaurant Customer Flow, Customers, linear
+Source,Target,Value
+Kathy's Pizzas,Cisnerosfurt Sandwich,179
+Cisnerosfurt Sandwich,Kathy's Pizzas,168
+Danielle's Chicken,Cisnerosfurt Sandwich,160
+Cisnerosfurt Sandwich,Danielle's Chicken,146
+Crystalbury Coffee,Danielle's Chicken,139
+Danielle's Chicken,Crystalbury Coffee,128
+Kyle's Salads,Kathy's Pizzas,113
+Kathy's Pizzas,Kyle's Salads,99
+Kyle's Salads,Cisnerosfurt Sandwich,91
+Cisnerosfurt Sandwich,Kyle's Salads,79
+Kathy's Pizzas,Danielle's Chicken,62
+Danielle's Chicken,Kathy's Pizzas,53

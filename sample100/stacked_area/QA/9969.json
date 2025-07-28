@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {2} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Weather Impacts relative to Political Disruptions?",
+            "A": "Weather Impacts is {above} Political Disruptions in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total cross-border delays?",
+            "A": "The series with the largest contribution is {Political Disruptions}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total cross-border delays?",
+            "A": "The series with the smallest contribution is {Weather Impacts}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Political Disruptions's Cross-Border Delays in 1981?",
+            "A": "Political Disruptions's cross-border delays in 1981 is {17.43} hours."
+        },
+        {
+            "Q": "What is Political Disruptions's Cross-Border Delays in 1986?",
+            "A": "Political Disruptions's cross-border delays in 1986 is {20.57} hours."
+        },
+        {
+            "Q": "What is Weather Impacts's Cross-Border Delays in 1973?",
+            "A": "Weather Impacts's cross-border delays in 1973 is {11.33} hours."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Cross-Border Delays in the area chart?",
+            "A": "The global minimum cross-border delays is {5.73} hours."
+        },
+        {
+            "Q": "What is the global maximum Cross-Border Delays in the area chart?",
+            "A": "The global maximum cross-border delays is {22.40} hours."
+        },
+        {
+            "Q": "What is the highest Cross-Border Delays level recorded for Political Disruptions?",
+            "A": "Political Disruptions reached approximately {22.40} hours in {1989}."
+        },
+        {
+            "Q": "What is the lowest Cross-Border Delays level recorded for Political Disruptions?",
+            "A": "Political Disruptions's lowest recorded level is approximately {11.43} hours in {1972}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Cross-Border Delays?",
+            "A": "The average total cross-border delays is {25.70} hours."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Cross-Border Delays fall between 24.35 and 26.92 hours? Please list the years and corresponding total values.",
+            "A": "{24.76} hours in {1977}, {25.27} hours in {1983}, {25.86} hours in {1981}."
+        },
+        {
+            "Q": "Which years did the total Cross-Border Delays exceed 26.52 hours? Please list the years and corresponding total values.",
+            "A": "{27.75} hours in {1984}, {26.92} hours in {1985}, {28.76} hours in {1989}."
+        },
+        {
+            "Q": "Which years did the total Cross-Border Delays go below 24.75 hours? Please list the years and corresponding total values.",
+            "A": "{24.75} hours in {1972}, {24.09} hours in {1973}, {23.52} hours in {1975}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was the total Cross-Border Delays in 1982 higher or lower than in 1988?",
+            "A": "The total cross-border delays in 1982 was {lower} than in 1988."
+        },
+        {
+            "Q": "Between 1980 and 1981, did the total Cross-Border Delays experience a larger or smaller change than between 1981 and 1982?",
+            "A": "The change in total cross-border delays between 1980 and 1981 was {larger} than between 1981 and 1982."
+        },
+        {
+            "Q": "Between 1972 and 1978, was the average total Cross-Border Delays higher or lower than between 1973 and 1986?",
+            "A": "The average total cross-border delays between 1972 and 1978 was {lower} than between 1973 and 1986."
+        },
+        {
+            "Q": "Was the total Cross-Border Delays in 1972 higher or lower than in 1982?",
+            "A": "The total cross-border delays in 1972 was {lower} than in 1982."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Political Disruptions} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Weather Impacts, Political Disruptions}."
+        }
+    ]
+}

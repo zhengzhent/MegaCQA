@@ -1,0 +1,20 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="967 972.4 1047 972.4" fill="none" stroke="#000000"></polyline>
+<polyline points="958.5 1188.8 1038.5 1188.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1136.3 539.6 1216.3 539.6" fill="none" stroke="#000000"></polyline>
+<polyline points="1017.2 756 1097.2 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1346.1 323.2 1426.1 323.2" fill="none" stroke="#000000"></polyline>
+<polygon points="752.5 865.2 975.5 865.2 958.5 1079.6 769.5 1079.6" fill="#FFC04A" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="769.5 1081.6 958.5 1081.6 958.5 1296 769.5 1296" fill="#FFAE14" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="514.3 432.4 1213.7 432.4 1058.8 646.8 669.2 646.8" fill="#FFE4B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="669.2 648.8 1058.8 648.8 975.5 863.2 752.5 863.2" fill="#FFD27F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1213.7 430.4 514.3 430.4" fill="#FFF5E1" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1051.9868194842406" y="972.3999999999999" fill="#000000">Fan Engagement: 190</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1043.4779369627506" y="1188.8" fill="#000000">Post-Event Feedback: 161</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1221.2842406876791" y="539.5999999999999" fill="#000000">Ticket Purchase: 596</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1102.1598853868195" y="756" fill="#000000">Event Attendance: 332</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1431.0722063037251" y="323.2" fill="#000000">Event Announcement: 1047</text>
+<path d="M-392.2578 -5l784.5156 0l0 58l-784.5156 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Sports Event Participation (Participants)</text>
+</svg>

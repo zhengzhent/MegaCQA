@@ -1,0 +1,95 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {5} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Executive?",
+            "A": "The next slice clockwise from slice Executive is {Entry-Level}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Executive?",
+            "A": "The next slice counterclockwise from slice Executive is {Internships}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which income has the largest proportion in this pie chart?",
+            "A": "The income with the largest proportion is {Executive}."
+        },
+        {
+            "Q": "Which income has the smallest proportion in this pie chart?",
+            "A": "The income with the smallest proportion is {Internships}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Internships slice in this pie chart?",
+            "A": "The value of the Internships slice is {15}%."
+        },
+        {
+            "Q": "What is the value of the Freelancers slice in this pie chart?",
+            "A": "The value of the Freelancers slice is {23}%."
+        },
+        {
+            "Q": "What is the value of the Mid-Level slice in this pie chart?",
+            "A": "The value of the Mid-Level slice is {16}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {31}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {15}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Freelancers and Executive in this pie chart?",
+            "A": "The difference between Freelancers and Executive is {8}%."
+        },
+        {
+            "Q": "What is the sum of the values of Entry-Level and Internships in this pie chart?",
+            "A": "The sum of Entry-Level and Internships is {30}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 23.0%? Please list the category names and corresponding percentages.",
+            "A": "{Executive} accounts for {31}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 20.0%? Please list the category names and corresponding percentages.",
+            "A": "{Mid-Level} accounts for {16}% and {Entry-Level} accounts for {15}% and {Internships} accounts for {15}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Executive, Freelancers, Mid-Level, or Internships?",
+            "A": "The value of {Executive} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Executive or Freelancers?",
+            "A": "The value of {Executive} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 10% and 15%?",
+            "A": "There are {2} sectors that have a percentage between 10% and 15%."
+        }
+    ],
+    "VA": []
+}

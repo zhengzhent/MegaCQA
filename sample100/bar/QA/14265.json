@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {4} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Sunny Farm}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {Harvest Farm}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Berry Farm relative to the bar Meadow Farm in terms of vetical (above/below) direction??",
+            "A": "Bar Berry Farm is {above} the bar Meadow Farm."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Berry Farm}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Meadow Farm}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Harvest Farm?",
+            "A": "The value of Harvest Farm is {3733} tons."
+        },
+        {
+            "Q": "What is the value of bar Sunny Farm?",
+            "A": "The value of Sunny Farm is {1091} tons."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum tons in the bar chart?",
+            "A": "The maximum tons is {3973} tons."
+        },
+        {
+            "Q": "What is the minimum tons in the bar chart?",
+            "A": "The minimum tons is {817} tons."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Sunny Farm and Harvest Farm?",
+            "A": "The total value of Sunny Farm and Harvest Farm is {4824} tons."
+        },
+        {
+            "Q": "What is the average value of Berry Farm and Meadow Farm?",
+            "A": "The average value of Berry Farm and Meadow Farm is {2395.0} tons."
+        },
+        {
+            "Q": "What is the difference between Harvest Farm and Berry Farm?",
+            "A": "The difference between Harvest Farm and Berry Farm is {240} tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have tons values exceed 2412.00 tons? Please list the bars and corresponding tons values?",
+            "A": "{Harvest Farm} has {3733} tons, {Berry Farm} has {3973} tons."
+        },
+        {
+            "Q": "Which bars have {tons} values below 2412.00 tons? Please list the bars and corresponding tons values?",
+            "A": "{Meadow Farm} has {817} tons, {Sunny Farm} has {1091} tons."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Berry Farm or Harvest Farm ",
+            "A": "The value of the {Berry Farm} is larger?"
+        },
+        {
+            "Q": "Which is larger, Berry Farm, Meadow Farm or Harvest Farm ",
+            "A": "The value of the {Berry Farm} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {2} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Meadow Farm} and {Berry Farm}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Berry Farm}, {Harvest Farm}, and {Sunny Farm}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by tons values in descending order and list the labels from left to right.",
+            "A": "Sorted by tons value descending: {Berry Farm}, {Harvest Farm}, {Sunny Farm}, and {Meadow Farm}."
+        },
+        {
+            "Q": "Sort the bars by tons values in ascending order and list the labels from left to right.",
+            "A": "Sorted by tons value ascending: {Meadow Farm}, {Sunny Farm}, {Harvest Farm}, and {Berry Farm}."
+        }
+    ]
+}

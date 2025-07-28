@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Age of the vehicle of 0.10 relative to the bubble with a Age of the vehicle of 12.89 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Age of the vehicle of 0.10 is {below} and to the {left} of the bubble with a Age of the vehicle of 12.89."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Traffic volume and On-time rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {7626.03} vehicles/hour and {80.19} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Age of the vehicle of the largest bubble?",
+            "A": "The Age of the vehicle of the largest bubble is {20.00} years."
+        },
+        {
+            "Q": "What is the Age of the vehicle of the smallest bubble?",
+            "A": "The Age of the vehicle of the smallest bubble is {0.10} years."
+        },
+        {
+            "Q": "What are the Traffic volume and On-time rate values of the largest bubble?",
+            "A": "The Traffic volume of the largest bubble is {615.24} vehicles/hour, and {On-time rate} is {87.39} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Age of the vehicle in the bubble chart?",
+            "A": "The global maximum Age of the vehicle is {20.00} years."
+        },
+        {
+            "Q": "What is the global minimum Age of the vehicle in the bubble chart?",
+            "A": "The global minimum Age of the vehicle is {0.10} years."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Traffic volume in the bubble chart?",
+            "A": "The maximum observed value in the Traffic volume dimension is {8700.84} vehicles/hour."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Traffic volume in the bubble chart?",
+            "A": "The minimum observed value in the Traffic volume dimension is {615.24} vehicles/hour."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension On-time rate in the bubble chart?",
+            "A": "The maximum observed value in the On-time rate dimension is {91.73} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension On-time rate in the bubble chart?",
+            "A": "The minimum observed value in the On-time rate dimension is {71.72} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Age of the vehicle for all bubbles?",
+            "A": "The average value of the Age of the vehicle for all bubbles is {16.23} years."
+        },
+        {
+            "Q": "What is the average value of the Traffic volume for all bubbles?",
+            "A": "The average value of Traffic volume for all bubbles is {5587.37} vehicles/hour."
+        },
+        {
+            "Q": "What is the average value of the On-time rate for all bubbles?",
+            "A": "The average value of On-time rate for all bubbles is {83.39} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Age of the vehicle values in the bubble chart?",
+            "A": "{20.00, 20.00, 20.00} years."
+        },
+        {
+            "Q": "What are the bottom 3 Age of the vehicle values in the bubble chart?",
+            "A": "{0.10, 11.68, 12.89} years."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Age of the vehicle value, the bubble with a Traffic volume of 3831.7 vehicles/hour and a On-time rate of 86.6 %, or the bubble with a Traffic volume of 8700.8 vehicles/hour and a On-time rate of 71.7 %?",
+            "A": "The bubble with a Traffic volume of {3831.7} and a On-time rate of {86.6} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Age of the vehicle value of the bubble with the largest On-time rate value?",
+            "A": "The Age of the vehicle value of the bubble with the largest On-time rate is {12.89}."
+        },
+        {
+            "Q": "What is the Age of the vehicle value of the bubble with the largest Traffic volume value?",
+            "A": "The Age of the vehicle value of the bubble with the largest Traffic volume is {15.78}."
+        },
+        {
+            "Q": "Classify bubbles with a On-time rate-coordinate greater than 82 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Age of the vehicle for the high value group and the low value group?",
+            "A": "The difference between the total Age of the vehicle of the high-value and low-value groups is {115.93}."
+        }
+    ],
+    "VA": []
+}

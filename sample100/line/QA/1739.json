@@ -1,0 +1,148 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Aethelgard Thespians, what is the spatial relationship of the data point in 1951 relative to that in 1964 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Aethelgard Thespians, the data point in 1951 is {above} and to the {left} of the data point in 1964."
+        },
+        {
+            "Q": "In 1953, what is the vertical (above/below) relationship of the line representing Stellar Performance Troupe relative to Aethelgard Thespians?",
+            "A": "In 1953, Stellar Performance Troupe is {above} Aethelgard Thespians in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Aethelgard Thespians's Theater Attendance levels?",
+            "A": "Aethelgard Thespians's theater attendance levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "What is the trend of Stellar Performance Troupe's Theater Attendance levels?",
+            "A": "Stellar Performance Troupe's theater attendance levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "Which line shows a volatile falling trend in Theater Attendance levels?",
+            "A": "{Aethelgard Thespians}."
+        },
+        {
+            "Q": "Which line shows a exponential rising trend in Theater Attendance levels?",
+            "A": "{Stellar Performance Troupe}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Stellar Performance Troupe's Theater Attendance in 1952?",
+            "A": "Stellar Performance Troupe's theater attendance in 1952 is {588360.02} tickets."
+        },
+        {
+            "Q": "What is Aethelgard Thespians's Theater Attendance in 1953?",
+            "A": "Aethelgard Thespians's theater attendance in 1953 is {168008.36} tickets."
+        },
+        {
+            "Q": "What is Stellar Performance Troupe's Theater Attendance in 1964?",
+            "A": "Stellar Performance Troupe's theater attendance in 1964 is {1837617.29} tickets."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Theater Attendance in the line chart?",
+            "A": "The global minimum theater attendance is {2033.97} tickets."
+        },
+        {
+            "Q": "What is the global maximum Theater Attendance in the line chart?",
+            "A": "The global maximum theater attendance is {3248384.20} tickets."
+        },
+        {
+            "Q": "What is the highest Theater Attendance level recorded for Aethelgard Thespians?",
+            "A": "Aethelgard Thespians reached approximately {203300.48} tickets in {1950}."
+        },
+        {
+            "Q": "What is the lowest Theater Attendance level recorded for Aethelgard Thespians?",
+            "A": "Aethelgard Thespians's lowest recorded level is approximately {2033.97} tickets in {1967}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Aethelgard Thespians's Theater Attendance from the starting year to the final year?",
+            "A": "The rate of decline in Aethelgard Thespians's theater attendance is {-99.00}%."
+        },
+        {
+            "Q": "What is the rate of change in Stellar Performance Troupe's Theater Attendance from the starting year to the final year?",
+            "A": "The rate of growth in Stellar Performance Troupe's theater attendance is {575.23}%."
+        },
+        {
+            "Q": "What is the average value of Stellar Performance Troupe's Theater Attendance?",
+            "A": "The average value of Stellar Performance Troupe's theater attendance is {1471791.66} tickets."
+        },
+        {
+            "Q": "What is the average value of Aethelgard Thespians's Theater Attendance?",
+            "A": "The average value of Aethelgard Thespians's theater attendance is {85540.24} tickets."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1964, which line had Theater Attendance exceed 1386219 tickets? Please list the lines and corresponding values.",
+            "A": "{Stellar Performance Troupe} had {1837617} tickets."
+        },
+        {
+            "Q": "Which years did Stellar Performance Troupe's Theater Attendance between 906075 and 1901389 tickets? Please list the years and corresponding values.",
+            "A": "{1837617.29} tickets in {1964} year, {1374646.22} tickets in {1961} year, {1668526.98} tickets in {1963} year."
+        },
+        {
+            "Q": "In the year 1968, which line had Theater Attendance exceed 2014999 tickets? Please list the lines and corresponding values.",
+            "A": "{Stellar Performance Troupe} had {2685987} tickets."
+        },
+        {
+            "Q": "In the year 1963, which line had Theater Attendance exceed 1262003 tickets? Please list the lines and corresponding values.",
+            "A": "{Stellar Performance Troupe} had {1668527} tickets."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Stellar Performance Troupe's Theater Attendance in 1952 higher or lower than in 1963?",
+            "A": "The theater attendance in 1952 was {lower} than in 1963."
+        },
+        {
+            "Q": "In 1963, which line had a higher Theater Attendance, {Stellar Performance Troupe} or {Aethelgard Thespians}?",
+            "A": "In 1963, {Stellar Performance Troupe} had a higher theater attendance."
+        },
+        {
+            "Q": "Between 1951 and 1965, which line experienced a larger change in Theater Attendance, Aethelgard Thespians or Stellar Performance Troupe?",
+            "A": "{Stellar Performance Troupe} experienced a larger change in theater attendance."
+        },
+        {
+            "Q": "Between 1955 and 1961, which line experienced a larger change in Theater Attendance, Stellar Performance Troupe or Aethelgard Thespians?",
+            "A": "{Stellar Performance Troupe} experienced a larger change in theater attendance."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Stellar Performance Troupe}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1961 and 1963?",
+            "A": "{Stellar Performance Troupe} has the fastest average growth rate between 1961 and 1963."
+        },
+        {
+            "Q": "Which label had the leading theater attendance since 1957?",
+            "A": "Since 1957, {Stellar Performance Troupe} had the leading theater attendance."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Stellar Performance Troupe. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1950, 1970}."
+        }
+    ]
+}

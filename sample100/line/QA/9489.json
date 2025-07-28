@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Long-Haul Trucks, what is the spatial relationship of the data point in 1963 relative to that in 1969 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Long-Haul Trucks, the data point in 1963 is {above} and to the {left} of the data point in 1969."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Long-Haul Trucks's Fuel Consumption levels?",
+            "A": "Long-Haul Trucks's fuel consumption levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "Which line shows a bimodal peak trend in Fuel Consumption levels?",
+            "A": "{Long-Haul Trucks}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Long-Haul Trucks's Fuel Consumption in 1964?",
+            "A": "Long-Haul Trucks's fuel consumption in 1964 is {15.31} L/100km."
+        },
+        {
+            "Q": "What is Long-Haul Trucks's Fuel Consumption in 1960?",
+            "A": "Long-Haul Trucks's fuel consumption in 1960 is {13.07} L/100km."
+        },
+        {
+            "Q": "What is Long-Haul Trucks's Fuel Consumption in 1968?",
+            "A": "Long-Haul Trucks's fuel consumption in 1968 is {13.70} L/100km."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Fuel Consumption in the line chart?",
+            "A": "The global minimum fuel consumption is {13.07} L/100km."
+        },
+        {
+            "Q": "What is the global maximum Fuel Consumption in the line chart?",
+            "A": "The global maximum fuel consumption is {15.49} L/100km."
+        },
+        {
+            "Q": "What is the highest Fuel Consumption level recorded for Long-Haul Trucks?",
+            "A": "Long-Haul Trucks reached approximately {15.49} L/100km in {1965}."
+        },
+        {
+            "Q": "What is the lowest Fuel Consumption level recorded for Long-Haul Trucks?",
+            "A": "Long-Haul Trucks's lowest recorded level is approximately {13.07} L/100km in {1960}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Long-Haul Trucks's Fuel Consumption?",
+            "A": "The average value of Long-Haul Trucks's fuel consumption is {14.51} L/100km."
+        },
+        {
+            "Q": "What is the rate of change in Long-Haul Trucks's Fuel Consumption from the starting year to the final year?",
+            "A": "The rate of growth in Long-Haul Trucks's fuel consumption is {0.38}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Long-Haul Trucks's Fuel Consumption exceed 14 L/100km? Please list the years and corresponding values.",
+            "A": "{15.01} L/100km in {1966} year, {15.31} L/100km in {1964} year, {14.69} L/100km in {1967} year."
+        },
+        {
+            "Q": "Which years did Long-Haul Trucks's Fuel Consumption between 14 and 15 L/100km? Please list the years and corresponding values.",
+            "A": "{14.69} L/100km in {1967} year, {14.91} L/100km in {1962} year, {14.30} L/100km in {1961} year."
+        },
+        {
+            "Q": "Which years did Long-Haul Trucks's Fuel Consumption below 14 L/100km? Please list the years and corresponding values.",
+            "A": "{13.07} L/100km in {1960} year, {13.70} L/100km in {1968} year, {14.30} L/100km in {1961} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Long-Haul Trucks's Fuel Consumption in 1962 higher or lower than in 1964?",
+            "A": "The fuel consumption in 1962 was {lower} than in 1964."
+        },
+        {
+            "Q": "Was Long-Haul Trucks's Fuel Consumption in 1965 higher or lower than in 1969?",
+            "A": "The fuel consumption in 1965 was {higher} than in 1969."
+        },
+        {
+            "Q": "Was Long-Haul Trucks's Fuel Consumption in 1961 higher or lower than in 1962?",
+            "A": "The fuel consumption in 1961 was {lower} than in 1962."
+        },
+        {
+            "Q": "Was Long-Haul Trucks's Fuel Consumption in 1967 higher or lower than in 1968?",
+            "A": "The fuel consumption in 1967 was {higher} than in 1968."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Long-Haul Trucks. List the x-coordinates of data points to be preserved.(4 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1960, 1963, 1965, 1969}."
+        }
+    ]
+}

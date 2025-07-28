@@ -1,0 +1,24 @@
+Healthcare and Health,Healthcare Distribution by Category (2022),%
+parent,child,value
+,Medical Tech,100.0
+Medical Tech,Imaging Systems,92.93
+Imaging Systems,CT Scanners,51.46
+CT Scanners,Reconstruction,51.46
+Reconstruction,Iterative Algorithms,32.88
+Iterative Algorithms,MAP-EM,17.66
+Iterative Algorithms,OSEM,15.22
+Reconstruction,Deep Learning,18.58
+Deep Learning,CNN Architectures,18.58
+CNN Architectures,U-Net Variants,9.49
+CNN Architectures,Attention Gates,9.09
+Imaging Systems,MRI Machines,41.47
+MRI Machines,Pulse Sequences,41.47
+Pulse Sequences,Gradient Echo,32.54
+Gradient Echo,TR Adjustment,14.32
+Gradient Echo,TE Optimization,18.22
+Pulse Sequences,Spin Echo,8.93
+Spin Echo,Contrast Weighting,8.93
+Medical Tech,Robotic Surgery,7.07
+Robotic Surgery,Haptic Control,7.07
+Haptic Control,Force Feedback,7.07
+Force Feedback,Bilateral Teleoperation,7.07

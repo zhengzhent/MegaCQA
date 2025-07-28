@@ -1,0 +1,22 @@
+Healthcare and Health,Healthcare Service Ecosystem,Patients,random,Patient Demographics,Medical Specialties
+Source,Target,Value
+Pregnant Women,Pediatrics,565
+Pregnant Women,Oncology,342
+Pregnant Women,Orthopedics,882
+Pregnant Women,Dermatology,848
+Pregnant Women,Neurology,591
+Children,Pediatrics,2536
+Children,Oncology,265
+Children,Orthopedics,1035
+Children,Dermatology,2452
+Children,Neurology,265
+Seniors,Pediatrics,157
+Seniors,Oncology,276
+Seniors,Orthopedics,426
+Seniors,Dermatology,235
+Seniors,Neurology,436
+Chronic Patients,Pediatrics,91
+Chronic Patients,Oncology,608
+Chronic Patients,Orthopedics,443
+Chronic Patients,Dermatology,125
+Chronic Patients,Neurology,323

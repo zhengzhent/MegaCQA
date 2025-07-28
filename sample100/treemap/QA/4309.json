@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Filling Machines in this treemap?",
+            "A": "There are {2} child rectangles under the category Filling Machines."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Processing Lines}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Seal Mechanisms}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Processing Lines}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Retort Machines rectangle in this treemap?",
+            "A": "The value of the Retort Machines rectangle is {75.97}."
+        },
+        {
+            "Q": "What is the value of the Blast Chillers rectangle in this treemap?",
+            "A": "The value of the Blast Chillers rectangle is {6.34}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {82.31}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.42}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Thermal Systems and Volumetric?",
+            "A": "The difference between Thermal Systems and Volumetric is {76.89}."
+        },
+        {
+            "Q": "What is the sum of the regions of Pneumatic Valves and Blast Chillers?",
+            "A": "The sum of Pneumatic Valves and Blast Chillers is {15.84}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Filling Machines category in the treemap, which rectangular labels have a value exceeded 5.83? Please list the labels and values.",
+            "A": "{Gravimetric} has {5.97}"
+        },
+        {
+            "Q": "Under the Filling Machines category in the treemap, which rectangular labels have a value below 5.56? Please list the labels and values.",
+            "A": "{Volumetric} has {5.42}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Processing Lines or Thermal Systems?",
+            "A": "The value of {Processing Lines} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Retort Machines or Plate Designs?",
+            "A": "The value of {Retort Machines} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Processing Lines, Thermal Systems, or Retort Machines?",
+            "A": "The value of {Processing Lines} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,14 @@
+Food and Beverage Industry, Restaurant Customer Flow, Customers, long_tail
+Source,Target,Value
+Christopher's Tacos,World Donuts,1433
+World Donuts,Christopher's Tacos,772
+World Donuts,Kathy's Pizzas,516
+Kathy's Pizzas,World Donuts,384
+Cisnerosfurt Sandwich,Kathy's Pizzas,304
+Kathy's Pizzas,Cisnerosfurt Sandwich,260
+Crystalbury Coffee,Kathy's Pizzas,214
+Kathy's Pizzas,Crystalbury Coffee,195
+Christopher's Tacos,Kathy's Pizzas,164
+Kathy's Pizzas,Christopher's Tacos,157
+Crystalbury Coffee,World Donuts,140
+World Donuts,Crystalbury Coffee,122

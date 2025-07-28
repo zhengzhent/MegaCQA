@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Equipment utilization (%) dimension, what is the spatial relationship of their  Rice relative to term  Barley in terms of vertical (above/below) direction?",
+            "A": "{their  Rice} is {above} {term  Barley} on the Equipment utilization (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Soil health index (1-10)?",
+            "A": "The second position to the left of Soil health index (1-10) is {Labor efficiency (acres/worker)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Soil health index (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Equipment utilization (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Labor efficiency (acres/worker)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Labor efficiency (acres/worker) and dimension Harvest frequency (per year)",
+            "A": "There is {Strong Correlation} between Labor efficiency (acres/worker) and Harvest frequency (per year)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of their  Rice on the Harvest frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of their  Rice on the Harvest frequency (per year) dimension is {3.95}"
+        },
+        {
+            "Q": "What is the value of clearly  Wheat on the Labor efficiency (acres/worker) dimension in the parallel-coordinates chart?",
+            "A": "The value of clearly  Wheat on the Labor efficiency (acres/worker) dimension is {93.1}"
+        },
+        {
+            "Q": "What is the value of cultural  Rice on the Harvest frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of cultural  Rice on the Harvest frequency (per year) dimension is {1.39}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label clearly  Wheat across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of clearly  Wheat across all dimensions is {93.1}"
+        },
+        {
+            "Q": "What is the minimum value of label cultural  Rice across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of cultural  Rice across all dimensions is {1.39}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Soil health index (1-10)?",
+            "A": "The average value of Soil health index (1-10) is {7.58}"
+        },
+        {
+            "Q": "What is the difference in coding Soil health index (1-10) between label their  Rice and label clearly  Wheat",
+            "A": "The difference in coding Soil health index (1-10) between their  Rice and clearly  Wheat is {7.92}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Harvest frequency (per year) dimension in the parallel coordinates?",
+            "A": "{[4.0, 3.95, 3.52]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Soil health index (1-10) dimension in the parallel coordinates?",
+            "A": "{[1.0, 7.98, 8.32]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Labor efficiency (acres/worker), which label has a higher score: their  Rice or term  Barley?",
+            "A": "{their  Rice} has a higher score on Labor efficiency (acres/worker)."
+        },
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: clearly  Wheat or agency  Tomato?",
+            "A": "{agency  Tomato} has a higher score on Equipment utilization (%)."
+        },
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: term  Barley or item  Potato?",
+            "A": "{item  Potato} has a higher score on Equipment utilization (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Labor efficiency (acres/worker)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Labor efficiency (acres/worker) being greater than 484.49 and Equipment utilization (%) being less than 78.67?",
+            "A": "There are {2} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

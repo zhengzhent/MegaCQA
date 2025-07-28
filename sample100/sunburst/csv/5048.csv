@@ -1,0 +1,20 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2021),%
+parent,child,value
+Root,Employee Lifecycle,27.62
+Employee Lifecycle,Recruitment,5.89
+Employee Lifecycle,Onboarding,21.73
+Onboarding,Mentorship,12.43
+Onboarding,Orientation,9.3
+Root,Employee Development,46.4
+Employee Development,Training Programs,5.96
+Employee Development,Performance Management,40.44
+Performance Management,Feedback,17.47
+Feedback,Manager Review,5.11
+Feedback,Peer Review,5.86
+Feedback,360 Review,6.5
+Performance Management,Goal Setting,22.97
+Goal Setting,Team Objectives,6.88
+Goal Setting,OKRs,16.09
+Root,Workplace Wellbeing,25.97
+Workplace Wellbeing,Health & Safety,25.97
+Health & Safety,Emergency Response,25.97

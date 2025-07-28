@@ -1,0 +1,8 @@
+Energy and Utilities, Energy Production and Consumption Flow, Gigawatt-hours, normal
+Source,Target,Value
+Wind,Nuclear,72
+Nuclear,Wind,225
+Oil,Nuclear,422
+Nuclear,Oil,521
+Wind,Oil,423
+Oil,Wind,216

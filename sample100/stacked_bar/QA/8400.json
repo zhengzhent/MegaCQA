@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {14} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar 2016 of this stacked bar chart?",
+            "A": "There are {4} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {2005}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {2024}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar 2016 relative to the bar 2013 in terms of horizontal (left/right) direction?",
+            "A": "Bar 2016 is to the {right} of the bar 2013."
+        },
+        {
+            "Q": "In the stacked bar of 2016, What is the spatial relationship of segment Condominium relative to the segment Detached House in terms of vertical (above/below) direction?",
+            "A": "Condominium segment is positioned {below} the Detached House segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Year has the highest bar in this stacked bar chart?",
+            "A": "The Year with the highest bar is {2019}."
+        },
+        {
+            "Q": "Which Year has the lowest bar in this stacked bar chart?",
+            "A": "The Year with the lowest bar is {2018}."
+        },
+        {
+            "Q": "In the stacked bar representing 2015, which segment has the highest value?",
+            "A": "The segment with the highest value is {Studio Apartment}."
+        },
+        {
+            "Q": "In the stacked bar representing 2023, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Semi-Detached House}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Semi-Detached House segment within the 2023 bar in the stacked bar chart?",
+            "A": "The value of the Semi-Detached House segment is {206.00} thousand USD."
+        },
+        {
+            "Q": "What is the value of the Semi-Detached House segment within the 2011 bar in the stacked bar chart?",
+            "A": "The value of the Semi-Detached House segment is {249.00} thousand USD."
+        },
+        {
+            "Q": "What is the value of the Detached House segment within the 2016 bar in the stacked bar chart?",
+            "A": "The value of the Detached House segment is {558.00} thousand USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand USD among the stacked segments of bar 2022?",
+            "A": "The maximum thousand USD among the stacked segments of bar 2022 is {329} thousand USD."
+        },
+        {
+            "Q": "What is the minimum thousand USD among the stacked segments of bar 2015?",
+            "A": "The minimum thousand USD among the stacked segments of bar 2015 is {329} thousand USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum thousand USD of the segment Detached House among the bars?",
+            "A": "The maximum thousand USD among the bars of segment Detached House is {558} thousand USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum thousand USD of the segment Detached House among the bars?",
+            "A": "The minimum thousand USD among the bars of segment Detached House is {203} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar 2011?",
+            "A": "The total value of bar 2011 is {1080.00} thousand USD."
+        },
+        {
+            "Q": "What is the total value of the bar 2006?",
+            "A": "The total value of bar 2006 is {1203.00} thousand USD."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {19963} thousand USD."
+        },
+        {
+            "Q": "What is the difference between total value of bar 2018 and 2019?",
+            "A": "The difference between between total value of bar 2018 and 2019 is {1092} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total thousand USD values exceed 1800.00 thousand USD? Please list the bar and corresponding values.",
+            "A": "{2005} has {1818} thousand USD, {2019} has {2062} thousand USD"
+        },
+        {
+            "Q": "Which bars have total thousand USD values below 1070.00 thousand USD? Please list the bar and corresponding values.",
+            "A": "{2018} has {970} thousand USD, {2012} has {1060} thousand USD"
+        },
+        {
+            "Q": "For bar 2023 in the stacked bar chart, which segment have thousand USD value between 390.0 and 854? Please list the segment and corresponding values.",
+            "A": "{Detached House} has {548} thousand USD, {Condominium} has {648} thousand USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total thousand USD of 2011 or 2021?",
+            "A": "The total thousand USD of the {2021} is larger."
+        },
+        {
+            "Q": "Which is larger, the total thousand USD of 2005, 2011 or 2013?",
+            "A": "The total thousand USD of the {2005} is larger."
+        },
+        {
+            "Q": "In the bar 2015, which has a larger thousand USD value: Studio Apartment or Condominium?",
+            "A": "{Studio Apartment} has the larger thousand USD value."
+        },
+        {
+            "Q": "In the bar 2008, which has a larger thousand USD value: Studio Apartment, Detached House or Semi-Detached House?",
+            "A": "{Studio Apartment} has the larger thousand USD value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Condominium in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Condominium are: {2023}, {2019}, {2024}."
+        }
+    ],
+    "VA": []
+}

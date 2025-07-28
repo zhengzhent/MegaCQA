@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {14} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {True Edge}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Starlight}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Wild Bloom relative to the bar Plain Sight in terms of horizontal (left/right) direction?",
+            "A": "Bar Wild Bloom is to the {right} of the bar Plain Sight."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {True Edge}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Dark Horizon}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Echoes?",
+            "A": "The value of Echoes is {1859} million USD."
+        },
+        {
+            "Q": "What is the value of bar True Edge?",
+            "A": "The value of True Edge is {5784} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {5784} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {629} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Fading Light and Starlight?",
+            "A": "The total value of Fading Light and Starlight is {3056} million USD."
+        },
+        {
+            "Q": "What is the average value of Dark Horizon and Nightfall?",
+            "A": "The average value of Dark Horizon and Nightfall is {2569.0} million USD."
+        },
+        {
+            "Q": "What is the difference between Plain Sight and Lost Signal?",
+            "A": "The difference between Plain Sight and Lost Signal is {2540} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 4433.50 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Nightfall} has {4509} million USD, {True Edge} has {5784} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 746.50 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Dark Horizon} has {629} million USD, {Fading Light} has {673} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Nightfall or Hidden Truth ",
+            "A": "The value of the {Nightfall} is larger?"
+        },
+        {
+            "Q": "Which is larger, Iron Heart, Lost Signal or Frozen Time ",
+            "A": "The value of the {Frozen Time} is larger?"
+        },
+        {
+            "Q": "Which is larger, Frozen Time, Starlight, Hidden Truth or True Edge ",
+            "A": "The value of the {True Edge} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Fading Light} and {Deep Waters}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {True Edge}, {Nightfall}, and {Deep Waters}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {True Edge}, {Nightfall}, {Deep Waters}, {Frozen Time}, {Plain Sight}, {Silent Echo}, {Iron Heart}, {Starlight}, {Hidden Truth}, {Echoes}, {Lost Signal}, {Wild Bloom}, {Fading Light}, and {Dark Horizon}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {Dark Horizon}, {Fading Light}, {Wild Bloom}, {Lost Signal}, {Echoes}, {Hidden Truth}, {Starlight}, {Iron Heart}, {Silent Echo}, {Plain Sight}, {Frozen Time}, {Deep Waters}, {Nightfall}, and {True Edge}."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Agriculture and Food Production, Crops Production Transfer Flow, Thousand Tons, linear
+Source,Target,Value
+Corn,Oats,318
+Oats,Corn,299
+Sugarcane,Potatoes,272
+Potatoes,Sugarcane,246
+Soybeans,Corn,225
+Corn,Soybeans,192
+Corn,Sugarcane,181
+Sugarcane,Corn,143
+Soybeans,Potatoes,119
+Potatoes,Soybeans,102

@@ -1,0 +1,143 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {4} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Silverton of this stacked bar chart?",
+            "A": "There are {2} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {horizontal} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Riverton}"
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The bottom bar represents {Silverton}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Riverton relative to the bar Silverton in terms of vertical (below/above) direction??",
+            "A": "Bar Riverton is {below} the bar Silverton."
+        },
+        {
+            "Q": "In the stacked bar of Silverton, What is the spatial relationship of segment Shadow Line relative to the segment Broken Mirror in terms of horizontal (left/right) direction?",
+            "A": "Shadow Line segment is positioned {left} the Broken Mirror segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Towns has the highest bar in this stacked bar chart?",
+            "A": "The Towns with the highest bar is {Fairview}."
+        },
+        {
+            "Q": "Which Towns has the lowest bar in this stacked bar chart?",
+            "A": "The Towns with the lowest bar is {Silverton}."
+        },
+        {
+            "Q": "In the stacked bar representing Fairview, which segment has the highest value?",
+            "A": "The segment with the highest value is {Broken Mirror}."
+        },
+        {
+            "Q": "In the stacked bar representing Meadowbrook, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Shadow Line}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Shadow Line segment within the Riverton bar in the stacked bar chart?",
+            "A": "The value of the Shadow Line segment is {418.00} million USD."
+        },
+        {
+            "Q": "What is the value of the Shadow Line segment within the Silverton bar in the stacked bar chart?",
+            "A": "The value of the Shadow Line segment is {350.00} million USD."
+        },
+        {
+            "Q": "What is the value of the Broken Mirror segment within the Meadowbrook bar in the stacked bar chart?",
+            "A": "The value of the Broken Mirror segment is {449.00} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD among the stacked segments of bar Riverton?",
+            "A": "The maximum million USD among the stacked segments of bar Riverton is {418} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD among the stacked segments of bar Meadowbrook?",
+            "A": "The minimum million USD among the stacked segments of bar Meadowbrook is {170} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum million USD of the segment Broken Mirror among the bars?",
+            "A": "The maximum million USD among the bars of segment Broken Mirror is {476} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum million USD of the segment Shadow Line among the bars?",
+            "A": "The minimum million USD among the bars of segment Shadow Line is {170} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Riverton?",
+            "A": "The total value of bar Riverton is {528.00} million USD."
+        },
+        {
+            "Q": "What is the total value of the bar Fairview?",
+            "A": "The total value of bar Fairview is {944.00} million USD."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {2577} million USD."
+        },
+        {
+            "Q": "What is the difference between total value of bar Riverton and Silverton?",
+            "A": "The difference between between total value of bar Riverton and Silverton is {42} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total million USD values exceed 573.50 million USD? Please list the bar and corresponding values.",
+            "A": "{Meadowbrook} has {619} million USD, {Fairview} has {944} million USD"
+        },
+        {
+            "Q": "Which bars have total million USD values below 573.50 million USD? Please list the bar and corresponding values.",
+            "A": "{Silverton} has {486} million USD, {Riverton} has {528} million USD"
+        },
+        {
+            "Q": "For bar Silverton in the stacked bar chart, which segment have million USD value between 68.0 and 486? Please list the segment and corresponding values.",
+            "A": "{Broken Mirror} has {136} million USD, {Shadow Line} has {350} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total million USD of Meadowbrook or Silverton?",
+            "A": "The total million USD of the {Meadowbrook} is larger."
+        },
+        {
+            "Q": "Which is larger, the total million USD of Silverton, Riverton or Meadowbrook?",
+            "A": "The total million USD of the {Meadowbrook} is larger."
+        },
+        {
+            "Q": "In the bar Meadowbrook, which has a larger million USD value: Broken Mirror or Shadow Line?",
+            "A": "{Broken Mirror} has the larger million USD value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Shadow Line in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Shadow Line are: {Fairview}, {Riverton}, {Silverton}."
+        }
+    ],
+    "VA": []
+}

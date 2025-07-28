@@ -1,0 +1,67 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {5} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {10} links."
+        },
+        {
+            "Q": "How many nodes link with node Urban Theater House?",
+            "A": "There are {4} nodes link with node Urban Theater House."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Modern Music Studio and node Urban Theater House in this node-link chart?",
+            "A": "The relationship between node Modern Music Studio and node Urban Theater House is {gallery_network}."
+        },
+        {
+            "Q": "What is the relationship between node Heritage Art Museum and node Urban Theater House in this node-link chart?",
+            "A": "The relationship between node Heritage Art Museum and node Urban Theater House is {cross_cultural_event}."
+        },
+        {
+            "Q": "What is the relationship between node Global Culture Pavilion and node Modern Music Studio in this node-link chart?",
+            "A": "The relationship between node Global Culture Pavilion and node Modern Music Studio is {gallery_network}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type artist_collaboration?",
+            "A": "There are {1} links with the relation type artist_collaboration."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Heritage Art Museum, how many links are of type festival_participation?",
+            "A": "Node Heritage Art Museum has {1} links of type festival_participation."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Global Culture Pavilion}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Global Culture Pavilion with a degree of 4}, {node Modern Music Studio with a degree of 4}, {node Folklore Exhibition Hall with a degree of 4}."
+        },
+        {
+            "Q": "What is the shortest path from node Modern Music Studio to node Global Culture Pavilion in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Modern Music Studio to node Global Culture Pavilion is: {Modern Music Studio to Global Culture Pavilion}."
+        }
+    ],
+    "VA": []
+}

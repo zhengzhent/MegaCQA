@@ -1,0 +1,123 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {3} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {horizontal} box plot."
+        },
+        {
+            "Q": "Which box does the bottom box represent?",
+            "A": "The bottom box represents {Dark Horizon}"
+        },
+        {
+            "Q": "Which box does the topmost box represent?",
+            "A": "The topmost box represents {Nightfall}."
+        },
+        {
+            "Q": "Which box is the first position above the box Iron Heart?",
+            "A": "The first position above the box Iron Heart is {Nightfall}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Dark Horizon relative to the box Iron Heart in terms of vertical (above/below) direction?",
+            "A": "Box Dark Horizon is {below} the box Iron Heart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Dark Horizon}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Dark Horizon}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Iron Heart}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Nightfall in the box plot?",
+            "A": "The median of Nightfall is {489.0} million USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Nightfall in the box plot?",
+            "A": "The upper quartile (Q3) of Nightfall is {673.75} million USD."
+        },
+        {
+            "Q": "What is the lower whisker limit of Dark Horizon in the box plot?",
+            "A": "The lower whisker limit of Dark Horizon is {117} million USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Iron Heart in the box plot?",
+            "A": "The largest upper outlier value in Iron Heart is {1151}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the box plot?",
+            "A": "The global maximum million USD value in the box plot is {1412.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the box plot?",
+            "A": "The global minimum million USD value in the box plot is {117.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box Iron Heart and Nightfall?",
+            "A": "The Q1 difference between box Iron Heart and Nightfall is {2.25} million USD."
+        },
+        {
+            "Q": "What is the toal Median value of box Nightfall and Iron Heart?",
+            "A": "The total Median value of box Nightfall and Iron Heart is {935.0} million USD."
+        },
+        {
+            "Q": "What is the average Median value of box Dark Horizon and Nightfall?",
+            "A": "The average Median value of box Dark Horizon and Nightfall is {531.75} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 1270.8 million USD?",
+            "A": "Box{Dark Horizon},{Nightfall} have the outliers exceed 1270.8 million USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 467.50 million USD? Please list the boxes and corresponding values.",
+            "A": "{Dark Horizon} has {574.5} million USD , {Nightfall} has {489.0} million USD "
+        },
+        {
+            "Q": "Which boxes have median values below 531.75 million USD? Please list the boxes and corresponding values.",
+            "A": "{Iron Heart} has {446.0} million USD , {Nightfall} has {489.0} million USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Iron Heart or Dark Horizon ",
+            "A": "The median value of the {Dark Horizon} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Dark Horizon, Iron Heart or Nightfall ",
+            "A": "The median value of the {Dark Horizon} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Dark Horizon}."
+        }
+    ],
+    "VA": []
+}

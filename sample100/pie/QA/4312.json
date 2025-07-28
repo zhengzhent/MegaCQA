@@ -1,0 +1,91 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {5} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Food Trucks?",
+            "A": "The next slice clockwise from slice Food Trucks is {Cafes}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Food Trucks?",
+            "A": "The next slice counterclockwise from slice Food Trucks is {Bars}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which 2023 has the largest proportion in this pie chart?",
+            "A": "The 2023 with the largest proportion is {Cafes}."
+        },
+        {
+            "Q": "Which 2023 has the smallest proportion in this pie chart?",
+            "A": "The 2023 with the smallest proportion is {Bars}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Food Trucks slice in this pie chart?",
+            "A": "The value of the Food Trucks slice is {18}%."
+        },
+        {
+            "Q": "What is the value of the Cafes slice in this pie chart?",
+            "A": "The value of the Cafes slice is {27}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {27}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {14}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Bakeries and Cafes in this pie chart?",
+            "A": "The difference between Bakeries and Cafes is {10}%."
+        },
+        {
+            "Q": "What is the sum of the values of Food Trucks and Catering in this pie chart?",
+            "A": "The sum of Food Trucks and Catering is {42}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 24.0%? Please list the category names and corresponding percentages.",
+            "A": "{Cafes} accounts for {27}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 17.0%? Please list the category names and corresponding percentages.",
+            "A": "{Bars} accounts for {14}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Cafes, Catering, or Food Trucks?",
+            "A": "The value of {Cafes} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Cafes, Catering, Food Trucks, or Bars?",
+            "A": "The value of {Cafes} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 5% and 20%?",
+            "A": "There are {3} sectors that have a percentage between 5% and 20%."
+        }
+    ],
+    "VA": []
+}

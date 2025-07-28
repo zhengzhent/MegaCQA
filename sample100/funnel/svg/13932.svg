@@ -1,0 +1,26 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1046 910.6 1126 910.6" fill="none" stroke="#000000"></polyline>
+<polyline points="988.6 1065.1 1068.6 1065.1" fill="none" stroke="#000000"></polyline>
+<polyline points="977 1219.7 1057 1219.7" fill="none" stroke="#000000"></polyline>
+<polyline points="1403 292.3 1483 292.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1263 446.9 1343 446.9" fill="none" stroke="#000000"></polyline>
+<polyline points="1145.2 601.4 1225.2 601.4" fill="none" stroke="#000000"></polyline>
+<polyline points="1091.8 756 1171.8 756" fill="none" stroke="#000000"></polyline>
+<polygon points="636.4 834.3 1091.6 834.3 1000.3 986.9 727.7 986.9" fill="#FFAE14" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="727.7 988.9 1000.3 988.9 977 1141.4 751 1141.4" fill="#E69A00" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="751 1143.4 977 1143.4 977 1296 751 1296" fill="#CC8500" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1327.5 368.6 400.5 368.6" fill="#FFF5E1" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="400.5 370.6 1327.5 370.6 1198.5 523.1 529.5 523.1" fill="#FFE4B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="529.5 525.1 1198.5 525.1 1091.9 677.7 636.1 677.7" fill="#FFD27F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="636.1 679.7 1091.9 679.7 1091.6 832.3 636.4 832.3" fill="#FFC04A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1130.9659770114943" y="910.5714285714284" fill="#000000">Make Reservation: 967</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1073.6455172413794" y="1065.142857142857" fill="#000000">Travel to Destination: 579</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1061.9931034482759" y="1219.7142857142858" fill="#000000">Check-in at Hotel: 480</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1487.9535632183909" y="292.2857142857143" fill="#000000">View Destination Info: 2610</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1348.0068965517241" y="446.85714285714283" fill="#000000">Search Travel Packages: 1969</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1230.1880459770116" y="601.4285714285713" fill="#000000">Select Accommodation: 1421</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1176.7517241379312" y="756" fill="#000000">Book Flight: 968</text>
+<path d="M-469.3906 -5l938.7813 0l0 58l-938.7812 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Tourist Booking and Travel (Thousand Tourists)</text>
+</svg>

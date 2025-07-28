@@ -1,0 +1,10 @@
+Image Name: 5117.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\5117.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and well-organized, with distinct colors for each food category that make it easy to differentiate between them. The values are directly labeled on top of each bar, which enhances readability. The axis labels and title are clear and provide necessary context. Overall, the information can be interpreted quickly and accurately.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The chart is clear and well-structured, with distinct colors for each food category that enhance readability. The labels are legible, and the numerical values above the bars provide immediate insight into the sales figures. The overall layout is intuitive, making it easy for viewers to compare the sales across different food categories.

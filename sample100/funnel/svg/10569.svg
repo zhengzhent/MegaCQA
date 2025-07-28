@@ -1,0 +1,17 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1392.4 350.3 1472.4 350.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1217.3 620.8 1297.3 620.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1057.5 891.3 1137.5 891.3" fill="none" stroke="#000000"></polyline>
+<polyline points="986.9 1161.8 1066.9 1161.8" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1306.4 484.5 421.6 484.5" fill="#FFF5E1" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="421.6 486.5 1306.4 486.5 1128.2 755 599.8 755" fill="#FFE4B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="599.8 757 1128.2 757 986.9 1025.5 741.1 1025.5" fill="#FFD27F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="741.1 1027.5 986.9 1027.5 986.9 1296 741.1 1296" fill="#FFC04A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1477.384" y="350.25" fill="#000000">Testing and Validation: 100%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1302.28" y="620.75" fill="#000000">Final Design Approval: 72%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1142.536" y="891.25" fill="#000000">Production: 43%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1071.88" y="1161.75" fill="#000000">Market Release: 20%</text>
+<path d="M-334.8477 -5l669.6953 0l0 58l-669.6953 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Engineering Project Lifecycle (%)</text>
+</svg>

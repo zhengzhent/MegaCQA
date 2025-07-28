@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which renewable has the largest proportion in this pie chart?",
+            "A": "The renewable with the largest proportion is {Geothermal}."
+        },
+        {
+            "Q": "Which renewable has the smallest proportion in this pie chart?",
+            "A": "The renewable with the smallest proportion is {Biomass}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Geothermal slice in this pie chart?",
+            "A": "The value of the Geothermal slice is {57}%."
+        },
+        {
+            "Q": "What is the value of the Biomass slice in this pie chart?",
+            "A": "The value of the Biomass slice is {43}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {57}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {43}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 53.5%? Please list the category names and corresponding percentages.",
+            "A": "{Geothermal} accounts for {57}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 46.5%? Please list the category names and corresponding percentages.",
+            "A": "{Biomass} accounts for {43}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Geothermal or Biomass?",
+            "A": "The value of {Geothermal} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

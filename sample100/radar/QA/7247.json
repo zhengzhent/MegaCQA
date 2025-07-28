@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Chronic Disease Management Compliance Rate?",
+            "A": "The next dimension clockwise from Chronic Disease Management Compliance Rate is Vaccination Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Chronic Disease Management Compliance Rate?",
+            "A": "The next dimension counterclockwise from Chronic Disease Management Compliance Rate is Disease Incidence Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Chronic Disease Management Compliance Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Namibia?",
+            "A": "The strongest aspect is {Chronic Disease Management Compliance Rate}, while the weakest aspect is{ Electronic Medical Record Adoption Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Namibia on the Chronic Disease Management Compliance Rate in the radar chart?",
+            "A": "The value of Namibia on the Safety dimension is {100}."
+        },
+        {
+            "Q": "What is the value of Namibia on the Health Insurance Coverage Rate in the radar chart?",
+            "A": "The value of Namibia on the Safety dimension is {43}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Namibia across all dimensions in the radar chart?",
+            "A": "The maximum value of Namibia across all dimensions is {43}."
+        },
+        {
+            "Q": "What is the minimum value of label Namibia across all dimensions in the radar chart?",
+            "A": "The minimum value of Namibia across all dimensions is {43}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Disease Incidence Rate",
+            "A": "The average value of Disease Incidence Rate is {41.0}."
+        },
+        {
+            "Q": "What is the average value of Namibia",
+            "A": "The average value of Namibia is {56.86}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Namibia in the radar chart, which dimensions have scores below 45? Please list the dimensions and corresponding scores.",
+            "A": "{Health Insurance Coverage Rate} is {43}, {Electronic Medical Record Adoption Rate} is {31}, {Disease Incidence Rate} is {41}"
+        },
+        {
+            "Q": "For Namibia in the radar chart, which dimensions have scores between 45 and 86? Please list the dimensions and corresponding scores.",
+            "A": "{Hospital Bed Utilization Rate} is {67}, {Vaccination Rate} is {66}, {Outpatient Satisfaction Rate } is {50}"
+        },
+        {
+            "Q": "Which labels have scores above 67 for the Hospital Bed Utilization Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Namibia} is {67}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Namibia, which dimension has a higher score: Disease Incidence Rate or Hospital Bed Utilization Rate?",
+            "A": "{Hospital Bed Utilization Rate} has a higher score than Disease Incidence Rate for Namibia."
+        },
+        {
+            "Q": "For Namibia, which dimension has a higher score: Health Insurance Coverage Rate or Hospital Bed Utilization Rate?",
+            "A": "{Hospital Bed Utilization Rate} has a higher score than Health Insurance Coverage Rate for Namibia."
+        },
+        {
+            "Q": "For Namibia, which dimension has a higher score: Electronic Medical Record Adoption Rate or Health Insurance Coverage Rate or Vaccination Rate?",
+            "A": "{Vaccination Rate} has a higher score for Namibia."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Namibia, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Namibia most needs to improve its {Electronic Medical Record Adoption Rate}."
+        }
+    ],
+    "VA": []
+}

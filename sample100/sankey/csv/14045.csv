@@ -1,0 +1,23 @@
+Transportation and Logistics,Manufacturing Supply Transportation Chain,Goods,random,Assembly,Distribution Center,Retail
+Source,Target,Value
+Packaging Line,West Hub,395
+Packaging Line,Express Sorting Center,346
+Packaging Line,South Hub,201
+Component Assembly,West Hub,37
+Component Assembly,Express Sorting Center,227
+Component Assembly,South Hub,315
+Quality Check,West Hub,209
+Quality Check,Express Sorting Center,94
+Quality Check,South Hub,236
+Test Facility,West Hub,447
+Test Facility,Express Sorting Center,646
+Test Facility,South Hub,144
+West Hub,City Supermarket,406
+West Hub,Convenience Store,445
+West Hub,Neighborhood Store,237
+Express Sorting Center,City Supermarket,87
+Express Sorting Center,Convenience Store,470
+Express Sorting Center,Neighborhood Store,756
+South Hub,City Supermarket,265
+South Hub,Convenience Store,261
+South Hub,Neighborhood Store,370

@@ -1,0 +1,143 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {11} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Fairmont of this stacked bar chart?",
+            "A": "There are {2} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Glenhaven}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Ironwood}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Northgate relative to the bar Zephyr in terms of horizontal (left/right) direction?",
+            "A": "Bar Northgate is to the {left} of the bar Zephyr."
+        },
+        {
+            "Q": "In the stacked bar of Fairmont, What is the spatial relationship of segment NaturalGas relative to the segment Electricity in terms of vertical (above/below) direction?",
+            "A": "NaturalGas segment is positioned {below} the Electricity segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which City has the highest bar in this stacked bar chart?",
+            "A": "The City with the highest bar is {Ashford}."
+        },
+        {
+            "Q": "Which City has the lowest bar in this stacked bar chart?",
+            "A": "The City with the lowest bar is {Northgate}."
+        },
+        {
+            "Q": "In the stacked bar representing Northgate, which segment has the highest value?",
+            "A": "The segment with the highest value is {Electricity}."
+        },
+        {
+            "Q": "In the stacked bar representing Glenhaven, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {NaturalGas}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Electricity segment within the Pinehaven bar in the stacked bar chart?",
+            "A": "The value of the Electricity segment is {899.00} TWh."
+        },
+        {
+            "Q": "What is the value of the NaturalGas segment within the Glenhaven bar in the stacked bar chart?",
+            "A": "The value of the NaturalGas segment is {624.00} TWh."
+        },
+        {
+            "Q": "What is the value of the Electricity segment within the Zephyr bar in the stacked bar chart?",
+            "A": "The value of the Electricity segment is {746.00} TWh."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum TWh among the stacked segments of bar Northgate?",
+            "A": "The maximum TWh among the stacked segments of bar Northgate is {640} TWh."
+        },
+        {
+            "Q": "What is the minimum TWh among the stacked segments of bar Dunvale?",
+            "A": "The minimum TWh among the stacked segments of bar Dunvale is {580} TWh."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum TWh of the segment Electricity among the bars?",
+            "A": "The maximum TWh among the bars of segment Electricity is {1284} TWh."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum TWh of the segment Electricity among the bars?",
+            "A": "The minimum TWh among the bars of segment Electricity is {550} TWh."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Pinehaven?",
+            "A": "The total value of bar Pinehaven is {1466.00} TWh."
+        },
+        {
+            "Q": "What is the total value of the bar Glenhaven?",
+            "A": "The total value of bar Glenhaven is {1328.00} TWh."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {17375} TWh."
+        },
+        {
+            "Q": "What is the difference between total value of bar Ironwood and Dunvale?",
+            "A": "The difference between between total value of bar Ironwood and Dunvale is {380} TWh."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total TWh values exceed 2021.50 TWh? Please list the bar and corresponding values.",
+            "A": "{Ashford} has {2121} TWh"
+        },
+        {
+            "Q": "Which bars have total TWh values below 1273.00 TWh? Please list the bar and corresponding values.",
+            "A": "{Northgate} has {1190} TWh, {Fairmont} has {1250} TWh"
+        },
+        {
+            "Q": "For bar Glenhaven in the stacked bar chart, which segment have TWh value between 312.0 and 1328? Please list the segment and corresponding values.",
+            "A": "{NaturalGas} has {624} TWh, {Electricity} has {704} TWh."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total TWh of Ashford or Glenhaven?",
+            "A": "The total TWh of the {Ashford} is larger."
+        },
+        {
+            "Q": "Which is larger, the total TWh of Fairmont, Dunvale or Brookfield?",
+            "A": "The total TWh of the {Dunvale} is larger."
+        },
+        {
+            "Q": "In the bar Ironwood, which has a larger TWh value: NaturalGas or Electricity?",
+            "A": "{NaturalGas} has the larger TWh value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment NaturalGas in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment NaturalGas are: {Ashford}, {Dunvale}, {Ironwood}."
+        }
+    ],
+    "VA": []
+}

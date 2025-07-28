@@ -1,0 +1,9 @@
+﻿Agriculture and Food Production,Farm Productivity
+Pattern,No Correlation,Strong Correlation,Clustering
+labels,Equipment utilization (%),Labor efficiency (acres/worker),Harvest frequency (per year),Soil health index (1-10)
+their  Rice,70.27,1000.0,3.95,1.0
+cultural  Rice,91.89,53.7,1.39,9.25
+item  Potato,100.0,894.95,3.52,10.0
+agency  Tomato,95.38,1.0,1.0,8.32
+term  Barley,30.0,901.76,4.0,7.98
+clearly  Wheat,92.75,93.1,1.31,8.92

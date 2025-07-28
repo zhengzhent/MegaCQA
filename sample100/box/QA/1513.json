@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {4} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {PrimeVue}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {SwiftLink}."
+        },
+        {
+            "Q": "Which box is the third position to the left of the box SwiftLink?",
+            "A": "The third position to the left of the box SwiftLink is {PrimeVue}."
+        },
+        {
+            "Q": "What is the spatial relationship of box PrimeVue relative to the box EcoCore in terms of horizontal (left/right) direction?",
+            "A": "Box PrimeVue is to the {left} of the box EcoCore."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {PrimeVue}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {PrimeVue}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {NovaEdge}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of PrimeVue in the box plot?",
+            "A": "The median of PrimeVue is {56505.0} USD."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of SwiftLink in the box plot?",
+            "A": "The upper quartile (Q3) of SwiftLink is {65149.0} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of SwiftLink in the box plot?",
+            "A": "The upper whisker limit of SwiftLink is {91303} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in EcoCore in the box plot?",
+            "A": "The largest upper outlier value in EcoCore is {111144} USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the box plot?",
+            "A": "The global maximum USD value in the box plot is {111144.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the box plot?",
+            "A": "The global minimum USD value in the box plot is {8631.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between box NovaEdge and EcoCore?",
+            "A": "The Q1 difference between box NovaEdge and EcoCore is {7942.5} USD."
+        },
+        {
+            "Q": "What is the toal Q3 value of box SwiftLink and NovaEdge?",
+            "A": "The total Q3 value of box SwiftLink and NovaEdge is {114572.25} USD."
+        },
+        {
+            "Q": "What is the average Median value of box NovaEdge and SwiftLink?",
+            "A": "The average Median value of box NovaEdge and SwiftLink is {47808.5} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 100029.6 USD?",
+            "A": "Box{EcoCore} have the outliers exceed 100029.6 USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 55524.50 USD? Please list the boxes and corresponding values.",
+            "A": "{PrimeVue} has {56505.0} USD "
+        },
+        {
+            "Q": "Which boxes have median values below 46477.00 USD? Please list the boxes and corresponding values.",
+            "A": "{NovaEdge} has {41073.0} USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of EcoCore or SwiftLink ",
+            "A": "The median value of the {SwiftLink} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of EcoCore, SwiftLink or NovaEdge ",
+            "A": "The median value of the {SwiftLink} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of NovaEdge, SwiftLink, EcoCore or PrimeVue ",
+            "A": "The median value of the {PrimeVue} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {PrimeVue}."
+        }
+    ],
+    "VA": []
+}

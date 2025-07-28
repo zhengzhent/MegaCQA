@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Zenith Enterprises, what is the spatial relationship of the data point in 1980 relative to that in 1977 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Zenith Enterprises, the data point in 1980 is {above} and to the {right} of the data point in 1977."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Zenith Enterprises's Employee Count levels?",
+            "A": "Zenith Enterprises's employee count levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "Which line shows a volatile rising trend in Employee Count levels?",
+            "A": "{Zenith Enterprises}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Zenith Enterprises's Employee Count in 1980?",
+            "A": "Zenith Enterprises's employee count in 1980 is {875.81} employees."
+        },
+        {
+            "Q": "What is Zenith Enterprises's Employee Count in 1969?",
+            "A": "Zenith Enterprises's employee count in 1969 is {465.46} employees."
+        },
+        {
+            "Q": "What is Zenith Enterprises's Employee Count in 1974?",
+            "A": "Zenith Enterprises's employee count in 1974 is {651.28} employees."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Employee Count in the line chart?",
+            "A": "The global minimum employee count is {465.46} employees."
+        },
+        {
+            "Q": "What is the global maximum Employee Count in the line chart?",
+            "A": "The global maximum employee count is {987.46} employees."
+        },
+        {
+            "Q": "What is the highest Employee Count level recorded for Zenith Enterprises?",
+            "A": "Zenith Enterprises reached approximately {987.46} employees in {1983}."
+        },
+        {
+            "Q": "What is the lowest Employee Count level recorded for Zenith Enterprises?",
+            "A": "Zenith Enterprises's lowest recorded level is approximately {465.46} employees in {1969}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Zenith Enterprises's Employee Count from the starting year to the final year?",
+            "A": "The rate of growth in Zenith Enterprises's employee count is {112.15}%."
+        },
+        {
+            "Q": "What is the average value of Zenith Enterprises's Employee Count?",
+            "A": "The average value of Zenith Enterprises's employee count is {726.01} employees."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Zenith Enterprises's Employee Count exceed 857 employees? Please list the years and corresponding values.",
+            "A": "{987.46} employees in {1983} year, {910.91} employees in {1981} year, {949.22} employees in {1982} year."
+        },
+        {
+            "Q": "Which years did Zenith Enterprises's Employee Count between 622 and 831 employees? Please list the years and corresponding values.",
+            "A": "{688.96} employees in {1975} year, {724.20} employees in {1976} year, {764.56} employees in {1977} year."
+        },
+        {
+            "Q": "Which years did Zenith Enterprises's Employee Count below 596 employees? Please list the years and corresponding values.",
+            "A": "{578.01} employees in {1972} year, {501.48} employees in {1970} year, {540.12} employees in {1971} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Zenith Enterprises's Employee Count in 1974 higher or lower than in 1979?",
+            "A": "The employee count in 1974 was {lower} than in 1979."
+        },
+        {
+            "Q": "Was Zenith Enterprises's Employee Count in 1975 higher or lower than in 1978?",
+            "A": "The employee count in 1975 was {lower} than in 1978."
+        },
+        {
+            "Q": "Was Zenith Enterprises's Employee Count in 1972 higher or lower than in 1979?",
+            "A": "The employee count in 1972 was {lower} than in 1979."
+        },
+        {
+            "Q": "Was Zenith Enterprises's Employee Count in 1977 higher or lower than in 1982?",
+            "A": "The employee count in 1977 was {lower} than in 1982."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Zenith Enterprises. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1969, 1983}."
+        }
+    ]
+}

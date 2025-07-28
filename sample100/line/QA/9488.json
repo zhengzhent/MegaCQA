@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {5} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Cold Storage Vans, what is the spatial relationship of the data point in 1964 relative to that in 1960 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Cold Storage Vans, the data point in 1964 is {above} and to the {right} of the data point in 1960."
+        },
+        {
+            "Q": "In 1960, what is the vertical (above/below) relationship of the line representing Autonomous Drones relative to Aircraft Engines?",
+            "A": "In 1960, Autonomous Drones is {below} Aircraft Engines in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Heavy Machinery's Vehicle Maintenance Cost levels?",
+            "A": "Heavy Machinery's vehicle maintenance cost levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "What is the trend of Cold Storage Vans's Vehicle Maintenance Cost levels?",
+            "A": "Cold Storage Vans's vehicle maintenance cost levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Aircraft Engines's Vehicle Maintenance Cost levels?",
+            "A": "Aircraft Engines's vehicle maintenance cost levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of Diesel Fleets's Vehicle Maintenance Cost levels?",
+            "A": "Diesel Fleets's vehicle maintenance cost levels show a {single valley} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Diesel Fleets's Vehicle Maintenance Cost in 1968?",
+            "A": "Diesel Fleets's vehicle maintenance cost in 1968 is {624.89} $/month."
+        },
+        {
+            "Q": "What is Heavy Machinery's Vehicle Maintenance Cost in 1962?",
+            "A": "Heavy Machinery's vehicle maintenance cost in 1962 is {900.86} $/month."
+        },
+        {
+            "Q": "What is Diesel Fleets's Vehicle Maintenance Cost in 1966?",
+            "A": "Diesel Fleets's vehicle maintenance cost in 1966 is {431.82} $/month."
+        },
+        {
+            "Q": "What are the vehicle maintenance cost of Diesel Fleets, Cold Storage Vans, and Autonomous Drones in 1968?",
+            "A": "Diesel Fleets's vehicle maintenance cost is {624.89} $/month, Cold Storage Vans's vehicle maintenance cost is {2373} $/month, Autonomous Drones's vehicle maintenance cost is {701.17} $/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Vehicle Maintenance Cost in the line chart?",
+            "A": "The global minimum vehicle maintenance cost is {301.44} $/month."
+        },
+        {
+            "Q": "What is the global maximum Vehicle Maintenance Cost in the line chart?",
+            "A": "The global maximum vehicle maintenance cost is {2373.00} $/month."
+        },
+        {
+            "Q": "What is the highest Vehicle Maintenance Cost level recorded for Aircraft Engines?",
+            "A": "Aircraft Engines reached approximately {1671.43} $/month in {1963}."
+        },
+        {
+            "Q": "What is the lowest Vehicle Maintenance Cost level recorded for Aircraft Engines?",
+            "A": "Aircraft Engines's lowest recorded level is approximately {1393.41} $/month in {1968}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Autonomous Drones's Vehicle Maintenance Cost from the starting year to the final year?",
+            "A": "The rate of growth in Autonomous Drones's vehicle maintenance cost is {17.02}%."
+        },
+        {
+            "Q": "What is the average value of Aircraft Engines's Vehicle Maintenance Cost?",
+            "A": "The average value of Aircraft Engines's vehicle maintenance cost is {1562.76} $/month."
+        },
+        {
+            "Q": "What is the rate of change in Heavy Machinery's Vehicle Maintenance Cost from the starting year to the final year?",
+            "A": "The rate of decline in Heavy Machinery's vehicle maintenance cost is {-23.03}%."
+        },
+        {
+            "Q": "What is the average value of Heavy Machinery's Vehicle Maintenance Cost?",
+            "A": "The average value of Heavy Machinery's vehicle maintenance cost is {1060.51} $/month."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1962, which lines had Vehicle Maintenance Cost below 359 $/month? Please list the lines and corresponding values.",
+            "A": "{Diesel Fleets} had {303} $/month."
+        },
+        {
+            "Q": "In the year 1964, which line had Vehicle Maintenance Cost exceed 1649 $/month? Please list the lines and corresponding values.",
+            "A": "{Cold Storage Vans} had {2069} $/month."
+        },
+        {
+            "Q": "Which years did Autonomous Drones's Vehicle Maintenance Cost exceed 547 $/month? Please list the years and corresponding values.",
+            "A": "{552.59} $/month in {1967} year, {599.20} $/month in {1959} year, {701.17} $/month in {1968} year."
+        },
+        {
+            "Q": "In the year 1965, which lines had Vehicle Maintenance Cost below 417 $/month? Please list the lines and corresponding values.",
+            "A": "{Diesel Fleets} had {379} $/month, {Autonomous Drones} had {398} $/month."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 1968, which line had the highest Vehicle Maintenance Cost, Autonomous Drones, Aircraft Engines, or Heavy Machinery?",
+            "A": "In 1968, {Aircraft Engines} had the highest vehicle maintenance cost."
+        },
+        {
+            "Q": "Was Aircraft Engines's Vehicle Maintenance Cost in 1959 higher or lower than in 1961?",
+            "A": "The vehicle maintenance cost in 1959 was {lower} than in 1961."
+        },
+        {
+            "Q": "Was Diesel Fleets's Vehicle Maintenance Cost in 1960 higher or lower than in 1961?",
+            "A": "The vehicle maintenance cost in 1960 was {higher} than in 1961."
+        },
+        {
+            "Q": "Between 1964 and 1966, which line had the highest average Vehicle Maintenance Cost, Aircraft Engines, Cold Storage Vans, or Heavy Machinery?",
+            "A": "{Cold Storage Vans} had the highest average vehicle maintenance cost."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Cold Storage Vans}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1967 and 1968?",
+            "A": "{Autonomous Drones} has the fastest average growth rate between 1967 and 1968."
+        },
+        {
+            "Q": "Which label had the leading vehicle maintenance cost since 1965?",
+            "A": "Since 1965, {Cold Storage Vans} had the leading vehicle maintenance cost."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Autonomous Drones. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1959, 1963, 1968}."
+        }
+    ]
+}

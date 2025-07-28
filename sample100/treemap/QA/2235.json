@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Cultural Activities in this treemap?",
+            "A": "There are {2} child rectangles under the category Cultural Activities."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Cultural Activities}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Gallery Shows}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Cultural Activities}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Primary Market rectangle in this treemap?",
+            "A": "The value of the Primary Market rectangle is {5.19}."
+        },
+        {
+            "Q": "What is the value of the Art Exhibitions rectangle in this treemap?",
+            "A": "The value of the Art Exhibitions rectangle is {10.8}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {89.68}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.04}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Artwork Sales and Online Exhibitions?",
+            "A": "The difference between Artwork Sales and Online Exhibitions is {4.56}."
+        },
+        {
+            "Q": "What is the sum of the regions of Urban Sculpture and Gallery Shows?",
+            "A": "The sum of Urban Sculpture and Gallery Shows is {74.97}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Cultural Activities category in the treemap, which rectangular labels have a value exceeded 61.86? Please list the labels and values.",
+            "A": "{Public Art} has {78.88}"
+        },
+        {
+            "Q": "Under the Cultural Activities category in the treemap, which rectangular labels have a value below 27.82? Please list the labels and values.",
+            "A": "{Art Exhibitions} has {10.80}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Public Art, Urban Sculpture, or Art Exhibitions?",
+            "A": "The value of {Art Exhibitions} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Cultural Activities, Public Art, or Urban Sculpture?",
+            "A": "The value of {Cultural Activities} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {5} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

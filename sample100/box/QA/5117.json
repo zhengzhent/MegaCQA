@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {6} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Food Trucks}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Cafeterias}."
+        },
+        {
+            "Q": "Which box is the third position to the right of the box Italian Restaurants?",
+            "A": "The third position to the right of the box Italian Restaurants is {Cafeterias}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Cafeterias relative to the box Food Trucks in terms of horizontal (left/right) direction?",
+            "A": "Box Cafeterias is to the {right} of the box Food Trucks."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Asian Cuisine}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Italian Restaurants}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Cafeterias}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Ice Cream Parlors in the box plot?",
+            "A": "The median of Ice Cream Parlors is {567.0} million USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Asian Cuisine in the box plot?",
+            "A": "The lower quartile (Q1) of Asian Cuisine is {398.0} million USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Cafeterias in the box plot?",
+            "A": "The upper whisker limit of Cafeterias is {718} million USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Ice Cream Parlors in the box plot?",
+            "A": "The largest upper outlier value in Ice Cream Parlors is {1651}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum million USD value in the box plot?",
+            "A": "The global maximum million USD value in the box plot is {1818.00} million USD."
+        },
+        {
+            "Q": "What is the global minimum million USD value in the box plot?",
+            "A": "The global minimum million USD value in the box plot is {119.00} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Cafeterias and Pizza Restaurants?",
+            "A": "The Median difference between box Cafeterias and Pizza Restaurants is {166.5} million USD."
+        },
+        {
+            "Q": "What is the toal Median value of box Food Trucks and Pizza Restaurants?",
+            "A": "The total Median value of box Food Trucks and Pizza Restaurants is {1086.5} million USD."
+        },
+        {
+            "Q": "What is the average Q1 value of box Pizza Restaurants and Italian Restaurants?",
+            "A": "The average Q1 value of box Pizza Restaurants and Italian Restaurants is {424.0} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 1485.9 million USD?",
+            "A": "Box{Pizza Restaurants},{Italian Restaurants},{Asian Cuisine},{Ice Cream Parlors} have the outliers exceed 1485.9 million USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 575.50 million USD? Please list the boxes and corresponding values.",
+            "A": "{Italian Restaurants} has {584.0} million USD , {Asian Cuisine} has {615.0} million USD "
+        },
+        {
+            "Q": "Which boxes have median values below 448.25 million USD? Please list the boxes and corresponding values.",
+            "A": "{Cafeterias} has {365.0} million USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Italian Restaurants or Ice Cream Parlors ",
+            "A": "The median value of the {Italian Restaurants} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Food Trucks, Pizza Restaurants or Italian Restaurants ",
+            "A": "The median value of the {Italian Restaurants} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Asian Cuisine, Italian Restaurants, Cafeterias or Pizza Restaurants ",
+            "A": "The median value of the {Asian Cuisine} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Italian Restaurants}."
+        }
+    ],
+    "VA": []
+}

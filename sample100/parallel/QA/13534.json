@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Loading/unloading time (hours) dimension, what is the spatial relationship of accept Cargo ship relative to whatever train in terms of vertical (above/below) direction?",
+            "A": "{accept Cargo ship} is {above} {whatever train} on the Loading/unloading time (hours) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Total transit time (hours)?",
+            "A": "The second position to the left of Total transit time (hours) is {Loading/unloading time (hours)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Max speed (km/h)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Loading/unloading time (hours)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Average speed (km/h)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Average speed (km/h) and dimension Total transit time (hours)",
+            "A": "There is {No Correlation} between Average speed (km/h) and Total transit time (hours)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of south Cargo ship on the Average speed (km/h) dimension in the parallel-coordinates chart?",
+            "A": "The value of south Cargo ship on the Average speed (km/h) dimension is {53.22}"
+        },
+        {
+            "Q": "What is the value of not Tram on the Total transit time (hours) dimension in the parallel-coordinates chart?",
+            "A": "The value of not Tram on the Total transit time (hours) dimension is {31.04}"
+        },
+        {
+            "Q": "What is the value of head train on the Max speed (km/h) dimension in the parallel-coordinates chart?",
+            "A": "The value of head train on the Max speed (km/h) dimension is {84.61}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label south Cargo ship across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of south Cargo ship across all dimensions is {69.88}"
+        },
+        {
+            "Q": "What is the minimum value of label head train across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of head train across all dimensions is {8.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Average speed (km/h)?",
+            "A": "The average value of Average speed (km/h) is {61.7}"
+        },
+        {
+            "Q": "What is the difference in coding Average speed (km/h) between label accept Cargo ship and label whatever train",
+            "A": "The difference in coding Average speed (km/h) between accept Cargo ship and whatever train is {49.04}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Average speed (km/h) dimension in the parallel coordinates?",
+            "A": "{[100.0, 93.78, 53.22]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Total transit time (hours) dimension in the parallel coordinates?",
+            "A": "{[2.0, 31.04, 44.47]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Loading/unloading time (hours), which label has a higher score: not Tram or accept Cargo ship?",
+            "A": "{accept Cargo ship} has a higher score on Loading/unloading time (hours)."
+        },
+        {
+            "Q": "On Loading/unloading time (hours), which label has a higher score: head train or not Tram?",
+            "A": "{head train} has a higher score on Loading/unloading time (hours)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Average speed (km/h)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Average speed (km/h) being greater than 65.86 and Average speed (km/h) being less than 62.9?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

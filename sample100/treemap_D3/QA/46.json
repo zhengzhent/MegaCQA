@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {15} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Healthcare Policy}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Medical Devices}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Government Programs rectangle in this treemap?",
+            "A": "The value of the Government Programs rectangle is {6.46}."
+        },
+        {
+            "Q": "What is the value of the Health Education rectangle in this treemap?",
+            "A": "The value of the Health Education rectangle is {20.0}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {20.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.43}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Patient Awareness and Specialized Care?",
+            "A": "The difference between Patient Awareness and Specialized Care is {6.04}."
+        },
+        {
+            "Q": "What is the sum of the regions of Health Informatics and Primary Care?",
+            "A": "The sum of Health Informatics and Primary Care is {28.3}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Health Technologies category in the treemap, which rectangular labels have a value exceeded 12.28? Please list the labels and values.",
+            "A": "{Health Informatics} has {14.57}"
+        },
+        {
+            "Q": "Under the Health Technologies category in the treemap, which rectangular labels have a value below 7.72? Please list the labels and values.",
+            "A": "{Medical Devices} has {5.43}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Health Education, Health Technologies, or Public Health Systems?",
+            "A": "The value of {Public Health Systems} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Healthcare Policy, Health Education, or Health Technologies?",
+            "A": "The value of {Healthcare Policy} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

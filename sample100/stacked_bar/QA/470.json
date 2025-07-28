@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {6} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Creston of this stacked bar chart?",
+            "A": "There are {4} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Ashford}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Glenhaven}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Ashford relative to the bar Yorkton in terms of horizontal (left/right) direction?",
+            "A": "Bar Ashford is to the {left} of the bar Yorkton."
+        },
+        {
+            "Q": "In the stacked bar of Ashford, What is the spatial relationship of segment Potato relative to the segment Soybean in terms of vertical (above/below) direction?",
+            "A": "Potato segment is positioned {below} the Soybean segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Cities has the highest bar in this stacked bar chart?",
+            "A": "The Cities with the highest bar is {Dunvale}."
+        },
+        {
+            "Q": "Which Cities has the lowest bar in this stacked bar chart?",
+            "A": "The Cities with the lowest bar is {Yorkton}."
+        },
+        {
+            "Q": "In the stacked bar representing Dunvale, which segment has the highest value?",
+            "A": "The segment with the highest value is {Rice}."
+        },
+        {
+            "Q": "In the stacked bar representing Ashford, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Rice}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Potato segment within the Ashford bar in the stacked bar chart?",
+            "A": "The value of the Potato segment is {91.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the value of the Soybean segment within the Creston bar in the stacked bar chart?",
+            "A": "The value of the Soybean segment is {176.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the value of the Rice segment within the Glenhaven bar in the stacked bar chart?",
+            "A": "The value of the Rice segment is {55.00} thousand tonnes."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand tonnes among the stacked segments of bar Creston?",
+            "A": "The maximum thousand tonnes among the stacked segments of bar Creston is {176} thousand tonnes."
+        },
+        {
+            "Q": "What is the minimum thousand tonnes among the stacked segments of bar Ashford?",
+            "A": "The minimum thousand tonnes among the stacked segments of bar Ashford is {45} thousand tonnes."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum thousand tonnes of the segment Rice among the bars?",
+            "A": "The maximum thousand tonnes among the bars of segment Rice is {280} thousand tonnes."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum thousand tonnes of the segment Rice among the bars?",
+            "A": "The minimum thousand tonnes among the bars of segment Rice is {40} thousand tonnes."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Yorkton?",
+            "A": "The total value of bar Yorkton is {250.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the total value of the bar Glenhaven?",
+            "A": "The total value of bar Glenhaven is {257.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {1956} thousand tonnes."
+        },
+        {
+            "Q": "What is the difference between total value of bar Dunvale and Creston?",
+            "A": "The difference between between total value of bar Dunvale and Creston is {191} thousand tonnes."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total thousand tonnes values exceed 426.00 thousand tonnes? Please list the bar and corresponding values.",
+            "A": "{Dunvale} has {488} thousand tonnes"
+        },
+        {
+            "Q": "Which bars have total thousand tonnes values below 277.00 thousand tonnes? Please list the bar and corresponding values.",
+            "A": "{Yorkton} has {250} thousand tonnes, {Glenhaven} has {257} thousand tonnes"
+        },
+        {
+            "Q": "For bar Glenhaven in the stacked bar chart, which segment have thousand tonnes value between 59.5 and 138? Please list the segment and corresponding values.",
+            "A": "{Potato} has {64} thousand tonnes, {Soybean} has {96} thousand tonnes."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total thousand tonnes of Glenhaven or Yorkton?",
+            "A": "The total thousand tonnes of the {Glenhaven} is larger."
+        },
+        {
+            "Q": "Which is larger, the total thousand tonnes of Ashford, Glenhaven or Dunvale?",
+            "A": "The total thousand tonnes of the {Dunvale} is larger."
+        },
+        {
+            "Q": "In the bar Yorkton, which has a larger thousand tonnes value: Soybean or Sugarcane?",
+            "A": "{Sugarcane} has the larger thousand tonnes value."
+        },
+        {
+            "Q": "In the bar Creston, which has a larger thousand tonnes value: Rice, Potato or Sugarcane?",
+            "A": "{Rice} has the larger thousand tonnes value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Soybean in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Soybean are: {Creston}, {Ashford}, {Northgate}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,87 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {5} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Delivered to Retail stage positioned above or below the Post-Processing stage?",
+            "A": "The Delivered to Retail stage is positioned {below} the Post-Processing stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {exponential} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Filtered by Quality Inspection?",
+            "A": "The value of stage Filtered by Quality Inspection is {9504}."
+        },
+        {
+            "Q": "What is the value of stage Post-Harvest?",
+            "A": "The value of stage Post-Harvest is {17477}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Post-Harvest, with a value of {17477}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Delivered to Retail, with a value of {5788}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Filtered by Quality Inspection to stage Packaged for Distribution?",
+            "A": "Decreased by {2888} Tons from stage Filtered by Quality Inspection to stage Packaged for Distribution."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 10639? Please list the stage labels and corresponding values.",
+            "A": "The {Post-Harvest} stage has {17477}, the {Post-Processing} stage has {11774}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 10639? Please list the stage labels and corresponding values.",
+            "A": "The {Filtered by Quality Inspection} stage has {9504}, the {Packaged for Distribution} stage has {6616}, the {Delivered to Retail} stage has {5788}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 6202 and 14625? Please list the stage labels and corresponding values.",
+            "A": "The {Post-Processing} stage has {11774}, the {Filtered by Quality Inspection} stage has {9504}, the {Packaged for Distribution} stage has {6616}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Post-Processing to Filtered by Quality Inspection, or from stage Packaged for Distribution to Delivered to Retail?",
+            "A": "The reduction from stage {Post-Processing} to {Filtered by Quality Inspection} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Post-Harvest to Post-Processing, from stage Post-Processing to Filtered by Quality Inspection, or from stage Packaged for Distribution to Delivered to Retail?",
+            "A": "The reduction from stage {Post-Harvest} to stage {Post-Processing} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Post-Harvest} and {Post-Processing} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Packaged for Distribution} and {Delivered to Retail} stages."
+        }
+    ],
+    "VA": []
+}

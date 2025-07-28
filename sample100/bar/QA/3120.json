@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {11} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Westport}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Lakeview}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Westport relative to the bar Mapleton in terms of horizontal (left/right) direction?",
+            "A": "Bar Westport is to the {left} of the bar Mapleton."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Lakeview}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Zephyr}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Brookfield?",
+            "A": "The value of Brookfield is {5028} thousand students."
+        },
+        {
+            "Q": "What is the value of bar Springfield?",
+            "A": "The value of Springfield is {4551} thousand students."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand students in the bar chart?",
+            "A": "The maximum thousand students is {6000} thousand students."
+        },
+        {
+            "Q": "What is the minimum thousand students in the bar chart?",
+            "A": "The minimum thousand students is {665} thousand students."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Mapleton and Springfield?",
+            "A": "The total value of Mapleton and Springfield is {6796} thousand students."
+        },
+        {
+            "Q": "What is the average value of Ashford and Rosewood?",
+            "A": "The average value of Ashford and Rosewood is {2247.5} thousand students."
+        },
+        {
+            "Q": "What is the difference between Westport and Ironwood?",
+            "A": "The difference between Westport and Ironwood is {2148} thousand students."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand students values exceed 5551.00 thousand students? Please list the bars and corresponding thousand students values?",
+            "A": "{Lakeview} has {6000} thousand students."
+        },
+        {
+            "Q": "Which bars have {thousand students} values below 1263.50 thousand students? Please list the bars and corresponding thousand students values?",
+            "A": "{Zephyr} has {665} thousand students."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Zephyr or Westport ",
+            "A": "The value of the {Westport} is larger?"
+        },
+        {
+            "Q": "Which is larger, Ashford, Rosewood or Brookfield ",
+            "A": "The value of the {Brookfield} is larger?"
+        },
+        {
+            "Q": "Which is larger, Lakeview, Springfield, Westport or Dunvale ",
+            "A": "The value of the {Lakeview} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {6} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Zephyr} and {Lakeview}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Lakeview}, {Westport}, and {Brookfield}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand students values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand students value descending: {Lakeview}, {Westport}, {Brookfield}, {Dunvale}, {Springfield}, {Highvale}, {Ironwood}, {Rosewood}, {Mapleton}, {Ashford}, and {Zephyr}."
+        },
+        {
+            "Q": "Sort the bars by thousand students values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand students value ascending: {Zephyr}, {Ashford}, {Mapleton}, {Rosewood}, {Ironwood}, {Highvale}, {Springfield}, {Dunvale}, {Brookfield}, {Westport}, and {Lakeview}."
+        }
+    ]
+}

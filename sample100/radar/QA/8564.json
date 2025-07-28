@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Turnover Rate?",
+            "A": "The next dimension clockwise from Turnover Rate is Time-to-Fill Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Turnover Rate?",
+            "A": "The next dimension counterclockwise from Turnover Rate is Promotion Rate."
+        },
+        {
+            "Q": "On the Time-to-Fill Rate, is the point for Taylor, Sampson and Patterson inside or outside the point for Palmer, Elliott and Brown?",
+            "A": "On the Time-to-Fill Rate, the point for Taylor, Sampson and Patterson is outside the point for Palmer, Elliott and Brown."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Retention Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Taylor, Sampson and Patterson?",
+            "A": "The strongest aspect is {Retention Rate}, while the weakest aspect is{ Turnover Rate}."
+        },
+        {
+            "Q": "On dimension Turnover Rate, which label scores the highest?",
+            "A": "On Turnover Rate, label {Taylor, Sampson and Patterson} scores the highest."
+        },
+        {
+            "Q": "On dimension Turnover Rate, which label scores the highest?",
+            "A": "On Turnover Rate, label {Taylor, Sampson and Patterson} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Taylor, Sampson and Patterson on the Retention Rate in the radar chart?",
+            "A": "The value of Taylor, Sampson and Patterson on the Safety dimension is {98}."
+        },
+        {
+            "Q": "What is the value of Palmer, Elliott and Brown on the Retention Rate in the radar chart?",
+            "A": "The value of Palmer, Elliott and Brown on the Safety dimension is {52}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Taylor, Sampson and Patterson across all dimensions in the radar chart?",
+            "A": "The maximum value of Taylor, Sampson and Patterson across all dimensions is {91}."
+        },
+        {
+            "Q": "What is the minimum value of label Taylor, Sampson and Patterson across all dimensions in the radar chart?",
+            "A": "The minimum value of Taylor, Sampson and Patterson across all dimensions is {74}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Promotion Rate",
+            "A": "The average value of Promotion Rate is {54.5}."
+        },
+        {
+            "Q": "What is the average value of Palmer, Elliott and Brown",
+            "A": "The average value of Palmer, Elliott and Brown is {58.43}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Taylor, Sampson and Patterson in the radar chart, which dimensions have scores between 47 and 85? Please list the dimensions and corresponding scores.",
+            "A": "{Skill Proficiency Rate} is {64}, {Time-to-Fill Rate} is {73}, {Job Satisfaction} is {48}"
+        },
+        {
+            "Q": "Which labels have scores below 50 for the Pay Equity Ratio dimension? Please list the labels and corresponding scores.",
+            "A": "{Palmer, Elliott and Brown} is {40}"
+        },
+        {
+            "Q": "For Palmer, Elliott and Brown in the radar chart, which dimensions have scores above 85? Please list the dimensions and corresponding scores.",
+            "A": "{Pay Equity Ratio} is {91}, {Retention Rate} is {98}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Taylor, Sampson and Patterson, which dimension has a higher score: Job Satisfaction or Retention Rate?",
+            "A": "{Retention Rate} has a higher score than Job Satisfaction for Taylor, Sampson and Patterson."
+        },
+        {
+            "Q": "For Palmer, Elliott and Brown, which dimension has a higher score: Promotion Rate or Pay Equity Ratio?",
+            "A": "{Promotion Rate} has a higher score than Pay Equity Ratio for Palmer, Elliott and Brown."
+        },
+        {
+            "Q": "On Job Satisfaction, which label has a higher score: Palmer, Elliott and Brown or the Taylor, Sampson and Patterson?",
+            "A": "{Palmer, Elliott and Brown} has a higher score on Job Satisfaction compared to Taylor, Sampson and Patterson."
+        },
+        {
+            "Q": "On Retention Rate, which label has a higher score: Taylor, Sampson and Patterson or the Palmer, Elliott and Brown?",
+            "A": "{Taylor, Sampson and Patterson} has a higher score on Retention Rate compared to Palmer, Elliott and Brown."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Palmer, Elliott and Brown, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Palmer, Elliott and Brown most needs to improve its {Pay Equity Ratio}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Taylor, Sampson and Patterson}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Palmer, Elliott and Brown}."
+        }
+    ],
+    "VA": []
+}

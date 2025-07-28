@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {2} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Azure Coast relative to Crimson Peaks?",
+            "A": "Azure Coast is {above} Crimson Peaks in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total housing affordability index?",
+            "A": "The series with the largest contribution is {Crimson Peaks}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total housing affordability index?",
+            "A": "The series with the smallest contribution is {Azure Coast}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Azure Coast's Housing Affordability Index in 1980?",
+            "A": "Azure Coast's housing affordability index in 1980 is {118.09} index."
+        },
+        {
+            "Q": "What is Crimson Peaks's Housing Affordability Index in 1976?",
+            "A": "Crimson Peaks's housing affordability index in 1976 is {113.08} index."
+        },
+        {
+            "Q": "What is Azure Coast's Housing Affordability Index in 1974?",
+            "A": "Azure Coast's housing affordability index in 1974 is {121.57} index."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Housing Affordability Index in the area chart?",
+            "A": "The global minimum housing affordability index is {75.25} index."
+        },
+        {
+            "Q": "What is the global maximum Housing Affordability Index in the area chart?",
+            "A": "The global maximum housing affordability index is {164.14} index."
+        },
+        {
+            "Q": "What is the highest Housing Affordability Index level recorded for Azure Coast?",
+            "A": "Azure Coast reached approximately {126.47} index in {1979}."
+        },
+        {
+            "Q": "What is the lowest Housing Affordability Index level recorded for Azure Coast?",
+            "A": "Azure Coast's lowest recorded level is approximately {75.25} index in {1982}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Housing Affordability Index?",
+            "A": "The average total housing affordability index is {234.89} index."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Housing Affordability Index go below 223.27 index? Please list the years and corresponding total values.",
+            "A": "{201.33} index in {1973}, {199.89} index in {1976}, {220.07} index in {1982}."
+        },
+        {
+            "Q": "Which years did the total Housing Affordability Index fall between 224.62 and 248.27 index? Please list the years and corresponding total values.",
+            "A": "{229.23} index in {1974}, {225.22} index in {1981}, {226.10} index in {1978}."
+        },
+        {
+            "Q": "Which years did the total Housing Affordability Index exceed 249.61 index? Please list the years and corresponding total values.",
+            "A": "{254.37} index in {1979}, {253.98} index in {1980}, {281.86} index in {1984}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1978 and 1985, did the total Housing Affordability Index experience a larger or smaller change than between 1984 and 1985?",
+            "A": "The change in total housing affordability index between 1978 and 1985 was {larger} than between 1984 and 1985."
+        },
+        {
+            "Q": "Between 1975 and 1982, did the total Housing Affordability Index experience a larger or smaller change than between 1980 and 1984?",
+            "A": "The change in total housing affordability index between 1975 and 1982 was {smaller} than between 1980 and 1984."
+        },
+        {
+            "Q": "Was the total Housing Affordability Index in 1979 higher or lower than in 1982?",
+            "A": "The total housing affordability index in 1979 was {higher} than in 1982."
+        },
+        {
+            "Q": "Was the total Housing Affordability Index in 1978 higher or lower than in 1980?",
+            "A": "The total housing affordability index in 1978 was {lower} than in 1980."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Crimson Peaks} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Azure Coast, Crimson Peaks}."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+Image Name: 10614.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\10614.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The bar chart is clear and well-organized, with each city's R&D investment easily distinguishable. The use of a consistent pattern on the bars and the inclusion of exact values above each bar enhance readability. The labels are legible, and the chart title clearly states the data being represented, making it straightforward to interpret.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart presents the data clearly with well-defined bars for each city, and the values are labeled directly on the bars, which aids in quick comprehension. However, the use of hatch patterns instead of solid colors may reduce visual clarity, especially for those with color vision deficiencies. Overall, the chart is still quite readable.

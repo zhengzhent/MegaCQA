@@ -1,0 +1,89 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {64} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {horizontal gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Instagram and Algorithms in the heatmap?",
+            "A": "The heat value is {0.42}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Facebook and Users in the heatmap?",
+            "A": "The heat value is {0.57}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.74}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.08}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Podcasts on the x-axis?",
+            "A": "The maximum heat value of Podcasts on the x-axis is {0.26}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Monetization on the y-axis?",
+            "A": "The maximum heat value for Monetization on the y-axis is {0.74}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Platform Trends on the y-axis?",
+            "A": "The average heat value for Platform Trends on the y-axis is {0.32}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Instagram and Advertising or the cell corresponding to Blogs and Creator Economy?",
+            "A": "The cell corresponding to {Blogs} and {Creator Economy} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Instagram and Creator Economy or the cell corresponding to Spotify and Creator Economy?",
+            "A": "The cell corresponding to {Instagram} and {Creator Economy} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to TikTok and Monetization or the cell corresponding to Podcasts and Revenue?",
+            "A": "The cell corresponding to {Podcasts} and {Revenue} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to YouTube and Growth or the cell corresponding to Blogs and Platform Trends?",
+            "A": "The cell corresponding to {Blogs} and {Platform Trends} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.37 to 0.59?",
+            "A": "The cells are: {(Facebook, Advertising), (Instagram, Advertising), (Facebook, Algorithms), (Instagram, Algorithms), (Facebook, Creator Economy), (Instagram, Creator Economy), (Facebook, Growth), (Instagram, Growth), (Facebook, Monetization), (Instagram, Monetization), (Facebook, Platform Trends), (Instagram, Platform Trends), (Facebook, Revenue), (Instagram, Revenue), (Facebook, Users), (Instagram, Users)}."
+        }
+    ],
+    "VA": []
+}

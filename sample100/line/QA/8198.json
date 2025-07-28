@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {7} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1982, what is the vertical (above/below) relationship of the line representing EchoWave Entertainment relative to Luminara Play?",
+            "A": "In 1982, EchoWave Entertainment is {above} Luminara Play in the vertical direction."
+        },
+        {
+            "Q": "On AetherNet Sports, what is the spatial relationship of the data point in 1990 relative to that in 1982 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On AetherNet Sports, the data point in 1990 is {above} and to the {right} of the data point in 1982."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of NovaStream Live's Streaming Views levels?",
+            "A": "NovaStream Live's streaming views levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Luminara Play's Streaming Views levels?",
+            "A": "Luminara Play's streaming views levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "What is the trend of OracleView's Streaming Views levels?",
+            "A": "OracleView's streaming views levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of EchoWave Entertainment's Streaming Views levels?",
+            "A": "EchoWave Entertainment's streaming views levels show a {single peak} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Luminara Play's Streaming Views in 1985?",
+            "A": "Luminara Play's streaming views in 1985 is {248881.72} views/month."
+        },
+        {
+            "Q": "What is Luminara Play's Streaming Views in 1994?",
+            "A": "Luminara Play's streaming views in 1994 is {259871.01} views/month."
+        },
+        {
+            "Q": "What is EchoWave Entertainment's Streaming Views in 1985?",
+            "A": "EchoWave Entertainment's streaming views in 1985 is {304216.91} views/month."
+        },
+        {
+            "Q": "What are the streaming views of AetherNet Sports, CrimsonCast, and NovaStream Live in 1986?",
+            "A": "AetherNet Sports's streaming views is {359358.96} views/month, CrimsonCast's streaming views is {144098.18} views/month, NovaStream Live's streaming views is {79727.89} views/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Streaming Views in the line chart?",
+            "A": "The global minimum streaming views is {23885.88} views/month."
+        },
+        {
+            "Q": "What is the global maximum Streaming Views in the line chart?",
+            "A": "The global maximum streaming views is {682379.81} views/month."
+        },
+        {
+            "Q": "What is the highest Streaming Views level recorded for AetherNet Sports?",
+            "A": "AetherNet Sports reached approximately {581990.28} views/month in {1997}."
+        },
+        {
+            "Q": "What is the lowest Streaming Views level recorded for AetherNet Sports?",
+            "A": "AetherNet Sports's lowest recorded level is approximately {279455.04} views/month in {1982}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Luminara Play's Streaming Views?",
+            "A": "The average value of Luminara Play's streaming views is {254836.92} views/month."
+        },
+        {
+            "Q": "What is the rate of change in NovaStream Live's Streaming Views from the starting year to the final year?",
+            "A": "The rate of decline in NovaStream Live's streaming views is {-79.70}%."
+        },
+        {
+            "Q": "What is the rate of change in CrimsonCast's Streaming Views from the starting year to the final year?",
+            "A": "The rate of growth in CrimsonCast's streaming views is {76.89}%."
+        },
+        {
+            "Q": "What is the average value of EchoWave Entertainment's Streaming Views?",
+            "A": "The average value of EchoWave Entertainment's streaming views is {300346.14} views/month."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1982, which lines had Streaming Views below 125636 views/month? Please list the lines and corresponding values.",
+            "A": "{NovaStream Live} had {117684} views/month, {CrimsonCast} had {113076} views/month."
+        },
+        {
+            "Q": "Which years did NovaStream Live's Streaming Views below 35896 views/month? Please list the years and corresponding values.",
+            "A": "{31125.01} views/month in {1994} year, {23885.88} views/month in {1997} year, {28534} views/month in {1996} year."
+        },
+        {
+            "Q": "Which years did OracleView's Streaming Views exceed 164442 views/month? Please list the years and corresponding values.",
+            "A": "{178331.66} views/month in {1991} year, {171721.91} views/month in {1986} year, {182713.24} views/month in {1989} year."
+        },
+        {
+            "Q": "In the year 1984, which lines had Streaming Views below 141224 views/month? Please list the lines and corresponding values.",
+            "A": "{CrimsonCast} had {127647} views/month, {NovaStream Live} had {97853} views/month."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was CrimsonCast's Streaming Views in 1987 higher or lower than in 1996?",
+            "A": "The streaming views in 1987 was {lower} than in 1996."
+        },
+        {
+            "Q": "Was NovaStream Live's Streaming Views in 1984 higher or lower than in 1990?",
+            "A": "The streaming views in 1984 was {higher} than in 1990."
+        },
+        {
+            "Q": "In 1986, which line had the highest Streaming Views, AetherNet Sports, StarburstTV, or CrimsonCast?",
+            "A": "In 1986, {AetherNet Sports} had the highest streaming views."
+        },
+        {
+            "Q": "Between 1987 and 1991, which line experienced the largest change in Streaming Views, EchoWave Entertainment, AetherNet Sports, OracleView, or NovaStream Live?",
+            "A": "{AetherNet Sports} experienced the largest change in streaming views."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {StarburstTV}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1986 and 1987?",
+            "A": "{StarburstTV} has the fastest average growth rate between 1986 and 1987."
+        },
+        {
+            "Q": "In which year did CrimsonCast first surpass OracleView?",
+            "A": "CrimsonCast first surpassed OracleView in the year {1993}."
+        },
+        {
+            "Q": "Which label had the leading streaming views since 1984?",
+            "A": "Since 1984, {AetherNet Sports} had the leading streaming views."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the AetherNet Sports. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1982, 1997}."
+        }
+    ]
+}

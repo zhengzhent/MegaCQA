@@ -1,0 +1,9 @@
+﻿Science and Engineering,Research Metrics of Different Lab
+Pattern,Strong Correlation,Clustering,Weak Correlation,Weak Correlation
+labels,Patent applications (patents),Research funding (USD millions),Lab efficiency (%),Citation index (citations/paper),Collaboration index (1-10)
+"Carr, Rojas and Hinton  Research Center",20.68,35.68,67.29,0.0,10.0
+"Holt, Watson and Hood  Research Center",26.4,50.46,66.91,37.17,7.62
+"Thompson, Aguirre and Cook  Research Institute",50.0,98.91,100.0,171.75,7.39
+Poole Inc  Research Institute,27.27,61.89,46.79,293.69,1.0
+"Weeks, Baker and Miller  Research Center",0.0,0.1,55.77,419.28,3.55
+"Edwards, Johnson and Williams  Research Center",43.39,100.0,30.0,1000.0,1.31

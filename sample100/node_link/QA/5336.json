@@ -1,0 +1,71 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {6} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node Department of Cybersecurity?",
+            "A": "There are {5} nodes link with node Department of Cybersecurity."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Department of Public Health and node Department of Human Resources in this node-link chart?",
+            "A": "The relationship between node Department of Public Health and node Department of Human Resources is {training_partnership}."
+        },
+        {
+            "Q": "What is the relationship between node Department of Urban Planning and node Department of Infrastructure in this node-link chart?",
+            "A": "The relationship between node Department of Urban Planning and node Department of Infrastructure is {internal_referral}."
+        },
+        {
+            "Q": "What is the relationship between node Department of Urban Planning and node Department of Environmental Safety in this node-link chart?",
+            "A": "The relationship between node Department of Urban Planning and node Department of Environmental Safety is {employee_transfer}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type internal_referral?",
+            "A": "There are {1} links with the relation type internal_referral."
+        },
+        {
+            "Q": "How many links have the relation type training_partnership?",
+            "A": "There are {7} links with the relation type training_partnership."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Department of Human Resources, how many links are of type training_partnership?",
+            "A": "Node Department of Human Resources has {1} links of type training_partnership."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Department of Urban Planning}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Department of Urban Planning with a degree of 5}, {node Department of Environmental Safety with a degree of 5}, {node Department of Infrastructure with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Department of Urban Planning to node Department of Public Health in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Department of Urban Planning to node Department of Public Health is: {Department of Urban Planning to Department of Public Health}."
+        }
+    ],
+    "VA": []
+}

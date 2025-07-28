@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {5} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Nightfall}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {Lost Signal}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Dark Horizon relative to the bar Lost Signal in terms of vetical (above/below) direction??",
+            "A": "Bar Dark Horizon is  {below} the bar Lost Signal."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Iron Heart}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Broken Mirror}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Lost Signal?",
+            "A": "The value of Lost Signal is {2521} million USD."
+        },
+        {
+            "Q": "What is the value of bar Nightfall?",
+            "A": "The value of Nightfall is {3341} million USD."
+        },
+        {
+            "Q": "What is the value of bar Iron Heart?",
+            "A": "The value of Iron Heart is {3457} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {3457} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {1793} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Lost Signal and Nightfall?",
+            "A": "The total value of Lost Signal and Nightfall is {5862} million USD."
+        },
+        {
+            "Q": "What is the average value of Lost Signal and Iron Heart?",
+            "A": "The average value of Lost Signal and Iron Heart is {2989.0} million USD."
+        },
+        {
+            "Q": "What is the difference between Iron Heart and Dark Horizon?",
+            "A": "The difference between Iron Heart and Dark Horizon is {65} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 3424.50 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Iron Heart} has {3457} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 2157.00 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Broken Mirror} has {1793} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Nightfall or Iron Heart ",
+            "A": "The value of the {Iron Heart} is larger?"
+        },
+        {
+            "Q": "Which is larger, Lost Signal, Broken Mirror or Dark Horizon ",
+            "A": "The value of the {Dark Horizon} is larger?"
+        },
+        {
+            "Q": "Which is larger, Nightfall, Iron Heart, Broken Mirror or Lost Signal ",
+            "A": "The value of the {Iron Heart} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {3} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Broken Mirror} and {Iron Heart}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Iron Heart}, {Dark Horizon}, and {Nightfall}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {Iron Heart}, {Dark Horizon}, {Nightfall}, {Lost Signal}, and {Broken Mirror}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {Broken Mirror}, {Lost Signal}, {Nightfall}, {Dark Horizon}, and {Iron Heart}."
+        }
+    ]
+}

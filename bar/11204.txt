@@ -1,0 +1,10 @@
+Image Name: 11204.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\11204.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels and distinct colors for each platform. The values are directly written on the bars, making it easy to read the exact number of views. The scale is appropriate, and the title clearly states what the chart represents.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the number of plays across different platforms. The use of distinct colors for each platform helps in differentiating the data sets. The labels are legible, and the values are directly associated with their respective bars, making it easy to interpret the information at a glance.

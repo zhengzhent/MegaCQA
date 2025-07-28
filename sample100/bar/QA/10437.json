@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {14} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Zephyr}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {Brookfield}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Springfield relative to the bar Quarryville in terms of vetical (above/below) direction??",
+            "A": "Bar Springfield is {above} the bar Quarryville."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Brookfield}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Highvale}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Northgate?",
+            "A": "The value of Northgate is {354.09} million USD."
+        },
+        {
+            "Q": "What is the value of bar Mapleton?",
+            "A": "The value of Mapleton is {493.39} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {1995.34} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {209.16} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Zephyr and Yorkton?",
+            "A": "The total value of Zephyr and Yorkton is {2630.04} million USD."
+        },
+        {
+            "Q": "What is the average value of Ironwood and Highvale?",
+            "A": "The average value of Ironwood and Highvale is {698.1850000000001} million USD."
+        },
+        {
+            "Q": "What is the difference between Dunvale and Yorkton?",
+            "A": "The difference between Dunvale and Yorkton is {214.94000000000005} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 1950.99 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Brookfield} has {1995.34} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 608.39 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Highvale} has {209.16} million USD, {Northgate} has {354.09} million USD, {Mapleton} has {493.39} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Springfield or Highvale ",
+            "A": "The value of the {Springfield} is larger?"
+        },
+        {
+            "Q": "Which is larger, Zephyr, Brookfield or Glenhaven ",
+            "A": "The value of the {Brookfield} is larger?"
+        },
+        {
+            "Q": "Which is larger, Glenhaven, Northgate, Pinehaven or Brookfield ",
+            "A": "The value of the {Brookfield} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {6} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Zephyr} and {Glenhaven}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Brookfield}, {Yorkton}, and {Glenhaven}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {Brookfield}, {Yorkton}, {Glenhaven}, {Dunvale}, {Springfield}, {Ironwood}, {Pinehaven}, {Creston}, {Elmhurst}, {Quarryville}, {Zephyr}, {Mapleton}, {Northgate}, and {Highvale}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {Highvale}, {Northgate}, {Mapleton}, {Zephyr}, {Quarryville}, {Elmhurst}, {Creston}, {Pinehaven}, {Ironwood}, {Springfield}, {Dunvale}, {Glenhaven}, {Yorkton}, and {Brookfield}."
+        }
+    ]
+}

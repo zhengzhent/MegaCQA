@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {5} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc ChirpNet?",
+            "A": "The next arc clockwise from arc ChirpNet is arc {FlickFlare}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc ChirpNet?",
+            "A": "The next arc counterclockwise from arc ChirpNet is arc {PictoGram}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{PictoGram} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{FanConnect} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from FlickFlare to PictoGram in the chord chart?",
+            "A": "The flow value is {641}."
+        },
+        {
+            "Q": "What is the flow value from FlickFlare to ChirpNet in the chord chart?",
+            "A": "The flow value is {504}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between GameCast and PictoGram in the chord chart?",
+            "A": "The maximum flow value between GameCast and PictoGram is {207}."
+        },
+        {
+            "Q": "What is the minimum flow value between FanConnect and PictoGram in the chord chart?",
+            "A": "The minimum flow value between FanConnect and PictoGram is {651}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {695}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {102}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from ChirpNet?",
+            "A": "The total flow output from ChirpNet is {366}."
+        },
+        {
+            "Q": "What is the total flow input by ChirpNet?",
+            "A": "The total flow input by ChirpNet is {504}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 673? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {695} from {PictoGram} to {FanConnect}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 154? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {102} from {GameCast} to {PictoGram}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 274 and 528? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {366} from {ChirpNet} to {FlickFlare}, a flow of {504} from {FlickFlare} to {ChirpNet}, a flow of {340} from {GameCast} to {FanConnect}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from FanConnect to GameCast or from ChirpNet to FlickFlare?",
+            "A": "The flow from {ChirpNet} to {FlickFlare} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from PictoGram to GameCast, from FlickFlare to ChirpNet, or from PictoGram to FlickFlare?",
+            "A": "The flow from {PictoGram} to {FlickFlare} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {FlickFlare}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {FanConnect} and {PictoGram}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc PictoGram, Arc FanConnect, Arc FlickFlare, Arc ChirpNet, Arc GameCast}."
+        }
+    ]
+}

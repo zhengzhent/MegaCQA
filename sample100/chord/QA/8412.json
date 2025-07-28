@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {5} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Alexandrialand?",
+            "A": "The next arc clockwise from arc Alexandrialand is arc {Paulview}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Alexandrialand?",
+            "A": "The next arc counterclockwise from arc Alexandrialand is arc {Elizabethstad}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{Alexandrialand} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Paulview} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Briannaville to Jessestad in the chord chart?",
+            "A": "The flow value is {711}."
+        },
+        {
+            "Q": "What is the flow value from Alexandrialand to Paulview in the chord chart?",
+            "A": "The flow value is {883}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Elizabethstad and Paulview in the chord chart?",
+            "A": "The maximum flow value between Elizabethstad and Paulview is {626}."
+        },
+        {
+            "Q": "What is the minimum flow value between Elizabethstad and Jessestad in the chord chart?",
+            "A": "The minimum flow value between Elizabethstad and Jessestad is {252}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {883}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {252}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Paulview?",
+            "A": "The total flow output from Paulview is {1364}."
+        },
+        {
+            "Q": "What is the total flow input by Jessestad?",
+            "A": "The total flow input by Jessestad is {1422}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 782? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {883} from {Alexandrialand} to {Paulview}, a flow of {840} from {Paulview} to {Alexandrialand}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 286? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {252} from {Elizabethstad} to {Jessestad}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 491 and 575? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {524} from {Paulview} to {Elizabethstad}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Jessestad to Alexandrialand or from Jessestad to Briannaville?",
+            "A": "The flow from {Jessestad} to {Briannaville} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from Elizabethstad to Jessestad, from Elizabethstad to Paulview, or from Alexandrialand to Jessestad?",
+            "A": "The flow from {Elizabethstad} to {Paulview} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Alexandrialand}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Alexandrialand} and {Paulview}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Briannaville, Arc Jessestad, Arc Alexandrialand, Arc Paulview, Arc Elizabethstad}."
+        }
+    ]
+}

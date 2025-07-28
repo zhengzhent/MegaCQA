@@ -1,0 +1,9 @@
+﻿Real Estate and Housing Market,Property Characteristics of Different House
+Pattern,Weak Correlation,No Correlation,Strong Correlation,Weak Correlation,No Correlation,Strong Correlation
+labels,Bathroom count (units),Energy efficiency rating (1-10),Square footage (sq ft),Walk score (0-100),Days on market (days),Year built (year),Bedroom count (units)
+American Villa,3.21,1.51,1462.9,21.0,1.0,1860.92,3.82
+field Cottage,1.0,5.68,6329.3,35.1,365.0,2023.0,6.0
+training Cottage,5.0,1.0,10000.0,100.0,210.84,1864.89,3.37
+loss Mansion,3.55,10.0,7830.19,98.2,281.94,1800.0,1.0
+here Villa,3.29,4.96,4282.39,51.68,150.74,1819.41,2.29
+institution Mansion,3.17,5.27,500.0,0.0,20.02,1806.9,2.54

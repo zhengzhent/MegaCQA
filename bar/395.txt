@@ -1,0 +1,10 @@
+Image Name: 395.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\395.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and well-organized, with distinct colors for each crop category that enhance differentiation. The labels are legible, and the values are directly placed on top of the bars, making it easy to understand the production quantities at a glance. The title and axis labels are also clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the production of different crops with distinct colors for each crop category. The labels are legible, and the values are prominently displayed on the bars, making it easy to compare the production amounts at a glance.

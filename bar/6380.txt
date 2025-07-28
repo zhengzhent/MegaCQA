@@ -1,0 +1,10 @@
+Image Name: 6380.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\6380.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with distinct bars for each town and numerical values placed above each bar for easy reference. The labels for the towns are legible, and the y-axis is clearly marked with the number of visits. The data is presented in a way that allows for quick comparison between the towns.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart presents the data clearly with distinct bars for each town, and the values are labeled directly on the bars, making it easy to read. However, the x-axis labels are slightly tilted, which may cause minor readability issues. Overall, the visualization effectively communicates the information.

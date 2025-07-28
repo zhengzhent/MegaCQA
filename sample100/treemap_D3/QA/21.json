@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {21} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Informal Learning}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Liberal Arts Colleges}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Non-Profit Programs rectangle in this treemap?",
+            "A": "The value of the Non-Profit Programs rectangle is {9.28}."
+        },
+        {
+            "Q": "What is the value of the Informal Learning rectangle in this treemap?",
+            "A": "The value of the Informal Learning rectangle is {38.42}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.05}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Online Education and Public Primary?",
+            "A": "The difference between Online Education and Public Primary is {11.09}."
+        },
+        {
+            "Q": "What is the sum of the regions of Formal Education and Research Universities?",
+            "A": "The sum of Formal Education and Research Universities is {32.89}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Higher Education category in the treemap, which rectangular labels have a value exceeded 20.26? Please list the labels and values.",
+            "A": "{Postgraduate} has {23.63}"
+        },
+        {
+            "Q": "Under the Higher Education category in the treemap, which rectangular labels have a value below 13.54? Please list the labels and values.",
+            "A": "{Undergraduate} has {10.17}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Formal Education or Community Learning?",
+            "A": "The value of {Formal Education} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Informal Learning or Higher Education?",
+            "A": "The value of {Informal Learning} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

@@ -1,0 +1,55 @@
+Transportation and Logistics,Manufacturing Supply Transportation Chain,Goods,random,Retail,Warehouse,Distribution Center,Factory
+Source,Target,Value
+Neighborhood Store,Cold Storage,839
+Neighborhood Store,Central Warehouse,775
+Neighborhood Store,Regional Warehouse A,86
+Neighborhood Store,Spare Parts Depot,86
+Outlet Mall,Cold Storage,105
+Outlet Mall,Central Warehouse,597
+Outlet Mall,Regional Warehouse A,585
+Outlet Mall,Spare Parts Depot,324
+Cold Storage,West Hub,83
+Cold Storage,South Hub,103
+Cold Storage,North Hub,368
+Cold Storage,Express Sorting Center,353
+Cold Storage,East Hub,37
+Central Warehouse,West Hub,430
+Central Warehouse,South Hub,68
+Central Warehouse,North Hub,543
+Central Warehouse,Express Sorting Center,263
+Central Warehouse,East Hub,68
+Regional Warehouse A,West Hub,31
+Regional Warehouse A,South Hub,157
+Regional Warehouse A,North Hub,90
+Regional Warehouse A,Express Sorting Center,267
+Regional Warehouse A,East Hub,126
+Spare Parts Depot,West Hub,111
+Spare Parts Depot,South Hub,77
+Spare Parts Depot,North Hub,12
+Spare Parts Depot,Express Sorting Center,84
+Spare Parts Depot,East Hub,126
+West Hub,Textile Mill,300
+West Hub,Chemical Plant,194
+West Hub,Food Processing Plant,62
+West Hub,Electronics Plant,34
+West Hub,Auto Factory,65
+South Hub,Textile Mill,174
+South Hub,Chemical Plant,18
+South Hub,Food Processing Plant,62
+South Hub,Electronics Plant,35
+South Hub,Auto Factory,116
+North Hub,Textile Mill,183
+North Hub,Chemical Plant,135
+North Hub,Food Processing Plant,232
+North Hub,Electronics Plant,197
+North Hub,Auto Factory,266
+Express Sorting Center,Textile Mill,405
+Express Sorting Center,Chemical Plant,154
+Express Sorting Center,Food Processing Plant,54
+Express Sorting Center,Electronics Plant,310
+Express Sorting Center,Auto Factory,44
+East Hub,Textile Mill,58
+East Hub,Chemical Plant,139
+East Hub,Food Processing Plant,19
+East Hub,Electronics Plant,58
+East Hub,Auto Factory,83

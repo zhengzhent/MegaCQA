@@ -1,0 +1,30 @@
+Real Estate and Housing Market,Real Estate Transaction Ecosystem,Properties,random,Financing Options,Buyer Types,Property Types,Location Types,Market Conditions
+Source,Target,Value
+Lease-to-Own,Family,384
+Lease-to-Own,Investor,1222
+Mortgage,Family,224
+Mortgage,Investor,383
+Family,Condo,42
+Family,Commercial Property,285
+Family,Multi-family Unit,79
+Family,Townhouse,169
+Family,Single Family Home,33
+Investor,Condo,262
+Investor,Commercial Property,494
+Investor,Multi-family Unit,416
+Investor,Townhouse,383
+Investor,Single Family Home,50
+Condo,Rural,176
+Condo,Urban,128
+Commercial Property,Rural,534
+Commercial Property,Urban,245
+Multi-family Unit,Rural,243
+Multi-family Unit,Urban,252
+Townhouse,Rural,279
+Townhouse,Urban,273
+Single Family Home,Rural,34
+Single Family Home,Urban,49
+Rural,Seller's Market,149
+Rural,Neutral Market,1117
+Urban,Seller's Market,351
+Urban,Neutral Market,596

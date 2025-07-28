@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {7} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Redstone of this stacked bar chart?",
+            "A": "There are {5} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Pinecrest}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Redstone}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Redstone relative to the bar Cedarburg in terms of horizontal (left/right) direction?",
+            "A": "Bar Redstone is to the {right} of the bar Cedarburg."
+        },
+        {
+            "Q": "In the stacked bar of Pinecrest, What is the spatial relationship of segment Technology relative to the segment Hospitality in terms of vertical (above/below) direction?",
+            "A": "Technology segment is positioned {above} the Hospitality segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Town has the highest bar in this stacked bar chart?",
+            "A": "The Town with the highest bar is {Westwood}."
+        },
+        {
+            "Q": "Which Town has the lowest bar in this stacked bar chart?",
+            "A": "The Town with the lowest bar is {Pinecrest}."
+        },
+        {
+            "Q": "In the stacked bar representing Pinecrest, which segment has the highest value?",
+            "A": "The segment with the highest value is {Retail}."
+        },
+        {
+            "Q": "In the stacked bar representing Mapleton, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Technology}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Hospitality segment within the Lakewood bar in the stacked bar chart?",
+            "A": "The value of the Hospitality segment is {4204.00} number."
+        },
+        {
+            "Q": "What is the value of the Education segment within the Westwood bar in the stacked bar chart?",
+            "A": "The value of the Education segment is {5000.00} number."
+        },
+        {
+            "Q": "What is the value of the Hospitality segment within the Springvale bar in the stacked bar chart?",
+            "A": "The value of the Hospitality segment is {1990.00} number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum number among the stacked segments of bar Cedarburg?",
+            "A": "The maximum number among the stacked segments of bar Cedarburg is {2438} number."
+        },
+        {
+            "Q": "What is the minimum number among the stacked segments of bar Pinecrest?",
+            "A": "The minimum number among the stacked segments of bar Pinecrest is {576} number."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum number of the segment Education among the bars?",
+            "A": "The maximum number among the bars of segment Education is {5000} number."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum number of the segment Education among the bars?",
+            "A": "The minimum number among the bars of segment Education is {1071} number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Westwood?",
+            "A": "The total value of bar Westwood is {17045.00} number."
+        },
+        {
+            "Q": "What is the total value of the bar Pinecrest?",
+            "A": "The total value of bar Pinecrest is {6901.00} number."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {76902} number."
+        },
+        {
+            "Q": "What is the difference between total value of bar Cedarburg and Lakewood?",
+            "A": "The difference between between total value of bar Cedarburg and Lakewood is {6705} number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total number values exceed 13068.00 number? Please list the bar and corresponding values.",
+            "A": "{Lakewood} has {13632} number, {Westwood} has {17045} number"
+        },
+        {
+            "Q": "Which bars have total number values below 6914.00 number? Please list the bar and corresponding values.",
+            "A": "{Pinecrest} has {6901} number"
+        },
+        {
+            "Q": "For bar Pinecrest in the stacked bar chart, which segment have number value between 288.0 and 656.5? Please list the segment and corresponding values.",
+            "A": "{Technology} has {576} number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total number of Pinecrest or Lakewood?",
+            "A": "The total number of the {Lakewood} is larger."
+        },
+        {
+            "Q": "Which is larger, the total number of Springvale, Westwood or Cedarburg?",
+            "A": "The total number of the {Westwood} is larger."
+        },
+        {
+            "Q": "In the bar Pinecrest, which has a larger number value: Education or Retail?",
+            "A": "{Retail} has the larger number value."
+        },
+        {
+            "Q": "In the bar Redstone, which has a larger number value: Hospitality, Education or Retail?",
+            "A": "{Hospitality} has the larger number value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Retail in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Retail are: {Lakewood}, {Mapleton}, {Westwood}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,82 @@
+Sports and Entertainment,the Comparison of Sports and Entertainment,9x9,vertical_gradient
+Basketball,Attendance,0.16
+Football,Attendance,0.18
+Gaming,Attendance,0.14
+Media Rights,Attendance,0.15
+Movies,Attendance,0.15
+Music,Attendance,0.19
+Publishing,Attendance,0.15
+Tennis,Attendance,0.15
+Theater,Attendance,0.16
+Basketball,Fan Engagement,0.25
+Football,Fan Engagement,0.23
+Gaming,Fan Engagement,0.25
+Media Rights,Fan Engagement,0.25
+Movies,Fan Engagement,0.25
+Music,Fan Engagement,0.29
+Publishing,Fan Engagement,0.29
+Tennis,Fan Engagement,0.25
+Theater,Fan Engagement,0.24
+Basketball,Merchandise,0.34
+Football,Merchandise,0.35
+Gaming,Merchandise,0.38
+Media Rights,Merchandise,0.32
+Movies,Merchandise,0.33
+Music,Merchandise,0.3
+Publishing,Merchandise,0.31
+Tennis,Merchandise,0.33
+Theater,Merchandise,0.33
+Basketball,Ratings,0.44
+Football,Ratings,0.38
+Gaming,Ratings,0.43
+Media Rights,Ratings,0.45
+Movies,Ratings,0.46
+Music,Ratings,0.45
+Publishing,Ratings,0.43
+Tennis,Ratings,0.4
+Theater,Ratings,0.43
+Basketball,Revenue,0.53
+Football,Revenue,0.49
+Gaming,Revenue,0.49
+Media Rights,Revenue,0.49
+Movies,Revenue,0.5
+Music,Revenue,0.5
+Publishing,Revenue,0.51
+Tennis,Revenue,0.52
+Theater,Revenue,0.47
+Basketball,Royalties,0.59
+Football,Royalties,0.6
+Gaming,Royalties,0.54
+Media Rights,Royalties,0.56
+Movies,Royalties,0.56
+Music,Royalties,0.57
+Publishing,Royalties,0.59
+Tennis,Royalties,0.58
+Theater,Royalties,0.56
+Basketball,Social Media,0.66
+Football,Social Media,0.64
+Gaming,Social Media,0.67
+Media Rights,Social Media,0.67
+Movies,Social Media,0.66
+Music,Social Media,0.65
+Publishing,Social Media,0.65
+Tennis,Social Media,0.67
+Theater,Social Media,0.64
+Basketball,Sponsorship,0.75
+Football,Sponsorship,0.75
+Gaming,Sponsorship,0.74
+Media Rights,Sponsorship,0.73
+Movies,Sponsorship,0.75
+Music,Sponsorship,0.72
+Publishing,Sponsorship,0.75
+Tennis,Sponsorship,0.73
+Theater,Sponsorship,0.78
+Basketball,Ticket Sales,0.85
+Football,Ticket Sales,0.84
+Gaming,Ticket Sales,0.82
+Media Rights,Ticket Sales,0.84
+Movies,Ticket Sales,0.83
+Music,Ticket Sales,0.83
+Publishing,Ticket Sales,0.84
+Tennis,Ticket Sales,0.82
+Theater,Ticket Sales,0.82

@@ -1,0 +1,10 @@
+Image Name: 8239.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\8239.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and straightforward, with distinct colors for each property type and values labeled on top of each bar. The axis labels and title are legible and provide necessary context. The data is easy to interpret at a glance.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the data on house sales. The use of distinct colors for each property type helps in differentiating the categories, and the values displayed on top of the bars provide immediate insight into the sales figures. The axis labels are legible, and the overall layout is organized, making it easy for the viewer to interpret the information.

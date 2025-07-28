@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {8} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Pinecrest of this stacked bar chart?",
+            "A": "There are {7} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Pinecrest}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Meadowbrook}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Meadowbrook relative to the bar Elmwood in terms of horizontal (left/right) direction?",
+            "A": "Bar Meadowbrook is to the {right} of the bar Elmwood."
+        },
+        {
+            "Q": "In the stacked bar of Elmwood, What is the spatial relationship of segment Hidden Truth relative to the segment Final Reckoning in terms of vertical (above/below) direction?",
+            "A": "Hidden Truth segment is positioned {above} the Final Reckoning segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Towns has the highest bar in this stacked bar chart?",
+            "A": "The Towns with the highest bar is {Cedarburg}."
+        },
+        {
+            "Q": "Which Towns has the lowest bar in this stacked bar chart?",
+            "A": "The Towns with the lowest bar is {Hillcrest}."
+        },
+        {
+            "Q": "In the stacked bar representing Elmwood, which segment has the highest value?",
+            "A": "The segment with the highest value is {Broken Mirror}."
+        },
+        {
+            "Q": "In the stacked bar representing Pinecrest, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Hidden Truth}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Plain Sight segment within the Pinecrest bar in the stacked bar chart?",
+            "A": "The value of the Plain Sight segment is {285.44} million USD."
+        },
+        {
+            "Q": "What is the value of the Dark Horizon segment within the Westwood bar in the stacked bar chart?",
+            "A": "The value of the Dark Horizon segment is {117.89} million USD."
+        },
+        {
+            "Q": "What is the value of the Plain Sight segment within the Cedarburg bar in the stacked bar chart?",
+            "A": "The value of the Plain Sight segment is {285.16} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD among the stacked segments of bar Glenwood?",
+            "A": "The maximum million USD among the stacked segments of bar Glenwood is {347.93} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD among the stacked segments of bar Hillcrest?",
+            "A": "The minimum million USD among the stacked segments of bar Hillcrest is {117.14} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum million USD of the segment Broken Mirror among the bars?",
+            "A": "The maximum million USD among the bars of segment Broken Mirror is {271.52} million USD."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum million USD of the segment Dark Horizon among the bars?",
+            "A": "The minimum million USD among the bars of segment Dark Horizon is {117.89} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Glenwood?",
+            "A": "The total value of bar Glenwood is {1584.73} million USD."
+        },
+        {
+            "Q": "What is the total value of the bar Cedarburg?",
+            "A": "The total value of bar Cedarburg is {1641.03} million USD."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {11871.630000000001} million USD."
+        },
+        {
+            "Q": "What is the difference between total value of bar Elmwood and Pinecrest?",
+            "A": "The difference between between total value of bar Elmwood and Pinecrest is {191.34999999999968} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total million USD values exceed 1612.88 million USD? Please list the bar and corresponding values.",
+            "A": "{Cedarburg} has {1641.0300000000002} million USD"
+        },
+        {
+            "Q": "Which bars have total million USD values below 1469.47 million USD? Please list the bar and corresponding values.",
+            "A": "{Hillcrest} has {1282.21} million USD, {Elmwood} has {1339.8600000000001} million USD, {Westwood} has {1429.65} million USD"
+        },
+        {
+            "Q": "For bar Elmwood in the stacked bar chart, which segment have million USD value between 62.07 and 171.53500000000003? Please list the segment and corresponding values.",
+            "A": "{Starlight} has {124.14} million USD, {Silent Echo} has {165.71} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total million USD of Elmwood or Westwood?",
+            "A": "The total million USD of the {Westwood} is larger."
+        },
+        {
+            "Q": "Which is larger, the total million USD of Glenwood, Pinecrest or Elmwood?",
+            "A": "The total million USD of the {Glenwood} is larger."
+        },
+        {
+            "Q": "In the bar Pinecrest, which has a larger million USD value: Final Reckoning or Silent Echo?",
+            "A": "{Silent Echo} has the larger million USD value."
+        },
+        {
+            "Q": "In the bar Cedarburg, which has a larger million USD value: Silent Echo, Final Reckoning or Hidden Truth?",
+            "A": "{Silent Echo} has the larger million USD value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Starlight in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Starlight are: {Cedarburg}, {Glenwood}, {Pinecrest}."
+        }
+    ],
+    "VA": []
+}

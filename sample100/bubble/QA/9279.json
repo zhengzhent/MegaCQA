@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {15} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Daily online booking volume of 785.74 relative to the bubble with a Daily online booking volume of 0.10 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Daily online booking volume of 785.74 is {above} and to the {left} of the bubble with a Daily online booking volume of 0.10."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Tourist reviews and Customer satisfaction?",
+            "A": "The highest concentration of bubbles corresponds to approximately {1.76} rating and {2.17} rating."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Daily online booking volume of the largest bubble?",
+            "A": "The Daily online booking volume of the largest bubble is {1000.00} count/day."
+        },
+        {
+            "Q": "What is the Daily online booking volume of the smallest bubble?",
+            "A": "The Daily online booking volume of the smallest bubble is {0.10} count/day."
+        },
+        {
+            "Q": "What are the Tourist reviews and Customer satisfaction values of the largest bubble?",
+            "A": "The Tourist reviews of the largest bubble is {3.01} rating, and {Customer satisfaction} is {4.68} rating."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Daily online booking volume in the bubble chart?",
+            "A": "The global maximum Daily online booking volume is {1000.00} count/day."
+        },
+        {
+            "Q": "What is the global minimum Daily online booking volume in the bubble chart?",
+            "A": "The global minimum Daily online booking volume is {0.10} count/day."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Tourist reviews in the bubble chart?",
+            "A": "The maximum observed value in the Tourist reviews dimension is {5.17} rating."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Tourist reviews in the bubble chart?",
+            "A": "The minimum observed value in the Tourist reviews dimension is {1.05} rating."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Customer satisfaction in the bubble chart?",
+            "A": "The maximum observed value in the Customer satisfaction dimension is {4.68} rating."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Customer satisfaction in the bubble chart?",
+            "A": "The minimum observed value in the Customer satisfaction dimension is {1.44} rating."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Daily online booking volume for all bubbles?",
+            "A": "The average value of the Daily online booking volume for all bubbles is {500.05} count/day."
+        },
+        {
+            "Q": "What is the average value of the Tourist reviews for all bubbles?",
+            "A": "The average value of Tourist reviews for all bubbles is {2.56} rating."
+        },
+        {
+            "Q": "What is the average value of the Customer satisfaction for all bubbles?",
+            "A": "The average value of Customer satisfaction for all bubbles is {2.91} rating."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Daily online booking volume values in the bubble chart?",
+            "A": "{1000.00, 928.58, 857.16} count/day."
+        },
+        {
+            "Q": "What are the bottom 3 Daily online booking volume values in the bubble chart?",
+            "A": "{0.10, 71.52, 142.94} count/day."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Daily online booking volume value, the bubble with a Tourist reviews of 1.4 rating and a Customer satisfaction of 3.8 rating, or the bubble with a Tourist reviews of 4.0 rating and a Customer satisfaction of 4.5 rating?",
+            "A": "The bubble with a Tourist reviews of {4.0} and a Customer satisfaction of {4.5} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Daily online booking volume value of the bubble with the largest Customer satisfaction value?",
+            "A": "The Daily online booking volume value of the bubble with the largest Customer satisfaction is {1000.00}."
+        },
+        {
+            "Q": "What is the Daily online booking volume value of the bubble with the largest Tourist reviews value?",
+            "A": "The Daily online booking volume value of the bubble with the largest Tourist reviews is {500.05}."
+        },
+        {
+            "Q": "Classify bubbles with a Customer satisfaction-coordinate greater than 3 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Daily online booking volume for the high value group and the low value group?",
+            "A": "The difference between the total Daily online booking volume of the high-value and low-value groups is {928.77}."
+        }
+    ],
+    "VA": []
+}

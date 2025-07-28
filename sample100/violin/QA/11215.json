@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {2} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Glimpr}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Watchit}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin Watchit?",
+            "A": "The first position to the left of the violin Watchit is {Glimpr}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Glimpr relative to the violin Watchit in terms of horizontal (left/right) direction?",
+            "A": "violin Glimpr is to the {left} of the violin Watchit."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Glimpr}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Glimpr}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Glimpr?",
+            "A": "The density distribution pattern of the Glimpr shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Watchit in the violin plot?",
+            "A": "The median of Watchit is {17821.50} viewers."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Glimpr in the violin plot?",
+            "A": "The lower quartile (Q1) of Glimpr is {18303.50} viewers."
+        },
+        {
+            "Q": "What is the upper whisker limit of Watchit in the violin plot?",
+            "A": "The upper whisker limit of Watchit is {26187.00} viewers."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Glimpr in the violin plot?",
+            "A": "The lowest upper outlier value in Glimpr is {8328.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum viewers value in the violin plot?",
+            "A": "The global maximum viewers value in the violin plot is {30859.00} viewers."
+        },
+        {
+            "Q": "What is the global minimum viewers value in the violin plot?",
+            "A": "The global minimum viewers value in the violin plot is {6962.00} viewers."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Glimpr and Watchit?",
+            "A": "The Median difference between violin Glimpr and Watchit is {3734.00} viewers."
+        },
+        {
+            "Q": "What is the toal Median value of violin Watchit and Glimpr?",
+            "A": "The total Median value of violin Watchit and Watchit is {39377.00} viewers."
+        },
+        {
+            "Q": "What is the average Q1 value of violin Glimpr and Watchit?",
+            "A": "The average Q1 value of violin Glimpr and Watchit is {16807.25} viewers."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 19688.50 viewers? Please list the violins and corresponding values.",
+            "A": "{Glimpr} has {21555.50} viewers "
+        },
+        {
+            "Q": "Which violins have median values below 19688.50 viewers? Please list the violins and corresponding values.",
+            "A": "{Watchit} has {17821.50} viewers "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 19722.78 viewers?",
+            "A": "Violin {Glimpr} has {21995.45} viewers have their highest density peak exceed 19722.78 viewers."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 19722.78 viewers?",
+            "A": "Violin {Watchit} has {17450.11} viewers have their highest density peak below 19722.78 viewers."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Watchit or Glimpr ",
+            "A": "The median value of the {Glimpr} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Glimpr}."
+        }
+    ],
+    "VA": []
+}

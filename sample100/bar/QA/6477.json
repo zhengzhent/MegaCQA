@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {10} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Hillcrest}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Oakvale}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Pinecrest relative to the bar Clearview in terms of horizontal (left/right) direction?",
+            "A": "Bar Pinecrest is to the {right} of the bar Clearview."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Oakvale}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Clearview}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Oakvale?",
+            "A": "The value of Oakvale is {763060} visits."
+        },
+        {
+            "Q": "What is the value of bar Hillcrest?",
+            "A": "The value of Hillcrest is {591931} visits."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum visits in the bar chart?",
+            "A": "The maximum visits is {763060} visits."
+        },
+        {
+            "Q": "What is the minimum visits in the bar chart?",
+            "A": "The minimum visits is {285552} visits."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Hillcrest and Glenwood?",
+            "A": "The total value of Hillcrest and Glenwood is {1218325} visits."
+        },
+        {
+            "Q": "What is the average value of Meadowbrook and Glenwood?",
+            "A": "The average value of Meadowbrook and Glenwood is {669809.0} visits."
+        },
+        {
+            "Q": "What is the difference between Meadowbrook and Clearview?",
+            "A": "The difference between Meadowbrook and Clearview is {427672} visits."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have visits values exceed 738142.00 visits? Please list the bars and corresponding visits values?",
+            "A": "{Oakvale} has {763060} visits."
+        },
+        {
+            "Q": "Which bars have {visits} values below 365623.00 visits? Please list the bars and corresponding visits values?",
+            "A": "{Clearview} has {285552} visits."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Oakvale or Brookhaven ",
+            "A": "The value of the {Oakvale} is larger?"
+        },
+        {
+            "Q": "Which is larger, Meadowbrook, Clearview or Glenwood ",
+            "A": "The value of the {Meadowbrook} is larger?"
+        },
+        {
+            "Q": "Which is larger, Hillcrest, Riverton, Oakvale or Lakewood ",
+            "A": "The value of the {Oakvale} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {6} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Clearview} and {Pinecrest}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Oakvale}, {Meadowbrook}, and {Pinecrest}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by visits values in descending order and list the labels from left to right.",
+            "A": "Sorted by visits value descending: {Oakvale}, {Meadowbrook}, {Pinecrest}, {Glenwood}, {Hillcrest}, {Brookhaven}, {Westwood}, {Lakewood}, {Riverton}, and {Clearview}."
+        },
+        {
+            "Q": "Sort the bars by visits values in ascending order and list the labels from left to right.",
+            "A": "Sorted by visits value ascending: {Clearview}, {Riverton}, {Lakewood}, {Westwood}, {Brookhaven}, {Hillcrest}, {Glenwood}, {Pinecrest}, {Meadowbrook}, and {Oakvale}."
+        }
+    ]
+}

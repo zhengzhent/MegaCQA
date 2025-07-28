@@ -1,0 +1,65 @@
+Tourism and Hospitality,the Analysis of Tourism and Hospitality,8x8,uniform
+Attractions,Adventure,0.45
+Cruises,Adventure,0.46
+Destinations,Adventure,0.47
+Events,Adventure,0.46
+Restaurants,Adventure,0.45
+Service Quality,Adventure,0.47
+Tour Operators,Adventure,0.47
+Transport,Adventure,0.47
+Attractions,Budget,0.46
+Cruises,Budget,0.45
+Destinations,Budget,0.46
+Events,Budget,0.45
+Restaurants,Budget,0.47
+Service Quality,Budget,0.46
+Tour Operators,Budget,0.47
+Transport,Budget,0.45
+Attractions,Business,0.46
+Cruises,Business,0.47
+Destinations,Business,0.46
+Events,Business,0.47
+Restaurants,Business,0.46
+Service Quality,Business,0.46
+Tour Operators,Business,0.47
+Transport,Business,0.46
+Attractions,Family,0.45
+Cruises,Family,0.46
+Destinations,Family,0.46
+Events,Family,0.48
+Restaurants,Family,0.46
+Service Quality,Family,0.45
+Tour Operators,Family,0.46
+Transport,Family,0.46
+Attractions,Luxury,0.45
+Cruises,Luxury,0.47
+Destinations,Luxury,0.46
+Events,Luxury,0.46
+Restaurants,Luxury,0.47
+Service Quality,Luxury,0.47
+Tour Operators,Luxury,0.46
+Transport,Luxury,0.47
+Attractions,Rural,0.47
+Cruises,Rural,0.47
+Destinations,Rural,0.47
+Events,Rural,0.47
+Restaurants,Rural,0.46
+Service Quality,Rural,0.46
+Tour Operators,Rural,0.48
+Transport,Rural,0.46
+Attractions,Urban,0.46
+Cruises,Urban,0.46
+Destinations,Urban,0.47
+Events,Urban,0.47
+Restaurants,Urban,0.47
+Service Quality,Urban,0.48
+Tour Operators,Urban,0.48
+Transport,Urban,0.48
+Attractions,Wellness,0.48
+Cruises,Wellness,0.49
+Destinations,Wellness,0.47
+Events,Wellness,0.46
+Restaurants,Wellness,0.46
+Service Quality,Wellness,0.48
+Tour Operators,Wellness,0.48
+Transport,Wellness,0.44

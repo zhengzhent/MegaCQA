@@ -1,0 +1,135 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Promotion Rate?",
+            "A": "The next dimension clockwise from Promotion Rate is Turnover Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Turnover Rate?",
+            "A": "The next dimension counterclockwise from Promotion Rate is Job Satisfaction."
+        },
+        {
+            "Q": "On the Job Satisfaction, is the point for Sparks-Garrison inside or outside the point for Bishop Inc?",
+            "A": "On the Job Satisfaction, the point for Sparks-Garrison is inside the point for Bishop Inc."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Job Satisfaction} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Bishop Inc?",
+            "A": "The strongest aspect is {Job Satisfaction}, while the weakest aspect is{ Pay Equity Ratio}."
+        },
+        {
+            "Q": "On dimension Turnover Rate, which label scores the highest?",
+            "A": "On Turnover Rate, label {Mayer, Vargas and Huang} scores the highest."
+        },
+        {
+            "Q": "On dimension Offer Acceptance Rate, which label scores the highest?",
+            "A": "On Offer Acceptance Rate, label {Bishop Inc} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Mayer, Vargas and Huang on the Retention Rate in the radar chart?",
+            "A": "The value of Mayer, Vargas and Huang on the Safety dimension is {73}."
+        },
+        {
+            "Q": "What is the value of Bishop Inc on the Promotion Rate in the radar chart?",
+            "A": "The value of Bishop Inc on the Safety dimension is {57}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Mayer, Vargas and Huang across all dimensions in the radar chart?",
+            "A": "The maximum value of Mayer, Vargas and Huang across all dimensions is {77}."
+        },
+        {
+            "Q": "What is the minimum value of label Sparks-Garrison across all dimensions in the radar chart?",
+            "A": "The minimum value of Sparks-Garrison across all dimensions is {86}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Job Satisfaction",
+            "A": "The average value of Job Satisfaction is {75.67}."
+        },
+        {
+            "Q": "What is the average value of Bishop Inc",
+            "A": "The average value of Bishop Inc is {64.0}."
+        },
+        {
+            "Q": "What is the difference in Retention Rate between Bishop Inc and Sparks-Garrison?",
+            "A": "The difference in Retention Rate between Bishop Inc and Sparks-Garrison is {7}."
+        },
+        {
+            "Q": "What is the difference in Job Satisfaction between Bishop Inc and Sparks-Garrison?",
+            "A": "The difference in Job Satisfaction between Bishop Inc and Sparks-Garrison is {22}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Mayer, Vargas and Huang in the radar chart, which dimensions have scores above 81? Please list the dimensions and corresponding scores.",
+            "A": "{Offer Acceptance Rate} is {91}, {Pay Equity Ratio} is {89}"
+        },
+        {
+            "Q": "Which labels have scores above 80 for the Pay Equity Ratio dimension? Please list the labels and corresponding scores.",
+            "A": "{Sparks-Garrison} is {89}"
+        },
+        {
+            "Q": "For Bishop Inc in the radar chart, which dimensions have scores between 48 and 81? Please list the dimensions and corresponding scores.",
+            "A": "{Offer Acceptance Rate} is {65}, {Promotion Rate} is {57}, {Turnover Rate} is {61}, {Retention Rate} is {71}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Mayer, Vargas and Huang, which dimension has a higher score: Retention Rate or Pay Equity Ratio?",
+            "A": "{Pay Equity Ratio} has a higher score than Retention Rate for Mayer, Vargas and Huang."
+        },
+        {
+            "Q": "On Job Satisfaction, which label has a higher score: Sparks-Garrison or the Bishop Inc?",
+            "A": "{Bishop Inc} has a higher score on Job Satisfaction compared to Sparks-Garrison."
+        },
+        {
+            "Q": "On Job Satisfaction, which label has a higher score: Mayer, Vargas and Huang or the Sparks-Garrison?",
+            "A": "{Mayer, Vargas and Huang} has a higher score on Job Satisfaction compared to Sparks-Garrison."
+        },
+        {
+            "Q": "For Mayer, Vargas and Huang, which dimension has a higher score: Offer Acceptance Rate or Turnover Rate or Job Satisfaction?",
+            "A": "{Offer Acceptance Rate} has a higher score for Mayer, Vargas and Huang."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Bishop Inc, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Bishop Inc most needs to improve its {Pay Equity Ratio}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Mayer, Vargas and Huang}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Bishop Inc}."
+        }
+    ],
+    "VA": []
+}

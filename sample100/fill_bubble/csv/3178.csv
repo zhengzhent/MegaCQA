@@ -1,0 +1,11 @@
+Food and Beverage,the Structure of Food and Beverage,9
+size,father,depth,label
+50.16,0,1,Food and Beverage
+17.44,1,2,Beverages
+26.71,1,2,Ingredients
+9.48,2,3,Water
+7.97,2,3,Soft Drinks
+12.74,2,3,Alcoholic Drinks
+10.24,3,3,Dairy and Eggs
+11.16,3,3,Grains and Legumes
+6.05,3,3,Spices and Herbs

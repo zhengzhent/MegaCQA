@@ -1,0 +1,28 @@
+Science and Engineering,Science Distribution by Category (2021),%
+parent,child,value
+,Physics Research,87.01
+Physics Research,Particle Accelerators,51.63
+Particle Accelerators,Magnet Systems,51.63
+Magnet Systems,Superconducting,37.81
+Superconducting,Coil Designs,7.86
+Superconducting,Quench Protection,29.95
+Quench Protection,Detection Circuits,29.95
+Detection Circuits,Hall Sensors,21.34
+Detection Circuits,Voltage Triggers,8.61
+Magnet Systems,Normal Conducting,13.82
+Normal Conducting,Laminated Core,13.82
+Laminated Core,Eddy Current,13.82
+Eddy Current,Silicon Steel,7.98
+Eddy Current,Epoxy Insulation,5.84
+Physics Research,Plasma Physics,35.38
+Plasma Physics,Confinement Methods,35.38
+Confinement Methods,Magnetic Mirror,35.38
+Magnetic Mirror,End Plugging,35.38
+End Plugging,Rotating Plasmas,20.28
+End Plugging,Electrostatic Barriers,15.1
+,Quantum Computing,12.99
+Quantum Computing,Qubit Tech,7.18
+Quantum Computing,Error Correction,5.81
+Error Correction,Surface Codes,5.81
+Surface Codes,Logical Qubits,5.81
+Logical Qubits,Lattice Structures,5.81

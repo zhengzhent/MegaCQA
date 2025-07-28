@@ -1,0 +1,91 @@
+Healthcare and Health,the Comparison of Healthcare and Health,9x10,central_cluster
+Clinics,Access,0.3
+Hospitals,Access,0.31
+Insurance,Access,0.31
+Medical Devices,Access,0.36
+Patient Care,Access,0.34
+Policy,Access,0.38
+Public Health,Access,0.38
+Research,Access,0.37
+Wellness,Access,0.37
+Clinics,Epidemiology,0.3
+Hospitals,Epidemiology,0.33
+Insurance,Epidemiology,0.39
+Medical Devices,Epidemiology,0.42
+Patient Care,Epidemiology,0.46
+Policy,Epidemiology,0.48
+Public Health,Epidemiology,0.5
+Research,Epidemiology,0.45
+Wellness,Epidemiology,0.44
+Clinics,Funding,0.34
+Hospitals,Funding,0.37
+Insurance,Funding,0.44
+Medical Devices,Funding,0.47
+Patient Care,Funding,0.55
+Policy,Funding,0.63
+Public Health,Funding,0.62
+Research,Funding,0.54
+Wellness,Funding,0.48
+Clinics,Outcomes,0.3
+Hospitals,Outcomes,0.38
+Insurance,Outcomes,0.43
+Medical Devices,Outcomes,0.53
+Patient Care,Outcomes,0.65
+Policy,Outcomes,0.79
+Public Health,Outcomes,0.76
+Research,Outcomes,0.64
+Wellness,Outcomes,0.53
+Clinics,Patient Satisfaction,0.33
+Hospitals,Patient Satisfaction,0.39
+Insurance,Patient Satisfaction,0.48
+Medical Devices,Patient Satisfaction,0.56
+Patient Care,Patient Satisfaction,0.7
+Policy,Patient Satisfaction,0.85
+Public Health,Patient Satisfaction,0.81
+Research,Patient Satisfaction,0.68
+Wellness,Patient Satisfaction,0.54
+Clinics,Prevention,0.34
+Hospitals,Prevention,0.36
+Insurance,Prevention,0.47
+Medical Devices,Prevention,0.5
+Patient Care,Prevention,0.63
+Policy,Prevention,0.68
+Public Health,Prevention,0.63
+Research,Prevention,0.56
+Wellness,Prevention,0.56
+Clinics,Quality,0.29
+Hospitals,Quality,0.35
+Insurance,Quality,0.39
+Medical Devices,Quality,0.46
+Patient Care,Quality,0.53
+Policy,Quality,0.57
+Public Health,Quality,0.55
+Research,Quality,0.52
+Wellness,Quality,0.48
+Clinics,Regulations,0.27
+Hospitals,Regulations,0.31
+Insurance,Regulations,0.34
+Medical Devices,Regulations,0.4
+Patient Care,Regulations,0.41
+Policy,Regulations,0.5
+Public Health,Regulations,0.48
+Research,Regulations,0.41
+Wellness,Regulations,0.39
+Clinics,Staffing,0.29
+Hospitals,Staffing,0.27
+Insurance,Staffing,0.27
+Medical Devices,Staffing,0.36
+Patient Care,Staffing,0.38
+Policy,Staffing,0.37
+Public Health,Staffing,0.37
+Research,Staffing,0.37
+Wellness,Staffing,0.34
+Clinics,Technology Adoption,0.23
+Hospitals,Technology Adoption,0.26
+Insurance,Technology Adoption,0.28
+Medical Devices,Technology Adoption,0.3
+Patient Care,Technology Adoption,0.32
+Policy,Technology Adoption,0.28
+Public Health,Technology Adoption,0.29
+Research,Technology Adoption,0.33
+Wellness,Technology Adoption,0.31

@@ -1,0 +1,10 @@
+Image Name: 7513.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\7513.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels for both the x-axis and y-axis. The use of a gradient color scheme adds visual interest without detracting from the data. Each bar is labeled with the exact number of employees, which makes it easy to compare the sizes of different companies. The title is descriptive and provides context for the data presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart effectively uses a clear bar format to represent the number of employees across different companies. The labels for both the companies and the number of employees are legible, and the gradient color scheme is visually appealing without being distracting. However, the use of a gradient may slightly obscure the exact values, but overall, the information is still easily interpretable.

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {55} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a negative u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Checkout time in the scatter plot?",
+            "A": "The maximum observed value in the Checkout time dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Checkout time in the scatter plot?",
+            "A": "The minimum observed value in the Checkout time dimension is {0.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Sales volume in the scatter plot?",
+            "A": "The maximum observed value in the Sales volume dimension is {1000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Sales volume in the scatter plot?",
+            "A": "The minimum observed value in the Sales volume dimension is {100.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Checkout time for all points?",
+            "A": "The average value of Checkout time for all points is {5.00}."
+        },
+        {
+            "Q": "What is the average value of the Sales volume for all points?",
+            "A": "The average value of Sales volume for all points is {644377.84}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Sales volume values corresponding to the top 3 Checkout time values in the scatter plot?",
+            "A": "{100.00, 154009.55, 187677.11}."
+        },
+        {
+            "Q": "What are the Sales volume values corresponding to the bottom 3 Checkout time values in the scatter plot?",
+            "A": "{74646.09, 126386.04, 153870.83}."
+        },
+        {
+            "Q": "What are the Checkout time values corresponding to the top 3 Sales volume values in the scatter plot?",
+            "A": "{5.00, 5.93, 4.26}."
+        },
+        {
+            "Q": "What are the Checkout time values corresponding to the bottom 3 Sales volume values in the scatter plot?",
+            "A": "{10.00, 0.00, 0.19}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 6.30 and 9.11 and Y coordinates between 232970.50 and 484371.62?",
+            "A": "There are {3} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(5.00, 1000000.00) and (10.00, 100.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(8.15, 610374.25) and (8.33, 610242.26)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [7.65, 560247.26, 8.83, 660369.25] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (8.15, 610374.25)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [4.63, 575031.96, 6.75, 892275.85]; Region B: [7.18, 451686.31, 9.30, 768930.20]; Region C: [0.04, 292601.82, 2.16, 609845.71]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

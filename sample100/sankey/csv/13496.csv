@@ -1,0 +1,17 @@
+Tourism and Hospitality,Global Tourism Value Chain,Million Tourists,random,Spending Types,Hotels
+Source,Target,Value
+Accommodation,Boutique Hotel,3441
+Accommodation,Luxury Hotel,1737
+Accommodation,Resort,3859
+Tours,Boutique Hotel,4732
+Tours,Luxury Hotel,524
+Tours,Resort,1679
+Entertainment,Boutique Hotel,715
+Entertainment,Luxury Hotel,4605
+Entertainment,Resort,6753
+Transportation,Boutique Hotel,15791
+Transportation,Luxury Hotel,3493
+Transportation,Resort,8002
+Dining,Boutique Hotel,17863
+Dining,Luxury Hotel,6496
+Dining,Resort,7376

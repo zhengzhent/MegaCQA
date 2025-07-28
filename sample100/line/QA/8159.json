@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {5} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Luminara Play, what is the spatial relationship of the data point in 2014 relative to that in 2003 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Luminara Play, the data point in 2014 is {above} and to the {right} of the data point in 2003."
+        },
+        {
+            "Q": "In 2007, what is the vertical (above/below) relationship of the line representing CrimsonCast relative to StarburstTV?",
+            "A": "In 2007, CrimsonCast is {above} StarburstTV in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of StarburstTV's Streaming Views levels?",
+            "A": "StarburstTV's streaming views levels show a {single valley} trend."
+        },
+        {
+            "Q": "What is the trend of EchoWave Entertainment's Streaming Views levels?",
+            "A": "EchoWave Entertainment's streaming views levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Luminara Play's Streaming Views levels?",
+            "A": "Luminara Play's streaming views levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of CrimsonCast's Streaming Views levels?",
+            "A": "CrimsonCast's streaming views levels show a {single peak} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is StarburstTV's Streaming Views in 2018?",
+            "A": "StarburstTV's streaming views in 2018 is {174655.69} views/month."
+        },
+        {
+            "Q": "What is EchoWave Entertainment's Streaming Views in 2012?",
+            "A": "EchoWave Entertainment's streaming views in 2012 is {257169.06} views/month."
+        },
+        {
+            "Q": "What is Luminara Play's Streaming Views in 2015?",
+            "A": "Luminara Play's streaming views in 2015 is {385231.61} views/month."
+        },
+        {
+            "Q": "What are the streaming views of EchoWave Entertainment, NovaStream Live, and CrimsonCast in 2016?",
+            "A": "EchoWave Entertainment's streaming views is {273540.14} views/month, NovaStream Live's streaming views is {52653.11} views/month, CrimsonCast's streaming views is {166400.76} views/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Streaming Views in the line chart?",
+            "A": "The global minimum streaming views is {44134.74} views/month."
+        },
+        {
+            "Q": "What is the global maximum Streaming Views in the line chart?",
+            "A": "The global maximum streaming views is {463699.25} views/month."
+        },
+        {
+            "Q": "What is the highest Streaming Views level recorded for CrimsonCast?",
+            "A": "CrimsonCast reached approximately {214974.46} views/month in {2010}."
+        },
+        {
+            "Q": "What is the lowest Streaming Views level recorded for CrimsonCast?",
+            "A": "CrimsonCast's lowest recorded level is approximately {147388.58} views/month in {2002}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in StarburstTV's Streaming Views from the starting year to the final year?",
+            "A": "The rate of growth in StarburstTV's streaming views is {2.32}%."
+        },
+        {
+            "Q": "What is the average value of CrimsonCast's Streaming Views?",
+            "A": "The average value of CrimsonCast's streaming views is {184230.71} views/month."
+        },
+        {
+            "Q": "What is the average value of NovaStream Live's Streaming Views?",
+            "A": "The average value of NovaStream Live's streaming views is {120075.80} views/month."
+        },
+        {
+            "Q": "What is the rate of change in CrimsonCast's Streaming Views from the starting year to the final year?",
+            "A": "The rate of growth in CrimsonCast's streaming views is {1.47}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2015, which lines had Streaming Views between 133385 and 258323 views/month? Please list the lines and corresponding values.",
+            "A": "{CrimsonCast} had {178875} views/month."
+        },
+        {
+            "Q": "In the year 2004, which lines had Streaming Views between 171861 and 204981 views/month? Please list the lines and corresponding values.",
+            "A": "{NovaStream Live} had {195475} views/month."
+        },
+        {
+            "Q": "Which years did Luminara Play's Streaming Views exceed 417329 views/month? Please list the years and corresponding values.",
+            "A": "{445305.87} views/month in {2012} year, {436483.13} views/month in {2008} year, {463699.25} views/month in {2011} year."
+        },
+        {
+            "Q": "Which years did EchoWave Entertainment's Streaming Views between 229032 and 262774 views/month? Please list the years and corresponding values.",
+            "A": "{251803.99} views/month in {2011} year, {257169.06} views/month in {2012} year, {232720.12} views/month in {2007} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2015, which line had the highest Streaming Views, CrimsonCast, NovaStream Live, EchoWave Entertainment, or Luminara Play?",
+            "A": "In 2015, {Luminara Play} had the highest streaming views."
+        },
+        {
+            "Q": "In 2017, which line had a higher Streaming Views, {EchoWave Entertainment} or {CrimsonCast}?",
+            "A": "In 2017, {EchoWave Entertainment} had a higher streaming views."
+        },
+        {
+            "Q": "Was Luminara Play's Streaming Views in 2010 higher or lower than in 2016?",
+            "A": "The streaming views in 2010 was {higher} than in 2016."
+        },
+        {
+            "Q": "Between 2009 and 2015, which line had a higher average Streaming Views, Luminara Play or NovaStream Live?",
+            "A": "{Luminara Play} had a higher average streaming views."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {NovaStream Live}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2009 and 2017?",
+            "A": "{StarburstTV} has the fastest average growth rate between 2009 and 2017."
+        },
+        {
+            "Q": "In which year did CrimsonCast first surpass NovaStream Live?",
+            "A": "CrimsonCast first surpassed NovaStream Live in the year {2006}."
+        },
+        {
+            "Q": "Which label had the leading streaming views since 2003?",
+            "A": "Since 2003, {Luminara Play} had the leading streaming views."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the StarburstTV. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {2002, 2010, 2018}."
+        }
+    ]
+}

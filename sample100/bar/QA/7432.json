@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {14} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {TechNova}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {DataPulse}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar SwiftLink relative to the bar SmartHub in terms of horizontal (left/right) direction?",
+            "A": "Bar SwiftLink is to the {right} of the bar SmartHub."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {EcoCore}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {CoreLogic}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar SwiftLink?",
+            "A": "The value of SwiftLink is {175262} number of employees."
+        },
+        {
+            "Q": "What is the value of bar BrightWave?",
+            "A": "The value of BrightWave is {208613} number of employees."
+        },
+        {
+            "Q": "What is the value of bar SmartHub?",
+            "A": "The value of SmartHub is {119778} number of employees."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum number of employees in the bar chart?",
+            "A": "The maximum number of employees is {234787} number of employees."
+        },
+        {
+            "Q": "What is the minimum number of employees in the bar chart?",
+            "A": "The minimum number of employees is {61731} number of employees."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of SkyBound and CoreLogic?",
+            "A": "The total value of SkyBound and CoreLogic is {271345} number of employees."
+        },
+        {
+            "Q": "What is the average value of BrightEdge and SkyBound?",
+            "A": "The average value of BrightEdge and SkyBound is {196218.5} number of employees."
+        },
+        {
+            "Q": "What is the difference between BrightEdge and TechNova?",
+            "A": "The difference between BrightEdge and TechNova is {81504} number of employees."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have number of employees values exceed 222200.50 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{EcoCore} has {234787} number of employees."
+        },
+        {
+            "Q": "Which bars have {number of employees} values below 79839.00 number of employees? Please list the bars and corresponding number of employees values?",
+            "A": "{CoreLogic} has {61731} number of employees, {PeakPoint} has {69614} number of employees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, PeakPoint or DataPulse ",
+            "A": "The value of the {DataPulse} is larger?"
+        },
+        {
+            "Q": "Which is larger, CoreLogic, SmartHub or SwiftLink ",
+            "A": "The value of the {SwiftLink} is larger?"
+        },
+        {
+            "Q": "Which is larger, TechNova, PureSync, BrightEdge or SwiftLink ",
+            "A": "The value of the {BrightEdge} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {CoreLogic} and {AlphaNet}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {EcoCore}, {SkyBound}, and {BrightWave}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by number of employees values in descending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value descending: {EcoCore}, {SkyBound}, {BrightWave}, {BrightEdge}, {DataPulse}, {AlphaNet}, {SwiftLink}, {SmartHub}, {PrimeVue}, {TechNova}, {PureSync}, {MarketZen}, {PeakPoint}, and {CoreLogic}."
+        },
+        {
+            "Q": "Sort the bars by number of employees values in ascending order and list the labels from left to right.",
+            "A": "Sorted by number of employees value ascending: {CoreLogic}, {PeakPoint}, {MarketZen}, {PureSync}, {TechNova}, {PrimeVue}, {SmartHub}, {SwiftLink}, {AlphaNet}, {DataPulse}, {BrightEdge}, {BrightWave}, {SkyBound}, and {EcoCore}."
+        }
+    ]
+}

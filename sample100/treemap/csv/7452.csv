@@ -1,0 +1,17 @@
+Real Estate and Housing Market,Housing Market Distribution by Category (2022),%
+parent,child,value
+,Valuation Models,100.0
+Valuation Models,Hedonic Pricing,91.5
+Hedonic Pricing,Spatial Features,39.5
+Spatial Features,GIS Integration,31.02
+GIS Integration,Heatmap Layers,31.02
+Heatmap Layers,Kernel Density,6.06
+Heatmap Layers,Hexagonal Binning,24.96
+Spatial Features,Geospatial Regression,8.48
+Geospatial Regression,Spatial Lag,8.48
+Hedonic Pricing,Crime Statistics,52.0
+Crime Statistics,Hotspot Analysis,52.0
+Hotspot Analysis,Getis-Ord Gi*,52.0
+Getis-Ord Gi*,Z-Score Clustering,24.55
+Getis-Ord Gi*,Temporal Smoothing,27.45
+Valuation Models,Amenity Scoring,8.5

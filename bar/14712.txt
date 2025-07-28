@@ -1,0 +1,10 @@
+Image Name: 14712.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\14712.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and straightforward, with distinct colors for each farm and the values are directly labeled on the bars, making it easy to compare the transportation flow. The axis labels and title are clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The chart is clear and effectively communicates the data regarding fruit transportation flow from different farms. The use of distinct colors for each bar helps in differentiating the farms easily. The labels are legible, and the values are directly displayed on the bars, making it easy to interpret the data at a glance.

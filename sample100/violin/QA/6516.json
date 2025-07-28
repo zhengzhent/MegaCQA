@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {3} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Northgate}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Fairmont}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin Highvale?",
+            "A": "The first position to the left of the violin Highvale is {Northgate}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Highvale relative to the violin Northgate in terms of horizontal (left/right) direction?",
+            "A": "violin Highvale is to the {right} of the violin Northgate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Highvale}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Highvale}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Northgate?",
+            "A": "The density distribution pattern of the Northgate shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Fairmont in the violin plot?",
+            "A": "The median of Fairmont is {939.00} Number."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Fairmont in the violin plot?",
+            "A": "The upper quartile (Q3) of Fairmont is {1186.50} Number."
+        },
+        {
+            "Q": "What is the upper whisker limit of Northgate in the violin plot?",
+            "A": "The upper whisker limit of Northgate is {1643.00} Number."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Northgate in the violin plot?",
+            "A": "The lowest upper outlier value in Northgate is {120.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number value in the violin plot?",
+            "A": "The global maximum Number value in the violin plot is {1798.00} Number."
+        },
+        {
+            "Q": "What is the global minimum Number value in the violin plot?",
+            "A": "The global minimum Number value in the violin plot is {120.00} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Fairmont and Highvale?",
+            "A": "The Q3 difference between violin Fairmont and Highvale is {116.50} Number."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Northgate and Highvale?",
+            "A": "The total Q1 value of violin Northgate and Fairmont is {1705.50} Number."
+        },
+        {
+            "Q": "What is the average Median value of violin Highvale and Northgate?",
+            "A": "The average Median value of violin Highvale and Northgate is {1031.50} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 932.50 Number? Please list the violins and corresponding values.",
+            "A": "{Highvale} has {1137.00} Number , {Fairmont} has {939.00} Number "
+        },
+        {
+            "Q": "Which violins have median values below 932.50 Number? Please list the violins and corresponding values.",
+            "A": "{Northgate} has {926.00} Number "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 703.50 Number and the upper quartile (Q3) below 1244.75 Number?",
+            "A": "Violin {Northgate} has the Q1 above 703.50 Number and the Q3 below 1244.75 Number."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 1004.04 Number?",
+            "A": "Violin {Highvale} has {1145.16} Number ,{Fairmont} has {1087.70} Number have their highest density peak exceed 1004.04 Number."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 1004.04 Number?",
+            "A": "Violin {Northgate} has {920.38} Number have their highest density peak below 1004.04 Number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Highvale or Northgate ",
+            "A": "The median value of the {Highvale} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Highvale, Fairmont or Northgate ",
+            "A": "The median value of the {Highvale} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Northgate}."
+        }
+    ],
+    "VA": []
+}

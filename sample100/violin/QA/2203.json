@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {7} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Quarryville}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Ironwood}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin Zephyr?",
+            "A": "The first position to the right of the violin Zephyr is {Dunvale}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Rosewood relative to the violin Quarryville in terms of horizontal (left/right) direction?",
+            "A": "violin Rosewood is to the {right} of the violin Quarryville."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Quarryville}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Quarryville}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Dunvale?",
+            "A": "The density distribution pattern of the Dunvale shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Rosewood in the violin plot?",
+            "A": "The median of Rosewood is {884.00} number."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Dunvale in the violin plot?",
+            "A": "The lower quartile (Q1) of Dunvale is {2543.50} number."
+        },
+        {
+            "Q": "What is the upper whisker limit of Brookfield in the violin plot?",
+            "A": "The upper whisker limit of Brookfield is {2383.00} number."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Creston in the violin plot?",
+            "A": "The lowest upper outlier value in Creston is {1207.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum number value in the violin plot?",
+            "A": "The global maximum number value in the violin plot is {3387.00} number."
+        },
+        {
+            "Q": "What is the global minimum number value in the violin plot?",
+            "A": "The global minimum number value in the violin plot is {1.00} number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin Dunvale and Zephyr?",
+            "A": "The Median difference between violin Dunvale and Zephyr is {1700.00} number."
+        },
+        {
+            "Q": "What is the toal Median value of violin Ironwood and Zephyr?",
+            "A": "The total Median value of violin Ironwood and Ironwood is {3094.00} number."
+        },
+        {
+            "Q": "What is the average Q3 value of violin Rosewood and Zephyr?",
+            "A": "The average Q3 value of violin Rosewood and Zephyr is {1240.25} number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 2586.50 number? Please list the violins and corresponding values.",
+            "A": "{Quarryville} has {2713.00} number , {Dunvale} has {2690.00} number "
+        },
+        {
+            "Q": "Which violins have median values below 1949.00 number? Please list the violins and corresponding values.",
+            "A": "{Brookfield} has {1794.00} number , {Rosewood} has {884.00} number , {Zephyr} has {990.00} number "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 2689.83 number?",
+            "A": "Violin {Dunvale} has {2695.89} number have their highest density peak exceed 2689.83 number."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 1966.32 number?",
+            "A": "Violin {Brookfield} has {1837.29} number ,{Rosewood} has {908.86} number ,{Zephyr} has {887.45} number have their highest density peak below 1966.32 number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Ironwood or Rosewood ",
+            "A": "The median value of the {Ironwood} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Quarryville, Brookfield or Rosewood ",
+            "A": "The median value of the {Quarryville} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Brookfield, Creston, Zephyr or Ironwood ",
+            "A": "The median value of the {Creston} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Creston}."
+        }
+    ],
+    "VA": []
+}

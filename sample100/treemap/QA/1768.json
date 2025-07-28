@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Cultural Activities in this treemap?",
+            "A": "There are {2} child rectangles under the category Cultural Activities."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Artwork Sales}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Virtual Reality}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Artwork Sales}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Cultural Activities rectangle in this treemap?",
+            "A": "The value of the Cultural Activities rectangle is {36.32}."
+        },
+        {
+            "Q": "What is the value of the Regional rectangle in this treemap?",
+            "A": "The value of the Regional rectangle is {14.61}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {63.68}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.02}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Community Projects and Virtual Reality?",
+            "A": "The difference between Community Projects and Virtual Reality is {7.89}."
+        },
+        {
+            "Q": "What is the sum of the regions of NFT Gallery and Auction Houses?",
+            "A": "The sum of NFT Gallery and Auction Houses is {11.6}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Cultural Activities category in the treemap, which rectangular labels have a value exceeded 18.22? Please list the labels and values.",
+            "A": "{Public Art} has {18.28}"
+        },
+        {
+            "Q": "Under the Cultural Activities category in the treemap, which rectangular labels have a value below 18.10? Please list the labels and values.",
+            "A": "{Art Exhibitions} has {18.04}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Primary Market, Cultural Activities, or Art Fairs?",
+            "A": "The value of {Art Fairs} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Artwork Sales, Primary Market, or Cultural Activities?",
+            "A": "The value of {Artwork Sales} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {11} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

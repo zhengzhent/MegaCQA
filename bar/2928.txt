@@ -1,0 +1,10 @@
+Image Name: 2928.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\2928.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and straightforward, with distinct colors for each city's bar, making it easy to differentiate between them. The labels for both the x-axis (City) and y-axis (Number) are clearly defined, and the numbers of artworks are directly written on top of each bar, which aids in quick comprehension. The title is descriptive and provides context for the data presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the number of artworks created across different cities. The use of contrasting colors for each bar enhances readability, and the labels on the bars provide precise numerical values. The title is descriptive, and the axis labels are easy to understand, making it straightforward for viewers to interpret the data.

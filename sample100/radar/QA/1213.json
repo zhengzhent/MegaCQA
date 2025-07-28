@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from ROI?",
+            "A": "The next dimension clockwise from ROI is P/E Ratio vs. Industry Average Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from P/E Ratio vs. Industry Average Rate?",
+            "A": "The next dimension counterclockwise from ROI is Market Share Rate."
+        },
+        {
+            "Q": "On the Capacity Utilization Rate, is the point for Holland-Tucker inside or outside the point for Wilson-Olson?",
+            "A": "On the Capacity Utilization Rate, the point for Holland-Tucker is outside the point for Wilson-Olson."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Capacity Utilization Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Holland-Tucker?",
+            "A": "The strongest aspect is {Capacity Utilization Rate}, while the weakest aspect is{ Current Ratio}."
+        },
+        {
+            "Q": "On dimension ROI, which label scores the highest?",
+            "A": "On ROI, label {Wilson-Olson} scores the highest."
+        },
+        {
+            "Q": "On dimension P/E Ratio vs. Industry Average Rate, which label scores the highest?",
+            "A": "On P/E Ratio vs. Industry Average Rate, label {Holland-Tucker} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Holland-Tucker on the P/E Ratio vs. Industry Average Rate in the radar chart?",
+            "A": "The value of Holland-Tucker on the Safety dimension is {27}."
+        },
+        {
+            "Q": "What is the value of Wilson-Olson on the Current Ratio in the radar chart?",
+            "A": "The value of Wilson-Olson on the Safety dimension is {62}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Wilson-Olson across all dimensions in the radar chart?",
+            "A": "The maximum value of Wilson-Olson across all dimensions is {91}."
+        },
+        {
+            "Q": "What is the minimum value of label Wilson-Olson across all dimensions in the radar chart?",
+            "A": "The minimum value of Wilson-Olson across all dimensions is {68}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Customer Retention Rate",
+            "A": "The average value of Customer Retention Rate is {77.0}."
+        },
+        {
+            "Q": "What is the average value of Wilson-Olson",
+            "A": "The average value of Wilson-Olson is {56.29}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores below 32 for the ROI dimension? Please list the labels and corresponding scores.",
+            "A": "{Wilson-Olson} is {31}"
+        },
+        {
+            "Q": "For Wilson-Olson in the radar chart, which dimensions have scores below 39? Please list the dimensions and corresponding scores.",
+            "A": "{Current Ratio} is {26}, {ROI} is {35}, {P/E Ratio vs. Industry Average Rate} is {27}"
+        },
+        {
+            "Q": "Which labels have scores above 65 for the Market Share Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Holland-Tucker} is {66}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Holland-Tucker, which dimension has a higher score: ROI or Market Share Rate?",
+            "A": "{Market Share Rate} has a higher score than ROI for Holland-Tucker."
+        },
+        {
+            "Q": "On Capacity Utilization Rate, which label has a higher score: Wilson-Olson or the Holland-Tucker?",
+            "A": "{Holland-Tucker} has a higher score on Capacity Utilization Rate compared to Wilson-Olson."
+        },
+        {
+            "Q": "For Holland-Tucker, which dimension has a higher score: Capacity Utilization Rate or Current Ratio or Net Profit Margin?",
+            "A": "{Capacity Utilization Rate} has a higher score for Holland-Tucker."
+        },
+        {
+            "Q": "For Wilson-Olson, which dimension has a higher score: P/E Ratio vs. Industry Average Rate or ROI or Customer Retention Rate?",
+            "A": "{Customer Retention Rate} has a higher score for Wilson-Olson."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Wilson-Olson, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Wilson-Olson most needs to improve its {ROI}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Holland-Tucker}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Wilson-Olson}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,98 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Real-Time Sync in this treemap?",
+            "A": "There are {2} child rectangles under the category Real-Time Sync."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Platform Architecture}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {ML-Based Prioritization}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Platform Architecture}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Database Sharding rectangle in this treemap?",
+            "A": "The value of the Database Sharding rectangle is {31.77}."
+        },
+        {
+            "Q": "What is the value of the Screen Readers rectangle in this treemap?",
+            "A": "The value of the Screen Readers rectangle is {31.78}."
+        },
+        {
+            "Q": "What is the value of the Conflict Resolution rectangle in this treemap?",
+            "A": "The value of the Conflict Resolution rectangle is {5.55}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.15}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of WaveNet and Interaction Design?",
+            "A": "The difference between WaveNet and Interaction Design is {3.87}."
+        },
+        {
+            "Q": "What is the sum of the regions of Horizontal Partition and Real-Time Sync?",
+            "A": "The sum of Horizontal Partition and Real-Time Sync is {44.87}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Real-Time Sync category in the treemap, which rectangular labels have a value exceeded 7.05? Please list the labels and values.",
+            "A": "{Delta Encoding} has {7.55}"
+        },
+        {
+            "Q": "Under the Real-Time Sync category in the treemap, which rectangular labels have a value below 6.05? Please list the labels and values.",
+            "A": "{Conflict Resolution} has {5.55}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Data Infrastructure or Accessibility?",
+            "A": "The value of {Data Infrastructure} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Platform Architecture or User Interface?",
+            "A": "The value of {Platform Architecture} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of User Interface, Data Infrastructure, or Storage Systems?",
+            "A": "The value of {Storage Systems} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Platform Architecture, User Interface, or Data Infrastructure?",
+            "A": "The value of {Platform Architecture} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

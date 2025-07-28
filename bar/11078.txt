@@ -1,0 +1,10 @@
+Image Name: 11078.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\11078.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The bar chart is clear and well-organized, with each bar representing a different video sharing platform. The use of a consistent pattern on the bars helps in maintaining visual uniformity. The labels on the x-axis are legible, and the y-axis is clearly labeled with 'thousand views'. The values are directly written on top of each bar, making it easy to read the exact number of views for each platform. The title is descriptive and provides context for the data presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart effectively presents the number of plays across different platforms with clear labels and a straightforward bar format. However, the use of a patterned fill for the bars may reduce clarity, making it slightly harder to distinguish between the bars at a glance. The y-axis is well-labeled, and the data values are displayed on top of the bars, which aids in readability.

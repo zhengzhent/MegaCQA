@@ -1,0 +1,56 @@
+Business and Finance,Investment Decision-Making Routine,$,random,Risk Levels,Market Segments,Investment Strategies,Returns,Investment Types
+Source,Target,Value
+Moderate Risk,Pension Funds,2582
+Moderate Risk,Retail Investors,12334
+Moderate Risk,Hedge Funds,2582
+High Risk,Pension Funds,4617
+High Risk,Retail Investors,10783
+High Risk,Hedge Funds,29666
+Pension Funds,Growth Investing,837
+Pension Funds,Value Investing,1786
+Pension Funds,Day Trading,2651
+Pension Funds,Index Fund Investing,1925
+Retail Investors,Growth Investing,4685
+Retail Investors,Value Investing,4296
+Retail Investors,Day Trading,7031
+Retail Investors,Index Fund Investing,7105
+Hedge Funds,Growth Investing,2630
+Hedge Funds,Value Investing,24358
+Hedge Funds,Day Trading,2630
+Hedge Funds,Index Fund Investing,2630
+Growth Investing,High Return,1207
+Growth Investing,Moderate Return,3749
+Growth Investing,Negative Return,578
+Growth Investing,Low Return,2618
+Value Investing,High Return,8890
+Value Investing,Moderate Return,2012
+Value Investing,Negative Return,3338
+Value Investing,Low Return,16200
+Day Trading,High Return,2667
+Day Trading,Moderate Return,4049
+Day Trading,Negative Return,2097
+Day Trading,Low Return,3499
+Index Fund Investing,High Return,5975
+Index Fund Investing,Moderate Return,2545
+Index Fund Investing,Negative Return,663
+Index Fund Investing,Low Return,2477
+High Return,Commodities,7056
+High Return,Bonds,741
+High Return,Cryptocurrency,1923
+High Return,Real Estate,3186
+High Return,Stocks,5833
+Moderate Return,Commodities,2316
+Moderate Return,Bonds,489
+Moderate Return,Cryptocurrency,3937
+Moderate Return,Real Estate,3394
+Moderate Return,Stocks,2219
+Negative Return,Commodities,249
+Negative Return,Bonds,1417
+Negative Return,Cryptocurrency,2097
+Negative Return,Real Estate,604
+Negative Return,Stocks,2309
+Low Return,Commodities,3892
+Low Return,Bonds,5131
+Low Return,Cryptocurrency,3935
+Low Return,Real Estate,7749
+Low Return,Stocks,4087

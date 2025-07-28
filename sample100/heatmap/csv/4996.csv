@@ -1,0 +1,91 @@
+Human Resources and Employee Management,the Metrics of Human Resources and Employee Management,9x10,central_cluster
+Benefits,Absenteeism,0.13
+Compensation,Absenteeism,0.25
+Compliance,Absenteeism,0.34
+Diversity & Inclusion,Absenteeism,0.37
+Employee Relations,Absenteeism,0.46
+HR Tech,Absenteeism,0.46
+Retention,Absenteeism,0.48
+Training,Absenteeism,0.51
+Workplace Safety,Absenteeism,0.56
+Benefits,Diversity,0.24
+Compensation,Diversity,0.32
+Compliance,Diversity,0.4
+Diversity & Inclusion,Diversity,0.45
+Employee Relations,Diversity,0.48
+HR Tech,Diversity,0.56
+Retention,Diversity,0.59
+Training,Diversity,0.63
+Workplace Safety,Diversity,0.59
+Benefits,Engagement,0.33
+Compensation,Engagement,0.39
+Compliance,Engagement,0.45
+Diversity & Inclusion,Engagement,0.52
+Employee Relations,Engagement,0.59
+HR Tech,Engagement,0.61
+Retention,Engagement,0.66
+Training,Engagement,0.67
+Workplace Safety,Engagement,0.68
+Benefits,Leadership,0.36
+Compensation,Leadership,0.48
+Compliance,Leadership,0.55
+Diversity & Inclusion,Leadership,0.57
+Employee Relations,Leadership,0.65
+HR Tech,Leadership,0.67
+Retention,Leadership,0.73
+Training,Leadership,0.75
+Workplace Safety,Leadership,0.73
+Benefits,Productivity,0.38
+Compensation,Productivity,0.52
+Compliance,Productivity,0.59
+Diversity & Inclusion,Productivity,0.71
+Employee Relations,Productivity,0.69
+HR Tech,Productivity,0.73
+Retention,Productivity,0.78
+Training,Productivity,0.79
+Workplace Safety,Productivity,0.77
+Benefits,Satisfaction,0.51
+Compensation,Satisfaction,0.56
+Compliance,Satisfaction,0.64
+Diversity & Inclusion,Satisfaction,0.69
+Employee Relations,Satisfaction,0.76
+HR Tech,Satisfaction,0.79
+Retention,Satisfaction,0.8
+Training,Satisfaction,0.83
+Workplace Safety,Satisfaction,0.79
+Benefits,Skills Gap,0.52
+Compensation,Skills Gap,0.62
+Compliance,Skills Gap,0.68
+Diversity & Inclusion,Skills Gap,0.74
+Employee Relations,Skills Gap,0.79
+HR Tech,Skills Gap,0.85
+Retention,Skills Gap,0.86
+Training,Skills Gap,0.85
+Workplace Safety,Skills Gap,0.89
+Benefits,Training Hours,0.58
+Compensation,Training Hours,0.66
+Compliance,Training Hours,0.72
+Diversity & Inclusion,Training Hours,0.75
+Employee Relations,Training Hours,0.81
+HR Tech,Training Hours,0.83
+Retention,Training Hours,0.92
+Training,Training Hours,0.94
+Workplace Safety,Training Hours,0.88
+Benefits,Turnover,0.55
+Compensation,Turnover,0.68
+Compliance,Turnover,0.67
+Diversity & Inclusion,Turnover,0.77
+Employee Relations,Turnover,0.81
+HR Tech,Turnover,0.9
+Retention,Turnover,0.92
+Training,Turnover,0.89
+Workplace Safety,Turnover,0.94
+Benefits,Wellbeing,0.61
+Compensation,Wellbeing,0.69
+Compliance,Wellbeing,0.75
+Diversity & Inclusion,Wellbeing,0.82
+Employee Relations,Wellbeing,0.86
+HR Tech,Wellbeing,0.87
+Retention,Wellbeing,0.91
+Training,Wellbeing,0.94
+Workplace Safety,Wellbeing,0.96

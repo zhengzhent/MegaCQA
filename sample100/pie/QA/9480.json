@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {3} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Domestic Tourism?",
+            "A": "The next slice clockwise from slice Domestic Tourism is {International Tourism}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Domestic Tourism?",
+            "A": "The next slice counterclockwise from slice Domestic Tourism is {Beach Resorts}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which of has the largest proportion in this pie chart?",
+            "A": "The of with the largest proportion is {Domestic Tourism}."
+        },
+        {
+            "Q": "Which of has the smallest proportion in this pie chart?",
+            "A": "The of with the smallest proportion is {International Tourism}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Beach Resorts slice in this pie chart?",
+            "A": "The value of the Beach Resorts slice is {28}%."
+        },
+        {
+            "Q": "What is the value of the International Tourism slice in this pie chart?",
+            "A": "The value of the International Tourism slice is {26}%."
+        },
+        {
+            "Q": "What is the value of the Domestic Tourism slice in this pie chart?",
+            "A": "The value of the Domestic Tourism slice is {46}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {46}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {26}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 37.0%? Please list the category names and corresponding percentages.",
+            "A": "{Domestic Tourism} accounts for {46}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 27.0%? Please list the category names and corresponding percentages.",
+            "A": "{International Tourism} accounts for {26}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Domestic Tourism or Beach Resorts?",
+            "A": "The value of {Domestic Tourism} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Domestic Tourism, Beach Resorts, or International Tourism?",
+            "A": "The value of {Domestic Tourism} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Size of the shipment of 4202.89 relative to the bubble with a Size of the shipment of 1757.30 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Size of the shipment of 4202.89 is {below} and to the {left} of the bubble with a Size of the shipment of 1757.30."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Distance traveled and Fuel efficiency?",
+            "A": "The highest concentration of bubbles corresponds to approximately {820.36} miles and {31.79} mpg."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Size of the shipment of the largest bubble?",
+            "A": "The Size of the shipment of the largest bubble is {10000.00} units."
+        },
+        {
+            "Q": "What is the Size of the shipment of the smallest bubble?",
+            "A": "The Size of the shipment of the smallest bubble is {100.00} units."
+        },
+        {
+            "Q": "What are the Distance traveled and Fuel efficiency values of the largest bubble?",
+            "A": "The Distance traveled of the largest bubble is {605.93} miles, and {Fuel efficiency} is {48.80} mpg."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Size of the shipment in the bubble chart?",
+            "A": "The global maximum Size of the shipment is {10000.00} units."
+        },
+        {
+            "Q": "What is the global minimum Size of the shipment in the bubble chart?",
+            "A": "The global minimum Size of the shipment is {100.00} units."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Distance traveled in the bubble chart?",
+            "A": "The maximum observed value in the Distance traveled dimension is {873.19} miles."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Distance traveled in the bubble chart?",
+            "A": "The minimum observed value in the Distance traveled dimension is {68.44} miles."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Fuel efficiency in the bubble chart?",
+            "A": "The maximum observed value in the Fuel efficiency dimension is {49.43} mpg."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Fuel efficiency in the bubble chart?",
+            "A": "The minimum observed value in the Fuel efficiency dimension is {10.15} mpg."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Size of the shipment for all bubbles?",
+            "A": "The average value of the Size of the shipment for all bubbles is {3394.55} units."
+        },
+        {
+            "Q": "What is the average value of the Distance traveled for all bubbles?",
+            "A": "The average value of Distance traveled for all bubbles is {531.84} miles."
+        },
+        {
+            "Q": "What is the average value of the Fuel efficiency for all bubbles?",
+            "A": "The average value of Fuel efficiency for all bubbles is {33.73} mpg."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Size of the shipment values in the bubble chart?",
+            "A": "{10000.00, 6238.91, 4833.41} units."
+        },
+        {
+            "Q": "What are the bottom 3 Size of the shipment values in the bubble chart?",
+            "A": "{100.00, 549.90, 1056.67} units."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Size of the shipment value, the bubble with a Distance traveled of 825.8 miles and a Fuel efficiency of 31.1 mpg, or the bubble with a Distance traveled of 507.3 miles and a Fuel efficiency of 31.2 mpg?",
+            "A": "The bubble with a Distance traveled of {507.3} and a Fuel efficiency of {31.2} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Size of the shipment value of the bubble with the largest Fuel efficiency value?",
+            "A": "The Size of the shipment value of the bubble with the largest Fuel efficiency is {4462.81}."
+        },
+        {
+            "Q": "What is the Size of the shipment value of the bubble with the largest Distance traveled value?",
+            "A": "The Size of the shipment value of the bubble with the largest Distance traveled is {4462.81}."
+        },
+        {
+            "Q": "Classify bubbles with a Fuel efficiency-coordinate greater than 19 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Size of the shipment for the high value group and the low value group?",
+            "A": "The difference between the total Size of the shipment of the high-value and low-value groups is {35723.38}."
+        }
+    ],
+    "VA": []
+}

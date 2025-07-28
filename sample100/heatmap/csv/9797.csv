@@ -1,0 +1,101 @@
+Transportation and Logistics,the Performance of Transportation and Logistics,10x10,diagonal
+Air,Capacity,0.92
+Intermodal,Capacity,0.72
+Last Mile,Capacity,0.57
+Maritime,Capacity,0.35
+Pipeline,Capacity,0.19
+Planning,Capacity,0.19
+Rail,Capacity,0.36
+Road,Capacity,0.56
+Tracking,Capacity,0.73
+Warehousing,Capacity,0.92
+Air,Compliance,0.73
+Intermodal,Compliance,0.87
+Last Mile,Compliance,0.71
+Maritime,Compliance,0.55
+Pipeline,Compliance,0.36
+Planning,Compliance,0.36
+Rail,Compliance,0.55
+Road,Compliance,0.71
+Tracking,Compliance,0.87
+Warehousing,Compliance,0.72
+Air,Cost,0.56
+Intermodal,Cost,0.71
+Last Mile,Cost,0.87
+Maritime,Cost,0.72
+Pipeline,Cost,0.57
+Planning,Cost,0.57
+Rail,Cost,0.71
+Road,Cost,0.87
+Tracking,Cost,0.71
+Warehousing,Cost,0.57
+Air,Efficiency,0.35
+Intermodal,Efficiency,0.54
+Last Mile,Efficiency,0.71
+Maritime,Efficiency,0.87
+Pipeline,Efficiency,0.73
+Planning,Efficiency,0.73
+Rail,Efficiency,0.87
+Road,Efficiency,0.71
+Tracking,Efficiency,0.54
+Warehousing,Efficiency,0.35
+Air,Labor,0.19
+Intermodal,Labor,0.36
+Last Mile,Labor,0.57
+Maritime,Labor,0.73
+Pipeline,Labor,0.92
+Planning,Labor,0.92
+Rail,Labor,0.73
+Road,Labor,0.56
+Tracking,Labor,0.35
+Warehousing,Labor,0.19
+Air,Reliability,0.19
+Intermodal,Reliability,0.35
+Last Mile,Reliability,0.57
+Maritime,Reliability,0.73
+Pipeline,Reliability,0.93
+Planning,Reliability,0.92
+Rail,Reliability,0.72
+Road,Reliability,0.56
+Tracking,Reliability,0.35
+Warehousing,Reliability,0.19
+Air,Safety,0.35
+Intermodal,Safety,0.55
+Last Mile,Safety,0.71
+Maritime,Safety,0.87
+Pipeline,Safety,0.73
+Planning,Safety,0.73
+Rail,Safety,0.87
+Road,Safety,0.71
+Tracking,Safety,0.54
+Warehousing,Safety,0.36
+Air,Speed,0.57
+Intermodal,Speed,0.72
+Last Mile,Speed,0.87
+Maritime,Speed,0.71
+Pipeline,Speed,0.57
+Planning,Speed,0.57
+Rail,Speed,0.71
+Road,Speed,0.87
+Tracking,Speed,0.71
+Warehousing,Speed,0.57
+Air,Sustainability,0.72
+Intermodal,Sustainability,0.87
+Last Mile,Sustainability,0.71
+Maritime,Sustainability,0.54
+Pipeline,Sustainability,0.36
+Planning,Sustainability,0.36
+Rail,Sustainability,0.55
+Road,Sustainability,0.71
+Tracking,Sustainability,0.87
+Warehousing,Sustainability,0.72
+Air,Technology,0.93
+Intermodal,Technology,0.73
+Last Mile,Technology,0.56
+Maritime,Technology,0.36
+Pipeline,Technology,0.19
+Planning,Technology,0.19
+Rail,Technology,0.35
+Road,Technology,0.57
+Tracking,Technology,0.73
+Warehousing,Technology,0.92

@@ -1,0 +1,95 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {7} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Displayed in Exhibition stage positioned above or below the Eligible for Acquisition stage?",
+            "A": "The Displayed in Exhibition stage is positioned {above} the Eligible for Acquisition stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {linear} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Artworks Created?",
+            "A": "The value of stage Artworks Created is {100%}."
+        },
+        {
+            "Q": "What is the value of stage Approved for Exhibition?",
+            "A": "The value of stage Approved for Exhibition is {72%}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Artworks Created, with a value of {100%}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Institutionally Acquired, with a value of {24%}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the percentage reduction from stage Approved for Exhibition to stage Displayed in Exhibition?",
+            "A": "The percentage reduction from stage Approved for Exhibition to stage Displayed in Exhibition is {12%}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 79%? Please list the stage labels and corresponding values.",
+            "A": "The {Artworks Created} stage has {100%}, the {Submitted for Review} stage has {86%}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 53%? Please list the stage labels and corresponding values.",
+            "A": "The {Shortlisted for Acquisition} stage has {47%}, the {Eligible for Acquisition} stage has {35%}, the {Institutionally Acquired} stage has {24%}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 53% and 66%? Please list the stage labels and corresponding values.",
+            "A": "The {Displayed in Exhibition} stage has {60%}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Eligible for Acquisition to Institutionally Acquired, or from stage Artworks Created to Submitted for Review?",
+            "A": "The reduction from stage {Artworks Created} to {Submitted for Review} is greater."
+        },
+        {
+            "Q": "Which reduction is greater: from stage Displayed in Exhibition to Shortlisted for Acquisition, or from stage Artworks Created to Submitted for Review?",
+            "A": "The reduction from stage {Artworks Created} to {Submitted for Review} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Artworks Created to Submitted for Review, from stage Displayed in Exhibition to Shortlisted for Acquisition, or from stage Approved for Exhibition to Displayed in Exhibition?",
+            "A": "The reduction from stage {Artworks Created} to stage {Submitted for Review} is the greatest."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Shortlisted for Acquisition to Eligible for Acquisition, from stage Submitted for Review to Approved for Exhibition, or from stage Eligible for Acquisition to Institutionally Acquired?",
+            "A": "The reduction from stage {Submitted for Review} to stage {Approved for Exhibition} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Artworks Created} and {Submitted for Review} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Eligible for Acquisition} and {Institutionally Acquired} stages."
+        }
+    ],
+    "VA": []
+}

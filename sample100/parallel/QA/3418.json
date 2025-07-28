@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {4} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Yield per acre (tons) dimension, what is the spatial relationship of increase  Oats relative to expect  Corn in terms of vertical (above/below) direction?",
+            "A": "{increase  Oats} is {above} {expect  Corn} on the Yield per acre (tons) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Water usage (liters/kg)?",
+            "A": "The first position to the left of Water usage (liters/kg) is {Soil health index (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Labor efficiency (acres/worker)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Pesticide use (kg/ha)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Water usage (liters/kg)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Pesticide use (kg/ha) and dimension Harvest frequency (per year)",
+            "A": "There is {Clustering} between Pesticide use (kg/ha) and Harvest frequency (per year)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of expect  Corn on the Labor efficiency (acres/worker) dimension in the parallel-coordinates chart?",
+            "A": "The value of expect  Corn on the Labor efficiency (acres/worker) dimension is {298.01}"
+        },
+        {
+            "Q": "What is the value of not  Wheat on the Harvest frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of not  Wheat on the Harvest frequency (per year) dimension is {3.63}"
+        },
+        {
+            "Q": "What is the value of expect  Corn on the Harvest frequency (per year) dimension in the parallel-coordinates chart?",
+            "A": "The value of expect  Corn on the Harvest frequency (per year) dimension is {2.05}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label yourself  Rice across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of yourself  Rice across all dimensions is {613.09}"
+        },
+        {
+            "Q": "What is the minimum value of label yourself  Rice across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of yourself  Rice across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Yield per acre (tons)?",
+            "A": "The average value of Yield per acre (tons) is {20.76}"
+        },
+        {
+            "Q": "What is the difference in coding Water usage (liters/kg) between label yourself  Rice and label expect  Corn",
+            "A": "The difference in coding Water usage (liters/kg) between yourself  Rice and expect  Corn is {295.52}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Pesticide use (kg/ha) dimension in the parallel coordinates?",
+            "A": "{[20.0, 14.06, 6.29]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Water usage (liters/kg) dimension in the parallel coordinates?",
+            "A": "{[1.0, 296.52, 777.34]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: increase  Oats or not  Wheat?",
+            "A": "{increase  Oats} has a higher score on Equipment utilization (%)."
+        },
+        {
+            "Q": "On Equipment utilization (%), which label has a higher score: increase  Oats or expect  Corn?",
+            "A": "{increase  Oats} has a higher score on Equipment utilization (%)."
+        },
+        {
+            "Q": "On Yield per acre (tons), which label has a higher score: increase  Oats or not  Wheat?",
+            "A": "{increase  Oats} has a higher score on Yield per acre (tons)."
+        },
+        {
+            "Q": "On Soil health index (1-10), which label has a higher score: increase  Oats or expect  Corn?",
+            "A": "{increase  Oats} has a higher score on Soil health index (1-10)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Water usage (liters/kg)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Yield per acre (tons) being greater than 30.15 and Equipment utilization (%) being less than 51.22?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

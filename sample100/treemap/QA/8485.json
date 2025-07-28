@@ -1,0 +1,98 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Error Correction in this treemap?",
+            "A": "There are {1} child rectangles under the category Error Correction."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Quantum Computing}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Oxidation Rate}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Quantum Computing}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Qubit Tech rectangle in this treemap?",
+            "A": "The value of the Qubit Tech rectangle is {48.45}."
+        },
+        {
+            "Q": "What is the value of the Trapped Ions rectangle in this treemap?",
+            "A": "The value of the Trapped Ions rectangle is {37.57}."
+        },
+        {
+            "Q": "What is the value of the Error Correction rectangle in this treemap?",
+            "A": "The value of the Error Correction rectangle is {11.85}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {60.3}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.15}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Particle Accelerators and Oxidation Rate?",
+            "A": "The difference between Particle Accelerators and Oxidation Rate is {4.63}."
+        },
+        {
+            "Q": "What is the sum of the regions of Error Correction and Josephson Junctions?",
+            "A": "The sum of Error Correction and Josephson Junctions is {22.73}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Error Correction category in the treemap, which rectangular labels have a value exceeded 11.84? Please list the labels and values.",
+            "A": "{Surface Codes} has {11.85}"
+        },
+        {
+            "Q": "Under the Error Correction category in the treemap, which rectangular labels have a value below 11.86? Please list the labels and values.",
+            "A": "{Surface Codes} has {11.85}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Quantum Computing or Qubit Tech?",
+            "A": "The value of {Quantum Computing} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Quantum Computing, Qubit Tech, or Physics Research?",
+            "A": "The value of {Quantum Computing} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Physics Research or Laser Control?",
+            "A": "The value of {Physics Research} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Qubit Tech, Physics Research, or Trapped Ions?",
+            "A": "The value of {Trapped Ions} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

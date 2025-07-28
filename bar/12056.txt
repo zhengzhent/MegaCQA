@@ -1,0 +1,10 @@
+Image Name: 12056.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\12056.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is clear and straightforward, with distinct bars for each movie's box office earnings. The use of stars as a fill pattern adds visual interest without detracting from the data. The labels are legible, and the values are clearly marked on top of each bar, making it easy to compare the earnings at a glance.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 2/5
+Score Reason: The visualization uses a unique star pattern to represent box office earnings, which may distract from the actual values. The values are displayed but are not immediately clear due to the visual representation. Additionally, the y-axis scale is not clearly marked, making it difficult to interpret the exact earnings without careful examination.

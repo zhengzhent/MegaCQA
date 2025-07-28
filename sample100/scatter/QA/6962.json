@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {62} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Follower count in the scatter plot?",
+            "A": "The maximum observed value in the Follower count dimension is {10000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Follower count in the scatter plot?",
+            "A": "The minimum observed value in the Follower count dimension is {100.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Engagement rate in the scatter plot?",
+            "A": "The maximum observed value in the Engagement rate dimension is {20.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Engagement rate in the scatter plot?",
+            "A": "The minimum observed value in the Engagement rate dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Follower count for all points?",
+            "A": "The average value of Follower count for all points is {5000050.00}."
+        },
+        {
+            "Q": "What is the average value of the Engagement rate for all points?",
+            "A": "The average value of Engagement rate for all points is {6.73}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Engagement rate values corresponding to the top 3 Follower count values in the scatter plot?",
+            "A": "{7.62, 5.02, 7.28}."
+        },
+        {
+            "Q": "What are the Engagement rate values corresponding to the bottom 3 Follower count values in the scatter plot?",
+            "A": "{16.69, 1.25, 7.61}."
+        },
+        {
+            "Q": "What are the Follower count values corresponding to the top 3 Engagement rate values in the scatter plot?",
+            "A": "{491898.36, 2950890.16, 100.00}."
+        },
+        {
+            "Q": "What are the Follower count values corresponding to the bottom 3 Engagement rate values in the scatter plot?",
+            "A": "{3606621.31, 1311562.30, 5245949.18}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 4344921.94 and 6752983.39 and Y coordinates between 8.24 and 11.96?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(100.00, 16.69) and (10000000.00, 7.62)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(8524604.92, 9.45) and (8688537.70, 9.35)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [8024609.92, 8.35, 9188532.70, 10.45] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (8524604.92, 9.45)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [3552995.21, 10.22, 5920798.02, 15.68]; Region B: [7422669.90, 6.67, 9790472.72, 12.13]; Region C: [3463150.74, 0.80, 5830953.55, 6.26]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

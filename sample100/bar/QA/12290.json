@@ -1,0 +1,120 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {4} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Lost Signal}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Frozen Time}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Lost Signal relative to the bar Hidden Truth in terms of horizontal (left/right) direction?",
+            "A": "Bar Lost Signal is to the {left} of the bar Hidden Truth."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Frozen Time}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Lost Signal}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Frozen Time?",
+            "A": "The value of Frozen Time is {5513} million USD."
+        },
+        {
+            "Q": "What is the value of bar Hidden Truth?",
+            "A": "The value of Hidden Truth is {4371} million USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum million USD in the bar chart?",
+            "A": "The maximum million USD is {5513} million USD."
+        },
+        {
+            "Q": "What is the minimum million USD in the bar chart?",
+            "A": "The minimum million USD is {579} million USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Last Ember and Frozen Time?",
+            "A": "The total value of Last Ember and Frozen Time is {7981} million USD."
+        },
+        {
+            "Q": "What is the average value of Lost Signal and Frozen Time?",
+            "A": "The average value of Lost Signal and Frozen Time is {3046.0} million USD."
+        },
+        {
+            "Q": "What is the difference between Hidden Truth and Last Ember?",
+            "A": "The difference between Hidden Truth and Last Ember is {1903} million USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have million USD values exceed 4942.00 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Frozen Time} has {5513} million USD."
+        },
+        {
+            "Q": "Which bars have {million USD} values below 1523.50 million USD? Please list the bars and corresponding million USD values?",
+            "A": "{Lost Signal} has {579} million USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Frozen Time or Last Ember ",
+            "A": "The value of the {Frozen Time} is larger?"
+        },
+        {
+            "Q": "Which is larger, Last Ember, Frozen Time or Lost Signal ",
+            "A": "The value of the {Frozen Time} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {2} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Last Ember} and {Hidden Truth}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Frozen Time}, {Hidden Truth}, and {Last Ember}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by million USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by million USD value descending: {Frozen Time}, {Hidden Truth}, {Last Ember}, and {Lost Signal}."
+        },
+        {
+            "Q": "Sort the bars by million USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by million USD value ascending: {Lost Signal}, {Last Ember}, {Hidden Truth}, and {Frozen Time}."
+        }
+    ]
+}

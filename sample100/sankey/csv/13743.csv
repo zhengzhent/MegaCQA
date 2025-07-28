@@ -1,0 +1,42 @@
+Tourism and Hospitality,Global Tourism Value Chain,Million Tourists,random,Source Continents,Travel Purposes,Hotels
+Source,Target,Value
+Europe,Education,511
+Europe,Medical,2801
+Europe,Religious Pilgrimage,2304
+Europe,Business,2008
+North America,Education,4306
+North America,Medical,8813
+North America,Religious Pilgrimage,3956
+North America,Business,7007
+Africa,Education,3937
+Africa,Medical,6061
+Africa,Religious Pilgrimage,5955
+Africa,Business,1321
+Asia,Education,1871
+Asia,Medical,1727
+Asia,Religious Pilgrimage,4718
+Asia,Business,5803
+Oceania,Education,1290
+Oceania,Medical,4833
+Oceania,Religious Pilgrimage,5405
+Oceania,Business,3725
+Education,Boutique Hotel,3413
+Education,Luxury Hotel,2030
+Education,Resort,2865
+Education,Hostel,2654
+Education,Budget Hotel,953
+Medical,Boutique Hotel,6772
+Medical,Luxury Hotel,4817
+Medical,Resort,7728
+Medical,Hostel,2206
+Medical,Budget Hotel,2712
+Religious Pilgrimage,Boutique Hotel,3173
+Religious Pilgrimage,Luxury Hotel,7499
+Religious Pilgrimage,Resort,6673
+Religious Pilgrimage,Hostel,1083
+Religious Pilgrimage,Budget Hotel,3910
+Business,Boutique Hotel,5992
+Business,Luxury Hotel,728
+Business,Resort,5479
+Business,Hostel,3243
+Business,Budget Hotel,4422

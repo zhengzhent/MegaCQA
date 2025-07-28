@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {6} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Proposal Sent stage positioned above or below the Client Onboarded stage?",
+            "A": "The Proposal Sent stage is positioned {above} the Client Onboarded stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {linear} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Proposal Sent?",
+            "A": "The value of stage Proposal Sent is {708}."
+        },
+        {
+            "Q": "What is the value of stage Needs Analysis?",
+            "A": "The value of stage Needs Analysis is {893}."
+        },
+        {
+            "Q": "What is the value of stage Initial Contact?",
+            "A": "The value of stage Initial Contact is {1048}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Initial Contact, with a value of {1048}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Client Onboarded, with a value of {219}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Needs Analysis to stage Proposal Sent?",
+            "A": "Decreased by {185} Clients from stage Needs Analysis to stage Proposal Sent."
+        },
+        {
+            "Q": "How much did it decrease from stage Proposal Sent to stage Negotiation?",
+            "A": "Decreased by {176} Clients from stage Proposal Sent to stage Negotiation."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 620? Please list the stage labels and corresponding values.",
+            "A": "The {Initial Contact} stage has {1048}, the {Needs Analysis} stage has {893}, the {Proposal Sent} stage has {708}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 620? Please list the stage labels and corresponding values.",
+            "A": "The {Negotiation} stage has {532}, the {Contract Signed} stage has {371}, the {Client Onboarded} stage has {219}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 451 and 620? Please list the stage labels and corresponding values.",
+            "A": "The {Negotiation} stage has {532}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Contract Signed to Client Onboarded, or from stage Initial Contact to Needs Analysis?",
+            "A": "The reduction from stage {Initial Contact} to {Needs Analysis} is greater."
+        },
+        {
+            "Q": "Which reduction is greater: from stage Contract Signed to Client Onboarded, or from stage Needs Analysis to Proposal Sent?",
+            "A": "The reduction from stage {Needs Analysis} to {Proposal Sent} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Proposal Sent to Negotiation, from stage Negotiation to Contract Signed, or from stage Initial Contact to Needs Analysis?",
+            "A": "The reduction from stage {Proposal Sent} to stage {Negotiation} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Needs Analysis} and {Proposal Sent} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Contract Signed} and {Client Onboarded} stages."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Health Insurance Coverage Rate?",
+            "A": "The next dimension clockwise from Health Insurance Coverage Rate is Vaccination Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Vaccination Rate?",
+            "A": "The next dimension counterclockwise from Health Insurance Coverage Rate is Disease Incidence Rate."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Primary Healthcare Institutions Ratio} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Northern Mariana Islands?",
+            "A": "The strongest aspect is {Primary Healthcare Institutions Ratio}, while the weakest aspect is{ Vaccination Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Northern Mariana Islands on the Vaccination Rate in the radar chart?",
+            "A": "The value of Northern Mariana Islands on the Safety dimension is {29}."
+        },
+        {
+            "Q": "What is the value of Northern Mariana Islands on the Disease Incidence Rate in the radar chart?",
+            "A": "The value of Northern Mariana Islands on the Safety dimension is {57}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Northern Mariana Islands across all dimensions in the radar chart?",
+            "A": "The maximum value of Northern Mariana Islands across all dimensions is {81}."
+        },
+        {
+            "Q": "What is the minimum value of label Northern Mariana Islands across all dimensions in the radar chart?",
+            "A": "The minimum value of Northern Mariana Islands across all dimensions is {81}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Health Insurance Coverage Rate",
+            "A": "The average value of Health Insurance Coverage Rate is {79.0}."
+        },
+        {
+            "Q": "What is the average value of Northern Mariana Islands",
+            "A": "The average value of Northern Mariana Islands is {55.6}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Northern Mariana Islands in the radar chart, which dimensions have scores below 39? Please list the dimensions and corresponding scores.",
+            "A": "{Vaccination Rate} is {29}, {Electronic Medical Record Adoption Rate} is {32}"
+        },
+        {
+            "Q": "For Northern Mariana Islands in the radar chart, which dimensions have scores above 71? Please list the dimensions and corresponding scores.",
+            "A": "{Primary Healthcare Institutions Ratio} is {81}, {Health Insurance Coverage Rate} is {79}"
+        },
+        {
+            "Q": "Which labels have scores below 29 for the Vaccination Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Northern Mariana Islands} is {29}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Northern Mariana Islands, which dimension has a higher score: Electronic Medical Record Adoption Rate or Health Insurance Coverage Rate?",
+            "A": "{Health Insurance Coverage Rate} has a higher score than Electronic Medical Record Adoption Rate for Northern Mariana Islands."
+        },
+        {
+            "Q": "For Northern Mariana Islands, which dimension has a higher score: Electronic Medical Record Adoption Rate or Health Insurance Coverage Rate?",
+            "A": "{Health Insurance Coverage Rate} has a higher score than Electronic Medical Record Adoption Rate for Northern Mariana Islands."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Northern Mariana Islands, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Northern Mariana Islands most needs to improve its {Vaccination Rate}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {3} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {13} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Recruitment positioned outside, inside or on the same side as Health & Safety?",
+            "A": "Recruitment is positioned {on the same side} Health & Safety."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Employee Lifecycle}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Ergonomics segment in this sunburst chart?",
+            "A": "The value of the Ergonomics segment is {5.02}."
+        },
+        {
+            "Q": "What is the value of the Feedback segment in this sunburst chart?",
+            "A": "The value of the Feedback segment is {13.49}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {55.65}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {20.43}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {13.49}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.01}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Employee Lifecycle exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Employee Lifecycle are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has the largest value: Employee Lifecycle, Recruitment, Employee Development, or Performance Management?",
+            "A": "The value of {Employee Lifecycle} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Employee Lifecycle, Recruitment, or Employee Development?",
+            "A": "The value of {Employee Lifecycle} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Employee Lifecycle or Recruitment?",
+            "A": "The value of {Employee Lifecycle} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Recruitment, Employee Development, or Workplace Wellbeing?",
+            "A": "The value of {Workplace Wellbeing} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Employee Development to Performance Management to Feedback}."
+        }
+    ],
+    "VA": []
+}

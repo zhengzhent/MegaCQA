@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Sentiment score (-1 to 1) dimension, what is the spatial relationship of Chirper relative to ClipVibe in terms of vertical (above/below) direction?",
+            "A": "{Chirper} is {below} {ClipVibe} on the Sentiment score (-1 to 1) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Sentiment score (-1 to 1)?",
+            "A": "The first position to the left of Sentiment score (-1 to 1) is {Click-through rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Virality coefficient (shares/view)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Click-through rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Follower growth rate (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Click-through rate (%) and dimension Sentiment score (-1 to 1)",
+            "A": "There is {Weak Correlation} between Click-through rate (%) and Sentiment score (-1 to 1)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of ClipVibe on the Follower growth rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of ClipVibe on the Follower growth rate (%) dimension is {-5.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label ClipVibe across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of ClipVibe across all dimensions is {0.59}"
+        },
+        {
+            "Q": "What is the minimum value of label SnapFrame across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of SnapFrame across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Follower growth rate (%)?",
+            "A": "The average value of Follower growth rate (%) is {20.09}"
+        },
+        {
+            "Q": "What is the difference in coding Virality coefficient (shares/view) between label ClipVibe and label SnapFrame",
+            "A": "The difference in coding Virality coefficient (shares/view) between ClipVibe and SnapFrame is {4.9}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Sentiment score (-1 to 1) dimension in the parallel coordinates?",
+            "A": "{[1.0, 0.9, 0.59]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Click-through rate (%) dimension in the parallel coordinates?",
+            "A": "{[0.1, 0.22, 6.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Click-through rate (%), which label has a higher score: Chirper or ClipVibe?",
+            "A": "{Chirper} has a higher score on Click-through rate (%)."
+        },
+        {
+            "Q": "On Click-through rate (%), which label has a higher score: Chirper or SnapFrame?",
+            "A": "{SnapFrame} has a higher score on Click-through rate (%)."
+        },
+        {
+            "Q": "On Click-through rate (%), which label has a higher score: FaceLink or ClipVibe?",
+            "A": "{FaceLink} has a higher score on Click-through rate (%)."
+        },
+        {
+            "Q": "On Sentiment score (-1 to 1), which label has a higher score: SnapFrame or Chirper?",
+            "A": "{SnapFrame} has a higher score on Sentiment score (-1 to 1)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Follower growth rate (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Virality coefficient (shares/view) being greater than 3.27 and Sentiment score (-1 to 1) being less than -0.05?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

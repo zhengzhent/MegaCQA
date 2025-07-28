@@ -1,0 +1,9 @@
+﻿Retail and E-commerce,Sales Performance of Different Company
+Pattern,Weak Correlation,Clustering,Strong Correlation,Strong Correlation
+labels,Conversion rate (%),Customer retention rate (%),Gross margin (%),Cart abandonment rate (%),Inventory accuracy (%)
+Gordon-Hahn,0.77,17.11,60.0,65.59,92.55
+"Gray, Pennington and Holland",9.46,50.0,46.96,57.04,88.4
+Dodson-Holmes,0.5,25.9,40.75,40.0,80.0
+Bush and Sons,10.0,33.82,14.85,90.0,93.07
+Henson-Jacobs,0.58,5.0,12.2,84.76,100.0
+"Richardson, Oconnell and Wiley",4.64,17.8,10.0,79.96,92.69

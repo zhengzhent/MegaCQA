@@ -1,0 +1,10 @@
+Image Name: 8728.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\8728.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels and a consistent use of hatching for the bars, which helps in distinguishing the data visually. The values are directly labeled on the bars, making it easy to read the exact figures. The title and axis labels are clear and informative, aiding in the immediate understanding of the data presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 3/5
+Score Reason: The visualization presents a horizontal bar chart with clear labels for each type of house and their corresponding sales values. However, the use of hatching patterns instead of solid colors makes it difficult to quickly distinguish between the bars, especially for those with similar values. Additionally, the values are placed at the end of the bars, which can be hard to read at a glance. Overall, while the information is present, the readability is compromised by the design choices.

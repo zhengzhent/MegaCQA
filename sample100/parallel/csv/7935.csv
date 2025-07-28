@@ -1,0 +1,6 @@
+﻿Healthcare and Health,Patient Care Metrics In Different Hostpital
+Pattern,No Correlation,Strong Correlation,Weak Correlation
+labels,Wait time (minutes),Patient satisfaction (1-10),Medication error rate (per 1000),Preventive care rate (%)
+Hart-Arnold  Medical Center,140.25,3.0,0.0,90.0
+Huber LLC  Medical Center,5.0,10.0,20.0,10.0
+Carroll PLC  Hospital,240.0,3.35,0.94,36.39

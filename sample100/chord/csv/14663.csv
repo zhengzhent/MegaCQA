@@ -1,0 +1,12 @@
+Transportation and Logistics, Passenger Station Transfer Flow, Thousand Passengers, normal
+Source,Target,Value
+Grand Terminal,Valley Terminal,15
+Valley Terminal,Grand Terminal,27
+South Gate,Grand Terminal,45
+Grand Terminal,South Gate,69
+North Hub,East Junction,83
+East Junction,North Hub,91
+East Junction,Valley Terminal,90
+Valley Terminal,East Junction,68
+North Hub,Grand Terminal,43
+Grand Terminal,North Hub,28

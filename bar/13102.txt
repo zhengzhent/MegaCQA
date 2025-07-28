@@ -1,0 +1,10 @@
+Image Name: 13102.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\13102.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels and distinct colors for each bar, making it easy to differentiate between attractions. The values are directly written on top of each bar, which aids in quick comprehension. The title and axis labels are clear and informative.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively communicates the number of annual visitors to various attractions. The use of distinct colors for each bar helps differentiate the attractions, and the labels are easy to read. The values on top of the bars provide immediate quantitative context, enhancing overall comprehension.

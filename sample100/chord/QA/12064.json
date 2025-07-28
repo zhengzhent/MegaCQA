@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {chord} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many chords are in this chord chart?",
+            "A": "There are {5} chords."
+        },
+        {
+            "Q": "How many outer arcs are in this chord chart?",
+            "A": "There are {5} outer arcs."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the chord chart, what is the next arc in the clockwise direction from arc Eddiehaven Panthers?",
+            "A": "The next arc clockwise from arc Eddiehaven Panthers is arc {New Chiefs}."
+        },
+        {
+            "Q": "In the chord chart, what is the next arc in the counterclockwise direction from arc Poolechester Dynasty?",
+            "A": "The next arc counterclockwise from arc Poolechester Dynasty is arc {South Stars}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which arc has the largest output flow in this chord chart?",
+            "A": "{New Chiefs} has the largest output flow."
+        },
+        {
+            "Q": "Which arc has the largest input flow in this chord chart?",
+            "A": "{Eddiehaven Panthers} has the largest input flow."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from Eddiehaven Panthers to Poolechester Dynasty in the chord chart?",
+            "A": "The flow value is {338}."
+        },
+        {
+            "Q": "What is the flow value from Poolechester Dynasty to South Stars in the chord chart?",
+            "A": "The flow value is {292}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value between Cherylberg Sharks and Poolechester Dynasty in the chord chart?",
+            "A": "The maximum flow value between Cherylberg Sharks and Poolechester Dynasty is {201}."
+        },
+        {
+            "Q": "What is the minimum flow value between South Stars and Poolechester Dynasty in the chord chart?",
+            "A": "The minimum flow value between South Stars and Poolechester Dynasty is {256}."
+        },
+        {
+            "Q": "What is the maximum flow value in the chord chart?",
+            "A": "The maximum flow value is {529}."
+        },
+        {
+            "Q": "What is the minimum flow value in the chord chart?",
+            "A": "The minimum flow value is {168}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from Cherylberg Sharks?",
+            "A": "The total flow output from Cherylberg Sharks is {620}."
+        },
+        {
+            "Q": "What is the total flow input by Eddiehaven Panthers?",
+            "A": "The total flow input by Eddiehaven Panthers is {905}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow greater than 434? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {528} from {Eddiehaven Panthers} to {New Chiefs}, a flow of {529} from {New Chiefs} to {Eddiehaven Panthers}, a flow of {452} from {Cherylberg Sharks} to {South Stars}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow less than 274? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {256} from {South Stars} to {Poolechester Dynasty}, a flow of {201} from {Poolechester Dynasty} to {Cherylberg Sharks}, a flow of {168} from {Cherylberg Sharks} to {Poolechester Dynasty}."
+        },
+        {
+            "Q": "Which pairs of nodes in the chord chart have a flow between 274 and 396? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {376} from {Poolechester Dynasty} to {Eddiehaven Panthers}, a flow of {338} from {Eddiehaven Panthers} to {Poolechester Dynasty}, a flow of {292} from {Poolechester Dynasty} to {South Stars}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which flow is larger: from Cherylberg Sharks to Poolechester Dynasty or from Poolechester Dynasty to Eddiehaven Panthers?",
+            "A": "The flow from {Poolechester Dynasty} to {Eddiehaven Panthers} is larger."
+        },
+        {
+            "Q": "Which flow is the largest: from South Stars to Poolechester Dynasty, from South Stars to Cherylberg Sharks, or from Eddiehaven Panthers to New Chiefs?",
+            "A": "The flow from {Eddiehaven Panthers} to {New Chiefs} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which category has the highest proportion of outgoing flow relative to its total flow?",
+            "A": "The category with the highest proportion of outgoing flow relative to its total flow is {Poolechester Dynasty}."
+        },
+        {
+            "Q": "Which pair has the strongest chord connection in this chord chart?",
+            "A": "The strongest chord connection is between {Eddiehaven Panthers} and {New Chiefs}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To minimize the crossings between chords, please reorder the outer arcs and list the reorder arc order in clockwise direction.",
+            "A": "The reordered arc order in clockwise direction is: {Arc Cherylberg Sharks, Arc South Stars, Arc Poolechester Dynasty, Arc Eddiehaven Panthers, Arc New Chiefs}."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {64} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {8} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {horizontal gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Performance and Engagement in the heatmap?",
+            "A": "The heat value is {0.28}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Workplace Safety and Engagement in the heatmap?",
+            "A": "The heat value is {0.22}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.79}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.18}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Turnover on the y-axis?",
+            "A": "The maximum heat value for Turnover on the y-axis is {0.79}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Productivity on the y-axis?",
+            "A": "The maximum heat value for Productivity on the y-axis is {0.75}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Wellbeing on the y-axis?",
+            "A": "The average heat value for Wellbeing on the y-axis is {0.49}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Performance and Culture or the cell corresponding to HR Tech and Satisfaction?",
+            "A": "The cell corresponding to {HR Tech} and {Satisfaction} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to HR Tech and Engagement or the cell corresponding to Diversity & Inclusion and Turnover?",
+            "A": "The cell corresponding to {Diversity & Inclusion} and {Turnover} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.40 to 0.56?",
+            "A": "The cells are: {(Employee Relations, Productivity)}."
+        }
+    ],
+    "VA": []
+}

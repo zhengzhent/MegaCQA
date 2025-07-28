@@ -1,0 +1,26 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1005 756 1085 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1085.6 601.4 1165.6 601.4" fill="none" stroke="#000000"></polyline>
+<polyline points="966.4 910.6 1046.4 910.6" fill="none" stroke="#000000"></polyline>
+<polyline points="953.8 1065.1 1033.8 1065.1" fill="none" stroke="#000000"></polyline>
+<polyline points="1368.4 292.3 1448.4 292.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1194.7 446.9 1274.7 446.9" fill="none" stroke="#000000"></polyline>
+<polyline points="944.6 1219.7 1024.6 1219.7" fill="none" stroke="#000000"></polyline>
+<polygon points="687.7 679.7 1040.3 679.7 969.8 832.3 758.2 832.3" fill="#DF4C5B" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="597.1 525.1 1130.9 525.1 1040.3 677.7 687.7 677.7" fill="#F47D85" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="758.2 834.3 969.8 834.3 963 986.9 765 986.9" fill="#989E6A" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="765 988.9 963 988.9 944.6 1141.4 783.4 1141.4" fill="#6B8E23" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1258.5 368.6 469.5 368.6" fill="#F0E6E4" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="469.5 370.6 1258.5 370.6 1130.9 523.1 597.1 523.1" fill="#F7D8DF" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="783.4 1143.4 944.6 1143.4 944.6 1296 783.4 1296" fill="#5D6E4A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1090.0098360655738" y="756" fill="#000000">Negotiation: 105</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1170.5868852459016" y="601.4285714285713" fill="#000000">Property Viewed: 159</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1051.4" y="910.5714285714284" fill="#000000">Contract Signed: 63</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1038.8098360655738" y="1065.142857142857" fill="#000000">Sale Closed: 59</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1453.4459016393444" y="292.2857142857143" fill="#000000">Property Listed: 366</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1279.7016393442623" y="446.85714285714283" fill="#000000">Initial Inquiries: 235</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1029.5770491803278" y="1219.7142857142858" fill="#000000">Post-sale Survey: 48</text>
+<path d="M-368.9023 -5l737.8047 0l0 58l-737.8047 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Real Estate Sales Process (Properties)</text>
+</svg>

@@ -1,0 +1,10 @@
+Image Name: 5629.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\5629.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels for both the x-axis and y-axis. The use of a gradient color scheme adds visual interest without detracting from the data. The values are directly labeled on top of each bar, making it easy to read the exact sales figures. The title is descriptive and provides context for the data presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and well-structured, with a straightforward bar chart format that effectively communicates the sales figures for different food categories. The use of contrasting colors helps differentiate the bars, and the labels are legible. The numerical values on top of each bar provide immediate insight into the sales figures, enhancing readability.

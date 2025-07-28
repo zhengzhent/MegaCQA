@@ -1,0 +1,144 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {fill bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this fill bubble chart?",
+            "A": "There are {10} bubbles."
+        },
+        {
+            "Q": "How many bubbles are in layer 2 of this fill bubble chart?",
+            "A": "There are {3} bubbles in layer 2."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Bubble Oncology positioned deeper, shallower or on the same depth as Bubble Neurology?",
+            "A": "Bubble Oncology is positioned {on the same depth as} Bubble Neurology."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the maximum depth in this fill bubble chart?",
+            "A": "The maximum depth is {3}."
+        },
+        {
+            "Q": "Which bubble contains bubble Administration in the fill bubble chart?",
+            "A": "Bubble Administration is contained by bubble {Hospital Management}."
+        },
+        {
+            "Q": "Which bubbles are contained within bubble Pharmaceuticals in the fill bubble chart?",
+            "A": "Bubble Pharmaceuticals contains bubbles {Pharmacy Practice, Pharmacology}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the size value of bubble Medical Specialties?",
+            "A": "The size value of bubble Medical Specialties is {29.54}."
+        },
+        {
+            "Q": "What is the size value of bubble Pharmacy Practice?",
+            "A": "The size value of bubble Pharmacy Practice is {13.37}."
+        },
+        {
+            "Q": "What is the size value of bubble Pharmacology?",
+            "A": "The size value of bubble Pharmacology is {9.78}."
+        },
+        {
+            "Q": "What is the size value of bubble Administration?",
+            "A": "The size value of bubble Administration is {9.22}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum size value in the fill bubble chart?",
+            "A": "The global maximum size value is {64.33}."
+        },
+        {
+            "Q": "What is the global minimum size value in the fill bubble chart?",
+            "A": "The global minimum size value is {9.22}."
+        },
+        {
+            "Q": "What is the maximum value under category Hospital Management?",
+            "A": "The maximum value under category Hospital Management is {9.22}."
+        },
+        {
+            "Q": "What is the maximum value under category Pharmaceuticals?",
+            "A": "The maximum value under category Pharmaceuticals is {13.37}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of layer 3 of bubbles?",
+            "A": "The total value of layer 3 of bubbles is {66.67}."
+        },
+        {
+            "Q": "What is the total value of layer 2 of bubbles?",
+            "A": "The total value of layer 2 of bubbles is {92.12}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 size values in the fill bubble chart?",
+            "A": "{64.33, 32.31, 30.27}."
+        },
+        {
+            "Q": "What are the bottom 3 size values in the fill bubble chart?",
+            "A": "{9.22, 9.78, 10.21}."
+        },
+        {
+            "Q": "Which bubbles have size values exceed 29.28? Please list the bubbles and corresponding values.",
+            "A": "Healthcare and Medicine has {64.33}, and Hospital Management has {30.27}, and Pharmaceuticals has {32.31}, and Medical Specialties has {29.54}."
+        },
+        {
+            "Q": "Which bubbles have size values between 15.93 and 56.71? Please list the bubbles and corresponding values.",
+            "A": "Hospital Management has {30.27}, and Pharmaceuticals has {32.31}, and Medical Specialties has {29.54}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the size value of Administration or Neurology in the fill bubble chart?",
+            "A": "The size value of {Neurology} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Dermatology or Pharmacy Practice in the fill bubble chart?",
+            "A": "The size value of {Dermatology} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Hospital Management or Neurology in the fill bubble chart?",
+            "A": "The size value of {Hospital Management} is larger."
+        },
+        {
+            "Q": "Which is larger, the size value of Medical Specialties or Dermatology in the fill bubble chart?",
+            "A": "The size value of {Medical Specialties} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 3 has the largest bubble area?",
+            "A": "The subcategory with the largest bubble area in the level 3 is {Dermatology}."
+        },
+        {
+            "Q": "In the fill bubble chart, which subcategory in the level 3 has the smallest bubble area?",
+            "A": "The subcategory with the smallest bubble area in the level 3 is {Administration}."
+        },
+        {
+            "Q": "How many bubbles have values above the average size across all categories?",
+            "A": "There are {4} bubbles with values above the average size."
+        },
+        {
+            "Q": "How many bubbles have values below the average oil storage across all categories?",
+            "A": "There are {6} bubbles with values below the average size."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual clutter caused by overlapping labels in the bubble chart, sample the labels and list the top 2 labels recommended for removal.",
+            "A": "The top 2 labels recommended for removal to reduce label overlap are: {Oncology}, {Administration}."
+        }
+    ]
+}

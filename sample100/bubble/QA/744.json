@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {11} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Total number of employees of 285.76 relative to the bubble with a Total number of employees of 3307.28 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Total number of employees of 285.76 is {above} and to the {right} of the bubble with a Total number of employees of 3307.28."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Company revenue and Profit margin?",
+            "A": "The highest concentration of bubbles corresponds to approximately {263016658.57} $ and {17.07} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Total number of employees of the largest bubble?",
+            "A": "The Total number of employees of the largest bubble is {10000.00} count."
+        },
+        {
+            "Q": "What is the Total number of employees of the smallest bubble?",
+            "A": "The Total number of employees of the smallest bubble is {10.00} count."
+        },
+        {
+            "Q": "What are the Company revenue and Profit margin values of the largest bubble?",
+            "A": "The Company revenue of the largest bubble is {152214778.72} $, and {Profit margin} is {2.01} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Total number of employees in the bubble chart?",
+            "A": "The global maximum Total number of employees is {10000.00} count."
+        },
+        {
+            "Q": "What is the global minimum Total number of employees in the bubble chart?",
+            "A": "The global minimum Total number of employees is {10.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Company revenue in the bubble chart?",
+            "A": "The maximum observed value in the Company revenue dimension is {987052074.24} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Company revenue in the bubble chart?",
+            "A": "The minimum observed value in the Company revenue dimension is {111958882.03} $."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Profit margin in the bubble chart?",
+            "A": "The maximum observed value in the Profit margin dimension is {55.88} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Profit margin in the bubble chart?",
+            "A": "The minimum observed value in the Profit margin dimension is {2.01} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Total number of employees for all bubbles?",
+            "A": "The average value of the Total number of employees for all bubbles is {2106.00} count."
+        },
+        {
+            "Q": "What is the average value of the Company revenue for all bubbles?",
+            "A": "The average value of Company revenue for all bubbles is {436610725.36} $."
+        },
+        {
+            "Q": "What is the average value of the Profit margin for all bubbles?",
+            "A": "The average value of Profit margin for all bubbles is {29.74} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Total number of employees values in the bubble chart?",
+            "A": "{10000.00, 3307.28, 3143.71} count."
+        },
+        {
+            "Q": "What are the bottom 3 Total number of employees values in the bubble chart?",
+            "A": "{10.00, 73.15, 285.76} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Total number of employees value, the bubble with a Company revenue of 343922627.2 $ and a Profit margin of 55.9 %, or the bubble with a Company revenue of 544524100.2 $ and a Profit margin of 37.2 %?",
+            "A": "The bubble with a Company revenue of {544524100.2} and a Profit margin of {37.2} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Total number of employees value of the bubble with the largest Profit margin value?",
+            "A": "The Total number of employees value of the bubble with the largest Profit margin is {10.00}."
+        },
+        {
+            "Q": "What is the Total number of employees value of the bubble with the largest Company revenue value?",
+            "A": "The Total number of employees value of the bubble with the largest Company revenue is {285.76}."
+        },
+        {
+            "Q": "Classify bubbles with a Profit margin-coordinate greater than 37 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Total number of employees for the high value group and the low value group?",
+            "A": "The difference between the total Total number of employees of the high-value and low-value groups is {13322.97}."
+        }
+    ],
+    "VA": []
+}

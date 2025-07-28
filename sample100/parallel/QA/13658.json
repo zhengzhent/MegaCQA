@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {3} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Loading/unloading time (hours) dimension, what is the spatial relationship of get Cargo ship relative to happy train in terms of vertical (above/below) direction?",
+            "A": "{get Cargo ship} is {above} {happy train} on the Loading/unloading time (hours) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Total transit time (hours)?",
+            "A": "The first position to the left of Total transit time (hours) is {Moving time (hours)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Loading/unloading time (hours)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Route deviation rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Total transit time (hours)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Idling time (minutes) and dimension Loading/unloading time (hours)",
+            "A": "There is {Strong Correlation} between Idling time (minutes) and Loading/unloading time (hours)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of get Cargo ship on the Idling time (minutes) dimension in the parallel-coordinates chart?",
+            "A": "The value of get Cargo ship on the Idling time (minutes) dimension is {60.0}"
+        },
+        {
+            "Q": "What is the value of people ship on the Total transit time (hours) dimension in the parallel-coordinates chart?",
+            "A": "The value of people ship on the Total transit time (hours) dimension is {2.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label people ship across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of people ship across all dimensions is {60.0}"
+        },
+        {
+            "Q": "What is the minimum value of label get Cargo ship across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of get Cargo ship across all dimensions is {5.03}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Moving time (hours)?",
+            "A": "The average value of Moving time (hours) is {24.41}"
+        },
+        {
+            "Q": "What is the difference in coding Moving time (hours) between label happy train and label people ship",
+            "A": "The difference in coding Moving time (hours) between happy train and people ship is {47.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Max speed (km/h) dimension in the parallel coordinates?",
+            "A": "{[120.0, 95.66, 60.0]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Max speed (km/h) dimension in the parallel coordinates?",
+            "A": "{[60.0, 95.66, 120.0]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Route deviation rate (%), which label has a higher score: get Cargo ship or people ship?",
+            "A": "{people ship} has a higher score on Route deviation rate (%)."
+        },
+        {
+            "Q": "On Loading/unloading time (hours), which label has a higher score: get Cargo ship or people ship?",
+            "A": "{get Cargo ship} has a higher score on Loading/unloading time (hours)."
+        },
+        {
+            "Q": "On Moving time (hours), which label has a higher score: people ship or happy train?",
+            "A": "{people ship} has a higher score on Moving time (hours)."
+        },
+        {
+            "Q": "On Idling time (minutes), which label has a higher score: happy train or get Cargo ship?",
+            "A": "{get Cargo ship} has a higher score on Idling time (minutes)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Total transit time (hours)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Max speed (km/h) being greater than 80.38 and Max speed (km/h) being less than 79.64?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

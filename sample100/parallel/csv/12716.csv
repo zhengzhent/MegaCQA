@@ -1,0 +1,6 @@
+﻿Retail and E-commerce,Sales Performance of Different Company
+Pattern,No Correlation,Weak Correlation,No Correlation
+labels,Average order value (USD),Conversion rate (%),Inventory accuracy (%),Cart abandonment rate (%)
+"Perry, Cross and Owens",453.53,10.0,80.0,90.0
+Tucker Inc,10.0,9.73,100.0,64.34
+Guzman-Knight,500.0,0.5,81.68,40.0

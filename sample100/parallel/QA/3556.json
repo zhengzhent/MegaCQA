@@ -1,0 +1,115 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Soil health index (1-10) dimension, what is the spatial relationship of voice  Wheat relative to pull  Potato in terms of vertical (above/below) direction?",
+            "A": "{voice  Wheat} is {above} {pull  Potato} on the Soil health index (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Yield per acre (tons)?",
+            "A": "The second position to the left of Yield per acre (tons) is {Labor efficiency (acres/worker)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Soil health index (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Labor efficiency (acres/worker)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Labor efficiency (acres/worker)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Yield per acre (tons) and dimension Soil health index (1-10)",
+            "A": "There is {Strong Correlation} between Yield per acre (tons) and Soil health index (1-10)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of voice  Wheat on the Soil health index (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of voice  Wheat on the Soil health index (1-10) dimension is {8.22}"
+        },
+        {
+            "Q": "What is the value of pull  Potato on the Soil health index (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of pull  Potato on the Soil health index (1-10) dimension is {2.8}"
+        },
+        {
+            "Q": "What is the value of pull  Potato on the Yield per acre (tons) dimension in the parallel-coordinates chart?",
+            "A": "The value of pull  Potato on the Yield per acre (tons) dimension is {5.33}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label method  Corn across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of method  Corn across all dimensions is {370.23}"
+        },
+        {
+            "Q": "What is the minimum value of label voice  Wheat across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of voice  Wheat across all dimensions is {8.22}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Soil health index (1-10)?",
+            "A": "The average value of Soil health index (1-10) is {4.9}"
+        },
+        {
+            "Q": "What is the difference in coding Labor efficiency (acres/worker) between label ok  Tomato and label pull  Potato",
+            "A": "The difference in coding Labor efficiency (acres/worker) between ok  Tomato and pull  Potato is {929.09}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Yield per acre (tons) dimension in the parallel coordinates?",
+            "A": "{[50.0, 41.7, 40.79]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Soil health index (1-10) dimension in the parallel coordinates?",
+            "A": "{[1.0, 1.7, 2.8]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Labor efficiency (acres/worker), which label has a higher score: ok  Tomato or voice  Wheat?",
+            "A": "{voice  Wheat} has a higher score on Labor efficiency (acres/worker)."
+        },
+        {
+            "Q": "On Water usage (liters/kg), which label has a higher score: most  Barley or ok  Tomato?",
+            "A": "{most  Barley} has a higher score on Water usage (liters/kg)."
+        },
+        {
+            "Q": "On Labor efficiency (acres/worker), which label has a higher score: purpose  Oats or voice  Wheat?",
+            "A": "{purpose  Oats} has a higher score on Labor efficiency (acres/worker)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Labor efficiency (acres/worker)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Yield per acre (tons) being greater than 20.89 and Water usage (liters/kg) being less than 515.43?",
+            "A": "There are {3} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

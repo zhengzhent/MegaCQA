@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {1} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Price-to-Income Ratio?",
+            "A": "The next dimension clockwise from Price-to-Income Ratio is Rate of Newly Built Homes"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Rate of Newly Built Homes?",
+            "A": "The next dimension counterclockwise from Price-to-Income Ratio is Price Volatility Index."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Mortgage Payment as Rate of Income} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of view?",
+            "A": "The strongest aspect is {Mortgage Payment as Rate of Income}, while the weakest aspect is{ Capital Appreciation Rate}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of view on the Yearly Price Growth Rate in the radar chart?",
+            "A": "The value of view on the Safety dimension is {53}."
+        },
+        {
+            "Q": "What is the value of view on the Rate of Newly Built Homes in the radar chart?",
+            "A": "The value of view on the Safety dimension is {54}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label view across all dimensions in the radar chart?",
+            "A": "The maximum value of view across all dimensions is {25}."
+        },
+        {
+            "Q": "What is the minimum value of label view across all dimensions in the radar chart?",
+            "A": "The minimum value of view across all dimensions is {25}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Capital Appreciation Rate",
+            "A": "The average value of Capital Appreciation Rate is {25.0}."
+        },
+        {
+            "Q": "What is the average value of view",
+            "A": "The average value of view is {50.43}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For view in the radar chart, which dimensions have scores between 36 and 69? Please list the dimensions and corresponding scores.",
+            "A": "{Price Volatility Index} is {52}, {Price-to-Income Ratio} is {62}, {Rate of Newly Built Homes} is {54}, {Yearly Price Growth Rate} is {53}"
+        },
+        {
+            "Q": "For view in the radar chart, which dimensions have scores above 69? Please list the dimensions and corresponding scores.",
+            "A": "{Mortgage Payment as Rate of Income} is {80}"
+        },
+        {
+            "Q": "Which labels have scores above 80 for the Mortgage Payment as Rate of Income dimension? Please list the labels and corresponding scores.",
+            "A": "{view} is {80}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For view, which dimension has a higher score: Mortgage Payment as Rate of Income or Price Volatility Index?",
+            "A": "{Mortgage Payment as Rate of Income} has a higher score than Price Volatility Index for view."
+        },
+        {
+            "Q": "For view, which dimension has a higher score: Price-to-Income Ratio or Rate of Newly Built Homes?",
+            "A": "{Price-to-Income Ratio} has a higher score than Rate of Newly Built Homes for view."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For view, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "view most needs to improve its {Capital Appreciation Rate}."
+        }
+    ],
+    "VA": []
+}

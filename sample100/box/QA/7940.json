@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {6} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Creston}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Lakeview}."
+        },
+        {
+            "Q": "Which box is the second position to the right of the box Mapleton?",
+            "A": "The second position to the right of the box Mapleton is {Lakeview}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Glenhaven relative to the box Fairmont in terms of horizontal (left/right) direction?",
+            "A": "Box Glenhaven is to the {right} of the box Fairmont."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Creston}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Creston}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Mapleton}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Fairmont in the box plot?",
+            "A": "The median of Fairmont is {41820.0} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Glenhaven in the box plot?",
+            "A": "The lower quartile (Q1) of Glenhaven is {40130.5} USD."
+        },
+        {
+            "Q": "What is the lower whisker limit of Mapleton in the box plot?",
+            "A": "The lower whisker limit of Mapleton is {21766} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Glenhaven in the box plot?",
+            "A": "The largest upper outlier value in Glenhaven is {122343}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the box plot?",
+            "A": "The global maximum USD value in the box plot is {132719.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the box plot?",
+            "A": "The global minimum USD value in the box plot is {18195.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Lakeview and Fairmont?",
+            "A": "The Median difference between box Lakeview and Fairmont is {4799.5} USD."
+        },
+        {
+            "Q": "What is the toal Median value of box Fairmont and Rosewood?",
+            "A": "The total Median value of box Fairmont and Rosewood is {98697.0} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of box Lakeview and Fairmont?",
+            "A": "The average Q1 value of box Lakeview and Fairmont is {32790.25} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 86901.3 USD?",
+            "A": "Box{Creston},{Rosewood},{Fairmont},{Mapleton},{Glenhaven},{Lakeview} have the outliers exceed 86901.3 USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 53891.50 USD? Please list the boxes and corresponding values.",
+            "A": "{Creston} has {62117.5} USD , {Rosewood} has {56877.0} USD "
+        },
+        {
+            "Q": "Which boxes have median values below 44565.50 USD? Please list the boxes and corresponding values.",
+            "A": "{Fairmont} has {41820.0} USD , {Mapleton} has {42511.5} USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Mapleton or Fairmont ",
+            "A": "The median value of the {Mapleton} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Glenhaven, Creston or Rosewood ",
+            "A": "The median value of the {Creston} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Rosewood, Creston, Lakeview or Fairmont ",
+            "A": "The median value of the {Creston} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Lakeview}."
+        }
+    ],
+    "VA": []
+}

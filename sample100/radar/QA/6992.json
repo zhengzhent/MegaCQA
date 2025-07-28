@@ -1,0 +1,139 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Customer Satisfaction Rate?",
+            "A": "The next dimension clockwise from Customer Satisfaction Rate is Table Turnover Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Customer Satisfaction Rate?",
+            "A": "The next dimension counterclockwise from Customer Satisfaction Rate is Net Promoter Score (NPS)."
+        },
+        {
+            "Q": "On the Customer Satisfaction Rate, is the point for Ballard-Holland Restaurant inside or outside the point for Peters-Jacobs Restaurant?",
+            "A": "On the Customer Satisfaction Rate, the point for Ballard-Holland Restaurant is inside the point for Peters-Jacobs Restaurant."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Table Turnover Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Ballard-Holland Restaurant?",
+            "A": "The strongest aspect is {Table Turnover Rate}, while the weakest aspect is{ Customer Satisfaction Rate}."
+        },
+        {
+            "Q": "On dimension Gross Profit Margin, which label scores the highest?",
+            "A": "On Gross Profit Margin, label {Coleman-Carr Restaurant} scores the highest."
+        },
+        {
+            "Q": "On dimension Net Promoter Score (NPS), which label scores the highest?",
+            "A": "On Net Promoter Score (NPS), label {Ballard-Holland Restaurant} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Coleman-Carr Restaurant on the Customer Satisfaction Rate in the radar chart?",
+            "A": "The value of Coleman-Carr Restaurant on the Safety dimension is {84}."
+        },
+        {
+            "Q": "What is the value of Ballard-Holland Restaurant on the Customer Satisfaction Rate in the radar chart?",
+            "A": "The value of Ballard-Holland Restaurant on the Safety dimension is {35}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Peters-Jacobs Restaurant across all dimensions in the radar chart?",
+            "A": "The maximum value of Peters-Jacobs Restaurant across all dimensions is {29}."
+        },
+        {
+            "Q": "What is the minimum value of label Ballard-Holland Restaurant across all dimensions in the radar chart?",
+            "A": "The minimum value of Ballard-Holland Restaurant across all dimensions is {35}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Net Promoter Score (NPS)",
+            "A": "The average value of Net Promoter Score (NPS) is {72.0}."
+        },
+        {
+            "Q": "What is the average value of Peters-Jacobs Restaurant",
+            "A": "The average value of Peters-Jacobs Restaurant is {58.0}."
+        },
+        {
+            "Q": "What is the difference in Customer Satisfaction Rate between Coleman-Carr Restaurant and Ballard-Holland Restaurant?",
+            "A": "The difference in Customer Satisfaction Rate between Coleman-Carr Restaurant and Ballard-Holland Restaurant is {49}."
+        },
+        {
+            "Q": "What is the difference in Net Promoter Score (NPS) between Peters-Jacobs Restaurant and Coleman-Carr Restaurant?",
+            "A": "The difference in Net Promoter Score (NPS) between Peters-Jacobs Restaurant and Coleman-Carr Restaurant is {18}."
+        },
+        {
+            "Q": "What is the difference in Customer Satisfaction Rate between Peters-Jacobs Restaurant and Coleman-Carr Restaurant?",
+            "A": "The difference in Customer Satisfaction Rate between Peters-Jacobs Restaurant and Coleman-Carr Restaurant is {17}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Ballard-Holland Restaurant in the radar chart, which dimensions have scores below 42? Please list the dimensions and corresponding scores.",
+            "A": "{Gross Profit Margin} is {36}, {Customer Satisfaction Rate} is {35}"
+        },
+        {
+            "Q": "Which labels have scores below 45 for the Customer Satisfaction Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Ballard-Holland Restaurant} is {35}"
+        },
+        {
+            "Q": "For Peters-Jacobs Restaurant in the radar chart, which dimensions have scores between 42 and 62? Please list the dimensions and corresponding scores.",
+            "A": "{Table Turnover Rate} is {60}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Coleman-Carr Restaurant, which dimension has a higher score: Net Promoter Score (NPS) or Gross Profit Margin?",
+            "A": "{Net Promoter Score (NPS)} has a higher score than Gross Profit Margin for Coleman-Carr Restaurant."
+        },
+        {
+            "Q": "On Table Turnover Rate, which label has a higher score: Peters-Jacobs Restaurant or the Ballard-Holland Restaurant?",
+            "A": "{Ballard-Holland Restaurant} has a higher score on Table Turnover Rate compared to Peters-Jacobs Restaurant."
+        },
+        {
+            "Q": "For Coleman-Carr Restaurant, which dimension has a higher score: Table Turnover Rate or Gross Profit Margin or Customer Satisfaction Rate?",
+            "A": "{Customer Satisfaction Rate} has a higher score for Coleman-Carr Restaurant."
+        },
+        {
+            "Q": "For Coleman-Carr Restaurant, which dimension has a higher score: Net Promoter Score (NPS) or Customer Satisfaction Rate or Table Turnover Rate?",
+            "A": "{Net Promoter Score (NPS)} has a higher score for Coleman-Carr Restaurant."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Coleman-Carr Restaurant, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Coleman-Carr Restaurant most needs to improve its {Gross Profit Margin}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Peters-Jacobs Restaurant}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Ballard-Holland Restaurant}."
+        }
+    ],
+    "VA": []
+}

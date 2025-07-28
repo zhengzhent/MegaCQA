@@ -1,0 +1,75 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {16} links."
+        },
+        {
+            "Q": "How many nodes link with node NextStep Shoe Center?",
+            "A": "There are {3} nodes link with node NextStep Shoe Center."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node TechHive Electronics and node DailyStyle Apparel in this node-link chart?",
+            "A": "The relationship between node TechHive Electronics and node DailyStyle Apparel is {logistics_flow}."
+        },
+        {
+            "Q": "What is the relationship between node UrbanMart Superstore and node FurnitureCo Home Store in this node-link chart?",
+            "A": "The relationship between node UrbanMart Superstore and node FurnitureCo Home Store is {payment_channel}."
+        },
+        {
+            "Q": "What is the relationship between node FashionLane Boutique and node FurnitureCo Home Store in this node-link chart?",
+            "A": "The relationship between node FashionLane Boutique and node FurnitureCo Home Store is {logistics_flow}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type payment_channel?",
+            "A": "There are {3} links with the relation type payment_channel."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node TechHive Electronics, how many links are of type supplier_buyer?",
+            "A": "Node TechHive Electronics has {1} links of type supplier_buyer."
+        },
+        {
+            "Q": "Under node Sparkle Jewelry, how many links are of type product_bundle?",
+            "A": "Node Sparkle Jewelry has {1} links of type product_bundle."
+        },
+        {
+            "Q": "Under node UrbanMart Superstore, how many links are of type payment_channel?",
+            "A": "Node UrbanMart Superstore has {1} links of type payment_channel."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {FashionLane Boutique}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node FashionLane Boutique with a degree of 7}, {node TechHive Electronics with a degree of 6}, {node UrbanMart Superstore with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node GreenBasket Grocery to node UrbanMart Superstore in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node GreenBasket Grocery to node UrbanMart Superstore is: {GreenBasket Grocery to FashionLane Boutique to UrbanMart Superstore}."
+        }
+    ],
+    "VA": []
+}

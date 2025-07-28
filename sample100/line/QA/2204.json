@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Arcane University Library, what is the spatial relationship of the data point in 2017 relative to that in 2011 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Arcane University Library, the data point in 2017 is {above} and to the {right} of the data point in 2011."
+        },
+        {
+            "Q": "In 2014, what is the vertical (above/below) relationship of the line representing Arcane University Library relative to Aethelgard Art Library?",
+            "A": "In 2014, Arcane University Library is {below} Aethelgard Art Library in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Arcane University Library's Library Visits levels?",
+            "A": "Arcane University Library's library visits levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of Aethelgard Art Library's Library Visits levels?",
+            "A": "Aethelgard Art Library's library visits levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "What is the trend of Silverhaven Digital Repository's Library Visits levels?",
+            "A": "Silverhaven Digital Repository's library visits levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "Which line shows a volatile rising trend in Library Visits levels?",
+            "A": "{Arcane University Library}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Silverhaven Digital Repository's Library Visits in 2014?",
+            "A": "Silverhaven Digital Repository's library visits in 2014 is {106340.80} visits/year."
+        },
+        {
+            "Q": "What is Aethelgard Art Library's Library Visits in 2021?",
+            "A": "Aethelgard Art Library's library visits in 2021 is {242734.13} visits/year."
+        },
+        {
+            "Q": "What is Arcane University Library's Library Visits in 2019?",
+            "A": "Arcane University Library's library visits in 2019 is {155061.93} visits/year."
+        },
+        {
+            "Q": "What are the library visits of Arcane University Library, Silverhaven Digital Repository, and Aethelgard Art Library in 2014?",
+            "A": "Arcane University Library's library visits is {116497.39} visits/year, Silverhaven Digital Repository's library visits is {106340.80} visits/year, Aethelgard Art Library's library visits is {280160.81} visits/year."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Library Visits in the line chart?",
+            "A": "The global minimum library visits is {80379.58} visits/year."
+        },
+        {
+            "Q": "What is the global maximum Library Visits in the line chart?",
+            "A": "The global maximum library visits is {287171.90} visits/year."
+        },
+        {
+            "Q": "What is the highest Library Visits level recorded for Aethelgard Art Library?",
+            "A": "Aethelgard Art Library reached approximately {287171.90} visits/year in {2016}."
+        },
+        {
+            "Q": "What is the lowest Library Visits level recorded for Aethelgard Art Library?",
+            "A": "Aethelgard Art Library's lowest recorded level is approximately {242106.63} visits/year in {2011}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Arcane University Library's Library Visits?",
+            "A": "The average value of Arcane University Library's library visits is {131518.29} visits/year."
+        },
+        {
+            "Q": "What is the rate of change in Silverhaven Digital Repository's Library Visits from the starting year to the final year?",
+            "A": "The rate of growth in Silverhaven Digital Repository's library visits is {158.88}%."
+        },
+        {
+            "Q": "What is the rate of change in Aethelgard Art Library's Library Visits from the starting year to the final year?",
+            "A": "The rate of growth in Aethelgard Art Library's library visits is {0.26}%."
+        },
+        {
+            "Q": "What is the rate of change in Arcane University Library's Library Visits from the starting year to the final year?",
+            "A": "The rate of growth in Arcane University Library's library visits is {78.77}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 2020, which lines had Library Visits between 180493 and 218478 visits/year? Please list the lines and corresponding values.",
+            "A": "{Silverhaven Digital Repository} had {189701} visits/year."
+        },
+        {
+            "Q": "Which years did Silverhaven Digital Repository's Library Visits between 107879 and 158021 visits/year? Please list the years and corresponding values.",
+            "A": "{142948.28} visits/year in {2017} year, {156304.41} visits/year in {2018} year, {129663.38} visits/year in {2016} year."
+        },
+        {
+            "Q": "In the year 2016, which line had Library Visits exceed 209219 visits/year? Please list the lines and corresponding values.",
+            "A": "{Aethelgard Art Library} had {287172} visits/year."
+        },
+        {
+            "Q": "In the year 2020, which lines had Library Visits below 177968 visits/year? Please list the lines and corresponding values.",
+            "A": "{Arcane University Library} had {161789} visits/year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2013 and 2020, which line had a higher average Library Visits, Arcane University Library or Silverhaven Digital Repository?",
+            "A": "{Silverhaven Digital Repository} had a higher average library visits."
+        },
+        {
+            "Q": "Between 2017 and 2020, which line had the highest average Library Visits, Aethelgard Art Library, Arcane University Library, or Silverhaven Digital Repository?",
+            "A": "{Aethelgard Art Library} had the highest average library visits."
+        },
+        {
+            "Q": "Between 2014 and 2021, which line experienced a larger change in Library Visits, Aethelgard Art Library or Arcane University Library?",
+            "A": "{Arcane University Library} experienced a larger change in library visits."
+        },
+        {
+            "Q": "Was Arcane University Library's Library Visits in 2014 higher or lower than in 2019?",
+            "A": "The library visits in 2014 was {lower} than in 2019."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Silverhaven Digital Repository}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2017 and 2019?",
+            "A": "{Silverhaven Digital Repository} has the fastest average growth rate between 2017 and 2019."
+        },
+        {
+            "Q": "In which year did Silverhaven Digital Repository first surpass Arcane University Library?",
+            "A": "Silverhaven Digital Repository first surpassed Arcane University Library in the year {2017}."
+        },
+        {
+            "Q": "Which label had the leading library visits since 2019?",
+            "A": "Since 2019, {Aethelgard Art Library} had the leading library visits."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Silverhaven Digital Repository. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {2011, 2021}."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+﻿Agriculture and Food Production,Farm Productivity
+Pattern,Strong Correlation,Weak Correlation,Clustering,Clustering,No Correlation,Weak Correlation
+labels,Yield per acre (tons),Water usage (liters/kg),Equipment utilization (%),Labor efficiency (acres/worker),Pesticide use (kg/ha),Harvest frequency (per year),Soil health index (1-10)
+executive  Oats,7.57,87.8,49.24,487.31,4.06,1.0,3.91
+lead  Corn,43.21,832.94,44.28,913.73,0.0,4.0,10.0
+not  Barley,9.41,130.18,37.41,853.49,14.19,1.24,4.39
+base  Rice,50.0,1000.0,100.0,1.0,14.56,1.46,1.0
+same  Barley,0.5,1.0,30.0,1000.0,20.0,1.39,3.71

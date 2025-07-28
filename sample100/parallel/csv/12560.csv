@@ -1,0 +1,10 @@
+﻿Retail and E-commerce,Sales Performance of Different Company
+Pattern,No Correlation,Clustering,Clustering,Clustering,Strong Correlation,Strong Correlation
+labels,Return rate (%),Conversion rate (%),Inventory accuracy (%),Average order value (USD),Gross margin (%),Customer retention rate (%),Cart abandonment rate (%)
+"Nichols, Smith and Oliver",23.49,2.23,93.53,332.04,32.14,21.29,63.85
+Jones-Stephens,6.0,9.69,89.3,340.37,18.39,6.59,48.38
+"Taylor, Wolfe and Turner",15.28,8.07,100.0,423.68,53.79,48.62,90.0
+"Rodriguez, Williams and Collins",1.0,0.5,89.2,500.0,35.8,28.1,65.63
+Barnes-Thomas,29.44,6.07,80.0,329.87,10.0,5.0,40.0
+Vaughan Inc,14.89,1.05,94.5,10.0,60.0,50.0,88.15
+Morris-Brooks,30.0,10.0,86.37,387.21,24.32,20.82,57.48

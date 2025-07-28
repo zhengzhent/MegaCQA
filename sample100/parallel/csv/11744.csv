@@ -1,0 +1,6 @@
+﻿Science and Engineering,Research Metrics of Different Lab
+Pattern,Strong Correlation,No Correlation,Strong Correlation,Strong Correlation,Strong Correlation
+labels,Patent applications (patents),Lab efficiency (%),Publication count (papers),Research funding (USD millions),Citation index (citations/paper),Experiment success rate (%)
+Mills and Sons  Lab,3.75,40.59,100.0,100.0,1000.0,100.0
+Wright-Pitts  Research Center,50.0,100.0,32.59,32.68,104.18,62.27
+"Brown, Martin and Carter  Research Institute",0.0,30.0,0.0,0.1,0.0,10.0

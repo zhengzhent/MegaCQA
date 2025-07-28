@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {6} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Zenith Institute of Technology relative to Celestial College?",
+            "A": "Zenith Institute of Technology is {above} Celestial College in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total research funding?",
+            "A": "The series with the largest contribution is {Zenith Institute of Technology}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total research funding?",
+            "A": "The series with the smallest contribution is {Silverhaven Polytechnic}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Aethelgard School of Arts's Research Funding in 2008?",
+            "A": "Aethelgard School of Arts's research funding in 2008 is {968857.99} $."
+        },
+        {
+            "Q": "What is Aethelgard School of Arts's Research Funding in 2007?",
+            "A": "Aethelgard School of Arts's research funding in 2007 is {912348.41} $."
+        },
+        {
+            "Q": "What is Zenith Institute of Technology's Research Funding in 1998?",
+            "A": "Zenith Institute of Technology's research funding in 1998 is {489772.30} $."
+        },
+        {
+            "Q": "What are the research funding of Arcane University, Celestial College, and Silverhaven Polytechnic in 2002?",
+            "A": "Arcane University's research funding is {655642.01} $, Celestial College's research funding is {501090.69} $, Silverhaven Polytechnic's research funding is {344169.70} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Research Funding in the area chart?",
+            "A": "The global minimum research funding is {152726.20} $."
+        },
+        {
+            "Q": "What is the global maximum Research Funding in the area chart?",
+            "A": "The global maximum research funding is {968857.99} $."
+        },
+        {
+            "Q": "What is the highest Research Funding level recorded for Aethelgard School of Arts?",
+            "A": "Aethelgard School of Arts reached approximately {968857.99} $ in {2008}."
+        },
+        {
+            "Q": "What is the lowest Research Funding level recorded for Aethelgard School of Arts?",
+            "A": "Aethelgard School of Arts's lowest recorded level is approximately {475214.30} $ in {1997}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Research Funding?",
+            "A": "The average total research funding is {3442170.77} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Research Funding exceed 3543805.79 $? Please list the years and corresponding total values.",
+            "A": "{4067603.17} $ in {2008}, {3648724.06} $ in {2004}, {3762591.12} $ in {2007}."
+        },
+        {
+            "Q": "Which years did the total Research Funding fall between 3237692.28 and 3578501.99 $? Please list the years and corresponding total values.",
+            "A": "{3251104.56} $ in {2002}, {3476323.48} $ in {2006}, {3505856.68} $ in {1999}."
+        },
+        {
+            "Q": "Which years did the total Research Funding go below 3272388.48 $? Please list the years and corresponding total values.",
+            "A": "{3089821.64} $ in {2001}, {3105666.46} $ in {1997}, {3019504.21} $ in {2000}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1999 and 2006, did the total Research Funding experience a larger or smaller change than between 2004 and 2006?",
+            "A": "The change in total research funding between 1999 and 2006 was {smaller} than between 2004 and 2006."
+        },
+        {
+            "Q": "Was the total Research Funding in 1997 higher or lower than in 2004?",
+            "A": "The total research funding in 1997 was {lower} than in 2004."
+        },
+        {
+            "Q": "Between 2001 and 2004, was the average total Research Funding higher or lower than between 2000 and 2004?",
+            "A": "The average total research funding between 2001 and 2004 was {higher} than between 2000 and 2004."
+        },
+        {
+            "Q": "Was the total Research Funding in 2003 higher or lower than in 2006?",
+            "A": "The total research funding in 2003 was {higher} than in 2006."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Zenith Institute of Technology} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Silverhaven Polytechnic, Celestial College, Borealis Graduate School, Arcane University, Zenith Institute of Technology, Aethelgard School of Arts}."
+        }
+    ]
+}

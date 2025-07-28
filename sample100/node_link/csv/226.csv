@@ -1,0 +1,17 @@
+Agriculture and Food Production,Agricultural Company Trade Relationships
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Sunnydale Organic Farm,5,Whispering Pines Farmstead,crop_rotation
+0,Sunnydale Organic Farm,2,Green Acre Orchards,agro_supply_chain
+0,Sunnydale Organic Farm,3,Golden Fields Farm,crop_rotation
+0,Sunnydale Organic Farm,6,Sunrise Dairy Farm,market_linkage
+0,Sunnydale Organic Farm,7,Silver Creek Vineyard,farmers_cooperative
+1,Willow Valley Ranch,5,Whispering Pines Farmstead,processing_link
+1,Willow Valley Ranch,6,Sunrise Dairy Farm,crop_rotation
+1,Willow Valley Ranch,2,Green Acre Orchards,farmers_cooperative
+1,Willow Valley Ranch,3,Golden Fields Farm,farmers_cooperative
+1,Willow Valley Ranch,7,Silver Creek Vineyard,farmers_cooperative
+2,Green Acre Orchards,4,Blueberry Hill Estate,farmers_cooperative
+2,Green Acre Orchards,6,Sunrise Dairy Farm,crop_rotation
+2,Green Acre Orchards,5,Whispering Pines Farmstead,crop_rotation
+2,Green Acre Orchards,7,Silver Creek Vineyard,farmers_cooperative
+2,Green Acre Orchards,3,Golden Fields Farm,crop_rotation

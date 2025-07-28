@@ -1,0 +1,22 @@
+Food and Beverage Industry,Food Production and Consumption Chain,Products,random,Food Sources,Distribution Channels
+Source,Target,Value
+Greenhouses,Farmers' Markets,129
+Greenhouses,Online Platforms,856
+Greenhouses,Retailers,745
+Greenhouses,Exporters,1235
+Farms,Farmers' Markets,2242
+Farms,Online Platforms,930
+Farms,Retailers,4835
+Farms,Exporters,4978
+Fisheries,Farmers' Markets,3562
+Fisheries,Online Platforms,1425
+Fisheries,Retailers,5343
+Fisheries,Exporters,3683
+Ranches,Farmers' Markets,611
+Ranches,Online Platforms,460
+Ranches,Retailers,2146
+Ranches,Exporters,1876
+Orchards,Farmers' Markets,1296
+Orchards,Online Platforms,529
+Orchards,Retailers,516
+Orchards,Exporters,2059

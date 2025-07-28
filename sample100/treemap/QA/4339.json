@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Filling Machines in this treemap?",
+            "A": "There are {2} child rectangles under the category Filling Machines."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Packaging Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Thermal Systems}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Packaging Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Seal Mechanisms rectangle in this treemap?",
+            "A": "The value of the Seal Mechanisms rectangle is {23.65}."
+        },
+        {
+            "Q": "What is the value of the Temperature Compensation rectangle in this treemap?",
+            "A": "The value of the Temperature Compensation rectangle is {28.08}."
+        },
+        {
+            "Q": "What is the value of the Processing Lines rectangle in this treemap?",
+            "A": "The value of the Processing Lines rectangle is {5.73}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {94.27}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.73}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Temperature Compensation and H2O2 Sterilization?",
+            "A": "The difference between Temperature Compensation and H2O2 Sterilization is {0.76}."
+        },
+        {
+            "Q": "What is the sum of the regions of Vapor Control and Sealing Equipment?",
+            "A": "The sum of Vapor Control and Sealing Equipment is {54.64}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Filling Machines category in the treemap, which rectangular labels have a value exceeded 38.39? Please list the labels and values.",
+            "A": "{Gravimetric} has {43.30}"
+        },
+        {
+            "Q": "Under the Filling Machines category in the treemap, which rectangular labels have a value below 28.56? Please list the labels and values.",
+            "A": "{Volumetric} has {23.65}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Gravimetric or Calibration?",
+            "A": "The value of {Gravimetric} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Packaging Systems or Filling Machines?",
+            "A": "The value of {Packaging Systems} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Filling Machines, Gravimetric, or Load Cells?",
+            "A": "The value of {Load Cells} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {7} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

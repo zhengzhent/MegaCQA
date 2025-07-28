@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Azimuth Control in this treemap?",
+            "A": "There are {2} child rectangles under the category Azimuth Control."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Power Generation}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Suppression Pool}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Power Generation}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Drivetrain rectangle in this treemap?",
+            "A": "The value of the Drivetrain rectangle is {19.44}."
+        },
+        {
+            "Q": "What is the value of the Tracking Systems rectangle in this treemap?",
+            "A": "The value of the Tracking Systems rectangle is {46.48}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.3}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of PLC Controllers and Boiling Water?",
+            "A": "The difference between PLC Controllers and Boiling Water is {1.68}."
+        },
+        {
+            "Q": "What is the sum of the regions of Renewable Farms and Pressurized Water?",
+            "A": "The sum of Renewable Farms and Pressurized Water is {88.07}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Azimuth Control category in the treemap, which rectangular labels have a value exceeded 15.08? Please list the labels and values.",
+            "A": "{GPS Alignment} has {16.63}"
+        },
+        {
+            "Q": "Under the Azimuth Control category in the treemap, which rectangular labels have a value below 11.96? Please list the labels and values.",
+            "A": "{Optical Sensors} has {10.41}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Solar Arrays or Nuclear Plants?",
+            "A": "The value of {Solar Arrays} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Power Generation, Renewable Farms, or Solar Arrays?",
+            "A": "The value of {Power Generation} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Power Generation or Renewable Farms?",
+            "A": "The value of {Power Generation} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

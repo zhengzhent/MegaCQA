@@ -1,0 +1,21 @@
+Energy and Utilities,Energy Distribution by Category (2024),%
+parent,child,value
+Root,Energy Infrastructure,33.81
+Energy Infrastructure,Transmission,11.06
+Transmission,Smart Grids,5.94
+Transmission,High Voltage Lines,5.12
+Energy Infrastructure,Generation,22.75
+Generation,Hydropower,10.24
+Generation,Thermal Plants,12.51
+Root,Energy Consumption,38.42
+Energy Consumption,Residential,6.63
+Energy Consumption,Industrial,31.79
+Industrial,Mining,15.76
+Industrial,Manufacturing,16.04
+Root,Energy Sources,27.77
+Energy Sources,Fossil Fuels,11.14
+Fossil Fuels,Coal,5.68
+Fossil Fuels,Oil,5.46
+Energy Sources,Renewables,16.63
+Renewables,Wind,5.08
+Renewables,Solar,11.55

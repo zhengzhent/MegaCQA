@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {6} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar 2024 of this stacked bar chart?",
+            "A": "There are {6} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {2011}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {2025}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar 2024 relative to the bar 2012 in terms of horizontal (left/right) direction?",
+            "A": "Bar 2024 is to the {right} of the bar 2012."
+        },
+        {
+            "Q": "In the stacked bar of 2012, What is the spatial relationship of segment Northgate School relative to the segment Fairview School in terms of vertical (above/below) direction?",
+            "A": "Northgate School segment is positioned {below} the Fairview School segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Year has the highest bar in this stacked bar chart?",
+            "A": "The Year with the highest bar is {2021}."
+        },
+        {
+            "Q": "Which Year has the lowest bar in this stacked bar chart?",
+            "A": "The Year with the lowest bar is {2012}."
+        },
+        {
+            "Q": "In the stacked bar representing 2025, which segment has the highest value?",
+            "A": "The segment with the highest value is {Crestview High}."
+        },
+        {
+            "Q": "In the stacked bar representing 2024, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Fairview School}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Crestview High segment within the 2012 bar in the stacked bar chart?",
+            "A": "The value of the Crestview High segment is {3402.00} students."
+        },
+        {
+            "Q": "What is the value of the Springfield School segment within the 2015 bar in the stacked bar chart?",
+            "A": "The value of the Springfield School segment is {3289.00} students."
+        },
+        {
+            "Q": "What is the value of the Oakridge College segment within the 2021 bar in the stacked bar chart?",
+            "A": "The value of the Oakridge College segment is {2104.00} students."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum students among the stacked segments of bar 2024?",
+            "A": "The maximum students among the stacked segments of bar 2024 is {4900} students."
+        },
+        {
+            "Q": "What is the minimum students among the stacked segments of bar 2012?",
+            "A": "The minimum students among the stacked segments of bar 2012 is {650} students."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum students of the segment Greenwood Academy among the bars?",
+            "A": "The maximum students among the bars of segment Greenwood Academy is {3091} students."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum students of the segment Northgate School among the bars?",
+            "A": "The minimum students among the bars of segment Northgate School is {1866} students."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar 2021?",
+            "A": "The total value of bar 2021 is {16193.00} students."
+        },
+        {
+            "Q": "What is the total value of the bar 2011?",
+            "A": "The total value of bar 2011 is {12779.00} students."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {79580} students."
+        },
+        {
+            "Q": "What is the difference between total value of bar 2015 and 2021?",
+            "A": "The difference between between total value of bar 2015 and 2021 is {1292} students."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total students values exceed 15547.00 students? Please list the bar and corresponding values.",
+            "A": "{2021} has {16193} students"
+        },
+        {
+            "Q": "Which bars have total students values below 13328.00 students? Please list the bar and corresponding values.",
+            "A": "{2012} has {9863} students, {2024} has {11967} students, {2011} has {12779} students"
+        },
+        {
+            "Q": "For bar 2025 in the stacked bar chart, which segment have students value between 325.0 and 2308.5? Please list the segment and corresponding values.",
+            "A": "{Oakridge College} has {650} students, {Springfield School} has {657} students, {Fairview School} has {2240} students."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total students of 2011 or 2024?",
+            "A": "The total students of the {2011} is larger."
+        },
+        {
+            "Q": "Which is larger, the total students of 2025, 2011 or 2021?",
+            "A": "The total students of the {2021} is larger."
+        },
+        {
+            "Q": "In the bar 2021, which has a larger students value: Springfield School or Oakridge College?",
+            "A": "{Springfield School} has the larger students value."
+        },
+        {
+            "Q": "In the bar 2021, which has a larger students value: Springfield School, Oakridge College or Greenwood Academy?",
+            "A": "{Springfield School} has the larger students value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Greenwood Academy in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Greenwood Academy are: {2015}, {2021}, {2025}."
+        }
+    ],
+    "VA": []
+}

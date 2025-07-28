@@ -1,0 +1,10 @@
+Image Name: 2451.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\2451.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear labels for both the x-axis and y-axis. Each bar is distinctly colored, which helps in differentiating the data for each city. The numbers are placed on top of the bars, making it easy to read the exact values. The title is clear and provides context for the data presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and easy to read. The bars are distinct and well-separated, with contrasting colors that help differentiate the cities. The labels are legible, and the numerical values on top of the bars provide immediate insight into the data. The title is descriptive, making it easy to understand the context of the chart.

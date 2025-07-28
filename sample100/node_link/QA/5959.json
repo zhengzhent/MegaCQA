@@ -1,0 +1,67 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {12} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {16} links."
+        },
+        {
+            "Q": "How many nodes link with node Emerald Tower?",
+            "A": "There are {3} nodes link with node Emerald Tower."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Riverstone Residences and node Oceanfront Horizon Estate in this node-link chart?",
+            "A": "The relationship between node Riverstone Residences and node Oceanfront Horizon Estate is {broker_affiliation}."
+        },
+        {
+            "Q": "What is the relationship between node Riverstone Residences and node Crystal Bay Residence in this node-link chart?",
+            "A": "The relationship between node Riverstone Residences and node Crystal Bay Residence is {lease_chain}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type property_exchange?",
+            "A": "There are {1} links with the relation type property_exchange."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Willow Creek Estate, how many links are of type broker_affiliation?",
+            "A": "Node Willow Creek Estate has {1} links of type broker_affiliation."
+        },
+        {
+            "Q": "Under node Willow Creek Estate, how many links are of type real_estate_agency_link?",
+            "A": "Node Willow Creek Estate has {2} links of type real_estate_agency_link."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Sunset Villas Complex}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Sunset Villas Complex with a degree of 6}, {node Willow Creek Estate with a degree of 5}, {node Riverstone Residences with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Emerald Tower to node Lakeside Heights in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Emerald Tower to node Lakeside Heights is: {Emerald Tower to Sunset Villas Complex to Lakeside Heights}."
+        }
+    ],
+    "VA": []
+}

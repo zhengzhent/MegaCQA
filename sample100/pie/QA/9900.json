@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {4} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Maritime Transportation?",
+            "A": "The next slice clockwise from slice Maritime Transportation is {Logistics}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Maritime Transportation?",
+            "A": "The next slice counterclockwise from slice Maritime Transportation is {Freight Services}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which urban has the largest proportion in this pie chart?",
+            "A": "The urban with the largest proportion is {Railway Transportation}."
+        },
+        {
+            "Q": "Which urban has the smallest proportion in this pie chart?",
+            "A": "The urban with the smallest proportion is {Logistics}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Maritime Transportation slice in this pie chart?",
+            "A": "The value of the Maritime Transportation slice is {13}%."
+        },
+        {
+            "Q": "What is the value of the Freight Services slice in this pie chart?",
+            "A": "The value of the Freight Services slice is {15}%."
+        },
+        {
+            "Q": "What is the value of the Railway Transportation slice in this pie chart?",
+            "A": "The value of the Railway Transportation slice is {61}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {61}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {11}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Maritime Transportation and Freight Services in this pie chart?",
+            "A": "The difference between Maritime Transportation and Freight Services is {2}%."
+        },
+        {
+            "Q": "What is the sum of the values of Railway Transportation and Logistics in this pie chart?",
+            "A": "The sum of Railway Transportation and Logistics is {72}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 26.5%? Please list the category names and corresponding percentages.",
+            "A": "{Railway Transportation} accounts for {61}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 12.5%? Please list the category names and corresponding percentages.",
+            "A": "{Logistics} accounts for {11}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Railway Transportation, Freight Services, or Maritime Transportation?",
+            "A": "The value of {Railway Transportation} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Railway Transportation or Freight Services?",
+            "A": "The value of {Railway Transportation} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Freight Services, Maritime Transportation, or Logistics?",
+            "A": "The value of {Logistics} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 10% and 12%?",
+            "A": "There are {1} sectors that have a percentage between 10% and 12%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 50%? List all possible combinations.",
+            "A": "The possible combinations are: {(Freight Services, Maritime Transportation, Logistics)}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {89} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Treatment dosage in the scatter plot?",
+            "A": "The maximum observed value in the Treatment dosage dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Treatment dosage in the scatter plot?",
+            "A": "The minimum observed value in the Treatment dosage dimension is {10.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Treatment cost in the scatter plot?",
+            "A": "The maximum observed value in the Treatment cost dimension is {50000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Treatment cost in the scatter plot?",
+            "A": "The minimum observed value in the Treatment cost dimension is {100.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Treatment dosage for all points?",
+            "A": "The average value of Treatment dosage for all points is {505.00}."
+        },
+        {
+            "Q": "What is the average value of the Treatment cost for all points?",
+            "A": "The average value of Treatment cost for all points is {25458.02}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Treatment cost values corresponding to the top 3 Treatment dosage values in the scatter plot?",
+            "A": "{23500.06, 26935.88, 19687.81}."
+        },
+        {
+            "Q": "What are the Treatment cost values corresponding to the bottom 3 Treatment dosage values in the scatter plot?",
+            "A": "{31899.72, 30960.76, 48218.44}."
+        },
+        {
+            "Q": "What are the Treatment dosage values corresponding to the top 3 Treatment cost values in the scatter plot?",
+            "A": "{347.50, 32.50, 156.25}."
+        },
+        {
+            "Q": "What are the Treatment dosage values corresponding to the bottom 3 Treatment cost values in the scatter plot?",
+            "A": "{235.00, 246.25, 291.25}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 352.01 and 497.72 and Y coordinates between 5540.71 and 18313.97?",
+            "A": "There are {2} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(235.00, 100.00) and (347.50, 50000.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(111.25, 26844.77) and (145.00, 26917.70)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [61.75, 24349.77, 194.50, 29412.70] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (111.25, 26844.77)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [23.10, 20441.14, 233.15, 33321.33]; Region B: [521.59, 22928.16, 731.63, 35808.36]; Region C: [277.53, 16980.87, 487.57, 29861.06]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

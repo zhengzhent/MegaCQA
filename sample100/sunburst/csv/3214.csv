@@ -1,0 +1,17 @@
+Energy and Utilities,Energy Distribution by Category (2020),%
+parent,child,value
+Root,Energy Infrastructure,35.94
+Energy Infrastructure,Generation,6.81
+Energy Infrastructure,Transmission,29.13
+Transmission,Smart Grids,9.63
+Transmission,High Voltage Lines,19.5
+High Voltage Lines,DC Lines,5.15
+High Voltage Lines,AC Lines,14.35
+Root,Energy Consumption,22.19
+Energy Consumption,Residential,14.0
+Residential,Heating,7.88
+Residential,Appliances,6.12
+Energy Consumption,Industrial,8.19
+Industrial,Manufacturing,8.19
+Root,Energy Sources,41.87
+Energy Sources,Renewables,41.87

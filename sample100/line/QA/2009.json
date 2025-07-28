@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1985, what is the vertical (above/below) relationship of the line representing Stellar Cultural Development Agency relative to Zenith Cultural Endowment?",
+            "A": "In 1985, Stellar Cultural Development Agency is {below} Zenith Cultural Endowment in the vertical direction."
+        },
+        {
+            "Q": "On Silverhaven Arts Foundation, what is the spatial relationship of the data point in 1978 relative to that in 1996 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Silverhaven Arts Foundation, the data point in 1978 is {below} and to the {left} of the data point in 1996."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Silverhaven Arts Foundation's Cultural Event Funding levels?",
+            "A": "Silverhaven Arts Foundation's cultural event funding levels show a {stable falling} trend."
+        },
+        {
+            "Q": "What is the trend of Zenith Cultural Endowment's Cultural Event Funding levels?",
+            "A": "Zenith Cultural Endowment's cultural event funding levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Stellar Cultural Development Agency's Cultural Event Funding levels?",
+            "A": "Stellar Cultural Development Agency's cultural event funding levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "Which line shows a stable falling trend in Cultural Event Funding levels?",
+            "A": "{Silverhaven Arts Foundation}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Zenith Cultural Endowment's Cultural Event Funding in 1986?",
+            "A": "Zenith Cultural Endowment's cultural event funding in 1986 is {68734709.77} $."
+        },
+        {
+            "Q": "What is Stellar Cultural Development Agency's Cultural Event Funding in 1995?",
+            "A": "Stellar Cultural Development Agency's cultural event funding in 1995 is {46104449.01} $."
+        },
+        {
+            "Q": "What is Stellar Cultural Development Agency's Cultural Event Funding in 1987?",
+            "A": "Stellar Cultural Development Agency's cultural event funding in 1987 is {30786488.66} $."
+        },
+        {
+            "Q": "What are the cultural event funding of Zenith Cultural Endowment, Stellar Cultural Development Agency, and Silverhaven Arts Foundation in 1992?",
+            "A": "Zenith Cultural Endowment's cultural event funding is {80627789.20} $, Stellar Cultural Development Agency's cultural event funding is {31704265.74} $, Silverhaven Arts Foundation's cultural event funding is {97225462.57} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Cultural Event Funding in the line chart?",
+            "A": "The global minimum cultural event funding is {26827902.00} $."
+        },
+        {
+            "Q": "What is the global maximum Cultural Event Funding in the line chart?",
+            "A": "The global maximum cultural event funding is {110374146.62} $."
+        },
+        {
+            "Q": "What is the highest Cultural Event Funding level recorded for Silverhaven Arts Foundation?",
+            "A": "Silverhaven Arts Foundation reached approximately {110374146.62} $ in {1998}."
+        },
+        {
+            "Q": "What is the lowest Cultural Event Funding level recorded for Silverhaven Arts Foundation?",
+            "A": "Silverhaven Arts Foundation's lowest recorded level is approximately {63736889.08} $ in {1974}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Silverhaven Arts Foundation's Cultural Event Funding?",
+            "A": "The average value of Silverhaven Arts Foundation's cultural event funding is {86235004.81} $."
+        },
+        {
+            "Q": "What is the rate of change in Zenith Cultural Endowment's Cultural Event Funding from the starting year to the final year?",
+            "A": "The rate of growth in Zenith Cultural Endowment's cultural event funding is {126.45}%."
+        },
+        {
+            "Q": "What is the average value of Stellar Cultural Development Agency's Cultural Event Funding?",
+            "A": "The average value of Stellar Cultural Development Agency's cultural event funding is {36483402.75} $."
+        },
+        {
+            "Q": "What is the rate of change in Silverhaven Arts Foundation's Cultural Event Funding from the starting year to the final year?",
+            "A": "The rate of growth in Silverhaven Arts Foundation's cultural event funding is {73.17}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1991, which lines had Cultural Event Funding between 61731104 and 82651888 $? Please list the lines and corresponding values.",
+            "A": "{Zenith Cultural Endowment} had {76966908} $."
+        },
+        {
+            "Q": "In the year 1989, which lines had Cultural Event Funding below 55270712 $? Please list the lines and corresponding values.",
+            "A": "{Stellar Cultural Development Agency} had {36472531} $."
+        },
+        {
+            "Q": "In the year 1990, which line had Cultural Event Funding exceed 84921579 $? Please list the lines and corresponding values.",
+            "A": "{Silverhaven Arts Foundation} had {94357310} $."
+        },
+        {
+            "Q": "Which years did Silverhaven Arts Foundation's Cultural Event Funding between 77670878 and 95052731 $? Please list the years and corresponding values.",
+            "A": "{85161485.40} $ in {1986} year, {83490650.05} $ in {1984} year, {91292479.86} $ in {1988} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Zenith Cultural Endowment's Cultural Event Funding in 1978 higher or lower than in 1993?",
+            "A": "The cultural event funding in 1978 was {lower} than in 1993."
+        },
+        {
+            "Q": "In 1993, which line had the highest Cultural Event Funding, Silverhaven Arts Foundation, Stellar Cultural Development Agency, or Zenith Cultural Endowment?",
+            "A": "In 1993, {Silverhaven Arts Foundation} had the highest cultural event funding."
+        },
+        {
+            "Q": "Between 1975 and 1989, which line experienced the largest change in Cultural Event Funding, Stellar Cultural Development Agency, Zenith Cultural Endowment, or Silverhaven Arts Foundation?",
+            "A": "{Zenith Cultural Endowment} experienced the largest change in cultural event funding."
+        },
+        {
+            "Q": "In 1994, which line had the highest Cultural Event Funding, Stellar Cultural Development Agency, Silverhaven Arts Foundation, or Zenith Cultural Endowment?",
+            "A": "In 1994, {Silverhaven Arts Foundation} had the highest cultural event funding."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Zenith Cultural Endowment}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1979 and 1996?",
+            "A": "{Zenith Cultural Endowment} has the fastest average growth rate between 1979 and 1996."
+        },
+        {
+            "Q": "Which label had the leading cultural event funding since 1986?",
+            "A": "Since 1986, {Silverhaven Arts Foundation} had the leading cultural event funding."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Zenith Cultural Endowment. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1974, 1998}."
+        }
+    ]
+}

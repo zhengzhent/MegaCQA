@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {4} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Northgate School}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Elmwood Prep}."
+        },
+        {
+            "Q": "Which box is the second position to the left of the box Glenhaven Academy?",
+            "A": "The second position to the left of the box Glenhaven Academy is {Northgate School}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Elmwood Prep relative to the box Northgate School in terms of horizontal (left/right) direction?",
+            "A": "Box Elmwood Prep is to the {right} of the box Northgate School."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Elmwood Prep}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Elmwood Prep}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Westport Academy}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Northgate School in the box plot?",
+            "A": "The median of Northgate School is {83.035} %."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Elmwood Prep in the box plot?",
+            "A": "The upper quartile (Q3) of Elmwood Prep is {90.225} %."
+        },
+        {
+            "Q": "What is the upper whisker limit of Northgate School in the box plot?",
+            "A": "The upper whisker limit of Northgate School is {92.78} %."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Elmwood Prep in the box plot?",
+            "A": "The largest upper outlier value in Elmwood Prep is {97.44} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum % value in the box plot?",
+            "A": "The global maximum % value in the box plot is {97.44} %."
+        },
+        {
+            "Q": "What is the global minimum % value in the box plot?",
+            "A": "The global minimum % value in the box plot is {70.69} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Elmwood Prep and Northgate School?",
+            "A": "The Median difference between box Elmwood Prep and Northgate School is {5.694999999999993} %."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Glenhaven Academy and Northgate School?",
+            "A": "The total Q1 value of box Glenhaven Academy and Northgate School is {159.195} %."
+        },
+        {
+            "Q": "What is the average Q3 value of box Westport Academy and Northgate School?",
+            "A": "The average Q3 value of box Westport Academy and Northgate School is {85.55875} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 82.197 %?",
+            "A": "Box{Westport Academy},{Glenhaven Academy},{Elmwood Prep} have the outliers exceed 82.197 %."
+        },
+        {
+            "Q": "Which boxes have median values exceed 83.38 %? Please list the boxes and corresponding values.",
+            "A": "{Westport Academy} has {83.72} % , {Elmwood Prep} has {88.72999999999999} % "
+        },
+        {
+            "Q": "Which boxes have median values below 81.57 %? Please list the boxes and corresponding values.",
+            "A": "{Glenhaven Academy} has {80.1} % "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Glenhaven Academy or Elmwood Prep ",
+            "A": "The median value of the {Elmwood Prep} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Northgate School, Westport Academy or Elmwood Prep ",
+            "A": "The median value of the {Elmwood Prep} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Westport Academy, Glenhaven Academy, Elmwood Prep or Northgate School ",
+            "A": "The median value of the {Elmwood Prep} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Northgate School}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {21} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Applied Sciences}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Brain Function}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Computer Science rectangle in this treemap?",
+            "A": "The value of the Computer Science rectangle is {23.71}."
+        },
+        {
+            "Q": "What is the value of the Organic Chemistry rectangle in this treemap?",
+            "A": "The value of the Organic Chemistry rectangle is {8.37}."
+        },
+        {
+            "Q": "What is the value of the Engineering rectangle in this treemap?",
+            "A": "The value of the Engineering rectangle is {14.71}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.12}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Applied Sciences and Neuroscience?",
+            "A": "The difference between Applied Sciences and Neuroscience is {22.95}."
+        },
+        {
+            "Q": "What is the sum of the regions of Quantum Physics and Electrical?",
+            "A": "The sum of Quantum Physics and Electrical is {15.02}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Life Sciences category in the treemap, which rectangular labels have a value exceeded 17.62? Please list the labels and values.",
+            "A": "{Biology} has {18.34}"
+        },
+        {
+            "Q": "Under the Life Sciences category in the treemap, which rectangular labels have a value below 16.19? Please list the labels and values.",
+            "A": "{Neuroscience} has {15.47}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Physical Sciences or Biology?",
+            "A": "The value of {Physical Sciences} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Applied Sciences or Life Sciences?",
+            "A": "The value of {Applied Sciences} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Applied Sciences, Life Sciences, or Physical Sciences?",
+            "A": "The value of {Applied Sciences} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

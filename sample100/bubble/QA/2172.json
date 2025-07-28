@@ -1,0 +1,106 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Social media mentions and Adoption rate?",
+            "A": "The highest concentration of bubbles corresponds to approximately {10152.09} count/day and {63.58} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of event attendees of the largest bubble?",
+            "A": "The Number of event attendees of the largest bubble is {1000000.00} attendees."
+        },
+        {
+            "Q": "What is the Number of event attendees of the smallest bubble?",
+            "A": "The Number of event attendees of the smallest bubble is {1000.00} attendees."
+        },
+        {
+            "Q": "What are the Social media mentions and Adoption rate values of the largest bubble?",
+            "A": "The Social media mentions of the largest bubble is {19056.89} count/day, and {Adoption rate} is {10.76} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of event attendees in the bubble chart?",
+            "A": "The global maximum Number of event attendees is {1000000.00} attendees."
+        },
+        {
+            "Q": "What is the global minimum Number of event attendees in the bubble chart?",
+            "A": "The global minimum Number of event attendees is {1000.00} attendees."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Social media mentions in the bubble chart?",
+            "A": "The maximum observed value in the Social media mentions dimension is {93473.13} count/day."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Social media mentions in the bubble chart?",
+            "A": "The minimum observed value in the Social media mentions dimension is {282.23} count/day."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Adoption rate in the bubble chart?",
+            "A": "The maximum observed value in the Adoption rate dimension is {83.74} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Adoption rate in the bubble chart?",
+            "A": "The minimum observed value in the Adoption rate dimension is {7.42} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of event attendees for all bubbles?",
+            "A": "The average value of the Number of event attendees for all bubbles is {923153.85} attendees."
+        },
+        {
+            "Q": "What is the average value of the Social media mentions for all bubbles?",
+            "A": "The average value of Social media mentions for all bubbles is {37237.29} count/day."
+        },
+        {
+            "Q": "What is the average value of the Adoption rate for all bubbles?",
+            "A": "The average value of Adoption rate for all bubbles is {38.56} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of event attendees values in the bubble chart?",
+            "A": "{1000000.00, 1000000.00, 1000000.00} attendees."
+        },
+        {
+            "Q": "What are the bottom 3 Number of event attendees values in the bubble chart?",
+            "A": "{1000.00, 1000000.00, 1000000.00} attendees."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of event attendees value, the bubble with a Social media mentions of 67501.3 count/day and a Adoption rate of 9.2 %, or the bubble with a Social media mentions of 10152.1 count/day and a Adoption rate of 63.6 %?",
+            "A": "The bubble with a Social media mentions of 67501.3 and a Adoption rate of 9.2 and the bubble with a Social media mentions of 10152.1 and a Adoption rate of 63.6 have the same Number of event attendees value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of event attendees value of the bubble with the largest Adoption rate value?",
+            "A": "The Number of event attendees value of the bubble with the largest Adoption rate is {1000000.00}."
+        },
+        {
+            "Q": "What is the Number of event attendees value of the bubble with the largest Social media mentions value?",
+            "A": "The Number of event attendees value of the bubble with the largest Social media mentions is {1000000.00}."
+        },
+        {
+            "Q": "Classify bubbles with a Adoption rate-coordinate greater than 49 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of event attendees for the high value group and the low value group?",
+            "A": "The difference between the total Number of event attendees of the high-value and low-value groups is {2001000.00}."
+        }
+    ],
+    "VA": []
+}

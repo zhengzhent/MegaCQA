@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Solar Arrays in this treemap?",
+            "A": "There are {1} child rectangles under the category Solar Arrays."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Power Generation}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Aerodynamic Testing}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Power Generation}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Drywell Venting rectangle in this treemap?",
+            "A": "The value of the Drywell Venting rectangle is {53.36}."
+        },
+        {
+            "Q": "What is the value of the Boiling Water rectangle in this treemap?",
+            "A": "The value of the Boiling Water rectangle is {63.16}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.09}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Containment and Solar Arrays?",
+            "A": "The difference between Containment and Solar Arrays is {57.26}."
+        },
+        {
+            "Q": "What is the sum of the regions of Pressurizers and Tracking Systems?",
+            "A": "The sum of Pressurizers and Tracking Systems is {26.63}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Solar Arrays category in the treemap, which rectangular labels have a value exceeded 5.89? Please list the labels and values.",
+            "A": "{Tracking Systems} has {5.90}"
+        },
+        {
+            "Q": "Under the Solar Arrays category in the treemap, which rectangular labels have a value below 5.91? Please list the labels and values.",
+            "A": "{Tracking Systems} has {5.90}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Power Generation or Nuclear Plants?",
+            "A": "The value of {Power Generation} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Power Generation, Nuclear Plants, or Reactor Types?",
+            "A": "The value of {Power Generation} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Reactor Types or Containment?",
+            "A": "The value of {Reactor Types} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Nuclear Plants, Reactor Types, or Boiling Water?",
+            "A": "The value of {Boiling Water} is smaller."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {5} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

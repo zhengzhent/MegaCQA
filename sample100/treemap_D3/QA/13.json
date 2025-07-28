@@ -1,0 +1,81 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {17} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Digital Culture}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {International Events}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the NFT Artworks rectangle in this treemap?",
+            "A": "The value of the NFT Artworks rectangle is {5.15}."
+        },
+        {
+            "Q": "What is the value of the Heritage Engagement rectangle in this treemap?",
+            "A": "The value of the Heritage Engagement rectangle is {17.06}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.1}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Heritage Engagement and Visual Arts?",
+            "A": "The difference between Heritage Engagement and Visual Arts is {10.89}."
+        },
+        {
+            "Q": "What is the sum of the regions of Local Festivals and Virtual Museums?",
+            "A": "The sum of Local Festivals and Virtual Museums is {31.26}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Cultural Participation category in the treemap, which rectangular labels have a value exceeded 15.47? Please list the labels and values.",
+            "A": "{Heritage Engagement} has {17.06}"
+        },
+        {
+            "Q": "Under the Cultural Participation category in the treemap, which rectangular labels have a value below 12.30? Please list the labels and values.",
+            "A": "{Art Festivals} has {10.71}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Creative Expression, Online Exhibitions, or Cultural Participation?",
+            "A": "The value of {Cultural Participation} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Digital Culture or Creative Expression?",
+            "A": "The value of {Digital Culture} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Digital Culture, Creative Expression, or Online Exhibitions?",
+            "A": "The value of {Digital Culture} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

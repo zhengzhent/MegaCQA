@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which cultural has the largest proportion in this pie chart?",
+            "A": "The cultural with the largest proportion is {Theater Play}."
+        },
+        {
+            "Q": "Which cultural has the smallest proportion in this pie chart?",
+            "A": "The cultural with the smallest proportion is {Film Screening}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Theater Play slice in this pie chart?",
+            "A": "The value of the Theater Play slice is {51}%."
+        },
+        {
+            "Q": "What is the value of the Film Screening slice in this pie chart?",
+            "A": "The value of the Film Screening slice is {49}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {51}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {49}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 50.5%? Please list the category names and corresponding percentages.",
+            "A": "{Theater Play} accounts for {51}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 49.5%? Please list the category names and corresponding percentages.",
+            "A": "{Film Screening} accounts for {49}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Theater Play or Film Screening?",
+            "A": "The value of {Theater Play} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

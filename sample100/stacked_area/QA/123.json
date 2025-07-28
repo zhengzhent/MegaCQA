@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {3} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Meridian Trade Hub relative to Port of Aethelgard?",
+            "A": "Meridian Trade Hub is {below} Port of Aethelgard in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total agricultural exports?",
+            "A": "The series with the largest contribution is {Meridian Trade Hub}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total agricultural exports?",
+            "A": "The series with the smallest contribution is {Borealis Shipping Co.}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Port of Aethelgard's Agricultural Exports in 1977?",
+            "A": "Port of Aethelgard's agricultural exports in 1977 is {12269809.87} $."
+        },
+        {
+            "Q": "What is Port of Aethelgard's Agricultural Exports in 1971?",
+            "A": "Port of Aethelgard's agricultural exports in 1971 is {10441150.27} $."
+        },
+        {
+            "Q": "What is Port of Aethelgard's Agricultural Exports in 1973?",
+            "A": "Port of Aethelgard's agricultural exports in 1973 is {11674466.27} $."
+        },
+        {
+            "Q": "What are the agricultural exports of Borealis Shipping Co., Meridian Trade Hub, and Port of Aethelgard in 1978?",
+            "A": "Borealis Shipping Co.'s agricultural exports is {11472034.93} $, Meridian Trade Hub's agricultural exports is {16360068.63} $, Port of Aethelgard's agricultural exports is {11633970.37} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Agricultural Exports in the area chart?",
+            "A": "The global minimum agricultural exports is {7371620.35} $."
+        },
+        {
+            "Q": "What is the global maximum Agricultural Exports in the area chart?",
+            "A": "The global maximum agricultural exports is {18193326.18} $."
+        },
+        {
+            "Q": "What is the highest Agricultural Exports level recorded for Borealis Shipping Co.?",
+            "A": "Borealis Shipping Co. reached approximately {12853980.12} $ in {1977}."
+        },
+        {
+            "Q": "What is the lowest Agricultural Exports level recorded for Borealis Shipping Co.?",
+            "A": "Borealis Shipping Co.'s lowest recorded level is approximately {7371620.35} $ in {1975}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Agricultural Exports?",
+            "A": "The average total agricultural exports is {34679491.25} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Agricultural Exports go below 32690526.47 $? Please list the years and corresponding total values.",
+            "A": "{30075815.19} $ in {1966}, {32620271.86} $ in {1980}, {29700079.59} $ in {1975}."
+        },
+        {
+            "Q": "Which years did the total Agricultural Exports fall between 33043640.60 and 36521918.55 $? Please list the years and corresponding total values.",
+            "A": "{33388765.36} $ in {1968}, {35385127.02} $ in {1976}, {36377674.17} $ in {1973}."
+        },
+        {
+            "Q": "Which years did the total Agricultural Exports exceed 36875032.68 $? Please list the years and corresponding total values.",
+            "A": "{40993435.62} $ in {1983}, {37972158.63} $ in {1972}, {36930294.74} $ in {1981}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was the total Agricultural Exports in 1969 higher or lower than in 1982?",
+            "A": "The total agricultural exports in 1969 was {lower} than in 1982."
+        },
+        {
+            "Q": "Was the total Agricultural Exports in 1977 higher or lower than in 1978?",
+            "A": "The total agricultural exports in 1977 was {higher} than in 1978."
+        },
+        {
+            "Q": "Between 1971 and 1972, was the average total Agricultural Exports higher or lower than between 1968 and 1978?",
+            "A": "The average total agricultural exports between 1971 and 1972 was {higher} than between 1968 and 1978."
+        },
+        {
+            "Q": "Was the total Agricultural Exports in 1967 higher or lower than in 1969?",
+            "A": "The total agricultural exports in 1967 was {higher} than in 1969."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Meridian Trade Hub} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Port of Aethelgard, Borealis Shipping Co., Meridian Trade Hub}."
+        }
+    ]
+}

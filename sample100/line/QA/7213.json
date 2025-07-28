@@ -1,0 +1,152 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1961, what is the vertical (above/below) relationship of the line representing Oracle Labs relative to Echo Research?",
+            "A": "In 1961, Oracle Labs is {above} Echo Research in the vertical direction."
+        },
+        {
+            "Q": "On Oracle Labs, what is the spatial relationship of the data point in 1971 relative to that in 1974 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Oracle Labs, the data point in 1971 is {above} and to the {left} of the data point in 1974."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Echo Research's Publication Count levels?",
+            "A": "Echo Research's publication count levels show a {periodic stable} trend."
+        },
+        {
+            "Q": "What is the trend of Oracle Labs's Publication Count levels?",
+            "A": "Oracle Labs's publication count levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "Which line shows a periodic stable trend in Publication Count levels?",
+            "A": "{Echo Research}."
+        },
+        {
+            "Q": "Which line shows a exponential falling trend in Publication Count levels?",
+            "A": "{Oracle Labs}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Echo Research's Publication Count in 1959?",
+            "A": "Echo Research's publication count in 1959 is {72.01} papers."
+        },
+        {
+            "Q": "What is Echo Research's Publication Count in 1978?",
+            "A": "Echo Research's publication count in 1978 is {77.06} papers."
+        },
+        {
+            "Q": "What is Oracle Labs's Publication Count in 1979?",
+            "A": "Oracle Labs's publication count in 1979 is {6.88} papers."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Publication Count in the line chart?",
+            "A": "The global minimum publication count is {6.88} papers."
+        },
+        {
+            "Q": "What is the global maximum Publication Count in the line chart?",
+            "A": "The global maximum publication count is {149.25} papers."
+        },
+        {
+            "Q": "What is the highest Publication Count level recorded for Echo Research?",
+            "A": "Echo Research reached approximately {77.36} papers in {1953}."
+        },
+        {
+            "Q": "What is the lowest Publication Count level recorded for Echo Research?",
+            "A": "Echo Research's lowest recorded level is approximately {47.08} papers in {1956}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Oracle Labs's Publication Count?",
+            "A": "The average value of Oracle Labs's publication count is {47.71} papers."
+        },
+        {
+            "Q": "What is the rate of change in Echo Research's Publication Count from the starting year to the final year?",
+            "A": "The rate of decline in Echo Research's publication count is {-23.06}%."
+        },
+        {
+            "Q": "What is the average value of Echo Research's Publication Count?",
+            "A": "The average value of Echo Research's publication count is {62.53} papers."
+        },
+        {
+            "Q": "What is the rate of change in Oracle Labs's Publication Count from the starting year to the final year?",
+            "A": "The rate of decline in Oracle Labs's publication count is {-94.95}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Oracle Labs's Publication Count exceed 71 papers? Please list the years and corresponding values.",
+            "A": "{135.57} papers in {1953} year, {149.25} papers in {1952} year, {89.35} papers in {1957} year."
+        },
+        {
+            "Q": "Which years did Echo Research's Publication Count between 55 and 70 papers? Please list the years and corresponding values.",
+            "A": "{62.61} papers in {1952} year, {62.33} papers in {1972} year, {62.54} papers in {1967} year."
+        },
+        {
+            "Q": "Which years did Oracle Labs's Publication Count below 14 papers? Please list the years and corresponding values.",
+            "A": "{8.90} papers in {1978} year, {6.88} papers in {1979} year, {13.29} papers in {1974} year."
+        },
+        {
+            "Q": "In the year 1962, which line had Publication Count exceed 56 papers? Please list the lines and corresponding values.",
+            "A": "{Echo Research} had {63} papers."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 1956, which line had a higher Publication Count, {Echo Research} or {Oracle Labs}?",
+            "A": "In 1956, {Oracle Labs} had a higher publication count."
+        },
+        {
+            "Q": "Between 1972 and 1973, which line had a higher average Publication Count, Echo Research or Oracle Labs?",
+            "A": "{Echo Research} had a higher average publication count."
+        },
+        {
+            "Q": "Between 1955 and 1959, which line had a higher average Publication Count, Oracle Labs or Echo Research?",
+            "A": "{Oracle Labs} had a higher average publication count."
+        },
+        {
+            "Q": "In 1968, which line had a higher Publication Count, {Oracle Labs} or {Echo Research}?",
+            "A": "In 1968, {Echo Research} had a higher publication count."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Oracle Labs}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1977 and 1980?",
+            "A": "{Oracle Labs} has the fastest average growth rate between 1977 and 1980."
+        },
+        {
+            "Q": "In which year did Echo Research first surpass Oracle Labs?",
+            "A": "Echo Research first surpassed Oracle Labs in the year {1962}."
+        },
+        {
+            "Q": "Which label had the leading publication count since 1958?",
+            "A": "Since 1958, {Echo Research} had the leading publication count."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Echo Research. List the x-coordinates of data points to be preserved.(13 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1952, 1953, 1956, 1958, 1961, 1963, 1966, 1968, 1971, 1973, 1976, 1978, 1981}."
+        }
+    ]
+}

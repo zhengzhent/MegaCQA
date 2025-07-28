@@ -1,0 +1,97 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {49} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {7} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {7} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {horizontal gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Tennis and Sponsorship in the heatmap?",
+            "A": "The heat value is {0.17}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Gaming and Attendance in the heatmap?",
+            "A": "The heat value is {0.62}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Publishing and Royalties in the heatmap?",
+            "A": "The heat value is {0.20}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.75}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.17}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Basketball on the x-axis?",
+            "A": "The maximum heat value of Basketball on the x-axis is {0.75}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Social Media on the y-axis?",
+            "A": "The maximum heat value for Social Media on the y-axis is {0.72}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Social Media on the y-axis?",
+            "A": "The average heat value for Social Media on the y-axis is {0.45}."
+        },
+        {
+            "Q": "What is the average heat value for label Basketball on the x-axis?",
+            "A": "The average heat value for Basketball on the x-axis is {0.73}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Movies and Attendance or the cell corresponding to Football and Ticket Sales?",
+            "A": "The cell corresponding to {Football} and {Ticket Sales} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Football and Attendance or the cell corresponding to Publishing and Royalties?",
+            "A": "The cell corresponding to {Football} and {Attendance} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Media Rights and Ticket Sales or the cell corresponding to Publishing and Viewership?",
+            "A": "The cell corresponding to {Media Rights} and {Ticket Sales} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Gaming and Sponsorship or the cell corresponding to Gaming and Viewership?",
+            "A": "The cell corresponding to {Gaming} and {Viewership} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.20 to 0.41?",
+            "A": "The cells are: {(Movies, Attendance), (Tennis, Attendance), (Movies, Fan Engagement), (Publishing, Fan Engagement), (Tennis, Fan Engagement), (Movies, Royalties), (Publishing, Royalties), (Movies, Social Media), (Publishing, Social Media), (Movies, Sponsorship), (Publishing, Sponsorship), (Movies, Ticket Sales), (Publishing, Ticket Sales), (Movies, Viewership), (Publishing, Viewership), (Tennis, Viewership)}."
+        }
+    ],
+    "VA": []
+}

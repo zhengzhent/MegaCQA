@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {65} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive exponential correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Pest control spending in the scatter plot?",
+            "A": "The maximum observed value in the Pest control spending dimension is {500.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Pest control spending in the scatter plot?",
+            "A": "The minimum observed value in the Pest control spending dimension is {10.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Soil quality in the scatter plot?",
+            "A": "The maximum observed value in the Soil quality dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Soil quality in the scatter plot?",
+            "A": "The minimum observed value in the Soil quality dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Pest control spending for all points?",
+            "A": "The average value of Pest control spending for all points is {255.00}."
+        },
+        {
+            "Q": "What is the average value of the Soil quality for all points?",
+            "A": "The average value of Soil quality for all points is {49.55}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Soil quality values corresponding to the top 3 Pest control spending values in the scatter plot?",
+            "A": "{95.47, 96.49, 84.97}."
+        },
+        {
+            "Q": "What are the Soil quality values corresponding to the bottom 3 Pest control spending values in the scatter plot?",
+            "A": "{24.85, 0.00, 16.39}."
+        },
+        {
+            "Q": "What are the Pest control spending values corresponding to the top 3 Soil quality values in the scatter plot?",
+            "A": "{438.75, 492.34, 500.00}."
+        },
+        {
+            "Q": "What are the Pest control spending values corresponding to the bottom 3 Soil quality values in the scatter plot?",
+            "A": "{17.66, 71.25, 224.38}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 296.63 and 374.19 and Y coordinates between 46.17 and 65.99?",
+            "A": "There are {3} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(10.00, 24.85) and (500.00, 95.47)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(461.72, 53.94) and (469.38, 53.69)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [437.22, 48.69, 493.88, 58.94] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (461.72, 53.94)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [341.76, 20.78, 479.16, 42.08]; Region B: [180.44, 42.47, 317.83, 63.77]; Region C: [362.60, 43.16, 500.00, 64.47]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

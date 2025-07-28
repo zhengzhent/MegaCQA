@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {3} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {13} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Electrical positioned outside, inside or on the same side as Neuroscience?",
+            "A": "Electrical is positioned {outside} Neuroscience."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Physical Sciences}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Artificial Intelligence segment in this sunburst chart?",
+            "A": "The value of the Artificial Intelligence segment is {9.42}."
+        },
+        {
+            "Q": "What is the value of the Mechanical segment in this sunburst chart?",
+            "A": "The value of the Mechanical segment is {11.3}."
+        },
+        {
+            "Q": "What is the value of the Neuroscience segment in this sunburst chart?",
+            "A": "The value of the Neuroscience segment is {9.82}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {48.78}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {24.97}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {11.3}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.12}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Physical Sciences exceed 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        },
+        {
+            "Q": "Which categories in the segment Physical Sciences are below 100%? Please list the category names and corresponding percentages.",
+            "A": "None."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Chemistry, Applied Sciences, or Life Sciences?",
+            "A": "The value of {Life Sciences} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Physical Sciences or Chemistry?",
+            "A": "The value of {Physical Sciences} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Applied Sciences to Engineering to Mechanical}."
+        }
+    ],
+    "VA": []
+}

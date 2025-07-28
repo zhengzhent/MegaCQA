@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {3} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Biomass?",
+            "A": "The next slice clockwise from slice Biomass is {Solar}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Biomass?",
+            "A": "The next slice counterclockwise from slice Biomass is {Wave}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which renewable has the largest proportion in this pie chart?",
+            "A": "The renewable with the largest proportion is {Biomass}."
+        },
+        {
+            "Q": "Which renewable has the smallest proportion in this pie chart?",
+            "A": "The renewable with the smallest proportion is {Solar}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Wave slice in this pie chart?",
+            "A": "The value of the Wave slice is {35}%."
+        },
+        {
+            "Q": "What is the value of the Solar slice in this pie chart?",
+            "A": "The value of the Solar slice is {26}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {39}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {26}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 37.0%? Please list the category names and corresponding percentages.",
+            "A": "{Biomass} accounts for {39}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 30.5%? Please list the category names and corresponding percentages.",
+            "A": "{Solar} accounts for {26}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Biomass, Wave, or Solar?",
+            "A": "The value of {Biomass} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Biomass or Wave?",
+            "A": "The value of {Biomass} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

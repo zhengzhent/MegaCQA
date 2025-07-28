@@ -1,0 +1,23 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="996.1 846.2 1076.1 846.2" fill="none" stroke="#000000"></polyline>
+<polyline points="980.7 1026.5 1060.7 1026.5" fill="none" stroke="#000000"></polyline>
+<polyline points="970.5 1206.8 1050.5 1206.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1051.4 665.8 1131.4 665.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1358.6 305.2 1438.6 305.2" fill="none" stroke="#000000"></polyline>
+<polyline points="1170.2 485.5 1250.2 485.5" fill="none" stroke="#000000"></polyline>
+<polygon points="726.8 757 1001.2 757 991 935.3 737 935.3" fill="#6A9AAA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="737 937.3 991 937.3 970.5 1115.7 757.5 1115.7" fill="#5A8B97" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="757.5 1117.7 970.5 1117.7 970.5 1296 757.5 1296" fill="#4A7C84" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="626.4 576.7 1101.6 576.7 1001.2 755 726.8 755" fill="#7AA9BD" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1238.8 394.3 489.2 394.3" fill="#9AC7E3" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="489.2 396.3 1238.8 396.3 1101.6 574.7 626.4 574.7" fill="#8AB8D0" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1081.096" y="846.1666666666667" fill="#000000">Follow Account: 67</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1065.7359999999999" y="1026.5" fill="#000000">Join Group or Community: 62</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1055.496" y="1206.8333333333335" fill="#000000">Content Creation or Upload: 52</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1136.392" y="665.8333333333335" fill="#000000">Share Content: 116</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1443.592" y="305.1666666666667" fill="#000000">View Content: 300</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1255.1760000000002" y="485.50000000000006" fill="#000000">Like or Comment: 183</text>
+<path d="M-412.9062 -5l825.8125 0l0 58l-825.8125 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Social Media Engagement (Million Users)</text>
+</svg>

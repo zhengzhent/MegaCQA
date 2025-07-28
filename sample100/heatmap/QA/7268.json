@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {49} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {7} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {7} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {radial gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Chemical and Testing in the heatmap?",
+            "A": "The heat value is {0.64}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Computer and Development in the heatmap?",
+            "A": "The heat value is {0.37}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Computer and Funding in the heatmap?",
+            "A": "The heat value is {0.48}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.85}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.09}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Data on the x-axis?",
+            "A": "The maximum heat value of Data on the x-axis is {0.79}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Computer on the x-axis?",
+            "A": "The maximum heat value of Computer on the x-axis is {0.75}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Testing on the y-axis?",
+            "A": "The average heat value for Testing on the y-axis is {0.69}."
+        },
+        {
+            "Q": "What is the average heat value for label Chemical on the x-axis?",
+            "A": "The average heat value for Chemical on the x-axis is {0.52}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Aerospace and Implementation or the cell corresponding to Data and Implementation?",
+            "A": "The cell corresponding to {Data} and {Implementation} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Mechanical and Research or the cell corresponding to Mechanical and Testing?",
+            "A": "The cell corresponding to {Mechanical} and {Testing} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Data and Research or the cell corresponding to Chemical and Testing?",
+            "A": "The cell corresponding to {Data} and {Research} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.32 to 0.57?",
+            "A": "The cells are: {(Computer, Development), (Data, Development), (Mechanical, Development), (Software, Development), (Chemical, Funding), (Computer, Funding), (Data, Funding), (Biomedical, Implementation), (Chemical, Implementation), (Computer, Implementation), (Aerospace, Patents), (Biomedical, Patents), (Chemical, Patents), (Aerospace, Publications), (Biomedical, Publications), (Aerospace, Research), (Biomedical, Research), (Aerospace, Testing), (Biomedical, Testing)}."
+        }
+    ],
+    "VA": []
+}

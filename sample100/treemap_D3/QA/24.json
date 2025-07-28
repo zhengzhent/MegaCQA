@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {21} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Informal Learning}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Liberal Arts Colleges}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Undergraduate rectangle in this treemap?",
+            "A": "The value of the Undergraduate rectangle is {10.17}."
+        },
+        {
+            "Q": "What is the value of the Doctoral Programs rectangle in this treemap?",
+            "A": "The value of the Doctoral Programs rectangle is {12.64}."
+        },
+        {
+            "Q": "What is the value of the Skill Platforms rectangle in this treemap?",
+            "A": "The value of the Skill Platforms rectangle is {8.79}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.05}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Skill Platforms and Private Primary?",
+            "A": "The difference between Skill Platforms and Private Primary is {1.28}."
+        },
+        {
+            "Q": "What is the sum of the regions of MOOCs and Masters Programs?",
+            "A": "The sum of MOOCs and Masters Programs is {19.13}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Higher Education category in the treemap, which rectangular labels have a value exceeded 20.26? Please list the labels and values.",
+            "A": "{Postgraduate} has {23.63}"
+        },
+        {
+            "Q": "Under the Higher Education category in the treemap, which rectangular labels have a value below 13.54? Please list the labels and values.",
+            "A": "{Undergraduate} has {10.17}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Higher Education, Formal Education, or Postgraduate?",
+            "A": "The value of {Postgraduate} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Formal Education or Community Learning?",
+            "A": "The value of {Formal Education} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Informal Learning, Higher Education, or Formal Education?",
+            "A": "The value of {Informal Learning} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

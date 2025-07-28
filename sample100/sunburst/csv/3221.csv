@@ -1,0 +1,20 @@
+Energy and Utilities,Energy Distribution by Category (2020),%
+parent,child,value
+Root,Energy Consumption,53.05
+Energy Consumption,Industrial,27.28
+Industrial,Manufacturing,20.52
+Manufacturing,Cement Kilns,5.04
+Manufacturing,Steel Production,15.48
+Industrial,Mining,6.76
+Energy Consumption,Residential,25.77
+Residential,Heating,9.73
+Residential,Appliances,16.04
+Appliances,Refrigerators,6.89
+Appliances,Washing Machines,9.15
+Root,Energy Sources,26.87
+Energy Sources,Fossil Fuels,8.71
+Fossil Fuels,Coal,8.71
+Coal,Surface Mining,8.71
+Energy Sources,Renewables,18.16
+Root,Energy Infrastructure,20.08
+Energy Infrastructure,Transmission,20.08

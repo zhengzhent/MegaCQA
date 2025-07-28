@@ -1,0 +1,18 @@
+Tourism and Hospitality,Tourism Distribution by Category (2022),%
+parent,child,value
+Root,Travel Services,30.94
+Travel Services,Guided Tours,24.38
+Guided Tours,Adventure Tours,14.76
+Guided Tours,Cultural Tours,9.62
+Travel Services,Transportation,6.56
+Root,Destination Types,25.73
+Destination Types,Nature Tourism,9.88
+Destination Types,Urban Tourism,15.85
+Urban Tourism,City Landmarks,9.25
+Urban Tourism,Shopping Districts,6.6
+Root,Hospitality Services,43.32
+Hospitality Services,Lodging Options,43.32
+Lodging Options,Budget Hotels,43.32
+Budget Hotels,Shared Rooms,18.25
+Budget Hotels,Basic Amenities,6.15
+Budget Hotels,Express Check-in,18.93

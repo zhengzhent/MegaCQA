@@ -1,0 +1,17 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1312.2 350.3 1392.2 350.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1072.4 620.8 1152.4 620.8" fill="none" stroke="#000000"></polyline>
+<polyline points="988.6 891.3 1068.6 891.3" fill="none" stroke="#000000"></polyline>
+<polyline points="978.5 1161.8 1058.5 1161.8" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1146 484.5 582 484.5" fill="#FFF5E1" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="582 486.5 1146 486.5 998.8 755 729.2 755" fill="#FFE4B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="729.2 757 998.8 757 978.5 1025.5 749.5 1025.5" fill="#FFD27F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="749.5 1027.5 978.5 1027.5 978.5 1296 749.5 1296" fill="#FFC04A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1397.2044728434505" y="350.25" fill="#000000">Fan Engagement: 939</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1157.3987220447284" y="620.75" fill="#000000">Post-Event Feedback: 431</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1073.646645367412" y="891.25" fill="#000000">Merchandise Purchase: 206</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1063.5047923322684" y="1161.75" fill="#000000">Event Reattendance: 175</text>
+<path d="M-392.2578 -5l784.5156 0l0 58l-784.5156 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Sports Event Participation (Participants)</text>
+</svg>

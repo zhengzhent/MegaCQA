@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {2} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Oats}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Potatoes}."
+        },
+        {
+            "Q": "Which violin is the first position to the right of the violin Oats?",
+            "A": "The first position to the right of the violin Oats is {Potatoes}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Oats relative to the violin Potatoes in terms of horizontal (left/right) direction?",
+            "A": "violin Oats is to the {left} of the violin Potatoes."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Oats}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Oats}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Oats?",
+            "A": "The density distribution pattern of the Oats shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Oats in the violin plot?",
+            "A": "The median of Oats is {6105.50} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Oats in the violin plot?",
+            "A": "The upper quartile (Q3) of Oats is {7443.75} kilograms per hectare."
+        },
+        {
+            "Q": "What is the upper whisker limit of Oats in the violin plot?",
+            "A": "The upper whisker limit of Oats is {11689.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Potatoes in the violin plot?",
+            "A": "The largest upper outlier value in Potatoes is {10093.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum kilograms per hectare value in the violin plot?",
+            "A": "The global maximum kilograms per hectare value in the violin plot is {12749.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the global minimum kilograms per hectare value in the violin plot?",
+            "A": "The global minimum kilograms per hectare value in the violin plot is {2397.00} kilograms per hectare."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin Oats and Potatoes?",
+            "A": "The Q1 difference between violin Oats and Potatoes is {302.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the toal Median value of violin Potatoes and Oats?",
+            "A": "The total Median value of violin Potatoes and Potatoes is {11009.00} kilograms per hectare."
+        },
+        {
+            "Q": "What is the average Median value of violin Oats and Potatoes?",
+            "A": "The average Median value of violin Oats and Potatoes is {5504.50} kilograms per hectare."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 5504.50 kilograms per hectare? Please list the violins and corresponding values.",
+            "A": "{Oats} has {6105.50} kilograms per hectare "
+        },
+        {
+            "Q": "Which violins have median values below 5504.50 kilograms per hectare? Please list the violins and corresponding values.",
+            "A": "{Potatoes} has {4903.50} kilograms per hectare "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 5432.60 kilograms per hectare?",
+            "A": "Violin {Oats} has {6334.27} kilograms per hectare have their highest density peak exceed 5432.60 kilograms per hectare."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 5432.60 kilograms per hectare?",
+            "A": "Violin {Potatoes} has {4530.93} kilograms per hectare have their highest density peak below 5432.60 kilograms per hectare."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Potatoes or Oats ",
+            "A": "The median value of the {Oats} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Oats}."
+        }
+    ],
+    "VA": []
+}

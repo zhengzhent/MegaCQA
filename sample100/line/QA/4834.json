@@ -1,0 +1,148 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 2014, what is the vertical (above/below) relationship of the line representing Research & Development relative to Human Resources?",
+            "A": "In 2014, Research & Development is {above} Human Resources in the vertical direction."
+        },
+        {
+            "Q": "On Research & Development, what is the spatial relationship of the data point in 2009 relative to that in 2008 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Research & Development, the data point in 2009 is {above} and to the {right} of the data point in 2008."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Human Resources's Training Hours levels?",
+            "A": "Human Resources's training hours levels show a {exponential falling} trend."
+        },
+        {
+            "Q": "What is the trend of Research & Development's Training Hours levels?",
+            "A": "Research & Development's training hours levels show a {stable falling} trend."
+        },
+        {
+            "Q": "Which line shows a exponential falling trend in Training Hours levels?",
+            "A": "{Human Resources}."
+        },
+        {
+            "Q": "Which line shows a stable falling trend in Training Hours levels?",
+            "A": "{Research & Development}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Research & Development's Training Hours in 2015?",
+            "A": "Research & Development's training hours in 2015 is {17.25} hours/employee."
+        },
+        {
+            "Q": "What is Human Resources's Training Hours in 2007?",
+            "A": "Human Resources's training hours in 2007 is {10.01} hours/employee."
+        },
+        {
+            "Q": "What is Research & Development's Training Hours in 2007?",
+            "A": "Research & Development's training hours in 2007 is {14.15} hours/employee."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Training Hours in the line chart?",
+            "A": "The global minimum training hours is {3.61} hours/employee."
+        },
+        {
+            "Q": "What is the global maximum Training Hours in the line chart?",
+            "A": "The global maximum training hours is {18.21} hours/employee."
+        },
+        {
+            "Q": "What is the highest Training Hours level recorded for Human Resources?",
+            "A": "Human Resources reached approximately {11.05} hours/employee in {2006}."
+        },
+        {
+            "Q": "What is the lowest Training Hours level recorded for Human Resources?",
+            "A": "Human Resources's lowest recorded level is approximately {3.61} hours/employee in {2016}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the rate of change in Human Resources's Training Hours from the starting year to the final year?",
+            "A": "The rate of decline in Human Resources's training hours is {-66.79}%."
+        },
+        {
+            "Q": "What is the average value of Research & Development's Training Hours?",
+            "A": "The average value of Research & Development's training hours is {15.95} hours/employee."
+        },
+        {
+            "Q": "What is the rate of change in Research & Development's Training Hours from the starting year to the final year?",
+            "A": "The rate of growth in Research & Development's training hours is {31.39}%."
+        },
+        {
+            "Q": "What is the average value of Human Resources's Training Hours?",
+            "A": "The average value of Human Resources's training hours is {6.63} hours/employee."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Human Resources's Training Hours below 5 hours/employee? Please list the years and corresponding values.",
+            "A": "{3.61} hours/employee in {2016} year, {4.33} hours/employee in {2015} year, {3.67} hours/employee in {2017} year."
+        },
+        {
+            "Q": "Which years did Research & Development's Training Hours between 15 and 17 hours/employee? Please list the years and corresponding values.",
+            "A": "{15.68} hours/employee in {2011} year, {15.28} hours/employee in {2010} year, {16.13} hours/employee in {2012} year."
+        },
+        {
+            "Q": "In the year 2014, which line had Training Hours exceed 14 hours/employee? Please list the lines and corresponding values.",
+            "A": "{Research & Development} had {17} hours/employee."
+        },
+        {
+            "Q": "Which years did Research & Development's Training Hours exceed 16 hours/employee? Please list the years and corresponding values.",
+            "A": "{17.81} hours/employee in {2016} year, {16.48} hours/employee in {2013} year, {18.21} hours/employee in {2017} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "In 2016, which line had a higher Training Hours, {Research & Development} or {Human Resources}?",
+            "A": "In 2016, {Research & Development} had a higher training hours."
+        },
+        {
+            "Q": "Between 2007 and 2010, which line experienced a larger change in Training Hours, Human Resources or Research & Development?",
+            "A": "{Human Resources} experienced a larger change in training hours."
+        },
+        {
+            "Q": "Was Human Resources's Training Hours in 2012 higher or lower than in 2013?",
+            "A": "The training hours in 2012 was {higher} than in 2013."
+        },
+        {
+            "Q": "In 2010, which line had a higher Training Hours, {Research & Development} or {Human Resources}?",
+            "A": "In 2010, {Research & Development} had a higher training hours."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Human Resources}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 2013 and 2017?",
+            "A": "{Research & Development} has the fastest average growth rate between 2013 and 2017."
+        },
+        {
+            "Q": "Which label had the leading training hours since 2016?",
+            "A": "Since 2016, {Research & Development} had the leading training hours."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Human Resources. List the x-coordinates of data points to be preserved.(3 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {2006, 2013, 2017}."
+        }
+    ]
+}

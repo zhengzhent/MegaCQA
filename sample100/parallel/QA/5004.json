@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {6} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Historical significance (1-10) dimension, what is the spatial relationship of material  Civilization relative to front  Civilization in terms of vertical (above/below) direction?",
+            "A": "{material  Civilization} is {below} {front  Civilization} on the Historical significance (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the fourth position to the left of dimension Opinion leader count(verified accounts)?",
+            "A": "The fourth position to the left of Opinion leader count(verified accounts) is {Historical significance (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Opinion leader count(verified accounts)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Behavior change rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Media coverage (articles/month)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Behavior change rate (%) and dimension Historical significance (1-10)",
+            "A": "There is {Strong Correlation} between Behavior change rate (%) and Historical significance (1-10)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of material  Civilization on the Behavior change rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of material  Civilization on the Behavior change rate (%) dimension is {1.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label someone  Civilization across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of someone  Civilization across all dimensions is {1000.0}"
+        },
+        {
+            "Q": "What is the minimum value of label front  Civilization across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of front  Civilization across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Language adoption (new words)?",
+            "A": "The average value of Language adoption (new words) is {34.9}"
+        },
+        {
+            "Q": "What is the difference in coding Historical significance (1-10) between label front  Civilization and label cause  Culture",
+            "A": "The difference in coding Historical significance (1-10) between front  Civilization and cause  Culture is {0.64}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Policy influence index (1-10) dimension in the parallel coordinates?",
+            "A": "{[10.0, 7.26, 5.67]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Historical significance (1-10) dimension in the parallel coordinates?",
+            "A": "{[1.0, 2.21, 2.85]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Opinion leader count(verified accounts), which label has a higher score: material  Civilization or great  Culture?",
+            "A": "{great  Culture} has a higher score on Opinion leader count(verified accounts)."
+        },
+        {
+            "Q": "On Policy influence index (1-10), which label has a higher score: front  Civilization or cause  Culture?",
+            "A": "{front  Civilization} has a higher score on Policy influence index (1-10)."
+        },
+        {
+            "Q": "On Historical significance (1-10), which label has a higher score: material  Civilization or cause  Culture?",
+            "A": "{cause  Culture} has a higher score on Historical significance (1-10)."
+        },
+        {
+            "Q": "On Media coverage (articles/month), which label has a higher score: cause  Culture or available  Culture?",
+            "A": "{cause  Culture} has a higher score on Media coverage (articles/month)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Media coverage (articles/month)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Historical significance (1-10) being greater than 7.26 and Historical significance (1-10) being less than 4.21?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

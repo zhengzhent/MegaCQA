@@ -1,0 +1,20 @@
+Science and Engineering,Science Distribution by Category (2021),%
+parent,child,value
+Root,Physical Sciences,20.39
+Physical Sciences,Chemistry,14.41
+Chemistry,Inorganic Chemistry,7.75
+Chemistry,Organic Chemistry,6.66
+Physical Sciences,Physics,5.98
+Root,Life Sciences,45.01
+Life Sciences,Neuroscience,21.87
+Neuroscience,Neural Networks,6.47
+Neuroscience,Brain Function,15.4
+Brain Function,Learning and Memory,5.35
+Brain Function,Emotion,5.02
+Brain Function,Cognition,5.03
+Life Sciences,Biology,23.14
+Biology,Genetics,23.14
+Genetics,DNA Structure,10.4
+Genetics,Genetic Engineering,12.74
+Root,Applied Sciences,34.59
+Applied Sciences,Engineering,34.59

@@ -1,0 +1,10 @@
+Image Name: 14095.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\14095.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and well-organized, with each bar representing a different farm's fruit transportation flow in tons. The use of a gradient color scheme adds visual interest without detracting from the data. The labels for both the x-axis and y-axis are clear and legible, and the values are directly placed on top of each bar, making it easy to read the exact figures. The title is descriptive and provides context for the data.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization effectively uses a bar chart to represent the fruit transportation flow from different farms. The bars are clearly labeled with the corresponding values, and the gradient color scheme enhances visual appeal without compromising readability. The axis labels are clear, and the overall layout is organized, making it easy to compare the data across different farms.

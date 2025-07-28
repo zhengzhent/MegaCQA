@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {15} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Loft}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {Beach House}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Tiny House relative to the bar Eco-Home in terms of vetical (above/below) direction??",
+            "A": "Bar Tiny House is {above} the bar Eco-Home."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Eco-Home}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Waterfront Property}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Condo?",
+            "A": "The value of Condo is {409.9} thousand USD."
+        },
+        {
+            "Q": "What is the value of bar Waterfront Property?",
+            "A": "The value of Waterfront Property is {200.0} thousand USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand USD in the bar chart?",
+            "A": "The maximum thousand USD is {800.0} thousand USD."
+        },
+        {
+            "Q": "What is the minimum thousand USD in the bar chart?",
+            "A": "The minimum thousand USD is {200.0} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Bungalow and Condo?",
+            "A": "The total value of Bungalow and Condo is {894.0999999999999} thousand USD."
+        },
+        {
+            "Q": "What is the average value of Single-Family Home and Apartment?",
+            "A": "The average value of Single-Family Home and Apartment is {724.8} thousand USD."
+        },
+        {
+            "Q": "What is the difference between Beach House and Waterfront Property?",
+            "A": "The difference between Beach House and Waterfront Property is {58.5} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand USD values exceed 734.35 thousand USD? Please list the bars and corresponding thousand USD values?",
+            "A": "{Single-Family Home} has {744.7} thousand USD, {Eco-Home} has {800.0} thousand USD."
+        },
+        {
+            "Q": "Which bars have {thousand USD} values below 268.00 thousand USD? Please list the bars and corresponding thousand USD values?",
+            "A": "{Waterfront Property} has {200.0} thousand USD, {Beach House} has {258.5} thousand USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Apartment or Farmhouse ",
+            "A": "The value of the {Apartment} is larger?"
+        },
+        {
+            "Q": "Which is larger, Garden Apartment, Eco-Home or Bungalow ",
+            "A": "The value of the {Eco-Home} is larger?"
+        },
+        {
+            "Q": "Which is larger, Farmhouse, Penthouse, Co-op or Mansion ",
+            "A": "The value of the {Penthouse} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {8} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Apartment} and {Waterfront Property}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Eco-Home}, {Single-Family Home}, and {Garden Apartment}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand USD value descending: {Eco-Home}, {Single-Family Home}, {Garden Apartment}, {Apartment}, {Penthouse}, {Co-op}, {Loft}, {Townhouse}, {Bungalow}, {Tiny House}, {Mansion}, {Condo}, {Farmhouse}, {Beach House}, and {Waterfront Property}."
+        },
+        {
+            "Q": "Sort the bars by thousand USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand USD value ascending: {Waterfront Property}, {Beach House}, {Farmhouse}, {Condo}, {Mansion}, {Tiny House}, {Bungalow}, {Townhouse}, {Loft}, {Co-op}, {Penthouse}, {Apartment}, {Garden Apartment}, {Single-Family Home}, and {Eco-Home}."
+        }
+    ]
+}

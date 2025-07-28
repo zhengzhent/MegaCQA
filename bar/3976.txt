@@ -1,0 +1,10 @@
+Image Name: 3976.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\3976.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is well-organized with clear, distinct colors for each city, making it easy to differentiate between them. The labels are legible, and the values are directly placed at the end of each bar, which aids in quick comprehension. The title and axis labels are clear and provide context for the data being presented.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 5/5
+Score Reason: The visualization is clear and effectively uses color coding to differentiate between the cities. The horizontal bar chart format allows for easy comparison of the number of students across different cities. The labels are legible, and the values are clearly indicated, making it straightforward to interpret the data.

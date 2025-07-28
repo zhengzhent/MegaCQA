@@ -1,0 +1,123 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {3} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Westport}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Dunvale}."
+        },
+        {
+            "Q": "Which violin is the second position to the left of the violin Dunvale?",
+            "A": "The second position to the left of the violin Dunvale is {Westport}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Westport relative to the violin Lakeview in terms of horizontal (left/right) direction?",
+            "A": "violin Westport is to the {left} of the violin Lakeview."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Dunvale}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Dunvale}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Dunvale?",
+            "A": "The density distribution pattern of the Dunvale shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Dunvale in the violin plot?",
+            "A": "The median of Dunvale is {1125.50} Number."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Westport in the violin plot?",
+            "A": "The upper quartile (Q3) of Westport is {1028.25} Number."
+        },
+        {
+            "Q": "What is the upper whisker limit of Lakeview in the violin plot?",
+            "A": "The upper whisker limit of Lakeview is {1615.00} Number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number value in the violin plot?",
+            "A": "The global maximum Number value in the violin plot is {1843.00} Number."
+        },
+        {
+            "Q": "What is the global minimum Number value in the violin plot?",
+            "A": "The global minimum Number value in the violin plot is {2.00} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Dunvale and Westport?",
+            "A": "The Q3 difference between violin Dunvale and Westport is {251.25} Number."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin Dunvale and Lakeview?",
+            "A": "The total Q3 value of violin Dunvale and Dunvale is {2376.75} Number."
+        },
+        {
+            "Q": "What is the average Median value of violin Westport and Dunvale?",
+            "A": "The average Median value of violin Westport and Dunvale is {980.75} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 851.75 Number? Please list the violins and corresponding values.",
+            "A": "{Lakeview} has {867.50} Number , {Dunvale} has {1125.50} Number "
+        },
+        {
+            "Q": "Which violins have median values below 996.50 Number? Please list the violins and corresponding values.",
+            "A": "{Westport} has {836.00} Number , {Lakeview} has {867.50} Number "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 578.62 Number and the upper quartile (Q3) below 1188.38 Number?",
+            "A": "Violin {Westport} has the Q1 above 578.62 Number and the Q3 below 1188.375 Number."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 910.55 Number?",
+            "A": "Violin {Lakeview} has {970.77} Number ,{Dunvale} has {1194.15} Number have their highest density peak exceed 910.55 Number."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 1082.46 Number?",
+            "A": "Violin {Westport} has {850.32} Number ,{Lakeview} has {970.77} Number have their highest density peak below 1082.46 Number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Westport or Dunvale ",
+            "A": "The median value of the {Dunvale} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Westport, Lakeview or Dunvale ",
+            "A": "The median value of the {Dunvale} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Lakeview}."
+        }
+    ],
+    "VA": []
+}

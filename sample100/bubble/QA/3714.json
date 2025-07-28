@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {14} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Average customer order frequency of 1.54 relative to the bubble with a Average customer order frequency of 7.00 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Average customer order frequency of 1.54 is {below} and to the {left} of the bubble with a Average customer order frequency of 7.00."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Ingredient cost and Profit margin?",
+            "A": "The highest concentration of bubbles corresponds to approximately {5.61} $ per unit and {51.63} %."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Average customer order frequency of the largest bubble?",
+            "A": "The Average customer order frequency of the largest bubble is {7.00} times/week."
+        },
+        {
+            "Q": "What is the Average customer order frequency of the smallest bubble?",
+            "A": "The Average customer order frequency of the smallest bubble is {1.00} times/week."
+        },
+        {
+            "Q": "What are the Ingredient cost and Profit margin values of the largest bubble?",
+            "A": "The Ingredient cost of the largest bubble is {5.61} $ per unit, and {Profit margin} is {51.63} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Average customer order frequency in the bubble chart?",
+            "A": "The global maximum Average customer order frequency is {7.00} times/week."
+        },
+        {
+            "Q": "What is the global minimum Average customer order frequency in the bubble chart?",
+            "A": "The global minimum Average customer order frequency is {1.00} times/week."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Ingredient cost in the bubble chart?",
+            "A": "The maximum observed value in the Ingredient cost dimension is {10.05} $ per unit."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Ingredient cost in the bubble chart?",
+            "A": "The minimum observed value in the Ingredient cost dimension is {0.10} $ per unit."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Profit margin in the bubble chart?",
+            "A": "The maximum observed value in the Profit margin dimension is {60.83} %."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Profit margin in the bubble chart?",
+            "A": "The minimum observed value in the Profit margin dimension is {4.96} %."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Average customer order frequency for all bubbles?",
+            "A": "The average value of the Average customer order frequency for all bubbles is {2.06} times/week."
+        },
+        {
+            "Q": "What is the average value of the Ingredient cost for all bubbles?",
+            "A": "The average value of Ingredient cost for all bubbles is {4.62} $ per unit."
+        },
+        {
+            "Q": "What is the average value of the Profit margin for all bubbles?",
+            "A": "The average value of Profit margin for all bubbles is {39.06} %."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Average customer order frequency values in the bubble chart?",
+            "A": "{7.00, 4.24, 2.72} times/week."
+        },
+        {
+            "Q": "What are the bottom 3 Average customer order frequency values in the bubble chart?",
+            "A": "{1.00, 1.06, 1.10} times/week."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Average customer order frequency value, the bubble with a Ingredient cost of 7.8 $ per unit and a Profit margin of 5.0 %, or the bubble with a Ingredient cost of 1.5 $ per unit and a Profit margin of 60.8 %?",
+            "A": "The bubble with a Ingredient cost of {7.8} and a Profit margin of {5.0} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Average customer order frequency value of the bubble with the largest Profit margin value?",
+            "A": "The Average customer order frequency value of the bubble with the largest Profit margin is {2.72}."
+        },
+        {
+            "Q": "What is the Average customer order frequency value of the bubble with the largest Ingredient cost value?",
+            "A": "The Average customer order frequency value of the bubble with the largest Ingredient cost is {1.10}."
+        },
+        {
+            "Q": "Classify bubbles with a Profit margin-coordinate greater than 40 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Average customer order frequency for the high value group and the low value group?",
+            "A": "The difference between the total Average customer order frequency of the high-value and low-value groups is {8.49}."
+        }
+    ],
+    "VA": []
+}

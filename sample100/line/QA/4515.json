@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {1} lines."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the trend of Stellar City Core's Vaccination Rate levels?",
+            "A": "Stellar City Core's vaccination rate levels show a {single peak} trend."
+        },
+        {
+            "Q": "Which line shows a single peak trend in Vaccination Rate levels?",
+            "A": "{Stellar City Core}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Stellar City Core's Vaccination Rate in 1986?",
+            "A": "Stellar City Core's vaccination rate in 1986 is {100} %."
+        },
+        {
+            "Q": "What is Stellar City Core's Vaccination Rate in 1987?",
+            "A": "Stellar City Core's vaccination rate in 1987 is {100} %."
+        },
+        {
+            "Q": "What is Stellar City Core's Vaccination Rate in 1988?",
+            "A": "Stellar City Core's vaccination rate in 1988 is {100} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Vaccination Rate in the line chart?",
+            "A": "The global minimum vaccination rate is {100} %."
+        },
+        {
+            "Q": "What is the global maximum Vaccination Rate in the line chart?",
+            "A": "The global maximum vaccination rate is {100} %."
+        },
+        {
+            "Q": "What is the highest Vaccination Rate level recorded for Stellar City Core?",
+            "A": "Stellar City Core reached approximately {100.00} % in {1985}."
+        },
+        {
+            "Q": "What is the lowest Vaccination Rate level recorded for Stellar City Core?",
+            "A": "Stellar City Core's lowest recorded level is approximately {100.00} % in {1985}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Stellar City Core's Vaccination Rate?",
+            "A": "The average value of Stellar City Core's vaccination rate is {100.00} %."
+        },
+        {
+            "Q": "What is the rate of change in Stellar City Core's Vaccination Rate from the starting year to the final year?",
+            "A": "The rate of no change in Stellar City Core's vaccination rate is {0.00}%."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Was Stellar City Core's Vaccination Rate in 1985 higher or lower than in 1989?",
+            "A": "The vaccination rate in 1985 was {the same} than in 1989."
+        },
+        {
+            "Q": "Was Stellar City Core's Vaccination Rate in 1986 higher or lower than in 1988?",
+            "A": "The vaccination rate in 1986 was {the same} than in 1988."
+        },
+        {
+            "Q": "Was Stellar City Core's Vaccination Rate in 1987 higher or lower than in 1989?",
+            "A": "The vaccination rate in 1987 was {the same} than in 1989."
+        },
+        {
+            "Q": "Was Stellar City Core's Vaccination Rate in 1986 higher or lower than in 1989?",
+            "A": "The vaccination rate in 1986 was {the same} than in 1989."
+        }
+    ],
+    "MSR": [],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Stellar City Core. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1985, 1989}."
+        }
+    ]
+}

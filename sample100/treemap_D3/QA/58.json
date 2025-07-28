@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {19} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Workplace Wellbeing}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Job Posting}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Goal Setting rectangle in this treemap?",
+            "A": "The value of the Goal Setting rectangle is {7.77}."
+        },
+        {
+            "Q": "What is the value of the Training Programs rectangle in this treemap?",
+            "A": "The value of the Training Programs rectangle is {19.88}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.12}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Skill Workshops and Employee Assistance?",
+            "A": "The difference between Skill Workshops and Employee Assistance is {2.67}."
+        },
+        {
+            "Q": "What is the sum of the regions of Training Programs and Online Learning?",
+            "A": "The sum of Training Programs and Online Learning is {28.55}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Health & Safety category in the treemap, which rectangular labels have a value exceeded 12.31? Please list the labels and values.",
+            "A": "{Ergonomics} has {13.72}"
+        },
+        {
+            "Q": "Under the Health & Safety category in the treemap, which rectangular labels have a value below 9.49? Please list the labels and values.",
+            "A": "{Emergency Response} has {8.08}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Employee Development, Employee Lifecycle, or Health & Safety?",
+            "A": "The value of {Health & Safety} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Workplace Wellbeing or Employee Development?",
+            "A": "The value of {Workplace Wellbeing} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Employee Lifecycle or Recruitment?",
+            "A": "The value of {Employee Lifecycle} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Workplace Wellbeing, Employee Development, or Employee Lifecycle?",
+            "A": "The value of {Workplace Wellbeing} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

@@ -1,0 +1,147 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stacked bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this stacked bar chart?",
+            "A": "There are {4} bars."
+        },
+        {
+            "Q": "How many stacked segments are in bar Glenhaven of this stacked bar chart?",
+            "A": "There are {4} stacked bars."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this stacked bar chart a horizontal stacked bar chart or a vertical stacked bar chart?",
+            "A": "The stacked bar chart is a {vertical} stacked bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Westport}"
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The leftmost bar represents {Glenhaven}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Zephyr relative to the bar Westport in terms of horizontal (left/right) direction?",
+            "A": "Bar Zephyr is to the {right} of the bar Westport."
+        },
+        {
+            "Q": "In the stacked bar of Zephyr, What is the spatial relationship of segment Oats relative to the segment Corn in terms of vertical (above/below) direction?",
+            "A": "Oats segment is positioned {above} the Corn segment."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which Cities has the highest bar in this stacked bar chart?",
+            "A": "The Cities with the highest bar is {Lakeview}."
+        },
+        {
+            "Q": "Which Cities has the lowest bar in this stacked bar chart?",
+            "A": "The Cities with the lowest bar is {Glenhaven}."
+        },
+        {
+            "Q": "In the stacked bar representing Glenhaven, which segment has the highest value?",
+            "A": "The segment with the highest value is {Barley}."
+        },
+        {
+            "Q": "In the stacked bar representing Zephyr, which segment has the lowest value?",
+            "A": "The segment with the lowest value is {Barley}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Corn segment within the Westport bar in the stacked bar chart?",
+            "A": "The value of the Corn segment is {82.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the value of the Potato segment within the Glenhaven bar in the stacked bar chart?",
+            "A": "The value of the Potato segment is {40.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the value of the Potato segment within the Lakeview bar in the stacked bar chart?",
+            "A": "The value of the Potato segment is {119.00} thousand tonnes."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand tonnes among the stacked segments of bar Glenhaven?",
+            "A": "The maximum thousand tonnes among the stacked segments of bar Glenhaven is {133} thousand tonnes."
+        },
+        {
+            "Q": "What is the minimum thousand tonnes among the stacked segments of bar Lakeview?",
+            "A": "The minimum thousand tonnes among the stacked segments of bar Lakeview is {40} thousand tonnes."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the maximum thousand tonnes of the segment Corn among the bars?",
+            "A": "The maximum thousand tonnes among the bars of segment Corn is {170} thousand tonnes."
+        },
+        {
+            "Q": "In the stacked bar chart, what is the minimum thousand tonnes of the segment Potato among the bars?",
+            "A": "The minimum thousand tonnes among the bars of segment Potato is {40} thousand tonnes."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the bar Lakeview?",
+            "A": "The total value of bar Lakeview is {369.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the total value of the bar Westport?",
+            "A": "The total value of bar Westport is {268.00} thousand tonnes."
+        },
+        {
+            "Q": "What is the total value of all columns?",
+            "A": "The total value of columns is {1188} thousand tonnes."
+        },
+        {
+            "Q": "What is the difference between total value of bar Glenhaven and Lakeview?",
+            "A": "The difference between between total value of bar Glenhaven and Lakeview is {116} thousand tonnes."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have total thousand tonnes values exceed 333.50 thousand tonnes? Please list the bar and corresponding values.",
+            "A": "{Lakeview} has {369} thousand tonnes"
+        },
+        {
+            "Q": "Which bars have total thousand tonnes values below 260.50 thousand tonnes? Please list the bar and corresponding values.",
+            "A": "{Glenhaven} has {253} thousand tonnes"
+        },
+        {
+            "Q": "For bar Lakeview in the stacked bar chart, which segment have thousand tonnes value between 20.0 and 144.5? Please list the segment and corresponding values.",
+            "A": "{Barley} has {40} thousand tonnes, {Oats} has {40} thousand tonnes, {Potato} has {119} thousand tonnes."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the total thousand tonnes of Zephyr or Westport?",
+            "A": "The total thousand tonnes of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the total thousand tonnes of Westport, Glenhaven or Zephyr?",
+            "A": "The total thousand tonnes of the {Zephyr} is larger."
+        },
+        {
+            "Q": "In the bar Lakeview, which has a larger thousand tonnes value: Potato or Oats?",
+            "A": "{Potato} has the larger thousand tonnes value."
+        },
+        {
+            "Q": "In the bar Lakeview, which has a larger thousand tonnes value: Barley, Corn or Potato?",
+            "A": "{Corn} has the larger thousand tonnes value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Ranking bar by the value of segment Corn in descending order, which are the top three countries(if the number of bars is less 3,list the existing bars in descending order)?",
+            "A": "The top three bar ranked by the value of segment Corn are: {Lakeview}, {Zephyr}, {Westport}."
+        }
+    ],
+    "VA": []
+}

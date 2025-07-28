@@ -1,0 +1,148 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {2} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Aegis Corp, what is the spatial relationship of the data point in 1951 relative to that in 1958 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Aegis Corp, the data point in 1951 is {below} and to the {left} of the data point in 1958."
+        },
+        {
+            "Q": "In 1953, what is the vertical (above/below) relationship of the line representing Apex Systems relative to Aegis Corp?",
+            "A": "In 1953, Apex Systems is {below} Aegis Corp in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Apex Systems's Net Profit Margin levels?",
+            "A": "Apex Systems's net profit margin levels show a {volatile falling} trend."
+        },
+        {
+            "Q": "What is the trend of Aegis Corp's Net Profit Margin levels?",
+            "A": "Aegis Corp's net profit margin levels show a {stable falling} trend."
+        },
+        {
+            "Q": "Which line shows a volatile falling trend in Net Profit Margin levels?",
+            "A": "{Apex Systems}."
+        },
+        {
+            "Q": "Which line shows a stable falling trend in Net Profit Margin levels?",
+            "A": "{Aegis Corp}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Apex Systems's Net Profit Margin in 1955?",
+            "A": "Apex Systems's net profit margin in 1955 is {10.56} %."
+        },
+        {
+            "Q": "What is Aegis Corp's Net Profit Margin in 1956?",
+            "A": "Aegis Corp's net profit margin in 1956 is {19.66} %."
+        },
+        {
+            "Q": "What is Aegis Corp's Net Profit Margin in 1958?",
+            "A": "Aegis Corp's net profit margin in 1958 is {20.55} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Net Profit Margin in the line chart?",
+            "A": "The global minimum net profit margin is {7.82} %."
+        },
+        {
+            "Q": "What is the global maximum Net Profit Margin in the line chart?",
+            "A": "The global maximum net profit margin is {20.55} %."
+        },
+        {
+            "Q": "What is the highest Net Profit Margin level recorded for Aegis Corp?",
+            "A": "Aegis Corp reached approximately {20.55} % in {1958}."
+        },
+        {
+            "Q": "What is the lowest Net Profit Margin level recorded for Aegis Corp?",
+            "A": "Aegis Corp's lowest recorded level is approximately {16.55} % in {1950}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Apex Systems's Net Profit Margin?",
+            "A": "The average value of Apex Systems's net profit margin is {11.38} %."
+        },
+        {
+            "Q": "What is the rate of change in Apex Systems's Net Profit Margin from the starting year to the final year?",
+            "A": "The rate of decline in Apex Systems's net profit margin is {-47.83}%."
+        },
+        {
+            "Q": "What is the average value of Aegis Corp's Net Profit Margin?",
+            "A": "The average value of Aegis Corp's net profit margin is {18.57} %."
+        },
+        {
+            "Q": "What is the rate of change in Aegis Corp's Net Profit Margin from the starting year to the final year?",
+            "A": "The rate of growth in Aegis Corp's net profit margin is {24.17}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Apex Systems's Net Profit Margin below 10 %? Please list the years and corresponding values.",
+            "A": "{8.74} % in {1957} year, {7.82} % in {1958} year."
+        },
+        {
+            "Q": "Which years did Aegis Corp's Net Profit Margin exceed 18 %? Please list the years and corresponding values.",
+            "A": "{20.11} % in {1957} year, {19.06} % in {1955} year, {19.66} % in {1956} year."
+        },
+        {
+            "Q": "Which years did Aegis Corp's Net Profit Margin between 18 and 19 %? Please list the years and corresponding values.",
+            "A": "{19.06} % in {1955} year, {18.59} % in {1954} year, {18.14} % in {1953} year."
+        },
+        {
+            "Q": "Which years did Apex Systems's Net Profit Margin exceed 13 %? Please list the years and corresponding values.",
+            "A": "{13.99} % in {1951} year, {14.99} % in {1950} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Aegis Corp's Net Profit Margin in 1955 higher or lower than in 1958?",
+            "A": "The net profit margin in 1955 was {lower} than in 1958."
+        },
+        {
+            "Q": "Between 1951 and 1958, which line experienced a larger change in Net Profit Margin, Aegis Corp or Apex Systems?",
+            "A": "{Apex Systems} experienced a larger change in net profit margin."
+        },
+        {
+            "Q": "In 1958, which line had a higher Net Profit Margin, {Apex Systems} or {Aegis Corp}?",
+            "A": "In 1958, {Aegis Corp} had a higher net profit margin."
+        },
+        {
+            "Q": "Was Apex Systems's Net Profit Margin in 1950 higher or lower than in 1954?",
+            "A": "The net profit margin in 1950 was {higher} than in 1954."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Apex Systems}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1953 and 1956?",
+            "A": "{Aegis Corp} has the fastest average growth rate between 1953 and 1956."
+        },
+        {
+            "Q": "Which label had the leading net profit margin since 1957?",
+            "A": "Since 1957, {Aegis Corp} had the leading net profit margin."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Aegis Corp. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1950, 1958}."
+        }
+    ]
+}

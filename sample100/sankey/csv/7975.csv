@@ -1,0 +1,39 @@
+Human Resources and Employee Management,Employee Management System,Employees,random,Onboarding Steps,Employee Types,Performance Ratings,Interview Stages
+Source,Target,Value
+Orientation,Intern,447
+Orientation,Full-time,395
+Orientation,Part-time,305
+Mentorship Assignment,Intern,894
+Mentorship Assignment,Full-time,812
+Mentorship Assignment,Part-time,1335
+Document Verification,Intern,359
+Document Verification,Full-time,1097
+Document Verification,Part-time,1406
+Intern,Good,211
+Intern,Excellent,78
+Intern,Below Average,716
+Intern,Average,695
+Full-time,Good,123
+Full-time,Excellent,645
+Full-time,Below Average,806
+Full-time,Average,730
+Part-time,Good,125
+Part-time,Excellent,833
+Part-time,Below Average,1131
+Part-time,Average,957
+Good,Final Interview,158
+Good,Phone Screen,207
+Good,HR Interview,33
+Good,Technical Interview,61
+Excellent,Final Interview,300
+Excellent,Phone Screen,830
+Excellent,HR Interview,317
+Excellent,Technical Interview,109
+Below Average,Final Interview,485
+Below Average,Phone Screen,872
+Below Average,HR Interview,827
+Below Average,Technical Interview,469
+Average,Final Interview,149
+Average,Phone Screen,1033
+Average,HR Interview,1051
+Average,Technical Interview,149

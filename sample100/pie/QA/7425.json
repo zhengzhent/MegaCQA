@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {5} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice PhD Thesis?",
+            "A": "The next slice clockwise from slice PhD Thesis is {Publication}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice PhD Thesis?",
+            "A": "The next slice counterclockwise from slice PhD Thesis is {Innovative Solution}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which discipline-wise has the largest proportion in this pie chart?",
+            "A": "The discipline-wise with the largest proportion is {Research Grant}."
+        },
+        {
+            "Q": "Which discipline-wise has the smallest proportion in this pie chart?",
+            "A": "The discipline-wise with the smallest proportion is {Collaborative Research}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Publication slice in this pie chart?",
+            "A": "The value of the Publication slice is {25}%."
+        },
+        {
+            "Q": "What is the value of the Research Grant slice in this pie chart?",
+            "A": "The value of the Research Grant slice is {25}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {25}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {13}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Innovative Solution and PhD Thesis in this pie chart?",
+            "A": "The difference between Innovative Solution and PhD Thesis is {11}%."
+        },
+        {
+            "Q": "What is the sum of the values of Research Grant and Collaborative Research in this pie chart?",
+            "A": "The sum of Research Grant and Collaborative Research is {38}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 20.0%? Please list the category names and corresponding percentages.",
+            "A": "{Research Grant} accounts for {25}% and {Publication} accounts for {25}% and {PhD Thesis} accounts for {24}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 20.0%? Please list the category names and corresponding percentages.",
+            "A": "{Innovative Solution} accounts for {13}% and {Collaborative Research} accounts for {13}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Publication, PhD Thesis, or Innovative Solution?",
+            "A": "The value of {Innovative Solution} is smaller."
+        },
+        {
+            "Q": "Which has the largest value: Research Grant, Publication, PhD Thesis, or Collaborative Research?",
+            "A": "The value of {Research Grant} is the largest."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {13} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Quarryville}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {Highvale}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Dunvale relative to the bar Pinehaven in terms of vetical (above/below) direction??",
+            "A": "Bar Dunvale is  {below} the bar Pinehaven."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Highvale}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Ironwood}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Highvale?",
+            "A": "The value of Highvale is {1337} Number."
+        },
+        {
+            "Q": "What is the value of bar Pinehaven?",
+            "A": "The value of Pinehaven is {522} Number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum Number in the bar chart?",
+            "A": "The maximum Number is {1337} Number."
+        },
+        {
+            "Q": "What is the minimum Number in the bar chart?",
+            "A": "The minimum Number is {162} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Elmhurst and Lakeview?",
+            "A": "The total value of Elmhurst and Lakeview is {666} Number."
+        },
+        {
+            "Q": "What is the average value of Highvale and Northgate?",
+            "A": "The average value of Highvale and Northgate is {1328.5} Number."
+        },
+        {
+            "Q": "What is the difference between Brookfield and Pinehaven?",
+            "A": "The difference between Brookfield and Pinehaven is {244} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have Number values exceed 1248.00 Number? Please list the bars and corresponding Number values?",
+            "A": "{Northgate} has {1320} Number, {Highvale} has {1337} Number."
+        },
+        {
+            "Q": "Which bars have {Number} values below 258.00 Number? Please list the bars and corresponding Number values?",
+            "A": "{Ironwood} has {162} Number, {Quarryville} has {245} Number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Lakeview or Zephyr ",
+            "A": "The value of the {Zephyr} is larger?"
+        },
+        {
+            "Q": "Which is larger, Highvale, Brookfield or Pinehaven ",
+            "A": "The value of the {Highvale} is larger?"
+        },
+        {
+            "Q": "Which is larger, Lakeview, Zephyr, Rosewood or Brookfield ",
+            "A": "The value of the {Zephyr} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {6} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Northgate} and {Pinehaven}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Highvale}, {Northgate}, and {Zephyr}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by Number values in descending order and list the labels from left to right.",
+            "A": "Sorted by Number value descending: {Highvale}, {Northgate}, {Zephyr}, {Dunvale}, {Rosewood}, {Fairmont}, {Pinehaven}, {Westport}, {Elmhurst}, {Brookfield}, {Lakeview}, {Quarryville}, and {Ironwood}."
+        },
+        {
+            "Q": "Sort the bars by Number values in ascending order and list the labels from left to right.",
+            "A": "Sorted by Number value ascending: {Ironwood}, {Quarryville}, {Lakeview}, {Brookfield}, {Elmhurst}, {Westport}, {Pinehaven}, {Fairmont}, {Rosewood}, {Dunvale}, {Zephyr}, {Northgate}, and {Highvale}."
+        }
+    ]
+}

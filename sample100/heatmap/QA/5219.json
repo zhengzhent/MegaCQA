@@ -1,0 +1,89 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {81} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {9} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {horizontal gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Compensation and Culture in the heatmap?",
+            "A": "The heat value is {0.30}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Performance and Wellbeing in the heatmap?",
+            "A": "The heat value is {0.50}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Retention and Turnover in the heatmap?",
+            "A": "The heat value is {0.70}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.75}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.24}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Culture on the y-axis?",
+            "A": "The maximum heat value for Culture on the y-axis is {0.72}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Diversity on the y-axis?",
+            "A": "The maximum heat value for Diversity on the y-axis is {0.73}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Recruitment on the x-axis?",
+            "A": "The average heat value for Recruitment on the x-axis is {0.61}."
+        },
+        {
+            "Q": "What is the average heat value for label Culture on the y-axis?",
+            "A": "The average heat value for Culture on the y-axis is {0.50}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Diversity & Inclusion and Skills Gap or the cell corresponding to Workplace Safety and Turnover?",
+            "A": "The cell corresponding to {Workplace Safety} and {Turnover} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Performance and Training Hours or the cell corresponding to Diversity & Inclusion and Turnover?",
+            "A": "The cell corresponding to {Performance} and {Training Hours} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.30 to 0.39?",
+            "A": "The cells are: {(Diversity & Inclusion, Absenteeism), (HR Tech, Absenteeism), (Benefits, Culture), (Diversity & Inclusion, Culture), (HR Tech, Culture), (Diversity & Inclusion, Diversity), (HR Tech, Diversity), (Compensation, Leadership), (Diversity & Inclusion, Leadership), (HR Tech, Leadership), (Diversity & Inclusion, Satisfaction), (HR Tech, Satisfaction), (Diversity & Inclusion, Skills Gap), (HR Tech, Skills Gap), (Compensation, Training Hours), (HR Tech, Training Hours), (Diversity & Inclusion, Turnover), (HR Tech, Turnover), (Diversity & Inclusion, Wellbeing), (HR Tech, Wellbeing)}."
+        }
+    ],
+    "VA": []
+}

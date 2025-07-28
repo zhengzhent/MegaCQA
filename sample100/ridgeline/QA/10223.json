@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {3} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Biomass relative to the peak of Hydroelectric in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Biomass is to the {right} of the peak of Hydroelectric."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Hybrid Systems show?",
+            "A": "The ridgeline representing Hybrid Systems shows a {Single Peak Distribution}."
+        },
+        {
+            "Q": "At what value do  Hydroelectric reach its peaks?",
+            "A": "At {77.68}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Hybrid Systems} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =15.2?",
+            "A": "At X =15.2,the label with the highest density is {Hybrid Systems}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 73? Please list the countries and corresponding peak values.",
+            "A": "{Biomass}'s peak at {85},{Hydroelectric}'s peak at {78}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 58? Please list the countries and corresponding peak values.",
+            "A": "{Hybrid Systems}'s peak at {7}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Hybrid Systems or Biomass?",
+            "A": "{Biomass} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Biomass or Hydroelectric?",
+            "A": "{Biomass} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Hybrid Systems or Hydroelectric?",
+            "A": "{Hydroelectric} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {2} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Hybrid Systems}"
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {6} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Security Checks relative to Documentation Errors?",
+            "A": "Security Checks is {above} Documentation Errors in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Customs Clearance relative to Sanitary Inspections?",
+            "A": "Customs Clearance is {above} Sanitary Inspections in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Security Checks relative to Sanitary Inspections?",
+            "A": "Security Checks is {above} Sanitary Inspections in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total cross-border delays?",
+            "A": "The series with the largest contribution is {Sanitary Inspections}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total cross-border delays?",
+            "A": "The series with the smallest contribution is {Tariff Negotiations}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is Tariff Negotiations's maximum Cross-Border Delays in the streamgraph?",
+            "A": "Tariff Negotiations's maximum Cross-Border Delays is in {2021}."
+        },
+        {
+            "Q": "Which year is Documentation Errors's maximum Cross-Border Delays in the streamgraph?",
+            "A": "Documentation Errors's maximum Cross-Border Delays is in {2020}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Was the total Cross-Border Delays in 2010 higher or lower than in 2014?",
+            "A": "The total cross-border delays in 2010 was {higher} than in 2014."
+        },
+        {
+            "Q": "Was the total Cross-Border Delays in 2020 higher or lower than in 2021?",
+            "A": "The total cross-border delays in 2020 was {higher} than in 2021."
+        },
+        {
+            "Q": "Was the total Cross-Border Delays in 2010 higher or lower than in 2013?",
+            "A": "The total cross-border delays in 2010 was {higher} than in 2013."
+        },
+        {
+            "Q": "Was the total Cross-Border Delays in 2013 higher or lower than in 2017?",
+            "A": "The total cross-border delays in 2013 was {lower} than in 2017."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{Sanitary Inspections} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did Customs Clearance and Political Disruptions first exchange dominant positions?",
+            "A": "Customs Clearance and Political Disruptions first exchanged leading positions in {2011}."
+        }
+    ],
+    "VA": []
+}

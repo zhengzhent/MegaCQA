@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {7} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {TrueNorth}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {SmartHub}."
+        },
+        {
+            "Q": "Which violin is the first position to the left of the violin BrightEdge?",
+            "A": "The first position to the left of the violin BrightEdge is {EcoCore}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin TrueNorth relative to the violin PrimeVue in terms of horizontal (left/right) direction?",
+            "A": "violin TrueNorth is to the {left} of the violin PrimeVue."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {SmartHub}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {SmartHub}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing PrimeVue?",
+            "A": "The density distribution pattern of the PrimeVue shows a {normal} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of TrueNorth in the violin plot?",
+            "A": "The median of TrueNorth is {45841.00} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of BrightEdge in the violin plot?",
+            "A": "The lower quartile (Q1) of BrightEdge is {32940.50} USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of EcoCore in the violin plot?",
+            "A": "The upper whisker limit of EcoCore is {80087.00} USD."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in EcoCore in the violin plot?",
+            "A": "The lowest upper outlier value in EcoCore is {4841.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the violin plot?",
+            "A": "The global maximum USD value in the violin plot is {107204.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the violin plot?",
+            "A": "The global minimum USD value in the violin plot is {159.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between violin TrueNorth and EcoCore?",
+            "A": "The Median difference between violin TrueNorth and EcoCore is {997.00} USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin BrightEdge and TrueNorth?",
+            "A": "The total Q1 value of violin BrightEdge and SmartHub is {72105.00} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of violin EcoCore and PureSync?",
+            "A": "The average Q1 value of violin EcoCore and PureSync is {34927.88} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 57807.50 USD? Please list the violins and corresponding values.",
+            "A": "{SmartHub} has {60679.50} USD "
+        },
+        {
+            "Q": "Which violins have median values below 46339.50 USD? Please list the violins and corresponding values.",
+            "A": "{TrueNorth} has {45841.00} USD , {PureSync} has {40048.50} USD , {BrightEdge} has {45825.50} USD "
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 62449.26 USD?",
+            "A": "Violin {SmartHub} has {70048.19} USD have their highest density peak exceed 62449.26 USD."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 46666.71 USD?",
+            "A": "Violin {TrueNorth} has {43267.15} USD ,{PureSync} has {39393.59} USD ,{BrightEdge} has {45709.91} USD have their highest density peak below 46666.71 USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of PrimeVue or SmartHub ",
+            "A": "The median value of the {SmartHub} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of PureSync, EcoCore or SmartHub ",
+            "A": "The median value of the {SmartHub} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of SwiftLink, PureSync, SmartHub or EcoCore ",
+            "A": "The median value of the {SmartHub} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {SmartHub}."
+        }
+    ],
+    "VA": []
+}

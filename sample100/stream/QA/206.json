@@ -1,0 +1,80 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {stream chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this stream chart?",
+            "A": "There are {3} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing AgriFlow Solutions relative to CropConnect Logistics?",
+            "A": "AgriFlow Solutions is {below} CropConnect Logistics in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing AgriFlow Solutions relative to TerraTrade Network?",
+            "A": "AgriFlow Solutions is {above} TerraTrade Network in the vertical direction."
+        },
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing TerraTrade Network relative to AgriFlow Solutions?",
+            "A": "TerraTrade Network is {below} AgriFlow Solutions in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total food waste?",
+            "A": "The series with the largest contribution is {AgriFlow Solutions}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total food waste?",
+            "A": "The series with the smallest contribution is {TerraTrade Network}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which year is AgriFlow Solutions's minimum Food Waste in the streamgraph?",
+            "A": "AgriFlow Solutions's minimum Food Waste is in {1969}."
+        },
+        {
+            "Q": "Which year is TerraTrade Network's maximum Food Waste in the streamgraph?",
+            "A": "TerraTrade Network's maximum Food Waste is in {1969}."
+        }
+    ],
+    "SC": [],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Between 1972 and 1973, did the total Food Waste experience a larger or smaller change than between 1982 and 1987?",
+            "A": "The change in total food waste between 1972 and 1973 was {larger} than between 1982 and 1987."
+        },
+        {
+            "Q": "Was the total Food Waste in 1971 higher or lower than in 1980?",
+            "A": "The total food waste in 1971 was {lower} than in 1980."
+        },
+        {
+            "Q": "Was the total Food Waste in 1969 higher or lower than in 1986?",
+            "A": "The total food waste in 1969 was {lower} than in 1986."
+        },
+        {
+            "Q": "Was the total Food Waste in 1969 higher or lower than in 1973?",
+            "A": "The total food waste in 1969 was {higher} than in 1973."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In this streamgraph, which one held the dominant position for the longest period of time?",
+            "A": "{AgriFlow Solutions} held the dominant position for the longest period of time."
+        },
+        {
+            "Q": "In this streamgraph, in which year did TerraTrade Network and AgriFlow Solutions first exchange dominant positions?",
+            "A": "TerraTrade Network and AgriFlow Solutions did not exchange leading positions."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,23 @@
+Social Media and Digital Media and Streaming,Social Media Distribution by Category (2024),%
+parent,child,value
+,Platform Architecture,100.0
+Platform Architecture,User Interface,53.75
+User Interface,Interaction Design,9.04
+Interaction Design,Notification Systems,9.04
+User Interface,Accessibility,44.71
+Accessibility,Screen Readers,44.71
+Screen Readers,Voice Synthesis,44.71
+Voice Synthesis,Neural TTS,44.71
+Neural TTS,WaveNet,10.4
+Neural TTS,Tacotron,34.31
+Platform Architecture,Data Infrastructure,46.25
+Data Infrastructure,Storage Systems,46.25
+Storage Systems,Cloud Integration,20.91
+Cloud Integration,Edge Computing,20.91
+Edge Computing,Real-Time Sync,20.91
+Real-Time Sync,Delta Encoding,10.69
+Real-Time Sync,Conflict Resolution,10.22
+Storage Systems,Database Sharding,25.34
+Database Sharding,Horizontal Partition,25.34
+Horizontal Partition,Consistent Hashing,25.34
+Consistent Hashing,Virtual Nodes,25.34

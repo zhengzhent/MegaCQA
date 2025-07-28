@@ -1,0 +1,30 @@
+Social Media and Digital Media and Streaming,Social Media Distribution by Category (2024),%
+parent,child,value
+,Platform Architecture,100.0
+Platform Architecture,User Interface,76.28
+User Interface,Interaction Design,43.71
+Interaction Design,Notification Systems,43.71
+Notification Systems,Push Algorithm,13.0
+Push Algorithm,ML-Based Prioritization,5.31
+Push Algorithm,Context-Aware Delivery,7.69
+Notification Systems,In-App Badges,30.71
+In-App Badges,Dynamic Counter,30.71
+Dynamic Counter,Animation Engine,22.68
+Dynamic Counter,Memory Optimizer,8.03
+User Interface,Accessibility,32.57
+Accessibility,Screen Readers,32.57
+Screen Readers,Voice Synthesis,32.57
+Voice Synthesis,Neural TTS,32.57
+Neural TTS,WaveNet,9.35
+Neural TTS,Tacotron,23.22
+Platform Architecture,Data Infrastructure,23.72
+Data Infrastructure,Storage Systems,23.72
+Storage Systems,Cloud Integration,14.39
+Cloud Integration,Edge Computing,14.39
+Edge Computing,Real-Time Sync,14.39
+Real-Time Sync,Delta Encoding,7.87
+Real-Time Sync,Conflict Resolution,6.52
+Storage Systems,Database Sharding,9.33
+Database Sharding,Horizontal Partition,9.33
+Horizontal Partition,Consistent Hashing,9.33
+Consistent Hashing,Virtual Nodes,9.33

@@ -1,0 +1,20 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1119 756 1199 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1205 539.6 1285 539.6" fill="none" stroke="#000000"></polyline>
+<polyline points="1370.9 323.2 1450.9 323.2" fill="none" stroke="#000000"></polyline>
+<polyline points="1072.9 972.4 1152.9 972.4" fill="none" stroke="#000000"></polyline>
+<polyline points="1054.5 1188.8 1134.5 1188.8" fill="none" stroke="#000000"></polyline>
+<polygon points="581.4 648.8 1146.6 648.8 1091.3 863.2 636.7 863.2" fill="#7AA9BD" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="464.6 432.4 1263.4 432.4 1146.6 646.8 581.4 646.8" fill="#8AB8D0" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1263.4 430.4 464.6 430.4" fill="#9AC7E3" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="636.7 865.2 1091.3 865.2 1054.5 1079.6 673.5 1079.6" fill="#6A9AAA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="673.5 1081.6 1054.5 1081.6 1054.5 1296 673.5 1296" fill="#5A8B97" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1203.976" y="756" fill="#000000">HR Interview: 46%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1289.9920000000002" y="539.5999999999999" fill="#000000">Phone Screen: 65%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1455.88" y="323.2" fill="#000000">Application Submitted: 100%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1157.896" y="972.3999999999999" fill="#000000">Technical Interview: 37%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1139.464" y="1188.8" fill="#000000">Offer Extended: 31%</text>
+<path d="M-268.9062 -5l537.8125 0l0 58l-537.8125 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Employee Recruitment (%)</text>
+</svg>

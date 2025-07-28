@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {13} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Size of the research team of 28.08 relative to the bubble with a Size of the research team of 30.62 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Size of the research team of 28.08 is {above} and to the {left} of the bubble with a Size of the research team of 30.62."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Research funding and Publication count?",
+            "A": "The highest concentration of bubbles corresponds to approximately {7201447.13} $ and {25.47} count/year."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Size of the research team of the largest bubble?",
+            "A": "The Size of the research team of the largest bubble is {50.00} count."
+        },
+        {
+            "Q": "What is the Size of the research team of the smallest bubble?",
+            "A": "The Size of the research team of the smallest bubble is {2.00} count."
+        },
+        {
+            "Q": "What are the Research funding and Publication count values of the largest bubble?",
+            "A": "The Research funding of the largest bubble is {4300804.97} $, and {Publication count} is {37.93} count/year."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Size of the research team in the bubble chart?",
+            "A": "The global maximum Size of the research team is {50.00} count."
+        },
+        {
+            "Q": "What is the global minimum Size of the research team in the bubble chart?",
+            "A": "The global minimum Size of the research team is {2.00} count."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Research funding in the bubble chart?",
+            "A": "The maximum observed value in the Research funding dimension is {9925192.15} $."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Research funding in the bubble chart?",
+            "A": "The minimum observed value in the Research funding dimension is {380172.42} $."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Publication count in the bubble chart?",
+            "A": "The maximum observed value in the Publication count dimension is {60.43} count/year."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Publication count in the bubble chart?",
+            "A": "The minimum observed value in the Publication count dimension is {0.52} count/year."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Size of the research team for all bubbles?",
+            "A": "The average value of the Size of the research team for all bubbles is {28.87} count."
+        },
+        {
+            "Q": "What is the average value of the Research funding for all bubbles?",
+            "A": "The average value of Research funding for all bubbles is {5989368.76} $."
+        },
+        {
+            "Q": "What is the average value of the Publication count for all bubbles?",
+            "A": "The average value of Publication count for all bubbles is {26.72} count/year."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Size of the research team values in the bubble chart?",
+            "A": "{50.00, 43.64, 38.20} count."
+        },
+        {
+            "Q": "What are the bottom 3 Size of the research team values in the bubble chart?",
+            "A": "{2.00, 11.78, 24.34} count."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Size of the research team value, the bubble with a Research funding of 5081198.3 $ and a Publication count of 2.1 count/year, or the bubble with a Research funding of 3729609.0 $ and a Publication count of 4.5 count/year?",
+            "A": "The bubble with a Research funding of {5081198.3} and a Publication count of {2.1} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Size of the research team value of the bubble with the largest Publication count value?",
+            "A": "The Size of the research team value of the bubble with the largest Publication count is {2.00}."
+        },
+        {
+            "Q": "What is the Size of the research team value of the bubble with the largest Research funding value?",
+            "A": "The Size of the research team value of the bubble with the largest Research funding is {30.62}."
+        },
+        {
+            "Q": "Classify bubbles with a Publication count-coordinate greater than 27 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Size of the research team for the high value group and the low value group?",
+            "A": "The difference between the total Size of the research team of the high-value and low-value groups is {37.67}."
+        }
+    ],
+    "VA": []
+}

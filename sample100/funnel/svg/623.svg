@@ -1,0 +1,26 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1010.7 756 1090.7 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1086.1 601.4 1166.1 601.4" fill="none" stroke="#000000"></polyline>
+<polyline points="980.8 910.6 1060.8 910.6" fill="none" stroke="#000000"></polyline>
+<polyline points="969.1 1065.1 1049.1 1065.1" fill="none" stroke="#000000"></polyline>
+<polyline points="1195.5 446.9 1275.5 446.9" fill="none" stroke="#000000"></polyline>
+<polyline points="1369 292.3 1449 292.3" fill="none" stroke="#000000"></polyline>
+<polyline points="957.5 1219.7 1037.5 1219.7" fill="none" stroke="#000000"></polyline>
+<polygon points="687.3 679.7 1040.7 679.7 980.8 832.3 747.2 832.3" fill="#DF4C5B" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="596.5 525.1 1131.5 525.1 1040.7 677.7 687.3 677.7" fill="#F47D85" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="747.2 834.3 980.8 834.3 980.8 986.9 747.2 986.9" fill="#989E6A" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="747.2 988.9 980.8 988.9 957.5 1141.4 770.5 1141.4" fill="#6B8E23" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="468.5 370.6 1259.5 370.6 1131.5 523.1 596.5 523.1" fill="#F7D8DF" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1259.5 368.6 468.5 368.6" fill="#F0E6E4" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="770.5 1143.4 957.5 1143.4 957.5 1296 770.5 1296" fill="#5D6E4A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1095.749835378629" y="756" fill="#000000">Filtered by Quality Inspection: 3843</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1171.1016462137084" y="601.4285714285713" fill="#000000">Post-Processing: 5819</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1065.820592636935" y="910.5714285714284" fill="#000000">Packaged for Distribution: 2541</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1054.143130799162" y="1065.142857142857" fill="#000000">Delivered to Retail: 2541</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1280.5203831188267" y="446.85714285714283" fill="#000000">Post-Harvest: 8603</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1453.9582759652799" y="292.2857142857143" fill="#000000">Total Harvested Crop: 13364</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1042.465668961389" y="1219.7142857142858" fill="#000000">Purchased by Consumers: 2033</text>
+<path d="M-327.9453 -5l655.8906 0l0 58l-655.8906 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Agricultural Supply Chain (Tons)</text>
+</svg>

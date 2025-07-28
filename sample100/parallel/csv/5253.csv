@@ -1,0 +1,9 @@
+﻿Cultural Trends and Influences,Influence Metrics of Different Cultural
+Pattern,Weak Correlation,Strong Correlation,Strong Correlation,No Correlation
+labels,Behavior change rate (%),Media coverage (articles/month),Artistic references (cultural citations),Policy influence index (1-10),Language adoption (new words)
+likely  Civilization,50.0,1000.0,1000.0,10.0,19.5
+seat  Civilization,31.86,520.84,445.37,4.94,42.19
+necessary  Civilization,38.84,90.66,0.0,1.0,100.0
+face  Civilization,1.0,758.04,571.44,5.58,7.82
+ok  Culture,16.27,1.0,379.38,4.88,4.54
+country  Civilization,1.43,418.81,453.98,4.79,0.0

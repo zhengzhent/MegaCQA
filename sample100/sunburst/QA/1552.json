@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Site Tours positioned outside, inside or on the same side as Online Exhibitions?",
+            "A": "Site Tours is positioned {outside} Online Exhibitions."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Cultural Participation}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Historic Villages segment in this sunburst chart?",
+            "A": "The value of the Historic Villages segment is {5.01}."
+        },
+        {
+            "Q": "What is the value of the International Events segment in this sunburst chart?",
+            "A": "The value of the International Events segment is {20.87}."
+        },
+        {
+            "Q": "What is the value of the Heritage Engagement segment in this sunburst chart?",
+            "A": "The value of the Heritage Engagement segment is {21.41}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {50.77}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {20.19}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {9.57}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.01}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Cultural Participation exceed 54%? Please list the category names and corresponding percentages.",
+            "A": "{Art Festivals} accounts for {57.83}%"
+        },
+        {
+            "Q": "Which categories in the segment Cultural Participation are below 46%? Please list the category names and corresponding percentages.",
+            "A": "{Heritage Engagement} accounts for {42.17}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Art Festivals, Creative Expression, or Visual Arts?",
+            "A": "The value of {Visual Arts} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Cultural Participation or Art Festivals?",
+            "A": "The value of {Cultural Participation} is larger."
+        },
+        {
+            "Q": "Which has the largest value: Cultural Participation, Art Festivals, Creative Expression, or Heritage Engagement?",
+            "A": "The value of {Cultural Participation} is the largest."
+        },
+        {
+            "Q": "Which is larger, the value of Cultural Participation, Art Festivals, or Creative Expression?",
+            "A": "The value of {Cultural Participation} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Cultural Participation to Art Festivals to International Events to Biennale Showcases}."
+        }
+    ],
+    "VA": []
+}

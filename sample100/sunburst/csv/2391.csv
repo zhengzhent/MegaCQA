@@ -1,0 +1,20 @@
+Education and Academics,Education Distribution by Category (2024),%
+parent,child,value
+Root,Formal Education,26.9
+Formal Education,Secondary Education,5.82
+Formal Education,Primary Education,21.08
+Primary Education,Public Primary,5.33
+Primary Education,Private Primary,15.75
+Private Primary,Religious Schools,5.42
+Private Primary,Montessori,5.28
+Private Primary,International Curriculum,5.05
+Root,Informal Learning,45.14
+Informal Learning,Community Learning,30.74
+Community Learning,Non-Profit Programs,16.98
+Non-Profit Programs,Refugee Education,5.33
+Non-Profit Programs,Adult Literacy,11.65
+Community Learning,Public Libraries,13.76
+Informal Learning,Online Education,14.4
+Online Education,Skill Platforms,14.4
+Root,Higher Education,27.96
+Higher Education,Postgraduate,27.96

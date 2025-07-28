@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {39} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Pollution level in the scatter plot?",
+            "A": "The maximum observed value in the Pollution level dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Pollution level in the scatter plot?",
+            "A": "The minimum observed value in the Pollution level dimension is {10.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Air quality in the scatter plot?",
+            "A": "The maximum observed value in the Air quality dimension is {100.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Air quality in the scatter plot?",
+            "A": "The minimum observed value in the Air quality dimension is {0.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Pollution level for all points?",
+            "A": "The average value of Pollution level for all points is {55.00}."
+        },
+        {
+            "Q": "What is the average value of the Air quality for all points?",
+            "A": "The average value of Air quality for all points is {46.63}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Air quality values corresponding to the top 3 Pollution level values in the scatter plot?",
+            "A": "{50.24, 79.78, 10.90}."
+        },
+        {
+            "Q": "What are the Air quality values corresponding to the bottom 3 Pollution level values in the scatter plot?",
+            "A": "{39.44, 25.52, 37.19}."
+        },
+        {
+            "Q": "What are the Pollution level values corresponding to the top 3 Air quality values in the scatter plot?",
+            "A": "{21.84, 47.89, 33.68}."
+        },
+        {
+            "Q": "What are the Pollution level values corresponding to the bottom 3 Air quality values in the scatter plot?",
+            "A": "{55.00, 95.26, 88.16}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 35.22 and 45.04 and Y coordinates between 0.60 and 29.47?",
+            "A": "There are {1} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(21.84, 100.00) and (95.26, 10.90)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(28.95, 62.79) and (31.32, 64.21)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [24.45, 57.79, 35.82, 69.21] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (28.95, 62.79)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [41.51, 35.38, 60.89, 62.82]; Region B: [46.74, 5.26, 66.12, 32.70]; Region C: [20.44, 49.78, 39.83, 77.22]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region C."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {node_link chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many nodes are in this node-link chart?",
+            "A": "There are {10} nodes."
+        },
+        {
+            "Q": "How many links are in this node-link chart?",
+            "A": "There are {15} links."
+        },
+        {
+            "Q": "How many nodes link with node Neuroscience Research Group?",
+            "A": "There are {3} nodes link with node Neuroscience Research Group."
+        }
+    ],
+    "SRP": [],
+    "VPR": [],
+    "VE": [
+        {
+            "Q": "What is the relationship between node Global Policy Institute and node Ocean Studies Institute in this node-link chart?",
+            "A": "The relationship between node Global Policy Institute and node Ocean Studies Institute is {joint_lab}."
+        },
+        {
+            "Q": "What is the relationship between node Climate Research Center and node Neuroscience Research Group in this node-link chart?",
+            "A": "The relationship between node Climate Research Center and node Neuroscience Research Group is {joint_lab}."
+        }
+    ],
+    "EVJ": [],
+    "SC": [
+        {
+            "Q": "How many links have the relation type research_funding?",
+            "A": "There are {4} links with the relation type research_funding."
+        },
+        {
+            "Q": "How many links have the relation type co_authorship?",
+            "A": "There are {4} links with the relation type co_authorship."
+        },
+        {
+            "Q": "How many links have the relation type joint_lab?",
+            "A": "There are {5} links with the relation type joint_lab."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under node Global Policy Institute, how many links are of type research_funding?",
+            "A": "Node Global Policy Institute has {1} links of type research_funding."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "Which node is considered the most important in the node link chart?",
+            "A": "The most important node is {Climate Research Center}."
+        },
+        {
+            "Q": "Please list the top three nodes by degree and their corresponding degrees.",
+            "A": "The top three nodes by degree are: {node Climate Research Center with a degree of 7}, {node Institute of Robotics and AI with a degree of 6}, {node Global Policy Institute with a degree of 5}."
+        },
+        {
+            "Q": "What is the shortest path from node Cultural Heritage Institute to node Institute of Robotics and AI in the node link diagram? Please list all nodes along this path in sequence.",
+            "A": "The shortest path from node Cultural Heritage Institute to node Institute of Robotics and AI is: {Cultural Heritage Institute to Climate Research Center to Institute of Robotics and AI}."
+        }
+    ],
+    "VA": []
+}

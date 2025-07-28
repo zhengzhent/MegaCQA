@@ -1,0 +1,18 @@
+Energy and Utilities,Carbon Emission Flow,Tons,random,Final Disposition,Sector Distribution
+Source,Target,Value
+Carbon Storage,Residential,1457
+Carbon Storage,Power Generation,5522
+Carbon Storage,Agriculture,4875
+Carbon Storage,Transportation,4426
+Atmosphere,Residential,2110
+Atmosphere,Power Generation,534
+Atmosphere,Agriculture,2458
+Atmosphere,Transportation,902
+Offset Projects,Residential,112
+Offset Projects,Power Generation,846
+Offset Projects,Agriculture,682
+Offset Projects,Transportation,288
+Carbon Trading,Residential,6221
+Carbon Trading,Power Generation,4703
+Carbon Trading,Agriculture,2042
+Carbon Trading,Transportation,1717

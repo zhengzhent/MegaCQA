@@ -1,0 +1,10 @@
+Image Name: 8799.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\8799.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 4/5
+Score Reason: The chart is well-organized with clear labels and distinct colors for each type of house. The values are directly displayed on the bars, making it easy to read the exact figures. The title is descriptive, and the x-axis is clearly labeled, enhancing the overall readability.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The visualization effectively uses a horizontal bar chart to display house sales data, which allows for easy comparison between different types of houses. The colors are distinct and help differentiate the categories, while the labels are clear and readable. However, the chart could benefit from a more organized layout, as some bars are quite close together, making it slightly challenging to read the values at a glance. Overall, it is still quite readable.

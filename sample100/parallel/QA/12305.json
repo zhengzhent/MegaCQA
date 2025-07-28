@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Gross margin (%) dimension, what is the spatial relationship of White LLC relative to Watson-Tyler in terms of vertical (above/below) direction?",
+            "A": "{White LLC} is {above} {Watson-Tyler} on the Gross margin (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Gross margin (%)?",
+            "A": "The first position to the left of Gross margin (%) is {Conversion rate (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Customer retention rate (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Conversion rate (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Cart abandonment rate (%)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Gross margin (%) and dimension Cart abandonment rate (%)",
+            "A": "There is {Weak Correlation} between Gross margin (%) and Cart abandonment rate (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of White LLC on the Cart abandonment rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of White LLC on the Cart abandonment rate (%) dimension is {40.0}"
+        },
+        {
+            "Q": "What is the value of Martin-Mann on the Customer retention rate (%) dimension in the parallel-coordinates chart?",
+            "A": "The value of Martin-Mann on the Customer retention rate (%) dimension is {15.28}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Roberts Group across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Roberts Group across all dimensions is {99.88}"
+        },
+        {
+            "Q": "What is the minimum value of label Walker Inc across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Walker Inc across all dimensions is {2.96}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Cart abandonment rate (%)?",
+            "A": "The average value of Cart abandonment rate (%) is {73.76}"
+        },
+        {
+            "Q": "What is the difference in coding Customer retention rate (%) between label Martin-Mann and label Hutchinson, Oconnor and Burton",
+            "A": "The difference in coding Customer retention rate (%) between Martin-Mann and Hutchinson, Oconnor and Burton is {10.28}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Customer retention rate (%) dimension in the parallel coordinates?",
+            "A": "{[50.0, 25.5, 25.46]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Conversion rate (%) dimension in the parallel coordinates?",
+            "A": "{[0.5, 1.63, 1.66]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Gross margin (%), which label has a higher score: White LLC or Watson-Tyler?",
+            "A": "{White LLC} has a higher score on Gross margin (%)."
+        },
+        {
+            "Q": "On Inventory accuracy (%), which label has a higher score: Walker Inc or Watson-Tyler?",
+            "A": "{Walker Inc} has a higher score on Inventory accuracy (%)."
+        },
+        {
+            "Q": "On Customer retention rate (%), which label has a higher score: Martin-Mann or Walker Inc?",
+            "A": "{Walker Inc} has a higher score on Customer retention rate (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Cart abandonment rate (%)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Cart abandonment rate (%) being greater than 65.02 and Conversion rate (%) being less than 6.35?",
+            "A": "There are {5} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,160 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {3} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In 1969, what is the vertical (above/below) relationship of the line representing Sales Team relative to Operations Staff?",
+            "A": "In 1969, Sales Team is {above} Operations Staff in the vertical direction."
+        },
+        {
+            "Q": "On Management Team, what is the spatial relationship of the data point in 1989 relative to that in 1972 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Management Team, the data point in 1989 is {below} and to the {right} of the data point in 1972."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Management Team's Employee Satisfaction levels?",
+            "A": "Management Team's employee satisfaction levels show a {single peak} trend."
+        },
+        {
+            "Q": "What is the trend of Operations Staff's Employee Satisfaction levels?",
+            "A": "Operations Staff's employee satisfaction levels show a {bimodal peak} trend."
+        },
+        {
+            "Q": "What is the trend of Sales Team's Employee Satisfaction levels?",
+            "A": "Sales Team's employee satisfaction levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "Which line shows a single peak trend in Employee Satisfaction levels?",
+            "A": "{Management Team}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Management Team's Employee Satisfaction in 1984?",
+            "A": "Management Team's employee satisfaction in 1984 is {74.04} %."
+        },
+        {
+            "Q": "What is Operations Staff's Employee Satisfaction in 1975?",
+            "A": "Operations Staff's employee satisfaction in 1975 is {80.40} %."
+        },
+        {
+            "Q": "What is Management Team's Employee Satisfaction in 1987?",
+            "A": "Management Team's employee satisfaction in 1987 is {68.47} %."
+        },
+        {
+            "Q": "What are the employee satisfaction of Operations Staff, Management Team, and Sales Team in 1966?",
+            "A": "Operations Staff's employee satisfaction is {92.20} %, Management Team's employee satisfaction is {80.89} %, Sales Team's employee satisfaction is {100} %."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Employee Satisfaction in the line chart?",
+            "A": "The global minimum employee satisfaction is {62.51} %."
+        },
+        {
+            "Q": "What is the global maximum Employee Satisfaction in the line chart?",
+            "A": "The global maximum employee satisfaction is {100.00} %."
+        },
+        {
+            "Q": "What is the highest Employee Satisfaction level recorded for Management Team?",
+            "A": "Management Team reached approximately {100.00} % in {1970}."
+        },
+        {
+            "Q": "What is the lowest Employee Satisfaction level recorded for Management Team?",
+            "A": "Management Team's lowest recorded level is approximately {67.94} % in {1960}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Sales Team's Employee Satisfaction?",
+            "A": "The average value of Sales Team's employee satisfaction is {95.90} %."
+        },
+        {
+            "Q": "What is the average value of Operations Staff's Employee Satisfaction?",
+            "A": "The average value of Operations Staff's employee satisfaction is {85.41} %."
+        },
+        {
+            "Q": "What is the rate of change in Sales Team's Employee Satisfaction from the starting year to the final year?",
+            "A": "The rate of growth in Sales Team's employee satisfaction is {59.97}%."
+        },
+        {
+            "Q": "What is the rate of change in Management Team's Employee Satisfaction from the starting year to the final year?",
+            "A": "The rate of growth in Management Team's employee satisfaction is {0.19}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the year 1978, which lines had Employee Satisfaction below 95 %? Please list the lines and corresponding values.",
+            "A": "{Operations Staff} had {87} %."
+        },
+        {
+            "Q": "In the year 1985, which lines had Employee Satisfaction below 79 %? Please list the lines and corresponding values.",
+            "A": "{Management Team} had {71} %."
+        },
+        {
+            "Q": "In the year 1971, which lines had Employee Satisfaction below 95 %? Please list the lines and corresponding values.",
+            "A": "{Operations Staff} had {86} %."
+        },
+        {
+            "Q": "In the year 1988, which line had Employee Satisfaction exceed 87 %? Please list the lines and corresponding values.",
+            "A": "{Sales Team} had {100} %."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1966 and 1968, which line experienced the largest change in Employee Satisfaction, Sales Team, Management Team, or Operations Staff?",
+            "A": "{Management Team} experienced the largest change in employee satisfaction."
+        },
+        {
+            "Q": "In 1977, which line had a higher Employee Satisfaction, {Operations Staff} or {Sales Team}?",
+            "A": "In 1977, {Sales Team} had a higher employee satisfaction."
+        },
+        {
+            "Q": "Between 1972 and 1974, which line had the highest average Employee Satisfaction, Operations Staff, Sales Team, or Management Team?",
+            "A": "{Sales Team} had the highest average employee satisfaction."
+        },
+        {
+            "Q": "Was Management Team's Employee Satisfaction in 1982 higher or lower than in 1983?",
+            "A": "The employee satisfaction in 1982 was {higher} than in 1983."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Management Team}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1964 and 1983?",
+            "A": "{Sales Team} has the fastest average growth rate between 1964 and 1983."
+        },
+        {
+            "Q": "In which year did Management Team first surpass Operations Staff?",
+            "A": "Management Team first surpassed Operations Staff in the year {1969}."
+        },
+        {
+            "Q": "In which year did Operations Staff first surpass Management Team?",
+            "A": "Operations Staff first surpassed Management Team in the year {1980}."
+        },
+        {
+            "Q": "Which label had the leading employee satisfaction since 1974?",
+            "A": "Since 1974, {Sales Team} had the leading employee satisfaction."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Operations Staff. List the x-coordinates of data points to be preserved.(9 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1960, 1964, 1967, 1969, 1972, 1975, 1981, 1983, 1989}."
+        }
+    ]
+}

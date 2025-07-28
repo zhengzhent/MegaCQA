@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {4} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Fairmont}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Ironwood}."
+        },
+        {
+            "Q": "Which violin is the third position to the left of the violin Ironwood?",
+            "A": "The third position to the left of the violin Ironwood is {Fairmont}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Ironwood relative to the violin Westport in terms of horizontal (left/right) direction?",
+            "A": "violin Ironwood is to the {right} of the violin Westport."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Westport}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Westport}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Fairmont?",
+            "A": "The density distribution pattern of the Fairmont shows a {t} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Westport in the violin plot?",
+            "A": "The median of Westport is {52815.50} tons."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Zephyr in the violin plot?",
+            "A": "The lower quartile (Q1) of Zephyr is {44580.25} tons."
+        },
+        {
+            "Q": "What is the upper whisker limit of Westport in the violin plot?",
+            "A": "The upper whisker limit of Westport is {77240.00} tons."
+        },
+        {
+            "Q": "What is the lowest lower outlier value in Zephyr in the violin plot?",
+            "A": "The lowest upper outlier value in Zephyr is {17566.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum tons value in the violin plot?",
+            "A": "The global maximum tons value in the violin plot is {94014.00} tons."
+        },
+        {
+            "Q": "What is the global minimum tons value in the violin plot?",
+            "A": "The global minimum tons value in the violin plot is {17566.00} tons."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q1 difference between violin Zephyr and Westport?",
+            "A": "The Q1 difference between violin Zephyr and Westport is {2251.00} tons."
+        },
+        {
+            "Q": "What is the toal Q1 value of violin Fairmont and Ironwood?",
+            "A": "The total Q1 value of violin Fairmont and Ironwood is {90073.25} tons."
+        },
+        {
+            "Q": "What is the average Q3 value of violin Zephyr and Fairmont?",
+            "A": "The average Q3 value of violin Zephyr and Fairmont is {55506.00} tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 50771.25 tons? Please list the violins and corresponding values.",
+            "A": "{Fairmont} has {50832.50} tons , {Westport} has {52815.50} tons , {Zephyr} has {50944.00} tons "
+        },
+        {
+            "Q": "Which violins have median values below 50888.25 tons? Please list the violins and corresponding values.",
+            "A": "{Fairmont} has {50832.50} tons , {Ironwood} has {50710.00} tons "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 44443.62 tons and the upper quartile (Q3) below 57984.50 tons?",
+            "A": "Violin {Zephyr},{Ironwood} has the Q1 above 44443.62 tons and the Q3 below 57984.5 tons."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 52257.14 tons?",
+            "A": "Violin {Westport} has {52638.91} tons have their highest density peak exceed 52257.14 tons."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 50356.44 tons?",
+            "A": "Violin {Ironwood} has {49617.30} tons have their highest density peak below 50356.44 tons."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Westport or Zephyr ",
+            "A": "The median value of the {Westport} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Fairmont, Ironwood or Zephyr ",
+            "A": "The median value of the {Zephyr} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Westport, Zephyr, Fairmont or Ironwood ",
+            "A": "The median value of the {Westport} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Westport}."
+        }
+    ],
+    "VA": []
+}

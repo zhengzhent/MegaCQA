@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {6} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Taste rating (1-10) dimension, what is the spatial relationship of Lane-Gonzalez  Steakhouse relative to Young Ltd  Bistro in terms of vertical (above/below) direction?",
+            "A": "{Lane-Gonzalez  Steakhouse} is {above} {Young Ltd  Bistro} on the Taste rating (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the fifth position to the left of dimension Shelf life (days)?",
+            "A": "The fifth position to the left of Shelf life (days) is {Freshness score (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Shelf life (days)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Freshness score (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Shelf life (days)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Freshness score (1-10) and dimension Packaging efficiency (%)",
+            "A": "There is {Weak Correlation} between Freshness score (1-10) and Packaging efficiency (%)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Goodwin Inc  Buffet on the Nutritional value (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Goodwin Inc  Buffet on the Nutritional value (1-10) dimension is {2.46}"
+        },
+        {
+            "Q": "What is the value of Goodwin Inc  Buffet on the Nutritional value (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Goodwin Inc  Buffet on the Nutritional value (1-10) dimension is {2.46}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Wagner, Chan and Parker  Café across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Wagner, Chan and Parker  Café across all dimensions is {77.01}"
+        },
+        {
+            "Q": "What is the minimum value of label Young Ltd  Bistro across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Young Ltd  Bistro across all dimensions is {5.18}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Nutritional value (1-10)?",
+            "A": "The average value of Nutritional value (1-10) is {5.8}"
+        },
+        {
+            "Q": "What is the difference in coding Freshness score (1-10) between label Ramirez, Powell and Morales  Steakhouse and label Gonzalez Ltd  Grill",
+            "A": "The difference in coding Freshness score (1-10) between Ramirez, Powell and Morales  Steakhouse and Gonzalez Ltd  Grill is {2.91}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Nutritional value (1-10) dimension in the parallel coordinates?",
+            "A": "{[10.0, 9.88, 9.06]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Organic content (%) dimension in the parallel coordinates?",
+            "A": "{[0.0, 12.94, 18.35]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Packaging efficiency (%), which label has a higher score: Wagner, Chan and Parker  Café or Gonzalez Ltd  Grill?",
+            "A": "{Wagner, Chan and Parker  Café} has a higher score on Packaging efficiency (%)."
+        },
+        {
+            "Q": "On Taste rating (1-10), which label has a higher score: Wagner, Chan and Parker  Café or Knight-Smith  Bistro?",
+            "A": "{Knight-Smith  Bistro} has a higher score on Taste rating (1-10)."
+        },
+        {
+            "Q": "On Packaging efficiency (%), which label has a higher score: Gonzalez Ltd  Grill or Goodwin Inc  Buffet?",
+            "A": "{Goodwin Inc  Buffet} has a higher score on Packaging efficiency (%)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Shelf life (days)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Packaging efficiency (%) being greater than 82.7 and Nutritional value (1-10) being less than 5.45?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

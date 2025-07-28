@@ -1,0 +1,10 @@
+Image Name: 14897.png
+Image Path: D:\code\MegaCQA\sample1000\bar\png\14897.png
+--------------------------------------------------
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+Readability Score: 5/5
+Score Reason: The chart is clear and straightforward, with distinct bars for each farm and easily readable labels. The use of a gradient color scheme adds visual interest without compromising clarity. The values are directly labeled on top of each bar, making it simple to understand the transportation flow for each farm.
+--------------------------------------------------
+Model: gpt-4o-mini
+Readability Score: 4/5
+Score Reason: The chart effectively presents the data with clear labels for each farm and corresponding values displayed on the bars. However, the gradient color scheme may distract from the actual data representation, and the rotation of the x-axis labels could make it slightly harder to read. Overall, the information is still interpretable, but the visual design could be improved for better clarity.

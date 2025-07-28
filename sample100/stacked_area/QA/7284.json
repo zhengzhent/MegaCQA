@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {2} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Aether Corp relative to Crimson Group?",
+            "A": "Aether Corp is {above} Crimson Group in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total r&d investment?",
+            "A": "The series with the largest contribution is {Crimson Group}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total r&d investment?",
+            "A": "The series with the smallest contribution is {Aether Corp}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Crimson Group's R&D Investment in 1982?",
+            "A": "Crimson Group's r&d investment in 1982 is {10616986.51} $."
+        },
+        {
+            "Q": "What is Aether Corp's R&D Investment in 1984?",
+            "A": "Aether Corp's r&d investment in 1984 is {8992773.52} $."
+        },
+        {
+            "Q": "What is Aether Corp's R&D Investment in 1986?",
+            "A": "Aether Corp's r&d investment in 1986 is {7829224.38} $."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum R&D Investment in the area chart?",
+            "A": "The global minimum r&d investment is {2130864.34} $."
+        },
+        {
+            "Q": "What is the global maximum R&D Investment in the area chart?",
+            "A": "The global maximum r&d investment is {13196669.34} $."
+        },
+        {
+            "Q": "What is the highest R&D Investment level recorded for Aether Corp?",
+            "A": "Aether Corp reached approximately {10508146.77} $ in {1980}."
+        },
+        {
+            "Q": "What is the lowest R&D Investment level recorded for Aether Corp?",
+            "A": "Aether Corp's lowest recorded level is approximately {2130864.34} $ in {2003}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total R&D Investment?",
+            "A": "The average total r&d investment is {16822290.81} $."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total R&D Investment exceed 18566032.76 $? Please list the years and corresponding total values.",
+            "A": "{20735549.11} $ in {1980}, {19005866.74} $ in {1983}, {18620187.27} $ in {1987}."
+        },
+        {
+            "Q": "Which years did the total R&D Investment go below 15800414.19 $? Please list the years and corresponding total values.",
+            "A": "{15127182.41} $ in {2000}, {12518455.55} $ in {1999}, {12508218.25} $ in {1994}."
+        },
+        {
+            "Q": "Which years did the total R&D Investment fall between 16324062.30 and 18042384.65 $? Please list the years and corresponding total values.",
+            "A": "{17553830.58} $ in {1996}, {16740968.45} $ in {2001}, {16762647.99} $ in {1988}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1980 and 1997, did the total R&D Investment experience a larger or smaller change than between 1993 and 2002?",
+            "A": "The change in total r&d investment between 1980 and 1997 was {larger} than between 1993 and 2002."
+        },
+        {
+            "Q": "Was the total R&D Investment in 1987 higher or lower than in 1995?",
+            "A": "The total r&d investment in 1987 was {higher} than in 1995."
+        },
+        {
+            "Q": "Between 1981 and 1987, was the average total R&D Investment higher or lower than between 1981 and 1989?",
+            "A": "The average total r&d investment between 1981 and 1987 was {higher} than between 1981 and 1989."
+        },
+        {
+            "Q": "Between 1983 and 1992, was the average total R&D Investment higher or lower than between 1980 and 1993?",
+            "A": "The average total r&d investment between 1983 and 1992 was {lower} than between 1980 and 1993."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Crimson Group} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Aether Corp, Crimson Group}."
+        }
+    ]
+}

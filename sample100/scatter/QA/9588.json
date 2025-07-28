@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {54} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive linear correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Delivery time in the scatter plot?",
+            "A": "The maximum observed value in the Delivery time dimension is {10.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Delivery time in the scatter plot?",
+            "A": "The minimum observed value in the Delivery time dimension is {0.50}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Cost per mile in the scatter plot?",
+            "A": "The maximum observed value in the Cost per mile dimension is {5.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Cost per mile in the scatter plot?",
+            "A": "The minimum observed value in the Cost per mile dimension is {0.50}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Delivery time for all points?",
+            "A": "The average value of Delivery time for all points is {5.25}."
+        },
+        {
+            "Q": "What is the average value of the Cost per mile for all points?",
+            "A": "The average value of Cost per mile for all points is {2.91}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Cost per mile values corresponding to the top 3 Delivery time values in the scatter plot?",
+            "A": "{4.00, 2.99, 3.25}."
+        },
+        {
+            "Q": "What are the Cost per mile values corresponding to the bottom 3 Delivery time values in the scatter plot?",
+            "A": "{1.75, 0.50, 1.86}."
+        },
+        {
+            "Q": "What are the Delivery time values corresponding to the top 3 Cost per mile values in the scatter plot?",
+            "A": "{8.57, 2.65, 7.13}."
+        },
+        {
+            "Q": "What are the Delivery time values corresponding to the bottom 3 Cost per mile values in the scatter plot?",
+            "A": "{0.68, 5.70, 6.06}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 1.61 and 4.03 and Y coordinates between 2.73 and 3.41?",
+            "A": "There are {4} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(0.68, 0.50) and (10.00, 4.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(3.55, 1.42) and (3.73, 1.42)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [3.07, 1.19, 4.21, 1.65] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (3.55, 1.42)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [2.33, 0.95, 4.95, 1.89]; Region B: [5.27, 2.08, 7.89, 3.01]; Region C: [1.19, 3.74, 3.80, 4.68]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+Real Estate and Housing Market,the Trajectory of Real Estate and Housing Market,8x8,central_cluster
+Appraisal,Affordability,0.6
+Construction,Affordability,0.68
+Development,Affordability,0.76
+Land,Affordability,0.73
+Mortgages,Affordability,0.7
+REITs,Affordability,0.6
+Rental,Affordability,0.44
+Residential,Affordability,0.28
+Appraisal,Age,0.7
+Construction,Age,0.82
+Development,Age,0.86
+Land,Age,0.88
+Mortgages,Age,0.79
+REITs,Age,0.68
+Rental,Age,0.53
+Residential,Age,0.35
+Appraisal,Demand,0.79
+Construction,Demand,0.87
+Development,Demand,0.94
+Land,Demand,0.9
+Mortgages,Demand,0.87
+REITs,Demand,0.75
+Rental,Demand,0.62
+Residential,Demand,0.43
+Appraisal,Inventory,0.82
+Construction,Inventory,0.89
+Development,Inventory,0.96
+Land,Inventory,0.93
+Mortgages,Inventory,0.88
+REITs,Inventory,0.78
+Rental,Inventory,0.64
+Residential,Inventory,0.45
+Appraisal,Market Trends,0.8
+Construction,Market Trends,0.89
+Development,Market Trends,0.9
+Land,Market Trends,0.9
+Mortgages,Market Trends,0.85
+REITs,Market Trends,0.78
+Rental,Market Trends,0.66
+Residential,Market Trends,0.43
+Appraisal,Price,0.73
+Construction,Price,0.8
+Development,Price,0.84
+Land,Price,0.85
+Mortgages,Price,0.81
+REITs,Price,0.68
+Rental,Price,0.55
+Residential,Price,0.37
+Appraisal,Size,0.6
+Construction,Size,0.71
+Development,Size,0.78
+Land,Size,0.75
+Mortgages,Size,0.69
+REITs,Size,0.59
+Rental,Size,0.44
+Residential,Size,0.3
+Appraisal,Supply,0.47
+Construction,Supply,0.57
+Development,Supply,0.6
+Land,Supply,0.56
+Mortgages,Supply,0.54
+REITs,Supply,0.45
+Rental,Supply,0.27
+Residential,Supply,0.13

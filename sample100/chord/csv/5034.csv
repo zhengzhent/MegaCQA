@@ -1,0 +1,10 @@
+Food and Beverage Industry, Restaurant Customer Flow, Customers, long_tail
+Source,Target,Value
+Parkershire Burger,Cisnerosfurt Sandwich,1635
+Cisnerosfurt Sandwich,Parkershire Burger,748
+Christopher's Tacos,Kyle's Salads,498
+Kyle's Salads,Christopher's Tacos,375
+Christopher's Tacos,Cisnerosfurt Sandwich,311
+Cisnerosfurt Sandwich,Christopher's Tacos,255
+Kyle's Salads,Cisnerosfurt Sandwich,213
+Cisnerosfurt Sandwich,Kyle's Salads,198

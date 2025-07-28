@@ -1,0 +1,18 @@
+Science and Engineering,Collaborative Links Between Research Labs and Universities
+Source Node Index,Source Node Name,Target Node Index,Target Node Name,Relation Type
+0,Global Policy Institute,2,Climate Research Center,co_authorship
+0,Global Policy Institute,9,Cultural Heritage Institute,tech_transfer
+0,Global Policy Institute,1,Institute of Robotics and AI,co_authorship
+0,Global Policy Institute,3,Biomedical Research Institute,patent_sharing
+0,Global Policy Institute,4,Energy Innovation Lab,patent_sharing
+1,Institute of Robotics and AI,7,Advanced Mathematics Institute,co_authorship
+1,Institute of Robotics and AI,5,Ocean Studies Institute,patent_sharing
+1,Institute of Robotics and AI,2,Climate Research Center,tech_transfer
+1,Institute of Robotics and AI,4,Energy Innovation Lab,patent_sharing
+1,Institute of Robotics and AI,3,Biomedical Research Institute,co_authorship
+2,Climate Research Center,3,Biomedical Research Institute,tech_transfer
+2,Climate Research Center,5,Ocean Studies Institute,co_authorship
+2,Climate Research Center,4,Energy Innovation Lab,joint_lab
+2,Climate Research Center,7,Advanced Mathematics Institute,research_funding
+2,Climate Research Center,6,Center for Data Ethics,co_authorship
+8,Neuroscience Research Group,9,Cultural Heritage Institute,co_authorship

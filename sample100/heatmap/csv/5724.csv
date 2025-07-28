@@ -1,0 +1,65 @@
+Real Estate and Housing Market,the Overview of Real Estate and Housing Market,8x8,horizontal_gradient
+Commercial,Affordability,0.86
+Construction,Affordability,0.85
+Industrial,Affordability,0.79
+Land,Affordability,0.65
+Mortgages,Affordability,0.43
+Property Management,Affordability,0.33
+REITs,Affordability,0.26
+Rental,Affordability,0.21
+Commercial,Age,0.83
+Construction,Age,0.86
+Industrial,Age,0.81
+Land,Age,0.62
+Mortgages,Age,0.44
+Property Management,Age,0.29
+REITs,Age,0.24
+Rental,Age,0.22
+Commercial,Demand,0.85
+Construction,Demand,0.86
+Industrial,Demand,0.74
+Land,Demand,0.68
+Mortgages,Demand,0.47
+Property Management,Demand,0.28
+REITs,Demand,0.27
+Rental,Demand,0.23
+Commercial,Interest Rates,0.86
+Construction,Interest Rates,0.86
+Industrial,Interest Rates,0.78
+Land,Interest Rates,0.64
+Mortgages,Interest Rates,0.43
+Property Management,Interest Rates,0.3
+REITs,Interest Rates,0.23
+Rental,Interest Rates,0.2
+Commercial,Inventory,0.86
+Construction,Inventory,0.86
+Industrial,Inventory,0.78
+Land,Inventory,0.63
+Mortgages,Inventory,0.4
+Property Management,Inventory,0.33
+REITs,Inventory,0.26
+Rental,Inventory,0.26
+Commercial,Location,0.87
+Construction,Location,0.83
+Industrial,Location,0.74
+Land,Location,0.63
+Mortgages,Location,0.42
+Property Management,Location,0.28
+REITs,Location,0.24
+Rental,Location,0.23
+Commercial,Size,0.89
+Construction,Size,0.87
+Industrial,Size,0.78
+Land,Size,0.67
+Mortgages,Size,0.44
+Property Management,Size,0.31
+REITs,Size,0.23
+Rental,Size,0.21
+Commercial,Supply,0.83
+Construction,Supply,0.84
+Industrial,Supply,0.79
+Land,Supply,0.66
+Mortgages,Supply,0.43
+Property Management,Supply,0.27
+REITs,Supply,0.27
+Rental,Supply,0.24

@@ -1,0 +1,97 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {49} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {7} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {7} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {diagonal} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Computer Science and Faculty in the heatmap?",
+            "A": "The heat value is {0.79}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Arts and Faculty in the heatmap?",
+            "A": "The heat value is {0.92}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Engineering and Junior in the heatmap?",
+            "A": "The heat value is {0.88}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Engineering and Researcher in the heatmap?",
+            "A": "The heat value is {0.67}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.92}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.18}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Arts on the x-axis?",
+            "A": "The maximum heat value of Arts on the x-axis is {0.92}."
+        },
+        {
+            "Q": "What is the maximum heat value of label History on the x-axis?",
+            "A": "The maximum heat value of History on the x-axis is {0.88}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Freshman on the y-axis?",
+            "A": "The average heat value for Freshman on the y-axis is {0.62}."
+        },
+        {
+            "Q": "What is the average heat value for label PhD on the y-axis?",
+            "A": "The average heat value for PhD on the y-axis is {0.68}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to History and Graduate or the cell corresponding to Economics and Researcher?",
+            "A": "The cell corresponding to {History} and {Graduate} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Mathematics and Graduate or the cell corresponding to History and PhD?",
+            "A": "The cell corresponding to {History} and {PhD} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Engineering and Junior or the cell corresponding to Economics and PhD?",
+            "A": "The cell corresponding to {Engineering} and {Junior} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.66 to 0.86?",
+            "A": "The cells are: {(Computer Science, Faculty), (Economics, Faculty), (Arts, Freshman), (Economics, Freshman), (Engineering, Freshman), (Arts, Graduate), (Computer Science, Graduate), (Engineering, Graduate), (History, Graduate), (Computer Science, Junior), (Economics, Junior), (History, Junior), (Literature, Junior), (Economics, PhD), (Engineering, PhD), (Literature, PhD), (Mathematics, PhD), (Engineering, Researcher), (History, Researcher), (Mathematics, Researcher), (History, Senior), (Literature, Senior)}."
+        }
+    ],
+    "VA": []
+}

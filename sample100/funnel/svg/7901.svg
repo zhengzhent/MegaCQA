@@ -1,0 +1,26 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1269.5 601.4 1349.5 601.4" fill="none" stroke="#000000"></polyline>
+<polyline points="1183.5 756 1263.5 756" fill="none" stroke="#000000"></polyline>
+<polyline points="1097.5 910.6 1177.5 910.6" fill="none" stroke="#000000"></polyline>
+<polyline points="1020.7 1065.1 1100.7 1065.1" fill="none" stroke="#000000"></polyline>
+<polyline points="1438.5 292.3 1518.5 292.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1355.5 446.9 1435.5 446.9" fill="none" stroke="#000000"></polyline>
+<polyline points="986.9 1219.7 1066.9 1219.7" fill="none" stroke="#000000"></polyline>
+<polygon points="415.5 525.1 1312.5 525.1 1226.5 677.7 501.5 677.7" fill="#7892B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="501.5 679.7 1226.5 679.7 1140.5 832.3 587.5 832.3" fill="#8CB9C0" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="587.5 834.3 1140.5 834.3 1054.5 986.9 673.5 986.9" fill="#91B5A9" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="673.5 988.9 1054.5 988.9 986.9 1141.4 741.1 1141.4" fill="#EDCA7F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="249.6 216 1478.4 216 1398.5 368.6 329.5 368.6" fill="#E9B9AA" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="329.5 370.6 1398.5 370.6 1312.5 523.1 415.5 523.1" fill="#D98481" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="741.1 1143.4 986.9 1143.4 986.9 1296 741.1 1296" fill="#A17CAB" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1354.5040000000001" y="601.4285714285713" fill="#000000">Phone Screen: 73%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1268.488" y="756" fill="#000000">HR Interview: 59%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1182.472" y="910.5714285714284" fill="#000000">Technical Interview: 45%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1105.672" y="1065.142857142857" fill="#000000">Offer Extended: 31%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1523.464" y="292.2857142857143" fill="#000000">Job Posting Viewed: 100%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1440.52" y="446.85714285714283" fill="#000000">Application Submitted: 87%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1071.88" y="1219.7142857142858" fill="#000000">Offer Accepted: 20%</text>
+<path d="M-268.9062 -5l537.8125 0l0 58l-537.8125 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Employee Recruitment (%)</text>
+</svg>

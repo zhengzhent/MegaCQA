@@ -1,0 +1,116 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {4} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Aegis Medical Center relative to Vitality Clinic?",
+            "A": "Aegis Medical Center is {above} Vitality Clinic in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total patient visits?",
+            "A": "The series with the largest contribution is {Aegis Medical Center}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total patient visits?",
+            "A": "The series with the smallest contribution is {Vitality Clinic}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Lumina Clinic's Patient Visits in 1962?",
+            "A": "Lumina Clinic's patient visits in 1962 is {1008836.70} visits/month."
+        },
+        {
+            "Q": "What is Meridian Health Post's Patient Visits in 1977?",
+            "A": "Meridian Health Post's patient visits in 1977 is {2192221.92} visits/month."
+        },
+        {
+            "Q": "What is Aegis Medical Center's Patient Visits in 1962?",
+            "A": "Aegis Medical Center's patient visits in 1962 is {1046791.28} visits/month."
+        },
+        {
+            "Q": "What are the patient visits of Aegis Medical Center, Vitality Clinic, and Lumina Clinic in 1974?",
+            "A": "Aegis Medical Center's patient visits is {3132542.87} visits/month, Vitality Clinic's patient visits is {255468.50} visits/month, Lumina Clinic's patient visits is {982700.57} visits/month."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Patient Visits in the area chart?",
+            "A": "The global minimum patient visits is {20237.57} visits/month."
+        },
+        {
+            "Q": "What is the global maximum Patient Visits in the area chart?",
+            "A": "The global maximum patient visits is {4619775.60} visits/month."
+        },
+        {
+            "Q": "What is the highest Patient Visits level recorded for Aegis Medical Center?",
+            "A": "Aegis Medical Center reached approximately {4619775.60} visits/month in {1978}."
+        },
+        {
+            "Q": "What is the lowest Patient Visits level recorded for Aegis Medical Center?",
+            "A": "Aegis Medical Center's lowest recorded level is approximately {1046791.28} visits/month in {1962}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Patient Visits?",
+            "A": "The average total patient visits is {5532779.56} visits/month."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Patient Visits fall between 5060330.64 and 5592997.03 visits/month? Please list the years and corresponding total values.",
+            "A": "{5454418.14} visits/month in {1971}, {5257089.60} visits/month in {1970}, {5165321.74} visits/month in {1969}."
+        },
+        {
+            "Q": "Which years did the total Patient Visits go below 4627994.99 visits/month? Please list the years and corresponding total values.",
+            "A": "{4532577.17} visits/month in {1966}, {4299194.68} visits/month in {1965}, {4180336.64} visits/month in {1963}."
+        },
+        {
+            "Q": "Which years did the total Patient Visits exceed 6025332.68 visits/month? Please list the years and corresponding total values.",
+            "A": "{6378775.91} visits/month in {1974}, {6714417.11} visits/month in {1975}, {7526321} visits/month in {1977}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1968 and 1973, did the total Patient Visits experience a larger or smaller change than between 1962 and 1978?",
+            "A": "The change in total patient visits between 1968 and 1973 was {smaller} than between 1962 and 1978."
+        },
+        {
+            "Q": "Was the total Patient Visits in 1968 higher or lower than in 1971?",
+            "A": "The total patient visits in 1968 was {lower} than in 1971."
+        },
+        {
+            "Q": "Was the total Patient Visits in 1967 higher or lower than in 1968?",
+            "A": "The total patient visits in 1967 was {lower} than in 1968."
+        },
+        {
+            "Q": "Between 1965 and 1969, was the average total Patient Visits higher or lower than between 1977 and 1978?",
+            "A": "The average total patient visits between 1965 and 1969 was {lower} than between 1977 and 1978."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Aegis Medical Center} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Vitality Clinic, Lumina Clinic, Meridian Health Post, Aegis Medical Center}."
+        }
+    ]
+}

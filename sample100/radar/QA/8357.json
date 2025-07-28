@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Promotion Rate?",
+            "A": "The next dimension clockwise from Promotion Rate is Pay Equity Ratio"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Promotion Rate?",
+            "A": "The next dimension counterclockwise from Promotion Rate is Offer Acceptance Rate."
+        },
+        {
+            "Q": "On the Offer Acceptance Rate, is the point for Ryan, Ewing and Boyd inside or outside the point for Haynes, Mosley and Ford?",
+            "A": "On the Offer Acceptance Rate, the point for Ryan, Ewing and Boyd is outside the point for Haynes, Mosley and Ford."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Pay Equity Ratio} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Haynes, Mosley and Ford?",
+            "A": "The strongest aspect is {Pay Equity Ratio}, while the weakest aspect is{ Offer Acceptance Rate}."
+        },
+        {
+            "Q": "On dimension Skill Proficiency Rate, which label scores the highest?",
+            "A": "On Skill Proficiency Rate, label {Haynes, Mosley and Ford} scores the highest."
+        },
+        {
+            "Q": "On dimension Skill Proficiency Rate, which label scores the highest?",
+            "A": "On Skill Proficiency Rate, label {Haynes, Mosley and Ford} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of White, Daniels and Stuart on the Pay Equity Ratio in the radar chart?",
+            "A": "The value of White, Daniels and Stuart on the Safety dimension is {39}."
+        },
+        {
+            "Q": "What is the value of Ryan, Ewing and Boyd on the Skill Proficiency Rate in the radar chart?",
+            "A": "The value of Ryan, Ewing and Boyd on the Safety dimension is {58}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Haynes, Mosley and Ford across all dimensions in the radar chart?",
+            "A": "The maximum value of Haynes, Mosley and Ford across all dimensions is {52}."
+        },
+        {
+            "Q": "What is the minimum value of label Ryan, Ewing and Boyd across all dimensions in the radar chart?",
+            "A": "The minimum value of Ryan, Ewing and Boyd across all dimensions is {58}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Promotion Rate",
+            "A": "The average value of Promotion Rate is {43.0}."
+        },
+        {
+            "Q": "What is the average value of Ryan, Ewing and Boyd",
+            "A": "The average value of Ryan, Ewing and Boyd is {53.0}."
+        },
+        {
+            "Q": "What is the difference in Pay Equity Ratio between Haynes, Mosley and Ford and White, Daniels and Stuart?",
+            "A": "The difference in Pay Equity Ratio between Haynes, Mosley and Ford and White, Daniels and Stuart is {35}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which labels have scores above 47 for the Promotion Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Haynes, Mosley and Ford} is {48}, {White, Daniels and Stuart} is {52}"
+        },
+        {
+            "Q": "For Haynes, Mosley and Ford in the radar chart, which dimensions have scores below 45? Please list the dimensions and corresponding scores.",
+            "A": "{Offer Acceptance Rate} is {38}"
+        },
+        {
+            "Q": "For Ryan, Ewing and Boyd in the radar chart, which dimensions have scores between 45 and 67? Please list the dimensions and corresponding scores.",
+            "A": "{Skill Proficiency Rate} is {58}, {Pay Equity Ratio} is {50}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Ryan, Ewing and Boyd, which dimension has a higher score: Pay Equity Ratio or Offer Acceptance Rate?",
+            "A": "{Offer Acceptance Rate} has a higher score than Pay Equity Ratio for Ryan, Ewing and Boyd."
+        },
+        {
+            "Q": "For White, Daniels and Stuart, which dimension has a higher score: Offer Acceptance Rate or Pay Equity Ratio?",
+            "A": "{Offer Acceptance Rate} has a higher score than Pay Equity Ratio for White, Daniels and Stuart."
+        },
+        {
+            "Q": "On Skill Proficiency Rate, which label has a higher score: Ryan, Ewing and Boyd or the White, Daniels and Stuart?",
+            "A": "{White, Daniels and Stuart} has a higher score on Skill Proficiency Rate compared to Ryan, Ewing and Boyd."
+        },
+        {
+            "Q": "On Promotion Rate, which label has a higher score: Haynes, Mosley and Ford or the White, Daniels and Stuart?",
+            "A": "{White, Daniels and Stuart} has a higher score on Promotion Rate compared to Haynes, Mosley and Ford."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Ryan, Ewing and Boyd, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Ryan, Ewing and Boyd most needs to improve its {Promotion Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Haynes, Mosley and Ford}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Ryan, Ewing and Boyd}."
+        }
+    ],
+    "VA": []
+}

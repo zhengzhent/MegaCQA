@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {3} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {7} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Skill Proficiency Rate?",
+            "A": "The next dimension clockwise from Skill Proficiency Rate is Pay Equity Ratio"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Pay Equity Ratio?",
+            "A": "The next dimension counterclockwise from Skill Proficiency Rate is Offer Acceptance Rate."
+        },
+        {
+            "Q": "On the Offer Acceptance Rate, is the point for Thomas, Baker and Johnson inside or outside the point for Thomas, Schmidt and Bryant?",
+            "A": "On the Offer Acceptance Rate, the point for Thomas, Baker and Johnson is outside the point for Thomas, Schmidt and Bryant."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Time-to-Fill Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Thomas, Baker and Johnson?",
+            "A": "The strongest aspect is {Time-to-Fill Rate}, while the weakest aspect is{ Skill Proficiency Rate}."
+        },
+        {
+            "Q": "On dimension Retention Rate, which label scores the highest?",
+            "A": "On Retention Rate, label {Thomas, Baker and Johnson} scores the highest."
+        },
+        {
+            "Q": "On dimension Offer Acceptance Rate, which label scores the highest?",
+            "A": "On Offer Acceptance Rate, label {Martin, Cordova and Williams} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Martin, Cordova and Williams on the Pay Equity Ratio in the radar chart?",
+            "A": "The value of Martin, Cordova and Williams on the Safety dimension is {70}."
+        },
+        {
+            "Q": "What is the value of Thomas, Baker and Johnson on the Skill Proficiency Rate in the radar chart?",
+            "A": "The value of Thomas, Baker and Johnson on the Safety dimension is {47}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Thomas, Baker and Johnson across all dimensions in the radar chart?",
+            "A": "The maximum value of Thomas, Baker and Johnson across all dimensions is {34}."
+        },
+        {
+            "Q": "What is the minimum value of label Martin, Cordova and Williams across all dimensions in the radar chart?",
+            "A": "The minimum value of Martin, Cordova and Williams across all dimensions is {59}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Offer Acceptance Rate",
+            "A": "The average value of Offer Acceptance Rate is {57.0}."
+        },
+        {
+            "Q": "What is the average value of Thomas, Schmidt and Bryant",
+            "A": "The average value of Thomas, Schmidt and Bryant is {59.57}."
+        },
+        {
+            "Q": "What is the difference in Pay Equity Ratio between Thomas, Baker and Johnson and Martin, Cordova and Williams?",
+            "A": "The difference in Pay Equity Ratio between Thomas, Baker and Johnson and Martin, Cordova and Williams is {3}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Martin, Cordova and Williams in the radar chart, which dimensions have scores between 46 and 81? Please list the dimensions and corresponding scores.",
+            "A": "{Job Satisfaction} is {56}, {Offer Acceptance Rate} is {47}, {Skill Proficiency Rate} is {54}, {Pay Equity Ratio} is {70}"
+        },
+        {
+            "Q": "For Thomas, Baker and Johnson in the radar chart, which dimensions have scores below 46? Please list the dimensions and corresponding scores.",
+            "A": "{Promotion Rate} is {34}"
+        },
+        {
+            "Q": "Which labels have scores above 82 for the Time-to-Fill Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Martin, Cordova and Williams} is {92}, {Thomas, Baker and Johnson} is {89}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Thomas, Baker and Johnson, which dimension has a higher score: Retention Rate or Offer Acceptance Rate?",
+            "A": "{Offer Acceptance Rate} has a higher score than Retention Rate for Thomas, Baker and Johnson."
+        },
+        {
+            "Q": "For Thomas, Baker and Johnson, which dimension has a higher score: Time-to-Fill Rate or Promotion Rate?",
+            "A": "{Time-to-Fill Rate} has a higher score than Promotion Rate for Thomas, Baker and Johnson."
+        },
+        {
+            "Q": "On Time-to-Fill Rate, which label has a higher score: Thomas, Baker and Johnson or the Thomas, Schmidt and Bryant?",
+            "A": "{Thomas, Baker and Johnson} has a higher score on Time-to-Fill Rate compared to Thomas, Schmidt and Bryant."
+        },
+        {
+            "Q": "For Thomas, Schmidt and Bryant, which dimension has a higher score: Job Satisfaction or Time-to-Fill Rate or Offer Acceptance Rate?",
+            "A": "{Job Satisfaction} has a higher score for Thomas, Schmidt and Bryant."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Thomas, Baker and Johnson, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Thomas, Baker and Johnson most needs to improve its {Skill Proficiency Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Thomas, Baker and Johnson}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Thomas, Schmidt and Bryant}."
+        }
+    ],
+    "VA": []
+}

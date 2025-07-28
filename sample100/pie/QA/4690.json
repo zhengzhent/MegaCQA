@@ -1,0 +1,95 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {7} slices in this pie chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the pie chart, what is the next slice in the clockwise direction from slice Diabetes?",
+            "A": "The next slice clockwise from slice Diabetes is {Chronic Respiratory Diseases}."
+        },
+        {
+            "Q": "In the pie chart, what is the next slice in the counterclockwise direction from slice Diabetes?",
+            "A": "The next slice counterclockwise from slice Diabetes is {Cancer}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which disease has the largest proportion in this pie chart?",
+            "A": "The disease with the largest proportion is {Diabetes}."
+        },
+        {
+            "Q": "Which disease has the smallest proportion in this pie chart?",
+            "A": "The disease with the smallest proportion is {Heart Disease}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Heart Disease slice in this pie chart?",
+            "A": "The value of the Heart Disease slice is {6}%."
+        },
+        {
+            "Q": "What is the value of the Influenza slice in this pie chart?",
+            "A": "The value of the Influenza slice is {13}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {24}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {6}%."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the values of Chronic Respiratory Diseases and Influenza in this pie chart?",
+            "A": "The difference between Chronic Respiratory Diseases and Influenza is {3}%."
+        },
+        {
+            "Q": "What is the sum of the values of Heart Disease and Alzheimer's Disease in this pie chart?",
+            "A": "The sum of Heart Disease and Alzheimer's Disease is {16}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 17.5%? Please list the category names and corresponding percentages.",
+            "A": "{Diabetes} accounts for {24}% and {Stroke} accounts for {19}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 11.0%? Please list the category names and corresponding percentages.",
+            "A": "{Alzheimer's Disease} accounts for {10}% and {Heart Disease} accounts for {6}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Stroke, Chronic Respiratory Diseases, or Influenza?",
+            "A": "The value of {Influenza} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Diabetes, Stroke, or Chronic Respiratory Diseases?",
+            "A": "The value of {Diabetes} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many sectors have a percentage between 5% and 15%?",
+            "A": "There are {4} sectors that have a percentage between 5% and 15%."
+        },
+        {
+            "Q": "Which three sectors have a sum of percentage less than 40%? List all possible combinations.",
+            "A": "The possible combinations are: {(Stroke, Influenza, Heart Disease), (Stroke, Cancer, Heart Disease), (Stroke, Alzheimer's Disease, Heart Disease), (Chronic Respiratory Diseases, Influenza, Alzheimer's Disease), (Chronic Respiratory Diseases, Influenza, Heart Disease), (Chronic Respiratory Diseases, Cancer, Alzheimer's Disease), (Chronic Respiratory Diseases, Cancer, Heart Disease), (Chronic Respiratory Diseases, Alzheimer's Disease, Heart Disease), (Influenza, Cancer, Alzheimer's Disease), (Influenza, Cancer, Heart Disease), (Influenza, Alzheimer's Disease, Heart Disease), (Cancer, Alzheimer's Disease, Heart Disease)}."
+        }
+    ],
+    "VA": []
+}

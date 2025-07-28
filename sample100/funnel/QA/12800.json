@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {6} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Fan Engagement stage positioned above or below the Post-Event Feedback stage?",
+            "A": "The Fan Engagement stage is positioned {above} the Post-Event Feedback stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {linear} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Post-Event Feedback?",
+            "A": "The value of stage Post-Event Feedback is {548}."
+        },
+        {
+            "Q": "What is the value of stage Event Attendance?",
+            "A": "The value of stage Event Attendance is {1199}."
+        },
+        {
+            "Q": "What is the value of stage Merchandise Purchase?",
+            "A": "The value of stage Merchandise Purchase is {287}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Event Announcement, with a value of {1842}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Merchandise Purchase, with a value of {287}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Post-Event Feedback to stage Merchandise Purchase?",
+            "A": "Decreased by {261} Participants from stage Post-Event Feedback to stage Merchandise Purchase."
+        },
+        {
+            "Q": "How much did it decrease from stage Ticket Purchase to stage Event Attendance?",
+            "A": "Decreased by {335} Participants from stage Ticket Purchase to stage Event Attendance."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 1038? Please list the stage labels and corresponding values.",
+            "A": "The {Event Announcement} stage has {1842}, the {Ticket Purchase} stage has {1534}, the {Event Attendance} stage has {1199}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 417? Please list the stage labels and corresponding values.",
+            "A": "The {Merchandise Purchase} stage has {287}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 713 and 1366? Please list the stage labels and corresponding values.",
+            "A": "The {Event Attendance} stage has {1199}, the {Fan Engagement} stage has {878}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Event Announcement to Ticket Purchase, or from stage Post-Event Feedback to Merchandise Purchase?",
+            "A": "The reduction from stage {Event Announcement} to {Ticket Purchase} is greater."
+        },
+        {
+            "Q": "Which reduction is greater: from stage Event Attendance to Fan Engagement, or from stage Post-Event Feedback to Merchandise Purchase?",
+            "A": "The reduction from stage {Event Attendance} to {Fan Engagement} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Event Attendance to Fan Engagement, from stage Fan Engagement to Post-Event Feedback, or from stage Ticket Purchase to Event Attendance?",
+            "A": "The reduction from stage {Ticket Purchase} to stage {Event Attendance} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Ticket Purchase} and {Event Attendance} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Post-Event Feedback} and {Merchandise Purchase} stages."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bubble} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bubbles are in this bubble chart?",
+            "A": "There are {10} bubbles."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the relative position of the bubble with a Number of patients treated of 132.49 relative to the bubble with a Number of patients treated of 37.78 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The bubble with a Number of patients treated of 132.49 is {above} and to the {right} of the bubble with a Number of patients treated of 37.78."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Where is the highest concentration of bubbles located in terms of Age and Life expectancy?",
+            "A": "The highest concentration of bubbles corresponds to approximately {19.09} years and {66.98} years."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the Number of patients treated of the largest bubble?",
+            "A": "The Number of patients treated of the largest bubble is {1000.00} patients."
+        },
+        {
+            "Q": "What is the Number of patients treated of the smallest bubble?",
+            "A": "The Number of patients treated of the smallest bubble is {10.00} patients."
+        },
+        {
+            "Q": "What are the Age and Life expectancy values of the largest bubble?",
+            "A": "The Age of the largest bubble is {36.08} years, and {Life expectancy} is {84.08} years."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Number of patients treated in the bubble chart?",
+            "A": "The global maximum Number of patients treated is {1000.00} patients."
+        },
+        {
+            "Q": "What is the global minimum Number of patients treated in the bubble chart?",
+            "A": "The global minimum Number of patients treated is {10.00} patients."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Age in the bubble chart?",
+            "A": "The maximum observed value in the Age dimension is {100.32} years."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Age in the bubble chart?",
+            "A": "The minimum observed value in the Age dimension is {10.28} years."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Life expectancy in the bubble chart?",
+            "A": "The maximum observed value in the Life expectancy dimension is {88.41} years."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Life expectancy in the bubble chart?",
+            "A": "The minimum observed value in the Life expectancy dimension is {60.00} years."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Number of patients treated for all bubbles?",
+            "A": "The average value of the Number of patients treated for all bubbles is {165.90} patients."
+        },
+        {
+            "Q": "What is the average value of the Age for all bubbles?",
+            "A": "The average value of Age for all bubbles is {41.09} years."
+        },
+        {
+            "Q": "What is the average value of the Life expectancy for all bubbles?",
+            "A": "The average value of Life expectancy for all bubbles is {78.32} years."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 Number of patients treated values in the bubble chart?",
+            "A": "{1000.00, 132.49, 111.16} patients."
+        },
+        {
+            "Q": "What are the bottom 3 Number of patients treated values in the bubble chart?",
+            "A": "{10.00, 36.26, 37.78} patients."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which has a larger Number of patients treated value, the bubble with a Age of 100.3 years and a Life expectancy of 84.9 years, or the bubble with a Age of 36.1 years and a Life expectancy of 84.1 years?",
+            "A": "The bubble with a Age of {36.1} and a Life expectancy of {84.1} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "What is the Number of patients treated value of the bubble with the largest Life expectancy value?",
+            "A": "The Number of patients treated value of the bubble with the largest Life expectancy is {68.31}."
+        },
+        {
+            "Q": "What is the Number of patients treated value of the bubble with the largest Age value?",
+            "A": "The Number of patients treated value of the bubble with the largest Age is {132.49}."
+        },
+        {
+            "Q": "Classify bubbles with a Life expectancy-coordinate greater than 67 as 'high value group' and the rest as 'low value group'. What is the difference between the sum of Number of patients treated for the high value group and the low value group?",
+            "A": "The difference between the total Number of patients treated of the high-value and low-value groups is {1539.04}."
+        }
+    ],
+    "VA": []
+}

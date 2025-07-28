@@ -1,0 +1,17 @@
+<svg width="1920" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1920 1440">
+<rect width="1920" height="1440" x="0" y="0" id="0" fill="#ffffff"></rect>
+<polyline points="1398.5 350.3 1478.5 350.3" fill="none" stroke="#000000"></polyline>
+<polyline points="1232.6 620.8 1312.6 620.8" fill="none" stroke="#000000"></polyline>
+<polyline points="1072.9 891.3 1152.9 891.3" fill="none" stroke="#000000"></polyline>
+<polyline points="999.2 1161.8 1079.2 1161.8" fill="none" stroke="#000000"></polyline>
+<polygon points="249.6 216 1478.4 216 1318.7 484.5 409.3 484.5" fill="#FFF5E1" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="409.3 486.5 1318.7 486.5 1146.6 755 581.4 755" fill="#FFE4B5" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="581.4 757 1146.6 757 999.2 1025.5 728.8 1025.5" fill="#FFD27F" stroke="#000000" stroke-linejoin="round"></polygon>
+<polygon points="728.8 1027.5 999.2 1027.5 999.2 1296 728.8 1296" fill="#FFC04A" stroke="#000000" stroke-linejoin="round"></polygon>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1483.528" y="350.25" fill="#000000">HR Interview: 100%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1317.6399999999999" y="620.75" fill="#000000">Technical Interview: 74%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1157.896" y="891.25" fill="#000000">Offer Extended: 46%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:Times New Roman;" xml:space="preserve" x="1084.1680000000001" y="1161.75" fill="#000000">Offer Accepted: 22%</text>
+<path d="M-268.9062 -5l537.8125 0l0 58l-537.8125 0Z" transform="translate(960 77)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:48px;font-family:Times New Roman;" xml:space="preserve" y="24" transform="translate(960 77)" fill="#000000">Employee Recruitment (%)</text>
+</svg>

@@ -1,0 +1,32 @@
+Food and Beverage Industry,Food Production and Consumption Chain,Products,random,Consumption Venues,Distribution Channels,Waste Management
+Source,Target,Value
+Schools,Farmers' Markets,7196
+Schools,Retailers,22401
+Schools,Wholesalers,2438
+Homes,Farmers' Markets,24500
+Homes,Retailers,2997
+Homes,Wholesalers,13614
+Workplaces,Farmers' Markets,2801
+Workplaces,Retailers,20402
+Workplaces,Wholesalers,10976
+Restaurants,Farmers' Markets,13500
+Restaurants,Retailers,1401
+Restaurants,Wholesalers,10946
+Cafes,Farmers' Markets,15918
+Cafes,Retailers,19860
+Cafes,Wholesalers,5310
+Farmers' Markets,Recycling,15701
+Farmers' Markets,Animal Feed,13415
+Farmers' Markets,Composting,2619
+Farmers' Markets,Landfills,18173
+Farmers' Markets,Food Banks,14007
+Retailers,Recycling,9278
+Retailers,Animal Feed,2751
+Retailers,Composting,22429
+Retailers,Landfills,25951
+Retailers,Food Banks,6652
+Wholesalers,Recycling,3737
+Wholesalers,Animal Feed,7697
+Wholesalers,Composting,16928
+Wholesalers,Landfills,4048
+Wholesalers,Food Banks,10874

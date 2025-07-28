@@ -1,0 +1,99 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sunburst chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ring layers are in this sunburst chart?",
+            "A": "There are {4} ring layers."
+        },
+        {
+            "Q": "How many segments are in this sunburst chart?",
+            "A": "There are {18} segments."
+        },
+        {
+            "Q": "How many segments are in the innermost ring of this sunburst chart?",
+            "A": "There are {3} segments in the innermost ring."
+        },
+        {
+            "Q": "How many segments are in the outermost ring of this sunburst chart?",
+            "A": "There are {5} segments in the outermost ring."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is Sports Technology positioned outside, inside or on the same side as Outdoor Activities?",
+            "A": "Sports Technology is positioned {on the same side} Outdoor Activities."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which top-level category has the highest proportion in this sunburst chart?",
+            "A": "The top-level category with the highest proportion is {Sports Media and Tech}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Personal Training segment in this sunburst chart?",
+            "A": "The value of the Personal Training segment is {22.38}."
+        },
+        {
+            "Q": "What is the value of the OTT Platforms segment in this sunburst chart?",
+            "A": "The value of the OTT Platforms segment is {5.37}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of the innermost layer in this sunburst chart?",
+            "A": "The maximum value of the innermost layer is {42.44}."
+        },
+        {
+            "Q": "What is the minimum value of the innermost layer in this sunburst chart?",
+            "A": "The minimum value of the innermost layer is {27.8}."
+        },
+        {
+            "Q": "What is the maximum value of the outermost layer in this sunburst chart?",
+            "A": "The maximum value of the outermost layer is {7.65}."
+        },
+        {
+            "Q": "What is the minimum value of the outermost layer in this sunburst chart?",
+            "A": "The minimum value of the outermost layer is {5.37}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of the second layer?",
+            "A": "The total value of the second layer is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which categories in the segment Sports Media and Tech exceed 61%? Please list the category names and corresponding percentages.",
+            "A": "{Live Broadcasting} accounts for {72.5}%"
+        },
+        {
+            "Q": "Which categories in the segment Sports Media and Tech are below 39%? Please list the category names and corresponding percentages.",
+            "A": "{Sports Technology} accounts for {27.5}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Sports Media and Tech, Live Broadcasting, or Competitive Sports?",
+            "A": "The value of {Sports Media and Tech} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Sports Media and Tech or Live Broadcasting?",
+            "A": "The value of {Sports Media and Tech} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which hierarchical path in the sunburst chart makes the largest contribution to the total?",
+            "A": "The path that contributes the most to the total is: {Sports Media and Tech to Live Broadcasting to Television Coverage to Olympic Coverage}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,8 @@
+Agriculture and Food Production, Crops Production Transfer Flow, Thousand Tons, long_tail
+Source,Target,Value
+Barley,Sugarcane,1044
+Sugarcane,Barley,512
+Potatoes,Sugarcane,341
+Sugarcane,Potatoes,240
+Barley,Potatoes,202
+Potatoes,Barley,160

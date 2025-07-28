@@ -1,0 +1,51 @@
+Tourism and Hospitality,Global Tourism Value Chain,Million Tourists,random,Hotels,Attractions,Travel Purposes,Source Continents,Spending Types
+Source,Target,Value
+Boutique Hotel,Historical Site,703
+Boutique Hotel,Cultural Festival,890
+Boutique Hotel,Hiking Trail,1469
+Hostel,Historical Site,1796
+Hostel,Cultural Festival,3421
+Hostel,Hiking Trail,3315
+Resort,Historical Site,2386
+Resort,Cultural Festival,2442
+Resort,Hiking Trail,875
+Budget Hotel,Historical Site,1998
+Budget Hotel,Cultural Festival,2747
+Budget Hotel,Hiking Trail,1749
+Historical Site,Medical,1894
+Historical Site,Business,1830
+Historical Site,Leisure,1315
+Historical Site,Religious Pilgrimage,224
+Historical Site,Education,1620
+Cultural Festival,Medical,968
+Cultural Festival,Business,2607
+Cultural Festival,Leisure,2141
+Cultural Festival,Religious Pilgrimage,2148
+Cultural Festival,Education,1636
+Hiking Trail,Medical,2239
+Hiking Trail,Business,243
+Hiking Trail,Leisure,2400
+Hiking Trail,Religious Pilgrimage,1986
+Hiking Trail,Education,540
+Medical,Europe,1815
+Medical,Asia,3286
+Business,Europe,2191
+Business,Asia,2489
+Leisure,Europe,3714
+Leisure,Asia,2142
+Religious Pilgrimage,Europe,2374
+Religious Pilgrimage,Asia,1984
+Education,Europe,1891
+Education,Asia,1905
+Europe,Tours,366
+Europe,Accommodation,1627
+Europe,Shopping,1978
+Europe,Transportation,2319
+Europe,Entertainment,2136
+Europe,Dining,3559
+Asia,Tours,2248
+Asia,Accommodation,3231
+Asia,Shopping,3150
+Asia,Transportation,1618
+Asia,Entertainment,1014
+Asia,Dining,545

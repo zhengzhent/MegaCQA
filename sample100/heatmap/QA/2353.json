@@ -1,0 +1,101 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {81} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {9} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {vertical gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Chemistry and Faculty in the heatmap?",
+            "A": "The heat value is {0.62}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Mathematics and Senior in the heatmap?",
+            "A": "The heat value is {0.31}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Chemistry and Staff in the heatmap?",
+            "A": "The heat value is {0.24}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Engineering and Admin in the heatmap?",
+            "A": "The heat value is {0.73}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.75}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.24}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Admin on the y-axis?",
+            "A": "The maximum heat value for Admin on the y-axis is {0.75}."
+        },
+        {
+            "Q": "What is the maximum heat value for label PhD on the y-axis?",
+            "A": "The maximum heat value for PhD on the y-axis is {0.40}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Arts on the x-axis?",
+            "A": "The average heat value for Arts on the x-axis is {0.44}."
+        },
+        {
+            "Q": "What is the average heat value for label Computer Science on the x-axis?",
+            "A": "The average heat value for Computer Science on the x-axis is {0.43}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Chemistry and Researcher or the cell corresponding to Computer Science and Researcher?",
+            "A": "The cell corresponding to {Chemistry} and {Researcher} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Literature and Faculty or the cell corresponding to Physics and Faculty?",
+            "A": "The cell corresponding to {Physics} and {Faculty} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Chemistry and Junior or the cell corresponding to Engineering and Sophomore?",
+            "A": "The cell corresponding to {Chemistry} and {Junior} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Mathematics and Junior or the cell corresponding to History and Sophomore?",
+            "A": "The cell corresponding to {Mathematics} and {Junior} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.44 to 0.71?",
+            "A": "The cells are: {(Arts, Faculty), (Chemistry, Faculty), (Computer Science, Faculty), (Engineering, Faculty), (Geography, Faculty), (History, Faculty), (Literature, Faculty), (Mathematics, Faculty), (Physics, Faculty), (Arts, Graduate), (Chemistry, Graduate), (Computer Science, Graduate), (Engineering, Graduate), (Geography, Graduate), (History, Graduate), (Literature, Graduate), (Mathematics, Graduate), (Physics, Graduate), (Arts, Junior), (Engineering, Junior), (Geography, Junior), (History, Junior), (Mathematics, Junior), (Physics, Junior)}."
+        }
+    ],
+    "VA": []
+}

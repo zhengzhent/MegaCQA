@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {62} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {a positive u shape correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Data usage in the scatter plot?",
+            "A": "The maximum observed value in the Data usage dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Data usage in the scatter plot?",
+            "A": "The minimum observed value in the Data usage dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension E-commerce sales in the scatter plot?",
+            "A": "The maximum observed value in the E-commerce sales dimension is {1000000000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension E-commerce sales in the scatter plot?",
+            "A": "The minimum observed value in the E-commerce sales dimension is {10000.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Data usage for all points?",
+            "A": "The average value of Data usage for all points is {500.50}."
+        },
+        {
+            "Q": "What is the average value of the E-commerce sales for all points?",
+            "A": "The average value of E-commerce sales for all points is {362446431.90}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the E-commerce sales values corresponding to the top 3 Data usage values in the scatter plot?",
+            "A": "{981985605.48, 924039419.05, 865501654.66}."
+        },
+        {
+            "Q": "What are the E-commerce sales values corresponding to the bottom 3 Data usage values in the scatter plot?",
+            "A": "{980972756.03, 1000000000.00, 862331460.25}."
+        },
+        {
+            "Q": "What are the Data usage values corresponding to the top 3 E-commerce sales values in the scatter plot?",
+            "A": "{17.38, 1000.00, 1.00}."
+        },
+        {
+            "Q": "What are the Data usage values corresponding to the bottom 3 E-commerce sales values in the scatter plot?",
+            "A": "{443.18, 492.31, 508.69}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 443.67 and 742.90 and Y coordinates between 612714830.96 and 717630873.23?",
+            "A": "There are {0} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(17.38, 1000000000.00) and (443.18, 10000.00)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(410.43, 51238587.03) and (459.56, 51267959.03)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [360.48, 1239087.03, 509.51, 101267459.03] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (410.43, 51238587.03)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [656.66, 287015358.00, 901.98, 565498996.77]; Region B: [312.34, 10000.00, 557.65, 278493638.77]; Region C: [72.88, 308248383.36, 318.19, 586732022.13]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region B."
+        }
+    ]
+}

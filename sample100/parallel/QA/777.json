@@ -1,0 +1,103 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Performance rating (1-10) dimension, what is the spatial relationship of Miranda Taylor relative to Randall Malone in terms of vertical (above/below) direction?",
+            "A": "{Miranda Taylor} is {below} {Randall Malone} on the Performance rating (1-10) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Recovery time (hours)?",
+            "A": "The first position to the left of Recovery time (hours) is {Performance rating (1-10)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Accuracy (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Performance rating (1-10)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Endurance (minutes)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Recovery time (hours) and dimension Endurance (minutes)",
+            "A": "There is {Clustering} between Recovery time (hours) and Endurance (minutes)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Randall Malone on the Performance rating (1-10) dimension in the parallel-coordinates chart?",
+            "A": "The value of Randall Malone on the Performance rating (1-10) dimension is {9.91}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Richard Fields across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Richard Fields across all dimensions is {100.0}"
+        },
+        {
+            "Q": "What is the minimum value of label Miranda Taylor across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Miranda Taylor across all dimensions is {9.72}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Recovery time (hours)?",
+            "A": "The average value of Recovery time (hours) is {38.79}"
+        },
+        {
+            "Q": "What is the difference in coding Endurance (minutes) between label James Jones and label Richard Fields",
+            "A": "The difference in coding Endurance (minutes) between James Jones and Richard Fields is {10.28}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Accuracy (%) dimension in the parallel coordinates?",
+            "A": "{[100.0, 96.82, 94.82]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Recovery time (hours) dimension in the parallel coordinates?",
+            "A": "{[12.0, 21.1, 21.7]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Recovery time (hours), which label has a higher score: James Hall or Richard Fields?",
+            "A": "{James Hall} has a higher score on Recovery time (hours)."
+        },
+        {
+            "Q": "On Endurance (minutes), which label has a higher score: James Hall or Sandra Rios?",
+            "A": "{James Hall} has a higher score on Endurance (minutes)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Endurance (minutes)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Recovery time (hours) being greater than 35.18 and Performance rating (1-10) being less than 6.04?",
+            "A": "There are {0} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

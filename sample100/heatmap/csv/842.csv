@@ -1,0 +1,65 @@
+Business and Finance,the Metrics of Business and Finance,8x8,random
+Accounting,Assets,0.62
+Auditing,Assets,0.31
+Banking,Assets,0.98
+Capital Markets,Assets,0.73
+Financial Tech,Assets,0.87
+Insurance,Assets,0.79
+Investments,Assets,0.84
+Risk Management,Assets,0.96
+Accounting,Equity,0.95
+Auditing,Equity,0.08
+Banking,Equity,0.15
+Capital Markets,Equity,0.07
+Financial Tech,Equity,0.58
+Insurance,Equity,0.27
+Investments,Equity,0.31
+Risk Management,Equity,0.53
+Accounting,Growth,0.04
+Auditing,Growth,0.79
+Banking,Growth,0.2
+Capital Markets,Growth,0.33
+Financial Tech,Growth,0.43
+Insurance,Growth,0.92
+Investments,Growth,0.04
+Risk Management,Growth,0.21
+Accounting,Liabilities,0.82
+Auditing,Liabilities,0.06
+Banking,Liabilities,0.16
+Capital Markets,Liabilities,0.78
+Financial Tech,Liabilities,0.04
+Insurance,Liabilities,0.68
+Investments,Liabilities,0.68
+Risk Management,Liabilities,0.15
+Accounting,Liquidity,0.72
+Auditing,Liquidity,0.43
+Banking,Liquidity,0.43
+Capital Markets,Liquidity,0.38
+Financial Tech,Liquidity,0.81
+Insurance,Liquidity,0.38
+Investments,Liquidity,0.26
+Risk Management,Liquidity,0.81
+Accounting,Market Share,0.78
+Auditing,Market Share,0.3
+Banking,Market Share,0.73
+Capital Markets,Market Share,0.72
+Financial Tech,Market Share,0.05
+Insurance,Market Share,0.56
+Investments,Market Share,0.73
+Risk Management,Market Share,0.96
+Accounting,Revenue,0.95
+Auditing,Revenue,0.33
+Banking,Revenue,0.97
+Capital Markets,Revenue,0.22
+Financial Tech,Revenue,0.1
+Insurance,Revenue,0.19
+Investments,Revenue,0.07
+Risk Management,Revenue,0.9
+Accounting,Risk,0.37
+Auditing,Risk,0.49
+Banking,Risk,0.87
+Capital Markets,Risk,0.44
+Financial Tech,Risk,0.63
+Insurance,Risk,0.7
+Investments,Risk,0.12
+Risk Management,Risk,0.01

@@ -1,0 +1,90 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Force Feedback in this treemap?",
+            "A": "There are {1} child rectangles under the category Force Feedback."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Medical Tech}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Bilateral Teleoperation}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Medical Tech}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the OSEM rectangle in this treemap?",
+            "A": "The value of the OSEM rectangle is {15.22}."
+        },
+        {
+            "Q": "What is the value of the Reconstruction rectangle in this treemap?",
+            "A": "The value of the Reconstruction rectangle is {51.46}."
+        },
+        {
+            "Q": "What is the value of the CNN Architectures rectangle in this treemap?",
+            "A": "The value of the CNN Architectures rectangle is {18.58}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {7.07}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Pulse Sequences and Deep Learning?",
+            "A": "The difference between Pulse Sequences and Deep Learning is {22.89}."
+        },
+        {
+            "Q": "What is the sum of the regions of Robotic Surgery and Gradient Echo?",
+            "A": "The sum of Robotic Surgery and Gradient Echo is {39.61}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Force Feedback category in the treemap, which rectangular labels have a value exceeded 7.06? Please list the labels and values.",
+            "A": "{Bilateral Teleoperation} has {7.07}"
+        },
+        {
+            "Q": "Under the Force Feedback category in the treemap, which rectangular labels have a value below 7.08? Please list the labels and values.",
+            "A": "{Bilateral Teleoperation} has {7.07}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Medical Tech or Imaging Systems?",
+            "A": "The value of {Medical Tech} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of CT Scanners or MRI Machines?",
+            "A": "The value of {CT Scanners} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {8} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

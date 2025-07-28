@@ -1,0 +1,91 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {5} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Testing and Validation stage positioned above or below the Design Phase stage?",
+            "A": "The Testing and Validation stage is positioned {below} the Design Phase stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {logarithmic} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Design Phase?",
+            "A": "The value of stage Design Phase is {56%}."
+        },
+        {
+            "Q": "What is the value of stage Final Design Approval?",
+            "A": "The value of stage Final Design Approval is {15%}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Project Initiation, with a value of {100%}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Final Design Approval, with a value of {15%}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the percentage reduction from stage Testing and Validation to stage Final Design Approval?",
+            "A": "The percentage reduction from stage Testing and Validation to stage Final Design Approval is {3%}."
+        },
+        {
+            "Q": "What is the percentage reduction from stage Design Phase to stage Prototype Development?",
+            "A": "The percentage reduction from stage Design Phase to stage Prototype Development is {25%}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 24%? Please list the stage labels and corresponding values.",
+            "A": "The {Project Initiation} stage has {100%}, the {Design Phase} stage has {56%}, the {Prototype Development} stage has {31%}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 43%? Please list the stage labels and corresponding values.",
+            "A": "The {Prototype Development} stage has {31%}, the {Testing and Validation} stage has {18%}, the {Final Design Approval} stage has {15%}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 16% and 78%? Please list the stage labels and corresponding values.",
+            "A": "The {Design Phase} stage has {56%}, the {Prototype Development} stage has {31%}, the {Testing and Validation} stage has {18%}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Testing and Validation to Final Design Approval, or from stage Project Initiation to Design Phase?",
+            "A": "The reduction from stage {Project Initiation} to {Design Phase} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Project Initiation to Design Phase, from stage Design Phase to Prototype Development, or from stage Prototype Development to Testing and Validation?",
+            "A": "The reduction from stage {Project Initiation} to stage {Design Phase} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Project Initiation} and {Design Phase} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Testing and Validation} and {Final Design Approval} stages."
+        }
+    ],
+    "VA": []
+}

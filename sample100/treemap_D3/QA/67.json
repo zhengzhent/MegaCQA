@@ -1,0 +1,89 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {17} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Customer Engagement}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {E-Wallets}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Payment & Logistics rectangle in this treemap?",
+            "A": "The value of the Payment & Logistics rectangle is {33.81}."
+        },
+        {
+            "Q": "What is the value of the Email Campaigns rectangle in this treemap?",
+            "A": "The value of the Email Campaigns rectangle is {21.49}."
+        },
+        {
+            "Q": "What is the value of the Digital Payment Systems rectangle in this treemap?",
+            "A": "The value of the Digital Payment Systems rectangle is {14.63}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.74}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Electronics Retailers and Buy Now Pay Later?",
+            "A": "The difference between Electronics Retailers and Buy Now Pay Later is {0.75}."
+        },
+        {
+            "Q": "What is the sum of the regions of Customer Service and Fashion Retailers?",
+            "A": "The sum of Customer Service and Fashion Retailers is {15.55}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the B2C Platforms category in the treemap, which rectangular labels have a value exceeded 9.44? Please list the labels and values.",
+            "A": "{Electronics Retailers} has {9.65}"
+        },
+        {
+            "Q": "Under the B2C Platforms category in the treemap, which rectangular labels have a value below 9.03? Please list the labels and values.",
+            "A": "{Fashion Retailers} has {8.82}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Customer Engagement, Payment & Logistics, or Marketing Strategies?",
+            "A": "The value of {Customer Engagement} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Payment & Logistics, Marketing Strategies, or Marketplace Platforms?",
+            "A": "The value of {Marketplace Platforms} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Marketing Strategies or Email Campaigns?",
+            "A": "The value of {Marketing Strategies} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Customer Engagement or Payment & Logistics?",
+            "A": "The value of {Customer Engagement} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

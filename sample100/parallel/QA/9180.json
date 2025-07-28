@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {5} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Capacity factor (%) dimension, what is the spatial relationship of Rodriguez, Williams and Coleman  Energy Facility relative to Harrington-Hoffman  Power Plant in terms of vertical (above/below) direction?",
+            "A": "{Rodriguez, Williams and Coleman  Energy Facility} is {below} {Harrington-Hoffman  Power Plant} on the Capacity factor (%) dimension."
+        },
+        {
+            "Q": "Which dimension is the second position to the left of dimension Output (MWh)?",
+            "A": "The second position to the left of Output (MWh) is {Fuel efficiency (%)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Capacity factor (%)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Fuel efficiency (%)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Output (MWh)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Maintenance cost (USD/MWh) and dimension Output (MWh)",
+            "A": "There is {No Correlation} between Maintenance cost (USD/MWh) and Output (MWh)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Harrington-Hoffman  Power Plant on the Output (MWh) dimension in the parallel-coordinates chart?",
+            "A": "The value of Harrington-Hoffman  Power Plant on the Output (MWh) dimension is {1.0}"
+        },
+        {
+            "Q": "What is the value of Rodriguez, Williams and Coleman  Energy Facility on the Output (MWh) dimension in the parallel-coordinates chart?",
+            "A": "The value of Rodriguez, Williams and Coleman  Energy Facility on the Output (MWh) dimension is {7046.6}"
+        },
+        {
+            "Q": "What is the value of Green, Smith and Arnold  Energy Facility on the Output (MWh) dimension in the parallel-coordinates chart?",
+            "A": "The value of Green, Smith and Arnold  Energy Facility on the Output (MWh) dimension is {372.97}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Rodriguez, Williams and Coleman  Energy Facility across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of Rodriguez, Williams and Coleman  Energy Facility across all dimensions is {7046.6}"
+        },
+        {
+            "Q": "What is the minimum value of label Harrington-Hoffman  Power Plant across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of Harrington-Hoffman  Power Plant across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Output (MWh)?",
+            "A": "The average value of Output (MWh) is {4389.59}"
+        },
+        {
+            "Q": "What is the difference in coding Fuel efficiency (%) between label Harrington-Hoffman  Power Plant and label Green, Smith and Arnold  Energy Facility",
+            "A": "The difference in coding Fuel efficiency (%) between Harrington-Hoffman  Power Plant and Green, Smith and Arnold  Energy Facility is {31.52}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Maintenance cost (USD/MWh) dimension in the parallel coordinates?",
+            "A": "{[100.0, 84.65, 59.07]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Output (MWh) dimension in the parallel coordinates?",
+            "A": "{[1.0, 372.97, 4527.4]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Fuel efficiency (%), which label has a higher score: Riddle and Sons  Energy Facility or Green, Smith and Arnold  Energy Facility?",
+            "A": "{Riddle and Sons  Energy Facility} has a higher score on Fuel efficiency (%)."
+        },
+        {
+            "Q": "On Output (MWh), which label has a higher score: Riddle and Sons  Energy Facility or Harrington-Hoffman  Power Plant?",
+            "A": "{Riddle and Sons  Energy Facility} has a higher score on Output (MWh)."
+        },
+        {
+            "Q": "On Maintenance cost (USD/MWh), which label has a higher score: Riddle and Sons  Energy Facility or Brooks, Jones and Lee  Energy Facility?",
+            "A": "{Riddle and Sons  Energy Facility} has a higher score on Maintenance cost (USD/MWh)."
+        },
+        {
+            "Q": "On Output (MWh), which label has a higher score: Green, Smith and Arnold  Energy Facility or Harrington-Hoffman  Power Plant?",
+            "A": "{Green, Smith and Arnold  Energy Facility} has a higher score on Output (MWh)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Output (MWh)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Output (MWh) being greater than 6069.97 and Maintenance cost (USD/MWh) being less than 48.51?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

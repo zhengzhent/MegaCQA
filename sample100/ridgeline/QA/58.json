@@ -1,0 +1,77 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {ridgeline}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many ridgelines are in this ridgeline chart?",
+            "A": "There are {5} slices in this chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the spatial relationship of the peak of Social Sciences relative to the peak of Arts in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "The peak of  Social Sciences is to the {right} of the peak of Arts."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What distribution pattern does the ridgeline representing Social Sciences show?",
+            "A": "The ridgeline representing Social Sciences shows a {Random fluctuation}."
+        },
+        {
+            "Q": "At what value do  Arts reach its peaks?",
+            "A": "At {18.32}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "Which ridgeline has the highest peak",
+            "A": "The ridgeline representing {Humanities} has the highest peak."
+        },
+        {
+            "Q": "Which label has the highest density at X =83.1?",
+            "A": "At X =83.1,the label with the highest density is {Social Sciences}"
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks exceed 33? Please list the countries and corresponding peak values.",
+            "A": "{STEM Subjects}'s peak at {85}"
+        },
+        {
+            "Q": "Which countries in the ridgeline chart have ridgeline peaks below 67? Please list the countries and corresponding peak values.",
+            "A": "{Humanities}'s peak at {13},{Social Sciences}'s peak at {26},{Physical Education}'s peak at {11},{Arts}'s peak at {18}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: STEM Subjects or Humanities?",
+            "A": "{STEM Subjects} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Humanities or STEM Subjects?",
+            "A": "{STEM Subjects} has a larger X value at the peak of its ridgeline."
+        },
+        {
+            "Q": "Which one has a larger X value at the peak of its ridgeline: Social Sciences or Physical Education?",
+            "A": "{Social Sciences} has a larger X value at the peak of its ridgeline."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many ridges have their peak located to the right of the average X value across all ridges?",
+            "A": "There are {1} ridges whose peaks are located to the right of the average X value."
+        },
+        {
+            "Q": "What is the label of the ridge with the largest span along the mountain height?",
+            "A": "The ridge with the largest span in the mountain height is {Humanities}"
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {2} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing CrimsonLink relative to Luminara?",
+            "A": "CrimsonLink is {above} Luminara in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total daily active users?",
+            "A": "The series with the largest contribution is {Luminara}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total daily active users?",
+            "A": "The series with the smallest contribution is {CrimsonLink}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Luminara's Daily Active Users in 1978?",
+            "A": "Luminara's daily active users in 1978 is {722463108.37} users."
+        },
+        {
+            "Q": "What is Luminara's Daily Active Users in 1976?",
+            "A": "Luminara's daily active users in 1976 is {779165352.36} users."
+        },
+        {
+            "Q": "What is CrimsonLink's Daily Active Users in 1973?",
+            "A": "CrimsonLink's daily active users in 1973 is {817798584.36} users."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Daily Active Users in the area chart?",
+            "A": "The global minimum daily active users is {148791501.61} users."
+        },
+        {
+            "Q": "What is the global maximum Daily Active Users in the area chart?",
+            "A": "The global maximum daily active users is {934815391.28} users."
+        },
+        {
+            "Q": "What is the highest Daily Active Users level recorded for CrimsonLink?",
+            "A": "CrimsonLink reached approximately {911894229.43} users in {1972}."
+        },
+        {
+            "Q": "What is the lowest Daily Active Users level recorded for CrimsonLink?",
+            "A": "CrimsonLink's lowest recorded level is approximately {225366043.51} users in {1984}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Daily Active Users?",
+            "A": "The average total daily active users is {1163643082.51} users."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Daily Active Users fall between 1089080313.56 and 1203720346.57 users? Please list the years and corresponding total values.",
+            "A": "{1168319559.96} users in {1980}, {1179257301.41} users in {1977}."
+        },
+        {
+            "Q": "Which years did the total Daily Active Users go below 831270431.64 users? Please list the years and corresponding total values.",
+            "A": "{490984527.98} users in {1982}, {516793327.07} users in {1983}, {653500845.65} users in {1984}."
+        },
+        {
+            "Q": "Which years did the total Daily Active Users exceed 1461530228.49 users? Please list the years and corresponding total values.",
+            "A": "{1843269989.96} users in {1972}, {1692907847.11} users in {1973}, {1677812876.24} users in {1975}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 1972 and 1979, did the total Daily Active Users experience a larger or smaller change than between 1983 and 1985?",
+            "A": "The change in total daily active users between 1972 and 1979 was {larger} than between 1983 and 1985."
+        },
+        {
+            "Q": "Was the total Daily Active Users in 1972 higher or lower than in 1978?",
+            "A": "The total daily active users in 1972 was {higher} than in 1978."
+        },
+        {
+            "Q": "Between 1977 and 1982, did the total Daily Active Users experience a larger or smaller change than between 1974 and 1980?",
+            "A": "The change in total daily active users between 1977 and 1982 was {larger} than between 1974 and 1980."
+        },
+        {
+            "Q": "Between 1982 and 1983, was the average total Daily Active Users higher or lower than between 1974 and 1975?",
+            "A": "The average total daily active users between 1982 and 1983 was {lower} than between 1974 and 1975."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Luminara} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {CrimsonLink, Luminara}."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {area chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many series are represented in this area chart?",
+            "A": "There are {7} series."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "What is the vertical (above/below) relationship of the area representing Stellar Grid Solutions relative to Zenith Utility Services?",
+            "A": "Stellar Grid Solutions is {above} Zenith Utility Services in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which series contributes the largest portion to the total electricity demand?",
+            "A": "The series with the largest contribution is {Silverhaven Hydro Authority}."
+        },
+        {
+            "Q": "Which series contributes the smallest portion to the total electricity demand?",
+            "A": "The series with the smallest contribution is {Aethelgard Power Grid}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Silverhaven Hydro Authority's Electricity Demand in 2011?",
+            "A": "Silverhaven Hydro Authority's electricity demand in 2011 is {1184272973.95} MWh."
+        },
+        {
+            "Q": "What is Azure Energy Distribution's Electricity Demand in 2011?",
+            "A": "Azure Energy Distribution's electricity demand in 2011 is {905945619.55} MWh."
+        },
+        {
+            "Q": "What is Stellar Grid Solutions's Electricity Demand in 2010?",
+            "A": "Stellar Grid Solutions's electricity demand in 2010 is {894245188.49} MWh."
+        },
+        {
+            "Q": "What are the electricity demand of Stellar Grid Solutions, Silverhaven Hydro Authority, and Azure Energy Distribution in 2010?",
+            "A": "Stellar Grid Solutions's electricity demand is {894245188.49} MWh, Silverhaven Hydro Authority's electricity demand is {1123854126.02} MWh, Azure Energy Distribution's electricity demand is {871837980.64} MWh."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Electricity Demand in the area chart?",
+            "A": "The global minimum electricity demand is {790764309.30} MWh."
+        },
+        {
+            "Q": "What is the global maximum Electricity Demand in the area chart?",
+            "A": "The global maximum electricity demand is {1206392035.35} MWh."
+        },
+        {
+            "Q": "What is the highest Electricity Demand level recorded for Aethelgard Power Grid?",
+            "A": "Aethelgard Power Grid reached approximately {985432315.92} MWh in {2009}."
+        },
+        {
+            "Q": "What is the lowest Electricity Demand level recorded for Aethelgard Power Grid?",
+            "A": "Aethelgard Power Grid's lowest recorded level is approximately {790764309.30} MWh in {2011}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average total Electricity Demand?",
+            "A": "The average total electricity demand is {6825564546.44} MWh."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did the total Electricity Demand exceed 6851499781.84 MWh? Please list the years and corresponding total values.",
+            "A": "{6965893142.69} MWh in {2009}."
+        },
+        {
+            "Q": "Which years did the total Electricity Demand go below 6759367706.91 MWh? Please list the years and corresponding total values.",
+            "A": "{6735562955.36} MWh in {2011}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between 2010 and 2011, was the average total Electricity Demand higher or lower than between 2009 and 2010?",
+            "A": "The average total electricity demand between 2010 and 2011 was {lower} than between 2009 and 2010."
+        },
+        {
+            "Q": "Between 2010 and 2011, did the total Electricity Demand experience a larger or smaller change than between 2009 and 2011?",
+            "A": "The change in total electricity demand between 2010 and 2011 was {smaller} than between 2009 and 2011."
+        },
+        {
+            "Q": "Between 2009 and 2010, was the average total Electricity Demand higher or lower than between 2009 and 2011?",
+            "A": "The average total electricity demand between 2009 and 2010 was {higher} than between 2009 and 2011."
+        },
+        {
+            "Q": "Was the total Electricity Demand in 2010 higher or lower than in 2011?",
+            "A": "The total electricity demand in 2010 was {higher} than in 2011."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which series has the largest cumulative area in this area chart?",
+            "A": "{Silverhaven Hydro Authority} has the largest cumulative area."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce the 'waving' visual effect in the area chart, reorder the layers by end value and list the labels from top to bottom after sorting.",
+            "A": "The reordered layer order from top to bottom is: {Aethelgard Power Grid, Stellar Grid Solutions, Zenith Utility Services, Azure Energy Distribution, Borealis Electric Cooperative, Silverhaven Hydro Authority, Meridian Energy Network}."
+        }
+    ]
+}

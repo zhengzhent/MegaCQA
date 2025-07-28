@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Radar Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many labels are in this radar chart?",
+            "A": "There are {2} labels"
+        },
+        {
+            "Q": "How many dimensions are in this radar chart?",
+            "A": "There are {5} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "In the radar chart, what is the next dimension in the clockwise direction from Irrigation Water Use Efficiency?",
+            "A": "The next dimension clockwise from Irrigation Water Use Efficiency is Smart Equipment Coverage Rate"
+        },
+        {
+            "Q": "In the radar chart, what is the next dimension in the counterclockwise direction from Smart Equipment Coverage Rate?",
+            "A": "The next dimension counterclockwise from Irrigation Water Use Efficiency is Yield Growth Rate."
+        },
+        {
+            "Q": "On the Yield Growth Rate, is the point for Hill LLCFarm inside or outside the point for Mueller-HorneFarm?",
+            "A": "On the Yield Growth Rate, the point for Hill LLCFarm is outside the point for Mueller-HorneFarm."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which label encloses the largest score in the radar chart?",
+            "A": "label {Yield Growth Rate} encloses the largest score"
+        },
+        {
+            "Q": "What are the strongest and weakest dimension of Hill LLCFarm?",
+            "A": "The strongest aspect is {Yield Growth Rate}, while the weakest aspect is{ High-value Crop Cultivation Ratio}."
+        },
+        {
+            "Q": "On dimension High-value Crop Cultivation Ratio, which label scores the highest?",
+            "A": "On High-value Crop Cultivation Ratio, label {Hill LLCFarm} scores the highest."
+        },
+        {
+            "Q": "On dimension High-value Crop Cultivation Ratio, which label scores the highest?",
+            "A": "On High-value Crop Cultivation Ratio, label {Hill LLCFarm} scores the lowest."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Mueller-HorneFarm on the Smart Equipment Coverage Rate in the radar chart?",
+            "A": "The value of Mueller-HorneFarm on the Safety dimension is {51}."
+        },
+        {
+            "Q": "What is the value of Hill LLCFarm on the Yield Growth Rate in the radar chart?",
+            "A": "The value of Hill LLCFarm on the Safety dimension is {74}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label Hill LLCFarm across all dimensions in the radar chart?",
+            "A": "The maximum value of Hill LLCFarm across all dimensions is {21}."
+        },
+        {
+            "Q": "What is the minimum value of label Mueller-HorneFarm across all dimensions in the radar chart?",
+            "A": "The minimum value of Mueller-HorneFarm across all dimensions is {67}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Agricultural Product Market Share",
+            "A": "The average value of Agricultural Product Market Share is {63.5}."
+        },
+        {
+            "Q": "What is the average value of Hill LLCFarm",
+            "A": "The average value of Hill LLCFarm is {59.2}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "For Mueller-HorneFarm in the radar chart, which dimensions have scores below 42? Please list the dimensions and corresponding scores.",
+            "A": "{High-value Crop Cultivation Ratio} is {34}"
+        },
+        {
+            "Q": "For Hill LLCFarm in the radar chart, which dimensions have scores above 52? Please list the dimensions and corresponding scores.",
+            "A": "{Agricultural Product Market Share} is {60}"
+        },
+        {
+            "Q": "Which labels have scores below 32 for the Yield Growth Rate dimension? Please list the labels and corresponding scores.",
+            "A": "{Mueller-HorneFarm} is {21}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "For Mueller-HorneFarm, which dimension has a higher score: Yield Growth Rate or High-value Crop Cultivation Ratio?",
+            "A": "{High-value Crop Cultivation Ratio} has a higher score than Yield Growth Rate for Mueller-HorneFarm."
+        },
+        {
+            "Q": "For Hill LLCFarm, which dimension has a higher score: Irrigation Water Use Efficiency or Agricultural Product Market Share?",
+            "A": "{Irrigation Water Use Efficiency} has a higher score than Agricultural Product Market Share for Hill LLCFarm."
+        },
+        {
+            "Q": "On Yield Growth Rate, which label has a higher score: Hill LLCFarm or the Mueller-HorneFarm?",
+            "A": "{Hill LLCFarm} has a higher score on Yield Growth Rate compared to Mueller-HorneFarm."
+        },
+        {
+            "Q": "On Smart Equipment Coverage Rate, which label has a higher score: Mueller-HorneFarm or the Hill LLCFarm?",
+            "A": "{Mueller-HorneFarm} has a higher score on Smart Equipment Coverage Rate compared to Hill LLCFarm."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "For Mueller-HorneFarm, based on the data shown in the radar chart, which dimension does it most need to improve?",
+            "A": "Mueller-HorneFarm most needs to improve its {Yield Growth Rate}."
+        },
+        {
+            "Q": "In the radar chart, which label has the strongest overall capability across all labels?",
+            "A": "The label with the strongest overall capability is {Hill LLCFarm}."
+        },
+        {
+            "Q": "In the radar chart, which label has the weaknest overall capability across all labels?",
+            "A": "The label with the weaknest overall capability is {Mueller-HorneFarm}."
+        }
+    ],
+    "VA": []
+}

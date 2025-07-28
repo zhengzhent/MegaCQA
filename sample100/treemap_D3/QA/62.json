@@ -1,0 +1,85 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many rectangles are in this treemap?",
+            "A": "There are {14} rectangles."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Rental Market}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Office Buildings}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Short-Term Rentals rectangle in this treemap?",
+            "A": "The value of the Short-Term Rentals rectangle is {6.58}."
+        },
+        {
+            "Q": "What is the value of the Retail Spaces rectangle in this treemap?",
+            "A": "The value of the Retail Spaces rectangle is {28.79}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {38.42}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {5.02}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Rental Market and Short-Term Rentals?",
+            "A": "The difference between Rental Market and Short-Term Rentals is {31.84}."
+        },
+        {
+            "Q": "What is the sum of the regions of Single Family Homes and Retail Spaces?",
+            "A": "The sum of Single Family Homes and Retail Spaces is {37.49}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Multi-Family Homes category in the treemap, which rectangular labels have a value exceeded 11.07? Please list the labels and values.",
+            "A": "{Duplex} has {12.60}"
+        },
+        {
+            "Q": "Under the Multi-Family Homes category in the treemap, which rectangular labels have a value below 8.00? Please list the labels and values.",
+            "A": "{Apartments} has {6.47}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Commercial Real Estate, Long-Term Rentals, or Retail Spaces?",
+            "A": "The value of {Retail Spaces} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Rental Market or Commercial Real Estate?",
+            "A": "The value of {Rental Market} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Rental Market, Commercial Real Estate, or Long-Term Rentals?",
+            "A": "The value of {Rental Market} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Long-Term Rentals or Residential Property?",
+            "A": "The value of {Long-Term Rentals} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

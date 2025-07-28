@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {6} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {horizontal} box plot."
+        },
+        {
+            "Q": "Which box does the bottom box represent?",
+            "A": "The bottom box represents {Automotive}"
+        },
+        {
+            "Q": "Which box does the topmost box represent?",
+            "A": "The topmost box represents {Baby}."
+        },
+        {
+            "Q": "Which box is the first position above the box Toys?",
+            "A": "The first position above the box Toys is {Baby}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Beauty relative to the box Automotive in terms of vertical (above/below) direction?",
+            "A": "Box Beauty is {above} the box Automotive."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Pet Supplies}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Pet Supplies}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Beauty}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Baby in the box plot?",
+            "A": "The median of Baby is {208.0} thousand USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Beauty in the box plot?",
+            "A": "The lower quartile (Q1) of Beauty is {129.5} thousand USD."
+        },
+        {
+            "Q": "What is the upper whisker limit of Movies in the box plot?",
+            "A": "The upper whisker limit of Movies is {469} thousand USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Automotive in the box plot?",
+            "A": "The largest upper outlier value in Automotive is {438}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum thousand USD value in the box plot?",
+            "A": "The global maximum thousand USD value in the box plot is {646.00} thousand USD."
+        },
+        {
+            "Q": "What is the global minimum thousand USD value in the box plot?",
+            "A": "The global minimum thousand USD value in the box plot is {45.00} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Toys and Baby?",
+            "A": "The Median difference between box Toys and Baby is {9.0} thousand USD."
+        },
+        {
+            "Q": "What is the toal Median value of box Baby and Toys?",
+            "A": "The total Median value of box Baby and Toys is {407.0} thousand USD."
+        },
+        {
+            "Q": "What is the average Median value of box Automotive and Movies?",
+            "A": "The average Median value of box Automotive and Movies is {195.25} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 529.2 thousand USD?",
+            "A": "Box{Movies},{Toys} have the outliers exceed 529.2 thousand USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 243.25 thousand USD? Please list the boxes and corresponding values.",
+            "A": "{Pet Supplies} has {275.5} thousand USD "
+        },
+        {
+            "Q": "Which boxes have median values below 181.25 thousand USD? Please list the boxes and corresponding values.",
+            "A": "{Automotive} has {179.5} thousand USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Movies or Automotive ",
+            "A": "The median value of the {Movies} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Toys, Movies or Beauty ",
+            "A": "The median value of the {Movies} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Automotive, Movies, Baby or Toys ",
+            "A": "The median value of the {Movies} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Pet Supplies}."
+        }
+    ],
+    "VA": []
+}

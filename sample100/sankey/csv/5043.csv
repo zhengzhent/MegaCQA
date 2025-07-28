@@ -1,0 +1,43 @@
+Food and Beverage Industry,Food Production and Consumption Chain,Products,random,Processing Facilities,Consumption Venues,Distribution Channels,Food Sources,Waste Management
+Source,Target,Value
+Beverage Plants,Cafes,2395
+Beverage Plants,Restaurants,22554
+Slaughterhouses,Cafes,8697
+Slaughterhouses,Restaurants,8189
+Bakeries,Cafes,3710
+Bakeries,Restaurants,13853
+Dairies,Cafes,25975
+Dairies,Restaurants,20371
+Canneries,Cafes,5085
+Canneries,Restaurants,16348
+Cafes,Exporters,6839
+Cafes,Farmers' Markets,16797
+Cafes,Online Platforms,22226
+Restaurants,Exporters,25259
+Restaurants,Farmers' Markets,20808
+Restaurants,Online Platforms,35248
+Exporters,Ranches,2009
+Exporters,Greenhouses,6654
+Exporters,Orchards,5847
+Exporters,Fisheries,9428
+Exporters,Farms,8160
+Farmers' Markets,Ranches,7028
+Farmers' Markets,Greenhouses,8795
+Farmers' Markets,Orchards,6852
+Farmers' Markets,Fisheries,7646
+Farmers' Markets,Farms,7284
+Online Platforms,Ranches,4994
+Online Platforms,Greenhouses,13404
+Online Platforms,Orchards,11106
+Online Platforms,Fisheries,6050
+Online Platforms,Farms,21920
+Ranches,Animal Feed,6625
+Ranches,Landfills,7406
+Greenhouses,Animal Feed,13736
+Greenhouses,Landfills,15117
+Orchards,Animal Feed,14984
+Orchards,Landfills,8821
+Fisheries,Animal Feed,11851
+Fisheries,Landfills,11273
+Farms,Animal Feed,11701
+Farms,Landfills,25663

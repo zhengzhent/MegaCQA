@@ -1,0 +1,156 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {line chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this lines chart?",
+            "A": "There are {4} lines."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On Crimson Bazaar, what is the spatial relationship of the data point in 1958 relative to that in 1967 in terms of vertical (above/below) and horizontal (left/right) directions?",
+            "A": "On Crimson Bazaar, the data point in 1958 is {below} and to the {left} of the data point in 1967."
+        },
+        {
+            "Q": "In 1968, what is the vertical (above/below) relationship of the line representing Aether Market relative to Nova Exchange?",
+            "A": "In 1968, Aether Market is {below} Nova Exchange in the vertical direction."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What is the trend of Nova Exchange's Price Index levels?",
+            "A": "Nova Exchange's price index levels show a {exponential rising} trend."
+        },
+        {
+            "Q": "What is the trend of Crimson Bazaar's Price Index levels?",
+            "A": "Crimson Bazaar's price index levels show a {volatile rising} trend."
+        },
+        {
+            "Q": "What is the trend of Echo Trade's Price Index levels?",
+            "A": "Echo Trade's price index levels show a {stable rising} trend."
+        },
+        {
+            "Q": "What is the trend of Aether Market's Price Index levels?",
+            "A": "Aether Market's price index levels show a {volatile rising} trend."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is Echo Trade's Price Index in 1961?",
+            "A": "Echo Trade's price index in 1961 is {169.35} index."
+        },
+        {
+            "Q": "What is Aether Market's Price Index in 1977?",
+            "A": "Aether Market's price index in 1977 is {467.50} index."
+        },
+        {
+            "Q": "What is Nova Exchange's Price Index in 1971?",
+            "A": "Nova Exchange's price index in 1971 is {625.22} index."
+        },
+        {
+            "Q": "What are the price index of Crimson Bazaar, Aether Market, and Nova Exchange in 1962?",
+            "A": "Crimson Bazaar's price index is {170.21} index, Aether Market's price index is {266} index, Nova Exchange's price index is {265.14} index."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global minimum Price Index in the line chart?",
+            "A": "The global minimum price index is {119.90} index."
+        },
+        {
+            "Q": "What is the global maximum Price Index in the line chart?",
+            "A": "The global maximum price index is {1109.52} index."
+        },
+        {
+            "Q": "What is the highest Price Index level recorded for Aether Market?",
+            "A": "Aether Market reached approximately {467.50} index in {1977}."
+        },
+        {
+            "Q": "What is the lowest Price Index level recorded for Aether Market?",
+            "A": "Aether Market's lowest recorded level is approximately {198.04} index in {1957}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Echo Trade's Price Index?",
+            "A": "The average value of Echo Trade's price index is {210.92} index."
+        },
+        {
+            "Q": "What is the average value of Crimson Bazaar's Price Index?",
+            "A": "The average value of Crimson Bazaar's price index is {216.89} index."
+        },
+        {
+            "Q": "What is the rate of change in Nova Exchange's Price Index from the starting year to the final year?",
+            "A": "The rate of growth in Nova Exchange's price index is {575.47}%."
+        },
+        {
+            "Q": "What is the rate of change in Echo Trade's Price Index from the starting year to the final year?",
+            "A": "The rate of growth in Echo Trade's price index is {97.06}%."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which years did Echo Trade's Price Index between 183 and 239 index? Please list the years and corresponding values.",
+            "A": "{231.67} index in {1970} year, {223.35} index in {1969} year, {202.20} index in {1966} year."
+        },
+        {
+            "Q": "Which years did Nova Exchange's Price Index between 308 and 648 index? Please list the years and corresponding values.",
+            "A": "{571.06} index in {1970} year, {427.14} index in {1967} year, {519.67} index in {1969} year."
+        },
+        {
+            "Q": "Which years did Aether Market's Price Index below 266 index? Please list the years and corresponding values.",
+            "A": "{198.04} index in {1957} year, {210.88} index in {1958} year, {250.91} index in {1961} year."
+        },
+        {
+            "Q": "Which years did Echo Trade's Price Index below 176 index? Please list the years and corresponding values.",
+            "A": "{142.06} index in {1957} year, {155.74} index in {1959} year, {148.17} index in {1958} year."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Was Aether Market's Price Index in 1958 higher or lower than in 1961?",
+            "A": "The price index in 1958 was {lower} than in 1961."
+        },
+        {
+            "Q": "Between 1968 and 1973, which line experienced the largest change in Price Index, Echo Trade, Nova Exchange, Aether Market, or Crimson Bazaar?",
+            "A": "{Nova Exchange} experienced the largest change in price index."
+        },
+        {
+            "Q": "In 1960, which line had the highest Price Index, Nova Exchange, Aether Market, or Crimson Bazaar?",
+            "A": "In 1960, {Aether Market} had the highest price index."
+        },
+        {
+            "Q": "In 1961, which line had a higher Price Index, {Crimson Bazaar} or {Aether Market}?",
+            "A": "In 1961, {Aether Market} had a higher price index."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which label shows the largest fluctuation in the line chart?",
+            "A": "The label with the largest fluctuation is {Nova Exchange}."
+        },
+        {
+            "Q": "Which line shows the fastest average growth rate between 1973 and 1975?",
+            "A": "{Nova Exchange} has the fastest average growth rate between 1973 and 1975."
+        },
+        {
+            "Q": "In which year did Nova Exchange first surpass Aether Market?",
+            "A": "Nova Exchange first surpassed Aether Market in the year {1963}."
+        },
+        {
+            "Q": "Which label had the leading price index since 1972?",
+            "A": "Since 1972, {Nova Exchange} had the leading price index."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Perform the Douglas-Peucker algorithm to simplify the line representing the Echo Trade. List the x-coordinates of data points to be preserved.(2 points need to be provided)",
+            "A": "The x-coordinates of the data points to be preserved are: {1957, 1977}."
+        }
+    ]
+}

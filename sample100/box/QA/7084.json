@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {6} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Quarryville}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Brookfield}."
+        },
+        {
+            "Q": "Which box is the second position to the right of the box Oakridge?",
+            "A": "The second position to the right of the box Oakridge is {Yorkton}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Quarryville relative to the box Oakridge in terms of horizontal (left/right) direction?",
+            "A": "Box Quarryville is to the {left} of the box Oakridge."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Quarryville}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Quarryville}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Yorkton}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Yorkton in the box plot?",
+            "A": "The median of Yorkton is {56662.0} USD."
+        },
+        {
+            "Q": "What is the lower quartile (Q1) of Pinehaven in the box plot?",
+            "A": "The lower quartile (Q1) of Pinehaven is {41035.0} USD."
+        },
+        {
+            "Q": "What is the lower whisker limit of Oakridge in the box plot?",
+            "A": "The lower whisker limit of Oakridge is {15336} USD."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Yorkton in the box plot?",
+            "A": "The largest upper outlier value in Yorkton is {95956} USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum USD value in the box plot?",
+            "A": "The global maximum USD value in the box plot is {98566.00} USD."
+        },
+        {
+            "Q": "What is the global minimum USD value in the box plot?",
+            "A": "The global minimum USD value in the box plot is {7566.00} USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Median difference between box Yorkton and Oakridge?",
+            "A": "The Median difference between box Yorkton and Oakridge is {4558.0} USD."
+        },
+        {
+            "Q": "What is the toal Q1 value of box Oakridge and Pinehaven?",
+            "A": "The total Q1 value of box Oakridge and Pinehaven is {84001.5} USD."
+        },
+        {
+            "Q": "What is the average Q1 value of box Oakridge and Yorkton?",
+            "A": "The average Q1 value of box Oakridge and Yorkton is {45433.25} USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 86360.40000000001 USD?",
+            "A": "Box{Oakridge},{Yorkton} have the outliers exceed 86360.40000000001 USD."
+        },
+        {
+            "Q": "Which boxes have median values exceed 52763.00 USD? Please list the boxes and corresponding values.",
+            "A": "{Quarryville} has {59870.0} USD , {Northgate} has {53374.0} USD , {Yorkton} has {56662.0} USD "
+        },
+        {
+            "Q": "Which boxes have median values below 49949.50 USD? Please list the boxes and corresponding values.",
+            "A": "{Brookfield} has {47795.0} USD "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Northgate or Oakridge ",
+            "A": "The median value of the {Northgate} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Brookfield, Quarryville or Oakridge ",
+            "A": "The median value of the {Quarryville} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Quarryville, Yorkton, Oakridge or Pinehaven ",
+            "A": "The median value of the {Quarryville} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Pinehaven}."
+        }
+    ],
+    "VA": []
+}

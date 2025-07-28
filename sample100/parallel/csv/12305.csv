@@ -1,0 +1,10 @@
+﻿Retail and E-commerce,Sales Performance of Different Company
+Pattern,Weak Correlation,Weak Correlation,Clustering,Weak Correlation
+labels,Conversion rate (%),Gross margin (%),Cart abandonment rate (%),Inventory accuracy (%),Customer retention rate (%)
+Walker Inc,2.96,33.03,88.16,96.99,25.5
+White LLC,1.66,24.3,40.0,100.0,50.0
+Anderson-Bell,2.21,60.0,90.0,91.55,11.88
+"Hutchinson, Oconnor and Burton",0.5,43.2,82.69,88.1,5.0
+Roberts Group,3.18,22.73,66.7,99.88,25.46
+Watson-Tyler,1.63,23.42,79.61,92.65,8.92
+Martin-Mann,10.0,10.0,69.18,80.0,15.28

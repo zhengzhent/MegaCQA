@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category Filling Machines in this treemap?",
+            "A": "There are {2} child rectangles under the category Filling Machines."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Packaging Systems}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Retort Machines}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Packaging Systems}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Piston Fillers rectangle in this treemap?",
+            "A": "The value of the Piston Fillers rectangle is {8.88}."
+        },
+        {
+            "Q": "What is the value of the Compressor Types rectangle in this treemap?",
+            "A": "The value of the Compressor Types rectangle is {8.53}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {85.13}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {6.34}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of H2O2 Sterilization and Vapor Control?",
+            "A": "The difference between H2O2 Sterilization and Vapor Control is {0.0}."
+        },
+        {
+            "Q": "What is the sum of the regions of Retort Machines and Calibration?",
+            "A": "The sum of Retort Machines and Calibration is {13.46}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the Filling Machines category in the treemap, which rectangular labels have a value exceeded 8.44? Please list the labels and values.",
+            "A": "{Volumetric} has {8.88}"
+        },
+        {
+            "Q": "Under the Filling Machines category in the treemap, which rectangular labels have a value below 7.56? Please list the labels and values.",
+            "A": "{Gravimetric} has {7.12}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Aseptic Sealers or Vapor Control?",
+            "A": "The value of {Aseptic Sealers} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Sealing Equipment, Aseptic Sealers, or H2O2 Sterilization?",
+            "A": "The value of {H2O2 Sterilization} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Packaging Systems or Sealing Equipment?",
+            "A": "The value of {Packaging Systems} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of Packaging Systems, Sealing Equipment, or Aseptic Sealers?",
+            "A": "The value of {Packaging Systems} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {4} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

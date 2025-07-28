@@ -1,0 +1,107 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {Parallel Chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many lines are in this parallel-coordinates chart",
+            "A": "There are {7} lines."
+        },
+        {
+            "Q": "How many dimensions are in this parallel-coordinates chart?",
+            "A": "There are {4} dimensions."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "On the Attraction visit rate (per day) dimension, what is the spatial relationship of Port Regina relative to North Zachary in terms of vertical (above/below) direction?",
+            "A": "{Port Regina} is {below} {North Zachary} on the Attraction visit rate (per day) dimension."
+        },
+        {
+            "Q": "Which dimension is the first position to the left of dimension Booking lead time (days)?",
+            "A": "The first position to the left of Booking lead time (days) is {Attraction visit rate (per day)}."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the rightmost of the parallel chart?",
+            "A": "The {Cultural immersion index (1-10)} axis is positioned at the rightmost of the parallel chart."
+        },
+        {
+            "Q": "Which dimension axis is positioned at the leftmost of the parallel chart?",
+            "A": "The {Attraction visit rate (per day)} axis is positioned at the leftmost of the parallel chart."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which dimension has the highest variability in the parallel-coordinates chart?",
+            "A": " {Booking lead time (days)} shows the highest variability."
+        },
+        {
+            "Q": "What kind of correlation exists between Average stay duration (nights) and dimension Cultural immersion index (1-10)",
+            "A": "There is {Clustering} between Average stay duration (nights) and Cultural immersion index (1-10)."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of Port Regina on the Booking lead time (days) dimension in the parallel-coordinates chart?",
+            "A": "The value of Port Regina on the Booking lead time (days) dimension is {138.92}"
+        },
+        {
+            "Q": "What is the value of East Sarahborough on the Attraction visit rate (per day) dimension in the parallel-coordinates chart?",
+            "A": "The value of East Sarahborough on the Attraction visit rate (per day) dimension is {5.0}"
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value of label South Joseph across all dimensions in the parallel-coordinates chart?",
+            "A": "The maximum value of South Joseph across all dimensions is {187.2}"
+        },
+        {
+            "Q": "What is the minimum value of label East Sarahborough across all dimensions in the parallel-coordinates chart?",
+            "A": "The minimum value of East Sarahborough across all dimensions is {1.0}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of Average stay duration (nights)?",
+            "A": "The average value of Average stay duration (nights) is {4.99}"
+        },
+        {
+            "Q": "What is the difference in coding Average stay duration (nights) between label East Joshua and label North Zachary",
+            "A": "The difference in coding Average stay duration (nights) between East Joshua and North Zachary is {0.56}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the top 3 values for Average stay duration (nights) dimension in the parallel coordinates?",
+            "A": "{[14.0, 6.46, 6.34]}"
+        },
+        {
+            "Q": "What are the bottom 3 values for Attraction visit rate (per day) dimension in the parallel coordinates?",
+            "A": "{[1.0, 1.19, 1.21]}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "On Average stay duration (nights), which label has a higher score: Boydland or Port Regina?",
+            "A": "{Port Regina} has a higher score on Average stay duration (nights)."
+        },
+        {
+            "Q": "On Average stay duration (nights), which label has a higher score: East Joshua or Port Regina?",
+            "A": "{Port Regina} has a higher score on Average stay duration (nights)."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the parallel coordinates plot, which dimension has the highest degree of dispersion?",
+            "A": "The dimension with the highest degree of dispersion is {Booking lead time (days)}."
+        },
+        {
+            "Q": "How many labels satisfy both the conditions of Attraction visit rate (per day) being greater than 2.31 and Booking lead time (days) being less than 228.56?",
+            "A": "There are {1} label(s) that satisfy both conditions."
+        }
+    ],
+    "VA": []
+}

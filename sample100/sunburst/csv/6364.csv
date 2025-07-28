@@ -1,0 +1,20 @@
+Real Estate and Housing Market,Housing Market Distribution by Category (2023),%
+parent,child,value
+Root,Residential Property,42.3
+Residential Property,Multi-Family Homes,12.59
+Multi-Family Homes,Duplex,6.51
+Multi-Family Homes,Apartments,6.08
+Residential Property,Single Family Homes,29.71
+Single Family Homes,Semi-Detached,12.31
+Single Family Homes,Detached,17.4
+Detached,Urban Detached,6.85
+Detached,Suburban Detached,5.44
+Detached,Luxury Detached,5.11
+Root,Commercial Real Estate,30.48
+Commercial Real Estate,Retail Spaces,21.7
+Retail Spaces,Street-Level Shops,21.7
+Street-Level Shops,Historic Districts,6.41
+Street-Level Shops,High Foot Traffic,15.29
+Commercial Real Estate,Office Buildings,8.78
+Root,Rental Market,27.23
+Rental Market,Long-Term Rentals,27.23

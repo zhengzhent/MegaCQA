@@ -1,0 +1,124 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {13} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Elmhurst}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Brookfield}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Springfield relative to the bar Rosewood in terms of horizontal (left/right) direction?",
+            "A": "Bar Springfield is to the {right} of the bar Rosewood."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Brookfield}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Springfield}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Yorkton?",
+            "A": "The value of Yorkton is {1339} Number."
+        },
+        {
+            "Q": "What is the value of bar Springfield?",
+            "A": "The value of Springfield is {118} Number."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum Number in the bar chart?",
+            "A": "The maximum Number is {1681} Number."
+        },
+        {
+            "Q": "What is the minimum Number in the bar chart?",
+            "A": "The minimum Number is {118} Number."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Westport and Ironwood?",
+            "A": "The total value of Westport and Ironwood is {876} Number."
+        },
+        {
+            "Q": "What is the average value of Creston and Quarryville?",
+            "A": "The average value of Creston and Quarryville is {779.5} Number."
+        },
+        {
+            "Q": "What is the difference between Rosewood and Quarryville?",
+            "A": "The difference between Rosewood and Quarryville is {59} Number."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have Number values exceed 1602.00 Number? Please list the bars and corresponding Number values?",
+            "A": "{Mapleton} has {1661} Number, {Brookfield} has {1681} Number."
+        },
+        {
+            "Q": "Which bars have {Number} values below 239.00 Number? Please list the bars and corresponding Number values?",
+            "A": "{Springfield} has {118} Number."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Brookfield or Elmhurst ",
+            "A": "The value of the {Brookfield} is larger?"
+        },
+        {
+            "Q": "Which is larger, Westport, Quarryville or Springfield ",
+            "A": "The value of the {Quarryville} is larger?"
+        },
+        {
+            "Q": "Which is larger, Springfield, Glenhaven, Highvale or Westport ",
+            "A": "The value of the {Highvale} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Springfield} and {Yorkton}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Brookfield}, {Mapleton}, and {Elmhurst}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by Number values in descending order and list the labels from left to right.",
+            "A": "Sorted by Number value descending: {Brookfield}, {Mapleton}, {Elmhurst}, {Highvale}, {Yorkton}, {Creston}, {Lakeview}, {Glenhaven}, {Ironwood}, {Rosewood}, {Quarryville}, {Westport}, and {Springfield}."
+        },
+        {
+            "Q": "Sort the bars by Number values in ascending order and list the labels from left to right.",
+            "A": "Sorted by Number value ascending: {Springfield}, {Westport}, {Quarryville}, {Rosewood}, {Ironwood}, {Glenhaven}, {Lakeview}, {Creston}, {Highvale}, {Yorkton}, {Elmhurst}, {Mapleton}, and {Brookfield}."
+        }
+    ]
+}

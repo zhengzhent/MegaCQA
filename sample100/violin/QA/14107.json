@@ -1,0 +1,131 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {violin plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many violins are in this violin plot?",
+            "A": "There are {5} violins."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which violin does the leftmost violin represent?",
+            "A": "The leftmost violin represents {Dunvale}."
+        },
+        {
+            "Q": "Which violin does the rightmost violin represent?",
+            "A": "The rightmost violin represents {Creston}."
+        },
+        {
+            "Q": "Which violin is the third position to the left of the violin Ironwood?",
+            "A": "The third position to the left of the violin Ironwood is {Dunvale}."
+        },
+        {
+            "Q": "What is the spatial relationship of violin Springfield relative to the violin Ironwood in terms of horizontal (left/right) direction?",
+            "A": "violin Springfield is to the {left} of the violin Ironwood."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which violin has the largest median in this violin plot?",
+            "A": "The violin with the largest median is {Springfield}."
+        },
+        {
+            "Q": "Which violin has the highest upper quartile (Q3) in this violin plot?",
+            "A": "The violin with the highest Q3 is {Springfield}."
+        },
+        {
+            "Q": "What is the density distribution pattern of the violin representing Ironwood?",
+            "A": "The density distribution pattern of the Ironwood shows a {skewed} distribution."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Dunvale in the violin plot?",
+            "A": "The median of Dunvale is {54307.00} tons."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Springfield in the violin plot?",
+            "A": "The upper quartile (Q3) of Springfield is {73695.75} tons."
+        },
+        {
+            "Q": "What is the upper whisker limit of Springfield in the violin plot?",
+            "A": "The upper whisker limit of Springfield is {106305.00} tons."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Ironwood in the violin plot?",
+            "A": "The largest upper outlier value in Ironwood is {155420.00}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum tons value in the violin plot?",
+            "A": "The global maximum tons value in the violin plot is {155420.00} tons."
+        },
+        {
+            "Q": "What is the global minimum tons value in the violin plot?",
+            "A": "The global minimum tons value in the violin plot is {28495.00} tons."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between violin Dunvale and Creston?",
+            "A": "The Q3 difference between violin Dunvale and Creston is {5388.75} tons."
+        },
+        {
+            "Q": "What is the toal Q3 value of violin Dunvale and Elmhurst?",
+            "A": "The total Q3 value of violin Dunvale and Creston is {136058.75} tons."
+        },
+        {
+            "Q": "What is the average Median value of violin Dunvale and Creston?",
+            "A": "The average Median value of violin Dunvale and Creston is {54552.25} tons."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which violins have median values exceed 54889.75 tons? Please list the violins and corresponding values.",
+            "A": "{Springfield} has {58515.00} tons , {Ironwood} has {54982.00} tons "
+        },
+        {
+            "Q": "Which violins have median values below 54552.25 tons? Please list the violins and corresponding values.",
+            "A": "{Dunvale} has {54307.00} tons , {Elmhurst} has {50969.50} tons "
+        },
+        {
+            "Q": "Which violins in the violin plot have both the lower quartile (Q1) above 43780.38 tons and the upper quartile (Q3) below 70046.62 tons?",
+            "A": "Violin {Elmhurst},{Creston} has the Q1 above 43780.38 tons and the Q3 below 70046.625 tons."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak exceed 47876.05 tons?",
+            "A": "Violin {Springfield} has {52488.68} tons ,{Ironwood} has {47899.14} tons ,{Creston} has {51377.46} tons have their highest density peak exceed 47876.05 tons."
+        },
+        {
+            "Q": "Which violins in the violin plot have their highest density peak below 49638.30 tons?",
+            "A": "Violin {Dunvale} has {43768.11} tons ,{Elmhurst} has {47852.97} tons ,{Ironwood} has {47899.14} tons have their highest density peak below 49638.30 tons."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Springfield or Elmhurst ",
+            "A": "The median value of the {Springfield} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Creston, Ironwood or Dunvale ",
+            "A": "The median value of the {Ironwood} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Springfield, Creston, Dunvale or Elmhurst ",
+            "A": "The median value of the {Springfield} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the violin plot, which group has the widest range of data distribution (from minimum to maximum)?",
+            "A": "The group with the widest range of data distribution is {Ironwood}."
+        }
+    ],
+    "VA": []
+}

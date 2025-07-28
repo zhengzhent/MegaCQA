@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {9} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {horizontal} bar chart."
+        },
+        {
+            "Q": "Which category does the bottom bar represent?",
+            "A": "The bottom bar represents {Brookhaven}."
+        },
+        {
+            "Q": "Which category does the topmost bar represent?",
+            "A": "The topmost bar represents {Fairview}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Oakvale relative to the bar Westwood in terms of vetical (above/below) direction??",
+            "A": "Bar Oakvale is {above} the bar Westwood."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Redstone}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Silverton}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Meadowbrook?",
+            "A": "The value of Meadowbrook is {476062} visits."
+        },
+        {
+            "Q": "What is the value of bar Riverton?",
+            "A": "The value of Riverton is {561779} visits."
+        },
+        {
+            "Q": "What is the value of bar Westwood?",
+            "A": "The value of Westwood is {380917} visits."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum visits in the bar chart?",
+            "A": "The maximum visits is {791892} visits."
+        },
+        {
+            "Q": "What is the minimum visits in the bar chart?",
+            "A": "The minimum visits is {370522} visits."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Silverton and Meadowbrook?",
+            "A": "The total value of Silverton and Meadowbrook is {846584} visits."
+        },
+        {
+            "Q": "What is the average value of Silverton and Redstone?",
+            "A": "The average value of Silverton and Redstone is {581207.0} visits."
+        },
+        {
+            "Q": "What is the difference between Fairview and Brookhaven?",
+            "A": "The difference between Fairview and Brookhaven is {133435} visits."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have visits values exceed 707441.50 visits? Please list the bars and corresponding visits values?",
+            "A": "{Redstone} has {791892} visits."
+        },
+        {
+            "Q": "Which bars have {visits} values below 393662.00 visits? Please list the bars and corresponding visits values?",
+            "A": "{Silverton} has {370522} visits, {Westwood} has {380917} visits."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Silverton or Westwood ",
+            "A": "The value of the {Westwood} is larger?"
+        },
+        {
+            "Q": "Which is larger, Brookhaven, Riverton or Westwood ",
+            "A": "The value of the {Riverton} is larger?"
+        },
+        {
+            "Q": "Which is larger, Redstone, Westwood, Oakvale or Brookhaven ",
+            "A": "The value of the {Redstone} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {4} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Westwood} and {Redstone}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Redstone}, {Cedarburg}, and {Riverton}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by visits values in descending order and list the labels from left to right.",
+            "A": "Sorted by visits value descending: {Redstone}, {Cedarburg}, {Riverton}, {Fairview}, {Meadowbrook}, {Oakvale}, {Brookhaven}, {Westwood}, and {Silverton}."
+        },
+        {
+            "Q": "Sort the bars by visits values in ascending order and list the labels from left to right.",
+            "A": "Sorted by visits value ascending: {Silverton}, {Westwood}, {Brookhaven}, {Oakvale}, {Meadowbrook}, {Fairview}, {Riverton}, {Cedarburg}, and {Redstone}."
+        }
+    ]
+}

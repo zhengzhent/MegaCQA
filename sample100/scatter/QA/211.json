@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {scatter} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many points are in this scatter plot?",
+            "A": "There are {32} points."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What pattern does the correlation in the scatter plot show?",
+            "A": "The scatter plot shows {no correlation}."
+        }
+    ],
+    "VE": [],
+    "EVJ": [
+        {
+            "Q": "What is the maximum observed value in dimension Farm size in the scatter plot?",
+            "A": "The maximum observed value in the Farm size dimension is {1000.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Farm size in the scatter plot?",
+            "A": "The minimum observed value in the Farm size dimension is {1.00}."
+        },
+        {
+            "Q": "What is the maximum observed value in dimension Product freshness in the scatter plot?",
+            "A": "The maximum observed value in the Product freshness dimension is {5.00}."
+        },
+        {
+            "Q": "What is the minimum observed value in dimension Product freshness in the scatter plot?",
+            "A": "The minimum observed value in the Product freshness dimension is {1.00}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average value of the Farm size for all points?",
+            "A": "The average value of Farm size for all points is {500.50}."
+        },
+        {
+            "Q": "What is the average value of the Product freshness for all points?",
+            "A": "The average value of Product freshness for all points is {3.08}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "What are the Product freshness values corresponding to the top 3 Farm size values in the scatter plot?",
+            "A": "{3.25, 3.39, 4.35}."
+        },
+        {
+            "Q": "What are the Product freshness values corresponding to the bottom 3 Farm size values in the scatter plot?",
+            "A": "{2.39, 3.47, 5.00}."
+        },
+        {
+            "Q": "What are the Farm size values corresponding to the top 3 Product freshness values in the scatter plot?",
+            "A": "{65.45, 355.48, 935.55}."
+        },
+        {
+            "Q": "What are the Farm size values corresponding to the bottom 3 Product freshness values in the scatter plot?",
+            "A": "{419.94, 516.61, 871.10}."
+        }
+    ],
+    "NC": [],
+    "MSR": [
+        {
+            "Q": "How many points in the scatter plot have X coordinates between 576.95 and 744.50 and Y coordinates between 3.62 and 4.54?",
+            "A": "There are {3} points."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are farthest from each other in terms of Euclidean distance?",
+            "A": "The pair of points with the largest Euclidean distance has coordinates {(1.00, 2.39) and (1000.00, 3.25)}."
+        },
+        {
+            "Q": "What are the coordinates of the pair of points that are closest to each other in terms of Euclidean distance?",
+            "A": "The pair of points with the smallest Euclidean distance has coordinates {(162.13, 3.07) and (194.35, 3.03)}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "To reduce visual occlusion caused by overlapping points in the region [112.18, 2.83, 244.30, 3.27] (i.e. bounding coordinates [x1, y1, x2, y2]), list the coordinates of the top 1 points that are recommended for removal.",
+            "A": "The coordinates of the top 1 points recommended for removal are: (162.13, 3.07)."
+        },
+        {
+            "Q": "The scatter plot contains three regions (bounding coordinates [x1, y1, x2, y2]) : Region A: [49.54, 2.57, 306.94, 3.53]; Region B: [418.68, 1.29, 676.08, 2.26]; Region C: [456.77, 3.33, 714.17, 4.30]. Based on point density and clustering tendency, select the most likely region that contains clusters.",
+            "A": "The most likely to contain clusters is region A."
+        }
+    ]
+}

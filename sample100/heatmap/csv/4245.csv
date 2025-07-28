@@ -1,0 +1,57 @@
+Healthcare and Health,the Performance of Healthcare and Health,8x7,horizontal_gradient
+Clinics,Cost,0.88
+Hospitals,Cost,0.89
+Insurance,Cost,0.82
+Medical Devices,Cost,0.68
+Patient Care,Cost,0.48
+Pharmaceuticals,Cost,0.32
+Public Health,Cost,0.27
+Telemedicine,Cost,0.3
+Clinics,Funding,0.88
+Hospitals,Funding,0.87
+Insurance,Funding,0.84
+Medical Devices,Funding,0.7
+Patient Care,Funding,0.46
+Pharmaceuticals,Funding,0.33
+Public Health,Funding,0.29
+Telemedicine,Funding,0.24
+Clinics,Outcomes,0.92
+Hospitals,Outcomes,0.9
+Insurance,Outcomes,0.88
+Medical Devices,Outcomes,0.63
+Patient Care,Outcomes,0.44
+Pharmaceuticals,Outcomes,0.35
+Public Health,Outcomes,0.26
+Telemedicine,Outcomes,0.23
+Clinics,Patient Satisfaction,0.88
+Hospitals,Patient Satisfaction,0.92
+Insurance,Patient Satisfaction,0.84
+Medical Devices,Patient Satisfaction,0.66
+Patient Care,Patient Satisfaction,0.46
+Pharmaceuticals,Patient Satisfaction,0.34
+Public Health,Patient Satisfaction,0.28
+Telemedicine,Patient Satisfaction,0.28
+Clinics,Prevention,0.89
+Hospitals,Prevention,0.83
+Insurance,Prevention,0.85
+Medical Devices,Prevention,0.72
+Patient Care,Prevention,0.49
+Pharmaceuticals,Prevention,0.33
+Public Health,Prevention,0.27
+Telemedicine,Prevention,0.28
+Clinics,Regulations,0.88
+Hospitals,Regulations,0.84
+Insurance,Regulations,0.82
+Medical Devices,Regulations,0.69
+Patient Care,Regulations,0.47
+Pharmaceuticals,Regulations,0.3
+Public Health,Regulations,0.31
+Telemedicine,Regulations,0.26
+Clinics,Technology Adoption,0.88
+Hospitals,Technology Adoption,0.86
+Insurance,Technology Adoption,0.81
+Medical Devices,Technology Adoption,0.68
+Patient Care,Technology Adoption,0.46
+Pharmaceuticals,Technology Adoption,0.33
+Public Health,Technology Adoption,0.27
+Telemedicine,Technology Adoption,0.26

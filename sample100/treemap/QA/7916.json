@@ -1,0 +1,86 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category ML Models in this treemap?",
+            "A": "There are {2} child rectangles under the category ML Models."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Platform Architecture}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {HSM Integration}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Platform Architecture}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the SVD Algorithms rectangle in this treemap?",
+            "A": "The value of the SVD Algorithms rectangle is {32.28}."
+        },
+        {
+            "Q": "What is the value of the Matrix Factorization rectangle in this treemap?",
+            "A": "The value of the Matrix Factorization rectangle is {32.28}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {6.08}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Gateway APIs and Kafka Pipelines?",
+            "A": "The difference between Gateway APIs and Kafka Pipelines is {14.33}."
+        },
+        {
+            "Q": "What is the sum of the regions of Payment Systems and Recommendation Engines?",
+            "A": "The sum of Payment Systems and Recommendation Engines is {100.0}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the ML Models category in the treemap, which rectangular labels have a value exceeded 12.65? Please list the labels and values.",
+            "A": "{Anomaly Detection} has {14.77}"
+        },
+        {
+            "Q": "Under the ML Models category in the treemap, which rectangular labels have a value below 8.42? Please list the labels and values.",
+            "A": "{Behavior Analysis} has {6.30}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is smaller, the value of Recommendation Engines, Payment Systems, or Collaborative Filtering?",
+            "A": "The value of {Collaborative Filtering} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Payment Systems or Matrix Factorization?",
+            "A": "The value of {Payment Systems} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {9} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

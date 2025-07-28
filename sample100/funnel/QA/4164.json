@@ -1,0 +1,87 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {funnel} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many stages are there in this funnel chart?",
+            "A": "There are {6} stages."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is the Post-Transmission stage positioned above or below the Post-Distribution stage?",
+            "A": "The Post-Transmission stage is positioned {above} the Post-Distribution stage."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "What pattern does the data reduction follow in this funnel chart?",
+            "A": "The data reduction follows a {logarithmic} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of stage Post-Transmission?",
+            "A": "The value of stage Post-Transmission is {53573}."
+        },
+        {
+            "Q": "What is the value of stage Post-Distribution?",
+            "A": "The value of stage Post-Distribution is {33800}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in the funnel chart?",
+            "A": "The stage with the highest value is Post-Generation, with a value of {87374}."
+        },
+        {
+            "Q": "What is the minimum value in the funnel chart?",
+            "A": "The stage with the lowest value is Paid Consumption, with a value of {16435}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "How much did it decrease from stage Post-Distribution to stage Delivered to End Users?",
+            "A": "Decreased by {14028} Megawatt Hours from stage Post-Distribution to stage Delivered to End Users."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In which stages of the funnel chart does the value exceed 26786? Please list the stage labels and corresponding values.",
+            "A": "The {Post-Generation} stage has {87374}, the {Post-Transmission} stage has {53573}, the {Post-Distribution} stage has {33800}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall below 17468? Please list the stage labels and corresponding values.",
+            "A": "The {Paid Consumption} stage has {16435}."
+        },
+        {
+            "Q": "In which stages of the funnel chart does the value fall between 19136 and 26786? Please list the stage labels and corresponding values.",
+            "A": "The {Delivered to End Users} stage has {19772}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which reduction is greater: from stage Delivered to End Users to Billed Consumption, or from stage Post-Generation to Post-Transmission?",
+            "A": "The reduction from stage {Post-Generation} to {Post-Transmission} is greater."
+        },
+        {
+            "Q": "Which reduction is the greatest: from stage Post-Transmission to Post-Distribution, from stage Post-Generation to Post-Transmission, or from stage Post-Distribution to Delivered to End Users?",
+            "A": "The reduction from stage {Post-Generation} to stage {Post-Transmission} is the greatest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the largest?",
+            "A": "The largest drop in conversion rate occurs between the {Post-Generation} and {Post-Transmission} stages."
+        },
+        {
+            "Q": "Between which two consecutive stages in the funnel chart is the conversion rate drop the smallest?",
+            "A": "The smallest drop in conversion rate occurs between the {Delivered to End Users} and {Billed Consumption} stages."
+        }
+    ],
+    "VA": []
+}

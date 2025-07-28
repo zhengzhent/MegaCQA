@@ -1,0 +1,64 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {pie chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many slices are there in this pie chart?",
+            "A": "There are {2} slices in this pie chart."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which 2024 has the largest proportion in this pie chart?",
+            "A": "The 2024 with the largest proportion is {Impulse Buying}."
+        },
+        {
+            "Q": "Which 2024 has the smallest proportion in this pie chart?",
+            "A": "The 2024 with the smallest proportion is {Discount Seeking}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Discount Seeking slice in this pie chart?",
+            "A": "The value of the Discount Seeking slice is {34}%."
+        },
+        {
+            "Q": "What is the value of the Impulse Buying slice in this pie chart?",
+            "A": "The value of the Impulse Buying slice is {66}%."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value in this pie chart?",
+            "A": "The maximum value is {66}%."
+        },
+        {
+            "Q": "What is the minimum value in this pie chart?",
+            "A": "The minimum value is {34}%."
+        }
+    ],
+    "SC": [],
+    "NF": [
+        {
+            "Q": "Which categories in the pie chart exceed 58.0%? Please list the category names and corresponding percentages.",
+            "A": "{Impulse Buying} accounts for {66}%"
+        },
+        {
+            "Q": "Which categories in the pie chart are below 42.0%? Please list the category names and corresponding percentages.",
+            "A": "{Discount Seeking} accounts for {34}%"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Impulse Buying or Discount Seeking?",
+            "A": "The value of {Impulse Buying} is larger."
+        }
+    ],
+    "MSR": [],
+    "VA": []
+}

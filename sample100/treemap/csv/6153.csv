@@ -1,0 +1,23 @@
+Human Resources and Employee Management ,Employee Distribution by Category (2022),%
+parent,child,value
+,Talent Development,100.0
+Talent Development,Competency Models,86.9
+Competency Models,Skill Mapping,20.67
+Skill Mapping,AI Assessment,20.67
+AI Assessment,NLP Analysis,14.59
+NLP Analysis,Sentiment Scoring,7.42
+NLP Analysis,Competency Clusters,7.17
+AI Assessment,Behavioral Analytics,6.08
+Behavioral Analytics,Micro-Expression,6.08
+Competency Models,360 Feedback,66.23
+360 Feedback,Peer Evaluation,66.23
+Peer Evaluation,Anonymization,66.23
+Anonymization,Differential Privacy,57.01
+Anonymization,k-Anonymity,9.22
+Talent Development,Career Pathing,13.1
+Career Pathing,Succession Planning,5.62
+Succession Planning,Graph Databases,5.62
+Graph Databases,Neo4j Queries,5.62
+Career Pathing,Leadership Pipeline,7.48
+Leadership Pipeline,Simulation Labs,7.48
+Simulation Labs,VR Scenarios,7.48

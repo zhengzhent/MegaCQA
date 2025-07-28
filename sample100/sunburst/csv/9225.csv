@@ -1,0 +1,18 @@
+Tourism and Hospitality,Tourism Distribution by Category (2022),%
+parent,child,value
+Root,Hospitality Services,24.44
+Hospitality Services,Dining Experiences,19.1
+Dining Experiences,Local Cuisine,12.98
+Dining Experiences,Fine Dining,6.12
+Hospitality Services,Lodging Options,5.34
+Root,Travel Services,53.21
+Travel Services,Transportation,14.3
+Transportation,Rail & Road,6.65
+Transportation,Air Travel,7.65
+Travel Services,Guided Tours,38.91
+Guided Tours,Adventure Tours,38.91
+Adventure Tours,Ziplining,24.57
+Adventure Tours,Rafting Trips,5.92
+Adventure Tours,Desert Safaris,8.42
+Root,Destination Types,22.35
+Destination Types,Urban Tourism,22.35

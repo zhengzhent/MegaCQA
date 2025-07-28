@@ -1,0 +1,119 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow into the node Orientation in this sankey chart?",
+            "A": "There are {4} links flowing into the node Orientation."
+        },
+        {
+            "Q": "How many nodes are in the column Onboarding Steps of this sankey chart?",
+            "A": "There are {2} nodes in the column Onboarding Steps."
+        },
+        {
+            "Q": "How many links flow into column Recruitment Sources of this sankey chart?",
+            "A": "There are {8} links flow into column Recruitment Sources."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Performance Ratings}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Recruitment Sources}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Excellent} and {Orientation}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Below Average} and {Training Program}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Technical Interview to the node University Career Fairs?",
+            "A": "The flow value from the node Technical Interview to the node University Career Fairs is {292}."
+        },
+        {
+            "Q": "What is the flow value from the node Below Average to the node Orientation?",
+            "A": "The flow value from the node Below Average to the node Orientation is {77}."
+        },
+        {
+            "Q": "What is the flow value from the node Phone Screen to the node Recruitment Agencies?",
+            "A": "The flow value from the node Phone Screen to the node Recruitment Agencies is {177}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Phone Screen to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Phone Screen to the next stage is {706}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Final Interview to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Final Interview to the next stage is {60}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Phone Screen?",
+            "A": "The total flow output from node Phone Screen is {883}."
+        },
+        {
+            "Q": "What is the total flow input by node Technical Interview?",
+            "A": "The total flow input by node Technical Interview is {440}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Onboarding Steps of the sankey chart, which nodes have an outflow exceeded 519? Please list the node labels and their corresponding outflow values.",
+            "A": "{Orientation} has an outflow of {539}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Onboarding Steps and column Interview Stages is the flow between 216 and 323? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {264} from node {Training Program} to {Technical Interview}, a flow of {223} from node {Training Program} to {HR Interview}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 216 and 243? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {223} from node {Training Program} to {HR Interview}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Technical Interview to node University Career Fairs and from node Final Interview to node University Career Fairs, which path has a larger flow?",
+            "A": "The flow from node {Technical Interview} to node {University Career Fairs} is larger."
+        },
+        {
+            "Q": "Between the flows from node Technical Interview to node University Career Fairs and from node Below Average to node Orientation, which path has a larger flow?",
+            "A": "The flow from node {Technical Interview} to node {University Career Fairs} is larger."
+        },
+        {
+            "Q": "Among the flows from node Technical Interview to node University Career Fairs, from node Orientation to node HR Interview, and from node Average to node Training Program, which path has the largest flow?",
+            "A": "The flow from node {Technical Interview} to node {University Career Fairs} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Phone Screen to node University Career Fairs, from node Below Average to node Training Program, and from node Orientation to node Final Interview, which path has the largest flow?",
+            "A": "The flow from node {Phone Screen} to node {University Career Fairs} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Interview Stages of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Interview Stages is {Phone Screen}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Below Average to target node University Career Fairs? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Below Average to node University Career Fairs is: {Below Average, Orientation, Phone Screen, University Career Fairs}."
+        }
+    ],
+    "VA": []
+}

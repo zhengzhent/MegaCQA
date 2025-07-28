@@ -1,0 +1,93 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {heatmap} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many cells are in this heatmap?",
+            "A": "There are {72} cells."
+        },
+        {
+            "Q": "How many rows are in this heatmap?",
+            "A": "There are {9} rows."
+        },
+        {
+            "Q": "How many columns are in this heatmap?",
+            "A": "There are {8} columns."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "What is the overall spatial distribution pattern shown in the heatmap?",
+            "A": "The heatmap shows a {radial gradient} pattern."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the heat value of the cell corresponding to Transmission and Prices in the heatmap?",
+            "A": "The heat value is {0.45}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Electricity and Investment in the heatmap?",
+            "A": "The heat value is {0.79}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Transmission and Efficiency in the heatmap?",
+            "A": "The heat value is {0.66}."
+        },
+        {
+            "Q": "What is the heat value of the cell corresponding to Coal and Investment in the heatmap?",
+            "A": "The heat value is {0.79}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum heat value in the heatmap?",
+            "A": "The global maximum heat value is {0.94}."
+        },
+        {
+            "Q": "What is the global minimum heat value in the heatmap?",
+            "A": "The global minimum heat value is {0.14}."
+        },
+        {
+            "Q": "What is the maximum heat value of label Electricity on the x-axis?",
+            "A": "The maximum heat value of Electricity on the x-axis is {0.89}."
+        },
+        {
+            "Q": "What is the maximum heat value for label Storage on the y-axis?",
+            "A": "The maximum heat value for Storage on the y-axis is {0.58}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the average heat value for label Transmission on the x-axis?",
+            "A": "The average heat value for Transmission on the x-axis is {0.54}."
+        }
+    ],
+    "NF": [],
+    "NC": [
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Electricity and Infrastructure or the cell corresponding to Electricity and Prices?",
+            "A": "The cell corresponding to {Electricity} and {Infrastructure} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Water and Emissions or the cell corresponding to Water and Technology?",
+            "A": "The cell corresponding to {Water} and {Emissions} has a higher heat value."
+        },
+        {
+            "Q": "Which has the higher heat value: the cell corresponding to Coal and Emissions or the cell corresponding to Renewables and Prices?",
+            "A": "The cell corresponding to {Coal} and {Emissions} has a higher heat value."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the heatmap, what are the row and column labels for all cells whose heat values fall within the range of 0.70 to 0.88?",
+            "A": "The cells are: {(Exploration, Consumption), (Nuclear, Consumption), (Renewables, Consumption), (Transmission, Consumption), (Distribution, Efficiency), (Electricity, Efficiency), (Exploration, Efficiency), (Nuclear, Efficiency), (Renewables, Efficiency), (Distribution, Emissions), (Electricity, Emissions), (Exploration, Emissions), (Nuclear, Emissions), (Renewables, Emissions), (Coal, Infrastructure), (Distribution, Infrastructure), (Electricity, Infrastructure), (Exploration, Infrastructure), (Nuclear, Infrastructure), (Coal, Investment), (Distribution, Investment), (Electricity, Investment), (Exploration, Investment), (Coal, Policy), (Distribution, Policy)}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,111 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {sankey} chart."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many links flow out of the node Artificial Intelligence in this sankey chart?",
+            "A": "There are {2} links flowing out of the node Artificial Intelligence."
+        },
+        {
+            "Q": "How many nodes are in the column Research Outcomes of this sankey chart?",
+            "A": "There are {2} nodes in the column Research Outcomes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Which category does the leftmost axis represent in this sankey chart?",
+            "A": "The leftmost axis represents {Research Fields}."
+        },
+        {
+            "Q": "Which category does the rightmost axis represent in this sankey chart?",
+            "A": "The rightmost axis represents {Institution Types}."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which pair of nodes shows the largest flow in this sankey chart?",
+            "A": "The largest flow is between {Published Papers} and {Corporate Labs}."
+        },
+        {
+            "Q": "Which pair of nodes shows the smallest flow in this sankey chart?",
+            "A": "The smallest flow is between {Commercial Products} and {Research Universities}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the flow value from the node Commercial Products to the node Corporate Labs?",
+            "A": "The flow value from the node Commercial Products to the node Corporate Labs is {86}."
+        },
+        {
+            "Q": "What is the flow value from the node Robotics to the node Commercial Products?",
+            "A": "The flow value from the node Robotics to the node Commercial Products is {32}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum flow value from the node Quantum Computing to the next stage in the sankey chart?",
+            "A": "The maximum flow value from the node Quantum Computing to the next stage is {210}."
+        },
+        {
+            "Q": "What is the minimum flow value from the node Published Papers to the next stage in the sankey chart?",
+            "A": "The minimum flow value from the node Published Papers to the next stage is {71}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total flow output from node Commercial Products?",
+            "A": "The total flow output from node Commercial Products is {254}."
+        },
+        {
+            "Q": "What is the total flow input by node Published Papers?",
+            "A": "The total flow input by node Published Papers is {627}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "In the column Research Fields of the sankey chart, which nodes have an outflow exceeded 106? Please list the node labels and their corresponding outflow values.",
+            "A": "{Quantum Computing} has an outflow of {210}, {Renewable Energy} has an outflow of {108}, {Robotics} has an outflow of {152}."
+        },
+        {
+            "Q": "Between which pairs of nodes in column Research Fields and column Research Outcomes is the flow between 53 and 77? Please list the source node, target node, and the corresponding flow value.",
+            "A": "There is a flow of {54} from node {Quantum Computing} to {Commercial Products}."
+        },
+        {
+            "Q": "In the sankey chart, which links have a flow between 62 and 102? Please list the source node, target node, and their corresponding flow values.",
+            "A": "There is a flow of {100} from node {Artificial Intelligence} to {Commercial Products}, a flow of {86} from node {Commercial Products} to {Corporate Labs}, a flow of {71} from node {Published Papers} to {Non-profit Organizations}."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Between the flows from node Commercial Products to node Startups and from node Artificial Intelligence to node Published Papers, which path has a larger flow?",
+            "A": "The flow from node {Artificial Intelligence} to node {Published Papers} is larger."
+        },
+        {
+            "Q": "Between the flows from node Published Papers to node Corporate Labs and from node Commercial Products to node Startups, which path has a larger flow?",
+            "A": "The flow from node {Published Papers} to node {Corporate Labs} is larger."
+        },
+        {
+            "Q": "Among the flows from node Renewable Energy to node Commercial Products, from node Published Papers to node Non-profit Organizations, and from node Artificial Intelligence to node Commercial Products, which path has the largest flow?",
+            "A": "The flow from node {Artificial Intelligence} to node {Commercial Products} is the largest."
+        },
+        {
+            "Q": "Among the flows from node Commercial Products to node Research Universities, from node Commercial Products to node Corporate Labs, and from node Published Papers to node Research Universities, which path has the largest flow?",
+            "A": "The flow from node {Published Papers} to node {Research Universities} is the largest."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "Which node in the column Research Outcomes of the sankey chart is the most critical?",
+            "A": "The most critical node in the column Research Outcomes is {Published Papers}."
+        },
+        {
+            "Q": "What is the path with the highest total flow from source node Artificial Intelligence to target node Research Universities? Please list all node labels along this path.",
+            "A": "The path with the highest total flow from node Artificial Intelligence to node Research Universities is: {Artificial Intelligence, Published Papers, Research Universities}."
+        }
+    ],
+    "VA": []
+}

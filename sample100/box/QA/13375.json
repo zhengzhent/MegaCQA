@@ -1,0 +1,127 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of plot is this?",
+            "A": "This chart is a {box plot}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many boxes are in this box plot?",
+            "A": "There are {7} boxes."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this box chart a horizontal box plot or a vertical box plot?",
+            "A": "The box plot is a {vertical} box plot."
+        },
+        {
+            "Q": "Which box does the leftmost box represent?",
+            "A": "The leftmost box represents {Emerald Beach}"
+        },
+        {
+            "Q": "Which box does the rightmost box represent?",
+            "A": "The rightmost box represents {Maple Arbor}."
+        },
+        {
+            "Q": "Which box is the first position to the right of the box Golden Dunes?",
+            "A": "The first position to the right of the box Golden Dunes is {Maple Arbor}."
+        },
+        {
+            "Q": "What is the spatial relationship of box Maple Arbor relative to the box Emerald Beach in terms of horizontal (left/right) direction?",
+            "A": "Box Maple Arbor is to the {right} of the box Emerald Beach."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which box has the largest median in this box plot?",
+            "A": "The box with the largest median is {Golden Dunes}."
+        },
+        {
+            "Q": "Which box has the highest upper quartile (Q3) in this box plot?",
+            "A": "The box with the highest Q3 is {Golden Dunes}."
+        },
+        {
+            "Q": "Which box has the Minimum IQR of data?",
+            "A": "The box with the Minimum IQR is {Misty Trail}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the median of Emerald Beach in the box plot?",
+            "A": "The median of Emerald Beach is {10476.5} Visitors."
+        },
+        {
+            "Q": "What is the upper quartile (Q3) of Maple Arbor in the box plot?",
+            "A": "The upper quartile (Q3) of Maple Arbor is {12304.0} Visitors."
+        },
+        {
+            "Q": "What is the lower whisker limit of Maple Arbor in the box plot?",
+            "A": "The lower whisker limit of Maple Arbor is {2881} Visitors."
+        },
+        {
+            "Q": "What is the largest upper outlier value in Sunset Cliff in the box plot?",
+            "A": "The largest upper outlier value in Sunset Cliff is {29589} Visitors."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the global maximum Visitors value in the box plot?",
+            "A": "The global maximum Visitors value in the box plot is {42868.00} Visitors."
+        },
+        {
+            "Q": "What is the global minimum Visitors value in the box plot?",
+            "A": "The global minimum Visitors value in the box plot is {2821.00} Visitors."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the Q3 difference between box Sunset Cliff and Lotus Temple?",
+            "A": "The Q3 difference between box Sunset Cliff and Lotus Temple is {1045.0} Visitors."
+        },
+        {
+            "Q": "What is the toal Median value of box Maple Arbor and Golden Dunes?",
+            "A": "The total Median value of box Maple Arbor and Golden Dunes is {19216.0} Visitors."
+        },
+        {
+            "Q": "What is the average Q3 value of box Silver Grove and Maple Arbor?",
+            "A": "The average Q3 value of box Silver Grove and Maple Arbor is {12899.875} Visitors."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which boxes in the box plot have outliers that exceed 29203.2 Visitors?",
+            "A": "Box{Emerald Beach},{Silver Grove},{Misty Trail},{Sunset Cliff},{Golden Dunes} have the outliers exceed 29203.2 Visitors."
+        },
+        {
+            "Q": "Which boxes have median values exceed 10482.75 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Golden Dunes} has {10489.0} Visitors "
+        },
+        {
+            "Q": "Which boxes have median values below 9711.75 Visitors? Please list the boxes and corresponding values.",
+            "A": "{Silver Grove} has {9014.5} Visitors , {Lotus Temple} has {9516.0} Visitors , {Maple Arbor} has {8727.0} Visitors "
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the median value of Maple Arbor or Misty Trail ",
+            "A": "The median value of the {Misty Trail} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Emerald Beach, Maple Arbor or Sunset Cliff ",
+            "A": "The median value of the {Emerald Beach} is larger."
+        },
+        {
+            "Q": "Which is larger, the median value of Silver Grove, Maple Arbor, Lotus Temple or Misty Trail ",
+            "A": "The median value of the {Misty Trail} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "In the box plot, which group has the largest difference between the maximum non-outlier value (upper whisker) and the minimum non-outlier value (lower whisker)?",
+            "A": "The group with the largest whisker span is {Emerald Beach}."
+        }
+    ],
+    "VA": []
+}

@@ -1,0 +1,94 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {treemap}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many child rectangles are under the category nan in this treemap?",
+            "A": "There are {1} child rectangles under the category nan."
+        }
+    ],
+    "SRP": [],
+    "VPR": [
+        {
+            "Q": "Which rectangle has the largest area in this treemap?",
+            "A": "The rectangle with the largest area is {Valuation Models}."
+        },
+        {
+            "Q": "Which rectangle has the smallest area in this treemap?",
+            "A": "The rectangle with the smallest area is {Getis-Ord Gi*}."
+        },
+        {
+            "Q": "Which top-level category has the highest proportion in this treemap?",
+            "A": "The top-level category with the highest proportion is {Valuation Models}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of the Weighted Polygons rectangle in this treemap?",
+            "A": "The value of the Weighted Polygons rectangle is {13.43}."
+        },
+        {
+            "Q": "What is the value of the School Districts rectangle in this treemap?",
+            "A": "The value of the School Districts rectangle is {50.43}."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum value among the partitions in the treemap?",
+            "A": "The maximum value is {100.0}."
+        },
+        {
+            "Q": "What is the minimum value among the partitions in the treemap?",
+            "A": "The minimum value is {7.74}."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the difference between the regions of Amenity Scoring and POI Analysis?",
+            "A": "The difference between Amenity Scoring and POI Analysis is {50.43}."
+        },
+        {
+            "Q": "What is the sum of the regions of Walking Accessibility and OAuth 2.0?",
+            "A": "The sum of Walking Accessibility and OAuth 2.0 is {21.88}."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Under the nan category in the treemap, which rectangular labels have a value exceeded 99.99? Please list the labels and values.",
+            "A": "{Valuation Models} has {100.00}"
+        },
+        {
+            "Q": "Under the nan category in the treemap, which rectangular labels have a value below 100.01? Please list the labels and values.",
+            "A": "{Valuation Models} has {100.00}"
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, the value of Valuation Models or Amenity Scoring?",
+            "A": "The value of {Valuation Models} is larger."
+        },
+        {
+            "Q": "Which is larger, the value of School Districts or Voronoi Diagrams?",
+            "A": "The value of {School Districts} is larger."
+        },
+        {
+            "Q": "Which is smaller, the value of Amenity Scoring, School Districts, or Catchment Areas?",
+            "A": "The value of {Catchment Areas} is smaller."
+        },
+        {
+            "Q": "Which is larger, the value of Valuation Models, Amenity Scoring, or School Districts?",
+            "A": "The value of {Valuation Models} is larger."
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many leaf nodes' value below the global average in the treemap?",
+            "A": "There are {6} leaf nodes below the global average."
+        }
+    ],
+    "VA": []
+}

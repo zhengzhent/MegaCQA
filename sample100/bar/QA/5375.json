@@ -1,0 +1,128 @@
+{
+    "CTR": [
+        {
+            "Q": "What type of chart is this?",
+            "A": "This chart is a {bar chart}."
+        }
+    ],
+    "VEC": [
+        {
+            "Q": "How many bars are in this bar chart?",
+            "A": "There are {14} bars in this bar chart."
+        }
+    ],
+    "SRP": [
+        {
+            "Q": "Is this bar chart a horizontal bar chart or a vertical bar chart?",
+            "A": "The bar chart is a {vertical} bar chart."
+        },
+        {
+            "Q": "Which category does the leftmost bar represent?",
+            "A": "The leftmost bar represents {Italian Food}."
+        },
+        {
+            "Q": "Which category does the rightmost bar represent?",
+            "A": "The rightmost bar represents {Vietnamese Food}."
+        },
+        {
+            "Q": "What is the spatial relationship of bar Italian Food relative to the bar Indian Food in terms of horizontal (left/right) direction?",
+            "A": "Bar Italian Food is to the {left} of the bar Indian Food."
+        }
+    ],
+    "VPR": [
+        {
+            "Q": "Which category has the highest bar in this bar chart?",
+            "A": "The category with the highest bar is {Italian Food}."
+        },
+        {
+            "Q": "Which category has the lowest bar in this bar chart?",
+            "A": "The category with the lowest bar is {Mexican Food}."
+        }
+    ],
+    "VE": [
+        {
+            "Q": "What is the value of bar Korean Food?",
+            "A": "The value of Korean Food is {3177} thousand USD."
+        },
+        {
+            "Q": "What is the value of bar Mexican Food?",
+            "A": "The value of Mexican Food is {498} thousand USD."
+        },
+        {
+            "Q": "What is the value of bar Seafood?",
+            "A": "The value of Seafood is {2138} thousand USD."
+        }
+    ],
+    "EVJ": [
+        {
+            "Q": "What is the maximum thousand USD in the bar chart?",
+            "A": "The maximum thousand USD is {5046} thousand USD."
+        },
+        {
+            "Q": "What is the minimum thousand USD in the bar chart?",
+            "A": "The minimum thousand USD is {498} thousand USD."
+        }
+    ],
+    "SC": [
+        {
+            "Q": "What is the total value of Fast Food and Korean Food?",
+            "A": "The total value of Fast Food and Korean Food is {7780} thousand USD."
+        },
+        {
+            "Q": "What is the average value of Snacks and Vietnamese Food?",
+            "A": "The average value of Snacks and Vietnamese Food is {2080.0} thousand USD."
+        },
+        {
+            "Q": "What is the difference between Japanese Food and Thai Food?",
+            "A": "The difference between Japanese Food and Thai Food is {606} thousand USD."
+        }
+    ],
+    "NF": [
+        {
+            "Q": "Which bars have thousand USD values exceed 4824.50 thousand USD? Please list the bars and corresponding thousand USD values?",
+            "A": "{Italian Food} has {5046} thousand USD."
+        },
+        {
+            "Q": "Which bars have {thousand USD} values below 814.00 thousand USD? Please list the bars and corresponding thousand USD values?",
+            "A": "{Mexican Food} has {498} thousand USD, {Vietnamese Food} has {574} thousand USD."
+        }
+    ],
+    "NC": [
+        {
+            "Q": "Which is larger, Mexican Food or Italian Food ",
+            "A": "The value of the {Italian Food} is larger?"
+        },
+        {
+            "Q": "Which is larger, Vietnamese Food, Snacks or Fast Food ",
+            "A": "The value of the {Fast Food} is larger?"
+        },
+        {
+            "Q": "Which is larger, Mexican Food, Western Food, Italian Food or Vietnamese Food ",
+            "A": "The value of the {Italian Food} is larger?"
+        }
+    ],
+    "MSR": [
+        {
+            "Q": "How many bars in the bar chart have values above the overall average?",
+            "A": "There are {7} bars with values above the average."
+        },
+        {
+            "Q": "Which pair of adjacent bars has the largest difference in values?",
+            "A": "The pair of adjacent bars with the largest difference is between {Korean Food} and {Chinese Cuisine}."
+        },
+        {
+            "Q": "Which three categories have the highest combined values?",
+            "A": "The three categories with the highest combined values are: {Italian Food}, {Fast Food}, and {Japanese Food}."
+        }
+    ],
+    "VA": [
+        {
+            "Q": "Sort the bars by thousand USD values in descending order and list the labels from left to right.",
+            "A": "Sorted by thousand USD value descending: {Italian Food}, {Fast Food}, {Japanese Food}, {Indian Food}, {Thai Food}, {Snacks}, {Korean Food}, {Chinese Cuisine}, {Seafood}, {Vegetarian}, {Beverages}, {Western Food}, {Vietnamese Food}, and {Mexican Food}."
+        },
+        {
+            "Q": "Sort the bars by thousand USD values in ascending order and list the labels from left to right.",
+            "A": "Sorted by thousand USD value ascending: {Mexican Food}, {Vietnamese Food}, {Western Food}, {Beverages}, {Vegetarian}, {Seafood}, {Chinese Cuisine}, {Korean Food}, {Snacks}, {Thai Food}, {Indian Food}, {Japanese Food}, {Fast Food}, and {Italian Food}."
+        }
+    ]
+}
