@@ -18,6 +18,7 @@ for chart_type in os.listdir(root_dir):
     for qa_file in glob(os.path.join(qa_dir, "*.json")):
         basename = os.path.splitext(os.path.basename(qa_file))[0]
         image_path = os.path.join(png_dir, basename + ".png")
+        image_path = image_path.replace("\\", "/")  # 添加这一行
 
         if not os.path.exists(image_path):
             print(f"[警告] 缺失图片文件: {image_path}")
