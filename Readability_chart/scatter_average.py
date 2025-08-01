@@ -1,4 +1,71 @@
 # --------------------------------散点图-----------------------------------
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Constructing the data
+data = {
+    "Chart Type": [
+        "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
+        "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
+        "Stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap", "Treemap_D3", "Violin"
+    ],
+    "Qwen2.5-VL-72B-Instruct": [
+        4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
+        3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.96, 3.85
+    ],
+    "gpt-4o-mini": [
+        4.63, 4.44, 3.44, 2.0, 2.59, 4.68, 3.34, 4.6, 3.13, 2.0, 3.81, 2.84,
+        3.02, 2.84, 4.07, 4.08, 3.84, 3.83, 2.31, 2.26, 3.66, 4.42
+    ]
+}
+
+df = pd.DataFrame(data)
+
+# Set style
+sns.set(style="whitegrid")
+
+# Increase figure size while maintaining aspect ratio
+plt.figure(figsize=(12, 9))  # Increase figure size
+
+# Plot the scatter plot
+sns.scatterplot(
+    x='Qwen2.5-VL-72B-Instruct',
+    y='gpt-4o-mini',
+    data=df,
+    marker='o',           # Use circles
+    color='dodgerblue',
+    s=80,                 # Point size
+    edgecolor='black'
+)
+
+# Add the diagonal (best score line)
+plt.plot([1, 5], [1, 5], 'r--', label='Best Score')
+
+# Add text labels for each point, placing "Stacked Bar" and "Funnel" labels on the left
+for i in range(len(df)):
+    if df["Chart Type"][i] in ["Stacked Area", "Funnel", "Stacked Bar"]:
+        plt.text(df["Qwen2.5-VL-72B-Instruct"][i] - 0.08, df["gpt-4o-mini"][i], df["Chart Type"][i], fontsize=8, ha='right')
+    else:
+        plt.text(df["Qwen2.5-VL-72B-Instruct"][i], df["gpt-4o-mini"][i] - 0.1, df["Chart Type"][i], fontsize=8, ha='center')
+
+# Add axis labels and title in English
+plt.xlabel("Qwen2.5-VL-72B-Instruct Average Score")
+plt.ylabel("gpt-4o-mini Average Score")
+plt.title("Qwen2.5-VL-72B-Instruct VS gpt-4o-mini Average Score Scatter Plot")
+plt.legend()
+
+# Set the same aspect ratio to avoid distortion
+plt.gca().set_aspect('equal', adjustable='box')
+
+# Display the plot with tight layout
+plt.tight_layout()
+# 导出图像为 PNG 格式，分辨率为 300 DPI
+plt.savefig('../figure/scatter_plot.png', dpi=300)
+# Show the plot
+plt.show()
+
+# ------------------柱状图---------------------------
 # import pandas as pd
 # import matplotlib.pyplot as plt
 # import seaborn as sns
@@ -8,13 +75,13 @@
 #     "Chart Type": [
 #         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
 #         "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
-#         "Stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap", "Treemap_D3", "Violin"
+#         "stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap", "Treemap_D3", "Violin"
 #     ],
-#     "Qwen": [
+#     "Qwen2.5-VL-72B-Instruct": [
 #         4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
 #         3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.96, 3.85
 #     ],
-#     "GPT": [
+#     "gpt-4o-mini": [
 #         4.63, 4.44, 3.44, 2.0, 2.59, 4.68, 3.34, 4.6, 3.13, 2.0, 3.81, 2.84,
 #         3.02, 2.84, 4.07, 4.08, 3.84, 3.83, 2.31, 2.26, 3.66, 4.42
 #     ]
@@ -25,52 +92,40 @@
 # # Set style
 # sns.set(style="whitegrid")
 #
-# # Increase figure size while maintaining aspect ratio
-# plt.figure(figsize=(12, 9))  # Increase figure size
+# # Increase figure size for better readability
+# plt.figure(figsize=(14, 8))
 #
-# # Plot the scatter plot
-# sns.scatterplot(
-#     x='Qwen',
-#     y='GPT',
-#     data=df,
-#     marker='o',           # Use circles
-#     color='dodgerblue',
-#     s=80,                 # Point size
-#     edgecolor='black'
-# )
+# # Melt the data to make it easier to plot
+# df_melted = df.melt(id_vars="Chart Type", value_vars=["Qwen2.5-VL-72B-Instruct", "gpt-4o-mini"], var_name="Model", value_name="Score")
 #
-# # Add the diagonal (best score line)
-# plt.plot([1, 5], [1, 5], 'r--', label='Best Score')
+# # Set a custom color palette with two shades of blue (dark blue and light blue)
+# palette = ['#1f3a69', '#5c8bb5']  # Dark blue and light blue
 #
-# # Add text labels for each point, placing "Stacked Bar" and "Funnel" labels on the left
-# for i in range(len(df)):
-#     if df["Chart Type"][i] in ["Stacked Area", "Funnel", "Stacked Bar"]:
-#         plt.text(df["Qwen"][i] - 0.08, df["GPT"][i], df["Chart Type"][i], fontsize=8, ha='right')
-#     else:
-#         plt.text(df["Qwen"][i], df["GPT"][i] - 0.1, df["Chart Type"][i], fontsize=8, ha='center')
+# # Plot with seaborn's barplot, using the custom palette
+# sns.barplot(x="Chart Type", y="Score", hue="Model", data=df_melted, palette=palette)
 #
-# # Add axis labels and title in English
-# plt.xlabel("Qwen Average Score")
-# plt.ylabel("GPT Average Score")
-# plt.title("Qwen vs GPT Scatter Plot")
-# plt.legend()
+# # Rotate the x-axis labels by 45 degrees clockwise
+# plt.xticks(rotation=45)
 #
-# # Set the same aspect ratio to avoid distortion
-# plt.gca().set_aspect('equal', adjustable='box')
+# # Set y-axis limits to be between 1 and 5
+# plt.ylim(1, 5)
 #
-# # Display the plot with tight layout
-# plt.tight_layout()
-# # 导出图像为 PNG 格式，分辨率为 300 DPI
-# plt.savefig('figure/scatter_plot.png', dpi=300)
+# # Add axis labels and title
+# plt.xlabel("Chart Type")
+# plt.ylabel("Average Score")
+# plt.title("Qwen2.5-VL-72B-Instruct and gpt-4o-mini Average Scores by Bar Chart")
+# plt.legend(title="Model")
+#
 # # Show the plot
+# plt.tight_layout()
+# plt.savefig('../figure/bar.png', dpi=300)
 # plt.show()
-
-# ------------------柱状图---------------------------
+# --------------------------------雷达图-----------------------------------
 # import pandas as pd
+# import numpy as np
 # import matplotlib.pyplot as plt
-# import seaborn as sns
 #
-# # Constructing the data
+# # 数据构建
 # data = {
 #     "Chart Type": [
 #         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
@@ -89,105 +144,50 @@
 #
 # df = pd.DataFrame(data)
 #
-# # Set style
-# sns.set(style="whitegrid")
+# # 准备雷达图数据
+# labels = df['Chart Type']
+# qwen_scores = df['Qwen']
+# gpt_scores = df['GPT']
+# num_vars = len(labels)
+# angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
 #
-# # Increase figure size for better readability
-# plt.figure(figsize=(14, 8))
+# # 闭合图形
+# qwen_scores = np.concatenate((qwen_scores, [qwen_scores[0]]))
+# gpt_scores = np.concatenate((gpt_scores, [gpt_scores[0]]))
+# angles += angles[:1]
 #
-# # Melt the data to make it easier to plot
-# df_melted = df.melt(id_vars="Chart Type", value_vars=["Qwen", "GPT"], var_name="Model", value_name="Score")
+# # 画图
+# fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
 #
-# # Set a custom color palette with two shades of blue (dark blue and light blue)
-# palette = ['#1f3a69', '#5c8bb5']  # Dark blue and light blue
+# # 数据绘制
+# ax.fill(angles, qwen_scores, color='darkblue', alpha=0.25)
+# ax.fill(angles, gpt_scores, color='#4682B4', alpha=0.25)
+# ax.plot(angles, qwen_scores, color='darkblue', linewidth=2, label='Qwen2.5-VL-72B-Instruct')
+# ax.plot(angles, gpt_scores, color='#4682B4', linewidth=2, label='gpt-4o-mini')
 #
-# # Plot with seaborn's barplot, using the custom palette
-# sns.barplot(x="Chart Type", y="Score", hue="Model", data=df_melted, palette=palette)
+# # 调整标签距离中心的半径位置
+# ax.set_xticks(angles[:-1])
+# ax.set_xticklabels(labels)
+# for label, angle in zip(ax.get_xticklabels(), angles):
+#     label.set_horizontalalignment('center')
+#     label.set_rotation(np.degrees(angle))
+#     label.set_rotation_mode('anchor')
+#     label.set_fontsize(10)
+#     # 控制label离中心的距离（这句是关键）
+#     label.set_position((1.1, 0.0008))  # 1.1是半径比例，适当调整即可
 #
-# # Rotate the x-axis labels by 45 degrees clockwise
-# plt.xticks(rotation=45)
+# # 隐藏极轴刻度
+# ax.set_yticklabels([])
 #
-# # Set y-axis limits to be between 1 and 5
-# plt.ylim(1, 5)
+# # 移动标题更靠上
+# plt.title("Qwen2.5-VL-72B-Instruct VS gpt-4o-mini Scores - Radar Chart", size=16, y=1.15)
 #
-# # Add axis labels and title
-# plt.xlabel("Chart Type")
-# plt.ylabel("Average Score")
-# plt.title("Qwen and GPT Average Scores by Chart Type")
-# plt.legend(title="Model")
+# # 图例
+# plt.legend(loc='upper right', bbox_to_anchor=(1.1, 1.1))
 #
-# # Show the plot
 # plt.tight_layout()
-# plt.savefig('figure/bar.png', dpi=300)
+# plt.savefig('../figure/radar.png', dpi=300)
 # plt.show()
-# --------------------------------雷达图-----------------------------------
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-# 数据构建
-data = {
-    "Chart Type": [
-        "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
-        "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
-        "stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap", "Treemap_D3", "Violin"
-    ],
-    "Qwen": [
-        4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
-        3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.96, 3.85
-    ],
-    "GPT": [
-        4.63, 4.44, 3.44, 2.0, 2.59, 4.68, 3.34, 4.6, 3.13, 2.0, 3.81, 2.84,
-        3.02, 2.84, 4.07, 4.08, 3.84, 3.83, 2.31, 2.26, 3.66, 4.42
-    ]
-}
-
-df = pd.DataFrame(data)
-
-# 准备雷达图数据
-labels = df['Chart Type']
-qwen_scores = df['Qwen']
-gpt_scores = df['GPT']
-num_vars = len(labels)
-angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
-
-# 闭合图形
-qwen_scores = np.concatenate((qwen_scores, [qwen_scores[0]]))
-gpt_scores = np.concatenate((gpt_scores, [gpt_scores[0]]))
-angles += angles[:1]
-
-# 画图
-fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
-
-# 数据绘制
-ax.fill(angles, qwen_scores, color='darkblue', alpha=0.25)
-ax.fill(angles, gpt_scores, color='#4682B4', alpha=0.25)
-ax.plot(angles, qwen_scores, color='darkblue', linewidth=2, label='Qwen')
-ax.plot(angles, gpt_scores, color='#4682B4', linewidth=2, label='GPT')
-
-# 调整标签距离中心的半径位置
-ax.set_xticks(angles[:-1])
-ax.set_xticklabels(labels)
-for label, angle in zip(ax.get_xticklabels(), angles):
-    label.set_horizontalalignment('center')
-    label.set_rotation(np.degrees(angle))
-    label.set_rotation_mode('anchor')
-    label.set_fontsize(10)
-    # 控制label离中心的距离（这句是关键）
-    label.set_position((1.1, 0.001))  # 1.1是半径比例，适当调整即可
-
-# 隐藏极轴刻度
-ax.set_yticklabels([])
-
-# 移动标题更靠上
-plt.title("Qwen vs GPT Scores - Radar Chart", size=16, y=1.15)
-
-# 图例
-plt.legend(loc='upper right', bbox_to_anchor=(1.1, 1.1))
-
-plt.tight_layout()
-plt.savefig('figure/radar.png', dpi=300)
-plt.show()
 
 
 
