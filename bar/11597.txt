@@ -1,9 +1,0 @@
-Image Name: 11597.png
-Image Path: D:\code\MegaCQA\sample1000\bar\png\11597.png
---------------------------------------------------
-Model: Qwen/Qwen2.5-VL-72B-Instruct
-Readability Score: 5/5
-Score Reason: The chart is well-organized with clear labels and distinct colors for each platform, making it easy to differentiate between them. The values are directly written on the bars, which helps in quickly understanding the number of plays on each platform. The title is clear and provides context for the data presented.
---------------------------------------------------
-Model: gpt-4o-mini
-Test Failed: failure: not enough values to unpack (expected 3, got 2)

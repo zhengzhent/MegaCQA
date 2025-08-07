@@ -1,9 +1,0 @@
-Image Name: 2909.png
-Image Path: D:\code\MegaCQA\sample1000\bar\png\2909.png
---------------------------------------------------
-Model: Qwen/Qwen2.5-VL-72B-Instruct
-Readability Score: 5/5
-Score Reason: The chart is well-organized with clear labels and distinct colors for each city, making it easy to differentiate between the data sets. The values are directly displayed on the bars, which enhances readability. The title and axis labels are clear and informative.
---------------------------------------------------
-Model: gpt-4o-mini
-Test Failed: failure: not enough values to unpack (expected 3, got 2)
