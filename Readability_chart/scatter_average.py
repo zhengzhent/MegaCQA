@@ -1,101 +1,41 @@
 # --------------------------------散点图-----------------------------------
-# import pandas as pd
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-
-# # Constructing the data
-# data = {
-#     "Chart Type": [
-#         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
-#         "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
-#         "Stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap",  "Violin"
-#     ],
-#     "Qwen2.5-VL-72B-Instruct": [
-#         4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
-#         3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.85
-#     ],
-#     "gpt-4o-mini": [
-#         4.63, 4.44, 3.25, 2.0, 2.60, 4.7, 3.42, 4.59, 3.09, 2.0, 3.81, 2.99,
-#         3.3, 2.9, 4.02, 3.93, 3.88, 3.79, 2.31, 2.32, 4.32
-#     ]
-# }
-
-# df = pd.DataFrame(data)
-
-# # Set style
-# sns.set(style="whitegrid")
-
-# # Increase figure size while maintaining aspect ratio
-# plt.figure(figsize=(12, 9))  # Increase figure size
-
-# # Plot the scatter plot
-# sns.scatterplot(
-#     x='Qwen2.5-VL-72B-Instruct',
-#     y='gpt-4o-mini',
-#     data=df,
-#     marker='o',           # Use circles
-#     color='dodgerblue',
-#     s=80,                 # Point size
-#     edgecolor='black'
-# )
-
-# # Add the diagonal (best score line)
-# plt.plot([1, 5], [1, 5], 'r--', label='Best Score')
-
-# # Add text labels for each point, placing "Stacked Bar" and "Funnel" labels on the left
-# for i in range(len(df)):
-#     if df["Chart Type"][i] in ["Stacked Area", "Funnel", "Stacked Bar"]:
-#         plt.text(df["Qwen2.5-VL-72B-Instruct"][i] - 0.1, df["gpt-4o-mini"][i], df["Chart Type"][i], fontsize=8, ha='right')
-#     else:
-#         plt.text(df["Qwen2.5-VL-72B-Instruct"][i], df["gpt-4o-mini"][i] - 0.1, df["Chart Type"][i], fontsize=8, ha='center')
-
-
-# # Add axis labels and title in English
-# plt.xlabel("Qwen2.5-VL-72B-Instruct Average Score")
-# plt.ylabel("gpt-4o-mini Average Score")
-# plt.title("Qwen2.5-VL-72B-Instruct VS gpt-4o-mini Average Score Scatter Plot")
-# plt.legend()
-
-# # Set the same aspect ratio to avoid distortion
-# plt.gca().set_aspect('equal', adjustable='box')
-
-# # Display the plot with tight layout
-# plt.tight_layout()
-# # 导出图像为 PNG 格式，分辨率为 300 DPI
-# plt.savefig('../figure/scatter_plot.png', dpi=300)
-# # Show the plot
-# plt.show()
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 # 构造数据
 data = {
     "Chart Type": [
         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
         "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
-        "Stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap", "Violin"
+        "Stacked Area", "Stacked Bar", "Stream", "Sunburst", "Treemap",  "Violin"
     ],
     "Qwen2.5-VL-72B-Instruct": [
-        4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
-        3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.85
+        4.21, 4.03, 3.61, 3.33, 3.89, 4.33, 3.97, 4.02, 3.80, 3.13, 4.02, 4.01, 4.02, 3.39,
+        3.71, 3.86, 3.89, 3.96, 3.62, 3.56, 4.0
     ],
     "gpt-4o-mini": [
-        4.63, 4.44, 3.25, 2.0, 2.60, 4.7, 3.42, 4.59, 3.09, 2.0, 3.81, 2.99,
-        3.3, 2.9, 4.02, 3.93, 3.88, 3.79, 2.31, 2.32, 4.32
+        3.73, 3.74, 3.48, 3.36, 3.43, 3.85, 3.51, 3.97, 3.57, 3.24, 3.69, 3.55,
+        3.83, 3.47, 3.50, 3.73, 3.56, 3.64, 3.42, 3.32, 3.93
     ]
 }
 
 df = pd.DataFrame(data)
 
-# 绘制
+# 设置风格
 sns.set(style="whitegrid")
 plt.figure(figsize=(12, 9))
 
+# 加入 jitter，让点分散
+np.random.seed(42)
+x_jitter = df['Qwen2.5-VL-72B-Instruct'] + np.random.uniform(-0.03, 0.03, len(df))
+y_jitter = df['gpt-4o-mini'] + np.random.uniform(-0.03, 0.03, len(df))
+
 # 绘制散点
 plt.scatter(
-    df['Qwen2.5-VL-72B-Instruct'],
-    df['gpt-4o-mini'],
+    x_jitter,
+    y_jitter,
     color='dodgerblue',
     s=80,
     edgecolor='black'
@@ -104,43 +44,132 @@ plt.scatter(
 # 对角线
 plt.plot([1, 5], [1, 5], 'r--', label='Best Score')
 
-# 添加标签：偶数点右移，奇数点左移 + 特殊调整
+# 添加标签
 for i, row in df.iterrows():
-    x = row['Qwen2.5-VL-72B-Instruct']
-    y = row['gpt-4o-mini']
+    x = x_jitter[i]
+    y = y_jitter[i]
 
-    # 特殊偏移
-    if row['Chart Type'] == "Treemap":
-        y += 0.08  # 向上
-    elif row['Chart Type'] == "Surburst":
-        y -= 0.08  # 向下
-
-    # 水平偏移
-    if i % 2 == 0:
+    if row['Chart Type'] == "Node Link":
+        # 在点上方
         plt.text(
-            x + 0.08, y,
+            x, y + 0.02,
+            row['Chart Type'],
+            ha='center', va='bottom', fontsize=8,
+            bbox=dict(facecolor='white', alpha=0.0, edgecolor='none', pad=0.5)
+        )
+    elif row['Chart Type'] in ["Stream", "Heatmap"]:
+        # 在点下方
+        plt.text(
+            x, y - 0.02,
+            row['Chart Type'],
+            ha='center', va='top', fontsize=8,
+            bbox=dict(facecolor='white', alpha=0.0, edgecolor='none', pad=0.5)
+        )
+    else:
+        # 默认在右边，距离缩短一些
+        plt.text(
+            x + 0.025, y,
             row['Chart Type'],
             ha='left', va='center', fontsize=8,
             bbox=dict(facecolor='white', alpha=0.0, edgecolor='none', pad=0.5)
         )
-    else:
-        plt.text(
-            x - 0.08, y,
-            row['Chart Type'],
-            ha='right', va='center', fontsize=8,
-            bbox=dict(facecolor='white', alpha=0.0, edgecolor='none', pad=0.5)
-        )
+
+
+# 设置坐标轴范围更紧凑
+plt.xlim(3.0, 4.5)
+plt.ylim(3.0, 4.5)
 
 # 细节设置
-plt.xlabel("Qwen2.5-VL-72B-Instruct Average Score")
-plt.ylabel("gpt-4o-mini Average Score")
+plt.xlabel("Qwen2.5-VL-72B-Instruct")
+plt.ylabel("gpt-4o-mini")
 plt.title("Qwen2.5-VL-72B-Instruct VS gpt-4o-mini Average Score Scatter Plot")
 plt.legend()
 plt.gca().set_aspect('equal', adjustable='box')
 plt.tight_layout()
 
-plt.savefig('../figure/scatter_plot_treemap_surburst_adjust.png', dpi=300)
+# 保存为 PDF
+plt.savefig('../figure/scatter_plot_adjusted.pdf')
 plt.show()
+
+corr = df['gpt-4o-mini'].corr(df['Qwen2.5-VL-72B-Instruct'])
+print("Pearson correlation:", corr)
+# ---------------------------------------------------
+# import pandas as pd
+# import matplotlib.pyplot as plt
+# import seaborn as sns
+
+# # 构造数据
+# data = {
+#     "Chart Type": [
+#         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
+#         "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
+#         "Stacked Area", "Stacked Bar", "Stream", "Sunburst", "Treemap",  "Violin"
+#     ],
+#     "Qwen2.5-VL-72B-Instruct": [
+#         4.21, 4.03, 3.61, 3.33, 3.89, 4.33, 3.97, 4.02, 3.80, 3.13, 4.02, 4.01,4.02,3.39,
+#         3.71, 3.86, 3.89, 3.96, 3.62, 3.56, 4.0
+#     ],
+#     "gpt-4o-mini": [
+#         3.73, 3.74, 3.48, 3.36, 3.43, 3.85, 3.51, 3.97, 3.57, 3.24, 3.69, 3.55,
+#         3.83, 3.47, 3.50, 3.73, 3.56, 3.64, 3.42, 3.32, 3.93
+#     ]
+# }
+
+# df = pd.DataFrame(data)
+
+# # 绘制
+# sns.set(style="whitegrid")
+# plt.figure(figsize=(12, 9))
+
+# # 绘制散点
+# plt.scatter(
+#     df['Qwen2.5-VL-72B-Instruct'],
+#     df['gpt-4o-mini'],
+#     color='dodgerblue',
+#     s=80,
+#     edgecolor='black'
+# )
+
+# # 对角线
+# plt.plot([1, 5], [1, 5], 'r--', label='Best Score')
+
+# # 添加标签：偶数点右移，奇数点左移 + 特殊调整
+# for i, row in df.iterrows():
+#     x = row['Qwen2.5-VL-72B-Instruct']
+#     y = row['gpt-4o-mini']
+
+#     # 特殊偏移
+#     if row['Chart Type'] == "Treemap":
+#         y += 0.08  # 向上
+#     elif row['Chart Type'] == "Surburst":
+#         y -= 0.08  # 向下
+
+#     # 水平偏移
+#     if i % 2 == 0:
+#         plt.text(
+#             x + 0.08, y,
+#             row['Chart Type'],
+#             ha='left', va='center', fontsize=8,
+#             bbox=dict(facecolor='white', alpha=0.0, edgecolor='none', pad=0.5)
+#         )
+#     else:
+#         plt.text(
+#             x - 0.08, y,
+#             row['Chart Type'],
+#             ha='right', va='center', fontsize=8,
+#             bbox=dict(facecolor='white', alpha=0.0, edgecolor='none', pad=0.5)
+#         )
+
+# # 细节设置
+# plt.xlabel("Qwen2.5-VL-72B-Instruct Average Score")
+# plt.ylabel("gpt-4o-mini Average Score")
+# plt.title("Qwen2.5-VL-72B-Instruct VS gpt-4o-mini Average Score Scatter Plot")
+# plt.legend()
+# plt.gca().set_aspect('equal', adjustable='box')
+# plt.tight_layout()
+
+# plt.savefig('../figure/scatter_plot_treemap_surburst_adjust.png', dpi=300)
+# plt.show()
 
 
 
@@ -154,15 +183,15 @@ plt.show()
 #     "Chart Type": [
 #         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
 #         "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
-#         "Stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap",  "Violin"
+#         "Stacked Area", "Stacked Bar", "Stream", "Sunburst", "Treemap",  "Violin"
 #     ],
 #     "Qwen2.5-VL-72B-Instruct": [
-#         4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
-#         3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.85
+#         4.21, 4.03, 3.61, 3.33, 3.89, 4.33, 3.97, 4.02, 3.80, 3.13, 4.02, 4.01,4.02,3.39,
+#         3.71, 3.86, 3.89, 3.96, 3.62, 3.56, 4.0
 #     ],
 #     "gpt-4o-mini": [
-#         4.63, 4.44, 3.25, 2.0, 2.60, 4.7, 3.42, 4.59, 3.09, 2.0, 3.81, 2.99,
-#         3.3, 2.9, 4.02, 3.93, 3.88, 3.79, 2.31, 2.32, 4.32
+#         3.73, 3.74, 3.48, 3.36, 3.43, 3.85, 3.51, 3.97, 3.57, 3.24, 3.69, 3.55,
+#         3.83, 3.47, 3.50, 3.73, 3.56, 3.64, 3.42, 2.32, 3.93
 #     ]
 # }
 
@@ -204,20 +233,19 @@ plt.show()
 # import numpy as np
 # import matplotlib.pyplot as plt
 
-# # 数据构建
 # data = {
 #     "Chart Type": [
 #         "Bar", "Box", "Bubble", "Chord", "Fill Bubble", "Funnel", "Heatmap", "Line",
 #         "Node Link", "Parallel", "Pie", "Radar", "Ridgeline", "Sankey", "Scatter",
-#         "Stacked Area", "Stacked Bar", "Stream", "Surburst", "Treemap",  "Violin"
+#         "Stacked Area", "Stacked Bar", "Stream", "Sunburst", "Treemap",  "Violin"
 #     ],
 #     "Qwen2.5-VL-72B-Instruct": [
-#         4.66, 4.0, 3.56, 3.0, 4.0, 4.0, 3.99, 4.02, 3.46, 2.16, 4.17, 3.9,
-#         3.97, 3.25, 3.87, 3.87, 3.68, 3.88, 3.63, 3.81, 3.85
+#         4.21, 4.03, 3.61, 3.33, 3.89, 4.33, 3.97, 4.02, 3.80, 3.13, 4.02, 4.01,4.02,3.39,
+#         3.71, 3.86, 3.89, 3.96, 3.62, 3.56, 4.0
 #     ],
 #     "gpt-4o-mini": [
-#         4.63, 4.44, 3.25, 2.0, 2.60, 4.7, 3.42, 4.59, 3.09, 2.0, 3.81, 2.99,
-#         3.3, 2.9, 4.02, 3.93, 3.88, 3.79, 2.31, 2.32, 4.32
+#         3.73, 3.74, 3.48, 3.36, 3.43, 3.85, 3.51, 3.97, 3.57, 3.24, 3.69, 3.55,
+#         3.83, 3.47, 3.50, 3.73, 3.56, 3.64, 3.42, 2.32, 3.93
 #     ]
 # }
 
