@@ -1,0 +1,38 @@
+*** 实验样本
+我们从 MegaCQA 中抽取了 42.0k个样本进行评估实验，均匀分布于 21 种图表类型。
+
+
+*** 评估模型和实验环境
+鉴于图表类型与问答任务的高度多样性，以及多模态推理在计算资源与 API 成本方面的实际开销，我们在调研了 30 余个多模态大语言模型的基础上，最终选取了其中具有代表性的 12 个模型进行评估。
+其中，GPT-4o、Gemini 2.5、 Claude 3.5、Llama 4、Qwen2.5-VL（32B 和 72B）、DeepSeek-VL2、Doubao-1.5-vision 以及 GLM-4V 通过 API 付费调用获取推理结果；其余模型，包括 InternVL3、LLaVA-1.5 和 CogVLM2，则在本地 A100 GPU 环境中部署运行。
+A100配置：两块NVIDIA RTX A6000 GPU (48GB)和一颗13th Gen Intel(R) Core(TM) i9-13900K CPU（5.8 GHz）。操作系统为Ubuntu 22.04.2 LTS, CUDA版本12.6。
+
+*** 评估指标
+1. Tight Keyphrase Accuracy, TightAcc （对应我给你表格里的 T_Acc）
+鉴于语义嵌入评估可能对"语义相近但事实错误"的答案过于宽容，我们设计了基于离散符号匹配的硬性评估指标，以验证核心事实内容的准确性。
+设 K={k1,k2,...,kn}和 Kgt={k1gt,k2gt,...,kmgt} 分别为从模型答案和参考答案中提取的关键词集合，则：
+    \[K = \{k_1, k_2, \ldots, k_n\}\]
+    \[K_{gt} = \{k_1^{gt}, k_2^{gt}, \ldots, k_m^{gt}\}\]
+    \[
+    \text{TightAcc} = 
+    \begin{cases}
+    1, & \text{if } \mathcal{K}_{gt} = \mathcal{K} \\
+    0, & \text{otherwise}
+    \end{cases}
+    \]
+2. Relaxed Numeric Accuracy, RelaxAcc（对应我给你表格里的 R_Acc）
+在图表问答任务中的定量信息提取（如柱状图高度、趋势线终值、比例数据等）中,尽管模型能够正确理解图表语义与数值趋势，其输出常因单位换算、精度截断或舍入规则而产生轻微偏差。严格的精确匹配标准对此过于苛刻，难以客观反映模型对数值的近似掌握能力。 为此，我们使用容错数值准确度指标，通过误差容忍区间评估数值预测的准确性，设模型输出数值为 v，基准数值为 v_{gt}，定义相对误差阈值\epsilon = 0.05，则：
+\[
+    \text{RelaxAcc} = 
+    \begin{cases}
+    1, & \text{if } \dfrac{|v - v_{gt}|}{|v_{gt}|} \leq \epsilon \\
+    0, & \text{otherwise}
+    \end{cases}
+    \]
+
+3. Mix Accuracy, MixAcc （对应我给你表格里的 M_Acc）
+对于同时包含文本和数值要素的答案，我们采用乘积式惩罚：整体准确度等于两类准确度的乘积，当任一类型不为 1 时，复合准确度立即降为 0，从而实现对错误的放大惩罚：
+\[
+    \mathrm{MixAcc} = \mathrm{TightAcc} \, \times \, \mathrm{RelaxedAcc}, 
+    \, \mathrm{TightAcc},\mathrm{RelaxedAcc} \in \{0,1\}.
+    \]
